@@ -92,6 +92,14 @@ export default function Home() {
                       </Link>
                     )
                   })}
+                  {cat === 'evidence' && (
+                    <Link
+                      href="/charts"
+                      className="text-[13px] text-slate-600 hover:text-sky-700 hover:bg-slate-50 rounded-md px-2 py-1.5 -mx-2 transition-colors leading-snug"
+                    >
+                      Graphs &amp; Charts Library
+                    </Link>
+                  )}
                 </div>
               </div>
             )

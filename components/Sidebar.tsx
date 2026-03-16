@@ -50,8 +50,16 @@ function getChapterNum(chapter: Chapter): string | null {
   return null
 }
 
+// Special non-markdown pages that belong in a category group
+const EXTRA_GROUP_LINKS: Partial<Record<Category, { slug: string; title: string }[]>> = {
+  evidence: [
+    { slug: 'charts', title: 'Graphs & Charts Library' },
+  ],
+}
+
 function NavGroupComponent({ group, currentSlug }: { group: NavGroup; currentSlug: string }) {
-  const hasActive = group.items.some(c => c.slug === currentSlug)
+  const extraLinks = EXTRA_GROUP_LINKS[group.category] ?? []
+  const hasActive = group.items.some(c => c.slug === currentSlug) || extraLinks.some(l => l.slug === currentSlug)
   const [open, setOpen] = useState(hasActive || group.category === 'core')
 
   return (
@@ -91,6 +99,26 @@ function NavGroupComponent({ group, currentSlug }: { group: NavGroup; currentSlu
                     <FileText size={13} className={`mt-0.5 shrink-0 ${isActive ? 'text-sky-500' : 'text-slate-300'}`} />
                   )}
                   <span>{shortTitle}</span>
+                </Link>
+              </li>
+            )
+          })}
+          {extraLinks.map(link => {
+            const isActive = link.slug === currentSlug
+            return (
+              <li key={link.slug}>
+                <Link
+                  href={`/${link.slug}`}
+                  className={`
+                    flex items-start gap-2 px-3 py-2 rounded-md text-[13px] leading-snug transition-all
+                    ${isActive
+                      ? 'bg-sky-50 text-sky-700 font-medium border-l-2 border-sky-600 pl-[10px]'
+                      : 'text-slate-600 hover:bg-slate-100 hover:text-slate-900'
+                    }
+                  `}
+                >
+                  <BarChart3 size={13} className={`mt-0.5 shrink-0 ${isActive ? 'text-sky-500' : 'text-slate-300'}`} />
+                  <span>{link.title}</span>
                 </Link>
               </li>
             )
@@ -145,22 +173,6 @@ export default function Sidebar({ chapters, onSearchOpen }: SidebarProps) {
           <NavGroupComponent key={group.category} group={group} currentSlug={currentSlug} />
         ))}
 
-        {/* Standalone pages */}
-        <div className="mt-2 pt-2 border-t border-slate-100">
-          <Link
-            href="/charts"
-            className={`
-              flex items-center gap-2 px-3 py-2 rounded-md text-[13px] leading-snug transition-all
-              ${currentSlug === 'charts'
-                ? 'bg-sky-50 text-sky-700 font-medium border-l-2 border-sky-600 pl-[10px]'
-                : 'text-slate-600 hover:bg-slate-100 hover:text-slate-900'
-              }
-            `}
-          >
-            <BarChart3 size={13} className={currentSlug === 'charts' ? 'text-sky-500' : 'text-slate-300'} />
-            <span>Graphs &amp; Charts Library</span>
-          </Link>
-        </div>
       </nav>
 
       {/* Footer */}
