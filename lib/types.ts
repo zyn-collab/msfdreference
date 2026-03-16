@@ -77,7 +77,7 @@ export function getPartLabel(title: string): string | null {
 export const CATEGORY_LABELS: Record<Category, string> = {
   core: 'Encyclopedia',
   summary: 'Summary',
-  workplans: 'Ministry Workplans',
+  workplans: 'Projects, Programs & Workplans',
   evidence: 'Literature, Stats & Evidence Base',
   institutional: 'Institutional Knowledge',
   obligations: 'International Obligations',

@@ -17,7 +17,7 @@ const CATEGORY_ICONS: Record<string, React.ReactNode> = {
 const CATEGORY_DESCRIPTIONS: Record<string, string> = {
   core: 'Parts I–XV covering history, law, institutions, and ten substantive policy domains.',
   summary: 'Condensed briefing decks for Ministry staff across child protection, gender, disability, and elderly care.',
-  workplans: 'Cross-reference analysis of active national action plans against evidence and international obligations.',
+  workplans: 'Action plan analysis, ministry projects, development partner programmes, and annual workplans.',
   evidence: 'Literature review, statistics compendium, and source tracking across all domains.',
   institutional: 'Service directories, CSO listings, legislation timelines, contact lists, and the glossary.',
   obligations: 'Draft periodic reports for CRC, CEDAW, and CRPD treaty body submissions.',

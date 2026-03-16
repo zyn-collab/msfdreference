@@ -40,15 +40,15 @@ function getCategory(filename: string): Category {
   // International obligations
   if (['CRPD_Obligations', 'CRC_Obligations', 'CEDAW_Obligations'].includes(name)) return 'obligations'
 
-  // Ministry workplans
-  if (['Action_Plans_Analysis'].includes(name)) return 'workplans'
+  // Projects, programs & workplans
+  if (['Action_Plans_Analysis', 'Ministry_Projects_2025_2028', 'Workplan_2026', 'Development_Partner_Projects'].includes(name)) return 'workplans'
 
   // Literature, Stats & Evidence Base
   if (['Literature_Review', 'Statistics_Compendium', 'Source_Tracking_Table'].includes(name)) return 'evidence'
 
   // Institutional Knowledge
   if ([
-    'Service_Referral_Guide', 'CSO_NGO_Directory', 'Development_Partner_Projects',
+    'Service_Referral_Guide', 'CSO_NGO_Directory',
     'Service_Providers_by_Island', 'Full_Contact_List', 'Expert_Roster',
     'Key_Institutions_Directory', 'Legislation_Timeline', 'Glossary',
   ].includes(name)) return 'institutional'
@@ -93,6 +93,11 @@ const EXPLICIT_ORDER: Record<string, number> = {
   '14_Climate_Vulnerability': 14,
   '15_Cross_Cutting_Issues': 15,
   'Development_Partners': 16,
+  // Projects, programs & workplans
+  'Action_Plans_Analysis': 1,
+  'Ministry_Projects_2025_2028': 2,
+  'Development_Partner_Projects': 3,
+  'Workplan_2026': 4,
   // Summaries follow their parent chapter order
   'Summary_Child_Protection': 1,
   'Summary_Gender': 2,
@@ -106,12 +111,11 @@ const EXPLICIT_ORDER: Record<string, number> = {
   'Service_Referral_Guide': 1,
   'Service_Providers_by_Island': 2,
   'CSO_NGO_Directory': 3,
-  'Development_Partner_Projects': 4,
-  'Full_Contact_List': 5,
-  'Key_Institutions_Directory': 6,
-  'Legislation_Timeline': 7,
-  'Glossary': 8,
-  'Expert_Roster': 9,
+  'Full_Contact_List': 4,
+  'Key_Institutions_Directory': 5,
+  'Legislation_Timeline': 6,
+  'Glossary': 7,
+  'Expert_Roster': 8,
   // Obligations
   'CRC_Obligations': 1,
   'CEDAW_Obligations': 2,
