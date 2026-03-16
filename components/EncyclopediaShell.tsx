@@ -48,9 +48,9 @@ export default function EncyclopediaShell({
         >
           {sidebarOpen ? <X size={20} /> : <Menu size={20} />}
         </button>
-        <span className="text-sm font-semibold text-slate-700" style={{ fontFamily: 'var(--font-heading)' }}>
+        <a href="/" className="text-sm font-semibold text-slate-700 hover:text-sky-700 transition-colors" style={{ fontFamily: 'var(--font-heading)' }}>
           Policy Encyclopedia
-        </span>
+        </a>
       </div>
 
       {/* Sidebar overlay on mobile */}
