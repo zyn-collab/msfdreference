@@ -514,7 +514,7 @@ export default function ChartsLibrary() {
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="Population Pyramid: Census 2014 vs 2022" source="Source: Population and Housing Census 2014 and 2022, MBS" wide tall>
+        <Chart title="Population Pyramid: Census 2014 vs 2022" source="Source: Population and Housing Census 2014 and 2022, MBS" tall>
           <ResponsiveContainer>
             <BarChart data={agePyramid} layout="vertical" stackOffset="sign" barCategoryGap="12%">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
