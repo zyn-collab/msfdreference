@@ -2257,11 +2257,11 @@ Maternal mortality in the Maldives follows a trajectory of dramatic improvement 
 | 2021 | 60 | MoH Annual Health Statistics 2021 |
 | 2022 | 34 | MoH Annual Health Statistics 2022 |
 
-The reduction from 450 per 100,000 in 1990 to 13 per 100,000 in 2012 represents one of the most dramatic public health achievements in the country's history – a 97% reduction in 22 years, driven by skilled birth attendance, facility delivery, and emergency obstetric care expansion. By 2012, the Maldives had effectively achieved Millennium Development Goal 5 on maternal health.[^49]
+The reduction from 450 per 100,000 in 1990 to 49 per 100,000 in 2012 represents one of the most significant public health achievements in the country's history – a 89% reduction in 22 years, driven by skilled birth attendance, facility delivery, and emergency obstetric care expansion. By 2012, the Maldives had effectively achieved Millennium Development Goal 5 on maternal health.[^49]
 
 The **2021 spike to 60 per 100,000** is attributed to multiple COVID-19 pandemic effects: disruption of routine antenatal care (ANC) services, reduced willingness of women to attend health facilities during lockdown periods, delayed emergency obstetric referrals due to restricted inter-island transport, and healthcare worker redeployment away from maternal health services. The Ministry of Health's internal analysis identified **haemorrhage, hypertensive disorders, and infection** as the leading direct causes across the pandemic period. The spike brought the Maldives back to pre-2010 maternal mortality levels in a single year, and serves as a critical reminder of how quickly gains can be reversed when health system stress disrupts continuity of care for pregnant women.[^50]
 
-Recovery to 34 per 100,000 in 2022 is encouraging but still substantially above the 2012 nadir. The RMNCAH Strategy 2020–2025 targets further reduction, with specific investments in emergency obstetric care (EmOC) capacity in regional hospitals and Community Health Workers (CHW) skills for complication recognition on smaller islands.[^51]
+Recovery to 34 per 100,000 in 2022 represents a return below the 2012 level of 49, though the volatility across 2019–2022 underscores the fragility of these gains in a small population. The RMNCAH Strategy 2020–2025 targets further reduction, with specific investments in emergency obstetric care (EmOC) capacity in regional hospitals and Community Health Workers (CHW) skills for complication recognition on smaller islands.[^51]
 
 ### 5.8.3 Antenatal Care, Skilled Birth Attendance, and Caesarean Section
 
@@ -4259,7 +4259,7 @@ The post-COVID recovery trajectory (2022-2024) has been uneven from a gender per
 
 - The tourism sector's rapid recovery – the primary engine of GDP recovery – has not significantly increased female tourism employment, as the structural barriers documented in §5.30 remained unchanged
 - Women's labour force participation recovery has lagged men's in available data
-- The MMR partial recovery (34 per 100,000 in 2022, down from the 60 peak) is encouraging but still substantially above the pre-pandemic nadir of 13 per 100,000 in 2012
+- The MMR recovery (34 per 100,000 in 2022, down from the 60 peak in 2021) has returned below the 2012 level of 49, though the volatility across these years highlights the fragility of maternal health gains in a small population
 - Mental health presentations, particularly for young women, remain elevated above pre-pandemic baselines in available MoSFD data
 - The FPA case volume returning to pre-pandemic levels suggests that the shadow pandemic's DV surge has not abated through post-pandemic recovery – access to reporting services recovered to pre-pandemic levels, not violence levels declining[^405]
 
@@ -5836,7 +5836,7 @@ The following table consolidates the key gender statistics referenced throughout
 | FGM/C prevalence (age 15-19) | 13% | 2016-17 | DHS 2016-17 |
 | FGM/C prevalence (age 45-49) | 38% | 2016-17 | DHS 2016-17 |
 | FGM/C prevalence (age 5-9) | 1% | 2016-17 | DHS 2016-17 |
-| MMR (2012 nadir) | 13 per 100,000 | 2012 | MoH Annual Health Statistics |
+| MMR (2012) | 49 per 100,000 | 2012 | MoH Annual Health Statistics |
 | MMR (2021 COVID spike) | 60 per 100,000 | 2021 | MoH Annual Health Statistics |
 | MMR (2022) | 34 per 100,000 | 2022 | MoH Annual Health Statistics |
 | ANC coverage (1+ visit) | 97% | 2016-17 | DHS 2016-17 |
@@ -6073,7 +6073,7 @@ The following composite summary integrates the key findings from across the 100 
 - Unpaid maintenance: MVR 2 million
 
 **SRHR (DHS 2016-17; MoH Annual Health Statistics):**
-- MMR (2012 nadir): 13 per 100,000
+- MMR (2012): 49 per 100,000
 - MMR (2021 COVID spike): 60 per 100,000
 - MMR (2022 partial recovery): 34 per 100,000
 - ANC (1+ visit): 97%

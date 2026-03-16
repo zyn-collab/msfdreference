@@ -171,7 +171,7 @@ const alternativeCare = [
 ]
 
 const caseloadComparison = [
-  { name: 'Maldives actual caseload', value: 160 },
+  { name: 'Maldives (actual)', value: 160 },
   { name: 'International standard', value: 27.5 },
 ]
 
@@ -587,14 +587,14 @@ export default function ChartsLibrary() {
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="Child Protection Caseload: Maldives vs International Standard" source="Source: Rogers, Ali & Naeem (2025); MoSFD staffing data">
+        <Chart title="Child Protection Cases per Social Worker" source="Source: Rogers, Ali & Naeem (2025); MoSFD staffing data. 61 social workers serve 128,208 children (0–17).">
           <ResponsiveContainer>
-            <BarChart data={caseloadComparison} layout="vertical">
+            <BarChart data={caseloadComparison}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis type="number" tick={font} />
-              <YAxis type="category" dataKey="name" tick={font} width={160} />
+              <XAxis dataKey="name" tick={font} />
+              <YAxis tick={font} label={{ value: 'Cases per worker', angle: -90, position: 'insideLeft', style: { ...font, fill: '#94a3b8' } }} />
               <Tooltip contentStyle={tooltipStyle} />
-              <Bar dataKey="value" name="Cases per worker" radius={[0, 3, 3, 0]}>
+              <Bar dataKey="value" name="Cases per worker" radius={[3, 3, 0, 0]} barSize={80}>
                 <Cell fill={CORAL} />
                 <Cell fill={TEAL} />
               </Bar>

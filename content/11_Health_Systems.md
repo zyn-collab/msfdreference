@@ -147,7 +147,7 @@ Public sector providers are the major recipients of total health expenditure: IG
 
 ### Maternal Health
 
-The Maldives achieved the Millennium Development Goal of reducing maternal mortality. The maternal mortality ratio (MMR) decreased from 69 per 100,000 live births to 13 per 100,000 during the period 2006 to 2012. However, due to the small population, the MMR shows significant fluctuations -- an increase in even a single death can cause a substantial rise in the ratio.[^31]
+The Maldives achieved the Millennium Development Goal of reducing maternal mortality. The maternal mortality ratio (MMR) decreased from 69 per 100,000 live births to 49 per 100,000 during the period 2006 to 2012. However, due to the small population, the MMR shows significant fluctuations -- an increase in even a single death can cause a substantial rise in the ratio.[^31]
 
 The regular review of maternal and perinatal morbidity and mortality for the period 2009--2011 identified causes of maternal deaths including eclampsia, complications of abortion, postpartum haemorrhage, puerperal sepsis, amniotic fluid embolism, and rupture of the uterus. Preventable causes of maternal deaths, such as rupture of the uterus and puerperal sepsis, continue to be found, pointing to quality-of-care concerns.[^32]
 
