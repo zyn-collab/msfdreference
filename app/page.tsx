@@ -20,7 +20,7 @@ const CATEGORY_DESCRIPTIONS: Record<string, string> = {
   workplans: 'Action plan analysis, ministry projects, development partner programmes, and annual workplans.',
   evidence: 'Literature review, statistics compendium, and source tracking across all domains.',
   institutional: 'Service directories, CSO listings, legislation timelines, contact lists, and the glossary.',
-  obligations: 'Draft periodic reports for CRC, CEDAW, and CRPD treaty body submissions.',
+  obligations: 'Mapping of Maldivian social policy to CRC, CEDAW, and CRPD treaty obligations.',
   news: 'Indexed Dhivehi-language news coverage from archive.mv across policy domains.',
 }
 
