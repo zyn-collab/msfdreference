@@ -60,7 +60,7 @@ const EXTRA_GROUP_LINKS: Partial<Record<Category, { slug: string; title: string 
 function NavGroupComponent({ group, currentSlug }: { group: NavGroup; currentSlug: string }) {
   const extraLinks = EXTRA_GROUP_LINKS[group.category] ?? []
   const hasActive = group.items.some(c => c.slug === currentSlug) || extraLinks.some(l => l.slug === currentSlug)
-  const [open, setOpen] = useState(hasActive || group.category === 'core')
+  const [open, setOpen] = useState(hasActive)
 
   return (
     <div className="mb-1">
