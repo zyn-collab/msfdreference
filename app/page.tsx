@@ -49,7 +49,7 @@ export default function Home() {
             className="text-2xl sm:text-3xl lg:text-[2.1rem] font-bold text-slate-900 leading-tight tracking-tight mb-4"
             style={{ fontFamily: 'var(--font-heading)' }}
           >
-            Maldives Social Policy Encyclopedia
+            MSFD Knowledge Repository
           </h1>
           <p className="text-[15px] leading-relaxed text-slate-500 max-w-[560px]">
             A reference covering the legal frameworks, institutional architecture, service delivery systems, and evidence base across all domains of Maldivian social policy. {allChapters.length} chapters spanning child protection, gender, disability, elderly care, substance abuse, mental health, education, housing, climate vulnerability, and more.

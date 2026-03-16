@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Maldives Social Policy Encyclopedia',
-  description: 'A comprehensive reference on Maldivian social policy — Ministry of Social Families and Development',
+  title: 'MSFD Knowledge Repository',
+  description: 'A comprehensive reference on Maldivian social policy — Ministry of Social and Family Development',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

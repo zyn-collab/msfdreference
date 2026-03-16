@@ -117,7 +117,7 @@ export default function Sidebar({ chapters, onSearchOpen }: SidebarProps) {
             </div>
             <div>
               <div className="text-sm font-bold text-slate-800" style={{ fontFamily: "var(--font-heading)" }}>
-                Policy Encyclopedia
+                MSFD Knowledge Repository
               </div>
             </div>
           </div>

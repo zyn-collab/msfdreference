@@ -40,7 +40,7 @@ export default function LoginForm() {
           <div className="inline-flex items-center justify-center w-12 h-12 bg-sky-700 rounded-xl mb-4 shadow">
             <Lock size={22} className="text-white" />
           </div>
-          <h1 className="text-xl font-bold text-slate-900">Policy Encyclopedia</h1>
+          <h1 className="text-xl font-bold text-slate-900">MSFD Knowledge Repository</h1>
           <p className="text-sm text-slate-500 mt-1">Ministry of Social Families &amp; Development</p>
         </div>
 
@@ -86,13 +86,13 @@ export default function LoginForm() {
               disabled={loading || !password}
               className="w-full py-2.5 text-sm font-medium bg-sky-700 text-white rounded-lg hover:bg-sky-800 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
             >
-              {loading ? 'Checking…' : 'Access Encyclopedia'}
+              {loading ? 'Checking…' : 'Access Repository'}
             </button>
           </form>
         </div>
 
         <p className="text-center text-xs text-slate-400 mt-6">
-          Maldives Social Policy Encyclopedia · 2026
+          MSFD Knowledge Repository · 2026
         </p>
       </div>
     </div>
