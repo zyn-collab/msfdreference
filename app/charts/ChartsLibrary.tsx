@@ -4,7 +4,6 @@ import {
   LineChart, Line, BarChart, Bar, PieChart, Pie, Cell,
   XAxis, YAxis, CartesianGrid, Tooltip, Legend,
   ResponsiveContainer, AreaChart, Area, ComposedChart,
-  RadialBarChart, RadialBar,
 } from 'recharts'
 
 // ── Color palette ─────────────────────────────────────
@@ -413,6 +412,13 @@ const aasandhaTimeline = [
 const fmtNum = (v: number) => v >= 1000 ? `${(v / 1000).toFixed(0)}k` : `${v}`
 const fmtPct = (v: number) => `${v}%`
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const ttFmtLocale = (v: any) => typeof v === 'number' ? v.toLocaleString() : v
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const ttFmtPct = (v: any) => `${v}%`
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const ttFmtMVR = (v: any) => `MVR ${v}M`
+
 export default function ChartsLibrary() {
   return (
     <div className="pb-20 max-w-[900px]">
@@ -425,7 +431,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="year" tick={font} />
               <YAxis tickFormatter={fmtNum} tick={font} />
-              <Tooltip formatter={(v: number) => v.toLocaleString()} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
               <Area type="monotone" dataKey="pop" name="Population" stroke={TEAL} fill={TEAL} fillOpacity={0.15} strokeWidth={2} />
             </AreaChart>
           </ResponsiveContainer>
@@ -437,7 +443,7 @@ export default function ChartsLibrary() {
               <Pie data={populationByLocality} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, percent }) => `${name} (${(percent * 100).toFixed(0)}%)`} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 {populationByLocality.map((_, i) => <Cell key={i} fill={PALETTE[i % PALETTE.length]} />)}
               </Pie>
-              <Tooltip formatter={(v: number) => v.toLocaleString()} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
             </PieChart>
           </ResponsiveContainer>
         </Chart>
@@ -450,7 +456,7 @@ export default function ChartsLibrary() {
                 <Cell fill={TEAL} />
                 <Cell fill={CORAL} />
               </Pie>
-              <Tooltip formatter={(v: number) => v.toLocaleString()} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
             </PieChart>
           </ResponsiveContainer>
         </Chart>
@@ -461,7 +467,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis type="number" tickFormatter={fmtNum} tick={font} />
               <YAxis type="category" dataKey="age" tick={font} width={45} />
-              <Tooltip formatter={(v: number) => v.toLocaleString()} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
               <Bar dataKey="y2014" name="Census 2014" fill={BLUE} opacity={0.6} />
               <Bar dataKey="y2022" name="Census 2022" fill={TEAL} />
@@ -533,7 +539,7 @@ export default function ChartsLibrary() {
                 <Cell fill={BLUE} />
                 <Cell fill={CORAL} />
               </Pie>
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
             </PieChart>
           </ResponsiveContainer>
         </Chart>
@@ -597,7 +603,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="stage" tick={font} interval={0} height={60} />
               <YAxis tickFormatter={fmtPct} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="value" name="% of cases" fill={CORAL}>
                 {criminalJusticeFunnel.map((_, i) => <Cell key={i} fill={[CORAL, TERRACOTTA, SAND, SLATE][i]} />)}
               </Bar>
@@ -611,7 +617,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="age" tick={font} />
               <YAxis tickFormatter={fmtPct} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="prevalence" name="FGM/C prevalence" fill={PLUM} />
             </BarChart>
           </ResponsiveContainer>
@@ -623,7 +629,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="indicator" tick={font} interval={0} height={55} />
               <YAxis tickFormatter={fmtPct} domain={[0, 100]} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
               <Bar dataKey="female" name="Female" fill={CORAL} />
               <Bar dataKey="male" name="Male" fill={BLUE} />
@@ -637,7 +643,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis type="number" tickFormatter={fmtPct} domain={[0, 100]} tick={font} />
               <YAxis type="category" dataKey="name" tick={font} width={130} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
               <Bar dataKey="women" name="Women" fill={CORAL} stackId="a" />
               <Bar dataKey="men" name="Men" fill={SLATE} stackId="a" opacity={0.4} />
@@ -654,7 +660,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="date" tick={font} />
               <YAxis tickFormatter={fmtNum} tick={font} />
-              <Tooltip formatter={(v: number) => v.toLocaleString()} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
               <Bar dataKey="registered" name="Registered persons" fill={TEAL} />
             </BarChart>
           </ResponsiveContainer>
@@ -667,7 +673,7 @@ export default function ChartsLibrary() {
                 <Cell fill={TEAL} />
                 <Cell fill={SLATE} />
               </Pie>
-              <Tooltip formatter={(v: number) => v.toLocaleString()} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
             </PieChart>
           </ResponsiveContainer>
         </Chart>
@@ -678,7 +684,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="tier" tick={font} interval={0} height={55} />
               <YAxis tickFormatter={fmtPct} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="pct" name="% of recipients" fill={GREEN} />
             </BarChart>
           </ResponsiveContainer>
@@ -690,7 +696,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="group" tick={font} interval={0} height={55} />
               <YAxis tickFormatter={fmtPct} domain={[0, 100]} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="rate" name="LFPR">
                 {disabilityLFPR.map((_, i) => <Cell key={i} fill={[CORAL, BLUE, CORAL, BLUE][i]} opacity={i < 2 ? 1 : 0.4} />)}
               </Bar>
@@ -707,7 +713,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="year" tick={font} />
               <YAxis tickFormatter={fmtPct} domain={[0, 40]} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Area type="monotone" dataKey="pct" name="% aged 60+" stroke={TERRACOTTA} fill={TERRACOTTA} fillOpacity={0.15} strokeWidth={2.5} />
             </AreaChart>
           </ResponsiveContainer>
@@ -719,7 +725,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis type="number" tickFormatter={fmtPct} domain={[0, 50]} tick={font} />
               <YAxis type="category" dataKey="indicator" tick={font} width={100} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="value" name="Prevalence" fill={TERRACOTTA} />
             </BarChart>
           </ResponsiveContainer>
@@ -749,7 +755,7 @@ export default function ChartsLibrary() {
               <Pie data={drugInitiation2003} dataKey="pct" nameKey="substance" cx="50%" cy="50%" outerRadius={110} label={({ substance, pct }) => `${substance}: ${pct}%`} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 {drugInitiation2003.map((_, i) => <Cell key={i} fill={PALETTE[i]} />)}
               </Pie>
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
             </PieChart>
           </ResponsiveContainer>
         </Chart>
@@ -772,7 +778,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="indicator" tick={font} interval={0} height={60} />
               <YAxis tickFormatter={fmtPct} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="value" name="% of respondents">
                 {drugSituation2021.map((_, i) => <Cell key={i} fill={PALETTE[i % PALETTE.length]} />)}
               </Bar>
@@ -789,7 +795,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="indicator" tick={font} interval={0} height={60} />
               <YAxis tickFormatter={fmtPct} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="value" name="Prevalence (%)">
                 {youthMentalHealth.map((_, i) => <Cell key={i} fill={[CORAL, TERRACOTTA, PLUM, SLATE, BLUE][i]} />)}
               </Bar>
@@ -803,7 +809,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="region" tick={font} interval={0} height={50} />
               <YAxis tickFormatter={fmtPct} domain={[0, 100]} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="pct" name="% worried" fill={SKY} />
             </BarChart>
           </ResponsiveContainer>
@@ -843,7 +849,7 @@ export default function ChartsLibrary() {
                 <Cell fill={TERRACOTTA} />
                 <Cell fill={SAGE} />
               </Pie>
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
             </PieChart>
           </ResponsiveContainer>
         </Chart>
@@ -854,7 +860,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="indicator" tick={font} interval={0} height={65} />
               <YAxis tickFormatter={fmtPct} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="value" name="Prevalence (%)">
                 {childNutrition.map((_, i) => <Cell key={i} fill={PALETTE[i % PALETTE.length]} />)}
               </Bar>
@@ -871,7 +877,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="region" tick={font} />
               <YAxis tickFormatter={fmtPct} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="rate" name="Poverty rate">
                 {povertyByRegion.map((_, i) => <Cell key={i} fill={[CORAL, TEAL, TERRACOTTA][i]} />)}
               </Bar>
@@ -885,7 +891,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis type="number" tickFormatter={fmtPct} tick={font} />
               <YAxis type="category" dataKey="atoll" tick={font} width={80} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="rate" name="Poverty rate" fill={TERRACOTTA} />
             </BarChart>
           </ResponsiveContainer>
@@ -897,7 +903,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis type="number" tickFormatter={fmtPct} tick={font} />
               <YAxis type="category" dataKey="characteristic" tick={font} width={100} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="rate" name="Poverty rate">
                 {povertyByHHCharacteristic.map((_, i) => <Cell key={i} fill={PALETTE[i % PALETTE.length]} />)}
               </Bar>
@@ -914,7 +920,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="year" tick={font} />
               <YAxis tickFormatter={fmtPct} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
               <Line type="monotone" dataKey="unemployment" name="Overall unemployment" stroke={TEAL} strokeWidth={2.5} dot={{ r: 4 }} />
               <Line type="monotone" dataKey="youth" name="Youth unemployment (15–24)" stroke={CORAL} strokeWidth={2.5} dot={{ r: 4 }} />
@@ -928,7 +934,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="year" tick={font} />
               <YAxis tickFormatter={fmtNum} tick={font} />
-              <Tooltip formatter={(v: number) => v.toLocaleString()} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
               <Bar dataKey="enrolments" name="Enrolments" fill={TEAL} opacity={0.6} />
               <Bar dataKey="graduates" name="Graduates" fill={GREEN} opacity={0.6} />
@@ -946,7 +952,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis type="number" tickFormatter={fmtNum} tick={font} />
               <YAxis type="category" dataKey="program" tick={font} width={110} />
-              <Tooltip formatter={(v: number) => v.toLocaleString()} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
               <Bar dataKey="beneficiaries" name="Beneficiaries">
                 {spPrograms.map((_, i) => <Cell key={i} fill={PALETTE[i]} />)}
               </Bar>
@@ -960,7 +966,7 @@ export default function ChartsLibrary() {
               <Pie data={spExpenditure2009} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }) => `${name}: ${value}M`} labelLine={{ stroke: '#94a3b8' }} style={{ ...font, fontSize: 10 }}>
                 {spExpenditure2009.map((_, i) => <Cell key={i} fill={PALETTE[i % PALETTE.length]} />)}
               </Pie>
-              <Tooltip formatter={(v: number) => `MVR ${v}M`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtMVR} contentStyle={tooltipStyle} />
             </PieChart>
           </ResponsiveContainer>
         </Chart>
@@ -1004,7 +1010,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis type="number" tickFormatter={fmtPct} domain={[0, 80]} tick={font} />
               <YAxis type="category" dataKey="characteristic" tick={font} width={90} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="value" name="% of prisoners">
                 {prisonProfile.map((_, i) => <Cell key={i} fill={[TERRACOTTA, SLATE, PLUM][i]} />)}
               </Bar>
@@ -1021,7 +1027,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="indicator" tick={font} interval={0} height={55} />
               <YAxis tickFormatter={fmtPct} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="value" name="% decline/impact">
                 {covidEconomicImpact.map((_, i) => <Cell key={i} fill={[CORAL, TERRACOTTA, PLUM, SLATE][i]} />)}
               </Bar>
@@ -1035,7 +1041,7 @@ export default function ChartsLibrary() {
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis dataKey="indicator" tick={font} interval={0} height={60} />
               <YAxis tickFormatter={fmtPct} tick={font} />
-              <Tooltip formatter={(v: number) => `${v}%`} contentStyle={tooltipStyle} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Bar dataKey="value" name="%">
                 {covidGenderImpact.map((_, i) => <Cell key={i} fill={[CORAL, BLUE, CORAL, BLUE][i]} />)}
               </Bar>
