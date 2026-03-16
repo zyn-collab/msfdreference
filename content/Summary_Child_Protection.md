@@ -9,24 +9,24 @@ This summary distils the key points from the full encyclopedia chapter into a sl
 
 ---
 
-## Slide 1: Pre-1991 — No Formal System
+## Slide 1: Pre-1991 – No Formal System
 
 - No child protection legislation existed before 1991
 - Child welfare governed by extended family networks, Islamic family law (*fiqh*), and island chief (*kadheeb*) adjudication
 - The state had no institutional role in protecting children from harm within families
 - Community norms suppressed disclosure: family honour, *satr* (concealment of faults), social proximity of small island communities
-- **Islaahiya reform facility (1979):** First institutional care — housed delinquent youth and children needing care together without differentiation between offenders and victims
+- **Islaahiya reform facility (1979):** First institutional care – housed delinquent youth and children needing care together without differentiation between offenders and victims
 - No concept of mandatory reporting, no definitions of abuse, no trained social workers, no referral pathways
 
 ---
 
-## Slide 2: 1991-2006 — Symbolic Foundations
+## Slide 2: 1991-2006 – Symbolic Foundations
 
 **CRC ratification (11 February 1991)**
-- Reservations on Article 14(1) (freedom of religion) and Article 21 (adoption — not permitted under Islamic law as practised in the Maldives)
+- Reservations on Article 14(1) (freedom of religion) and Article 21 (adoption – not permitted under Islamic law as practised in the Maldives)
 - The Article 21 reservation has lasting operational consequences: adoption cannot be used as a permanent care solution
 
-**Law 9/91 — First child protection statute**
+**Law 9/91 – First child protection statute**
 - Declaratory only: no definitions of abuse, no mandatory reporting, no enforcement mechanisms, no penalties
 - Remained the sole child protection law for **28 years** (until CRPA 2019)
 
@@ -37,9 +37,9 @@ This summary distils the key points from the full encyclopedia chapter into a sl
 
 ---
 
-## Slide 3: 2004-2008 — UNICEF Expansion and First Social Workers
+## Slide 3: 2004-2008 – UNICEF Expansion and First Social Workers
 
-**2004 Indian Ocean tsunami:** 82 dead, ~21,000 displaced. Catalysed major UNICEF expansion — brought international child protection models, standards, and funding into the Maldives at unprecedented scale.
+**2004 Indian Ocean tsunami:** 82 dead, ~21,000 displaced. Catalysed major UNICEF expansion – brought international child protection models, standards, and funding into the Maldives at a scale not previously seen.
 
 **2006 Child Protection Procedure Manual**
 - Modelled on England's "Working Together to Safeguard Children"
@@ -50,28 +50,28 @@ This summary distils the key points from the full encyclopedia chapter into a sl
   - Assumes statutory authority for social workers; Maldives had none
   - Assumes forensic police capacity; Maldives had none outside Male'
 
-**First social workers trained (2006):** One-year Advanced Certificate via University of Kelaniya, Sri Lanka. Advanced Diploma followed, then four-year BSW — establishing the first formal professional pathway.
+**First social workers trained (2006):** One-year Advanced Certificate via University of Kelaniya, Sri Lanka. Advanced Diploma followed, then four-year BSW – establishing the first formal professional pathway.
 
 ---
 
-## Slide 4: 2008-2013 — Democratic Transition, 1412 Helpline, and the 2009 Case
+## Slide 4: 2008-2013 – Democratic Transition, 1412 Helpline, and the 2009 Case
 
 **2008 democratic transition:** New Constitution, institutional restructuring. Child protection moved under Ministry of Health and Family.
 
 **Child Helpline 1412 established (2008):** First dedicated, toll-free, 24-hour reporting channel. Partnership with Child Helpline International.
 
-**2009 baby death case — system failure:**
+**2009 baby death case – system failure:**
 - Infant killed by mother's boyfriend (violent shaking)
 - Mother known to drug services for 7 years
 - No risk assessment conducted for the child
 - Drug services and child protection did not communicate
 - No protective intervention despite years of contact
 - Post-incident review recommended: clinical supervision for social workers, inter-agency coordination protocols, systematic risk assessment
-- Pattern mirrors UK serious case reviews (Victoria Climbie, Peter Connelly) — but without institutional capacity for systematic reform response
+- Pattern mirrors UK serious case reviews (Victoria Climbie, Peter Connelly) – but without institutional capacity for systematic reform response
 
 ---
 
-## Slide 5: 2010-2018 — FCSCs, Decentralisation, and Digital Case Management
+## Slide 5: 2010-2018 – FCSCs, Decentralisation, and Digital Case Management
 
 **Decentralisation Act (2010):** Transferred responsibilities to local councils, creating tension between centralised child protection standards and decentralised governance.
 
@@ -79,22 +79,22 @@ This summary distils the key points from the full encyclopedia chapter into a sl
 - Network of **20 Family and Children Service Centres (FCSCs)** across atolls
 - First physical child protection presence outside Male'
 - Each FCSC: typically 2-5 social workers covering ~10 inhabited islands
-- Ministry operational on 20 of 199 inhabited islands — leaving vast majority without direct access
+- Ministry operational on 20 of 199 inhabited islands – leaving vast majority without direct access
 
 **Key milestones:**
 
 | Year | Development |
 |---|---|
-| 2010 | Community Social Groups (CSGs) initiated — volunteer-based island coverage |
+| 2010 | Community Social Groups (CSGs) initiated – volunteer-based island coverage |
 | 2015 | Child protection focal points placed in schools |
-| 2016 | Maldives Child Protection Database (MCPD) launched — first digital case management connecting all FCSCs |
+| 2016 | Maldives Child Protection Database (MCPD) launched – first digital case management connecting all FCSCs |
 | 2018 | National Child Helpline Policy finalised |
 
 ---
 
-## Slide 6: 2019 — Child Rights Protection Act
+## Slide 6: 2019 – Child Rights Protection Act
 
-**CRPA (Act 19/2019)** — enacted 14 November 2019, replacing Law 9/91 after 28 years:
+**CRPA (Act 19/2019)** – enacted 14 November 2019, replacing Law 9/91 after 28 years:
 - Comprehensive definitions of abuse (physical, sexual, emotional, neglect)
 - Mandatory reporting obligations (all persons; enhanced for specified professionals)
 - Three categories of court orders: Interim Assessment (Art. 80), Protection (Art. 90), Supervision (Art. 93)
@@ -104,7 +104,7 @@ This summary distils the key points from the full encyclopedia chapter into a sl
 - Minimum marriage age set at 18 (though Family Act inconsistency unresolved)
 - Child labour prohibited below age 16
 
-**Juvenile Justice Act (Act 18/2019)** — enacted same day:
+**Juvenile Justice Act (Act 18/2019)** – enacted same day:
 - Age of criminal responsibility raised from 10 to 15
 - Death penalty for juveniles prohibited (5 juveniles were sentenced to death 2013-2015)
 - Rehabilitation emphasis mandated
@@ -116,7 +116,7 @@ This summary distils the key points from the full encyclopedia chapter into a sl
 
 | Year | Development |
 |---|---|
-| 2020 | Education Act — compulsory education until 16, corporal punishment banned in schools |
+| 2020 | Education Act – compulsory education until 16, corporal punishment banned in schools |
 | 2020 | Alternative Care Regulation (2020-R-69) and Reintegration Regulation (2020/R-30) issued |
 | 2021 | Combined 6th/7th CRC Periodic Report submitted |
 | 2022 | Child Rights Symposium (Children's Ombudsperson + UNICEF) |
@@ -140,7 +140,7 @@ Five patterns that recur throughout the system's history and continue to shape c
 
 2. **Imported models without adaptation.** The 2006 Procedure Manual (England), the BSW curriculum (Sri Lanka), and the CRPA framework (England's Children Act via UNICEF) all assumed institutional infrastructure that didn't exist. The system has "absorbed the system of England which is a needs-based system" through UNICEF-facilitated technical support, despite the UN's own rights-based approach (Rogers, Ali & Naeem 2025).
 
-3. **Crises as reform catalysts.** The tsunami (2004), the baby death case (2009), high-profile CSA cases — each drove reform. Proactive reform without a triggering crisis has been rare.
+3. **Crises as reform catalysts.** The tsunami (2004), the baby death case (2009), high-profile CSA cases – each drove reform. Proactive reform without a triggering crisis has been rare.
 
 4. **The Male'-atoll gap.** Institutional capacity concentrates in Male' while the majority of the population (and the majority of vulnerability) is dispersed across atolls.
 
@@ -172,7 +172,7 @@ Five patterns that recur throughout the system's history and continue to shape c
 
 ---
 
-## Slide 2: Child Rights Protection Act 2019 — Scope and Definitions
+## Slide 2: Child Rights Protection Act 2019 – Scope and Definitions
 
 **Act 19/2019**, enacted 14 November 2019. Replaced Law 9/91 after 28 years. Developed over a decade with UNICEF technical support, drawing on England's Children Act framework and Asia-Pacific comparative legislation.
 
@@ -187,13 +187,13 @@ Five patterns that recur throughout the system's history and continue to shape c
 | Exploitation | All inhumane acts with negative impact on physical/mental wellbeing and growth, for any kind of benefit |
 | Negligence | Acts or omissions by parents/guardians/caregivers that could or would cause physical or mental harm |
 
-**Best interests principle (Article 6):** Primary consideration in all decisions affecting children — applies to courts, government agencies, institutions, and private entities.
+**Best interests principle (Article 6):** Primary consideration in all decisions affecting children – applies to courts, government agencies, institutions, and private entities.
 
 **Children's participation (Article 7):** Views of children must be considered in all decisions affecting them, commensurate with age and maturity.
 
 ---
 
-## Slide 3: CRPA — Mandatory Reporting and Court Orders
+## Slide 3: CRPA – Mandatory Reporting and Court Orders
 
 **Mandatory reporting:** All persons have a duty to report known or suspected child maltreatment. Enhanced obligations for specified professionals (teachers, health workers, social workers, police).
 
@@ -201,9 +201,9 @@ Five patterns that recur throughout the system's history and continue to shape c
 
 | Order | Article | Function | Use Case |
 |---|---|---|---|
-| Interim Assessment Order | Art. 80 | Temporary placement during assessment | Emergency removal — child in immediate danger |
+| Interim Assessment Order | Art. 80 | Temporary placement during assessment | Emergency removal – child in immediate danger |
 | Protection Order | Art. 90 | Conditions on care, may include removal | Longer-term intervention after assessment |
-| Supervision Order | Art. 93 | Child remains in family under CFPS monitoring | Least intrusive — monitoring without removal |
+| Supervision Order | Art. 93 | Child remains in family under CFPS monitoring | Least intrusive – monitoring without removal |
 
 **5-day statutory timeline:** Application for court order must be filed within 5 days of taking a child into state care. Safeguard against indefinite informal removal without judicial oversight.
 
@@ -211,7 +211,7 @@ Five patterns that recur throughout the system's history and continue to shape c
 
 ---
 
-## Slide 4: CRPA — Institutional Framework
+## Slide 4: CRPA – Institutional Framework
 
 **Institutions established or mandated by the CRPA:**
 
@@ -224,7 +224,7 @@ Five patterns that recur throughout the system's history and continue to shape c
 | IBAMA community groups | Island-level volunteer child protection networks |
 
 **Additional provisions:**
-- Minimum marriage age set at 18 (Family Act inconsistency unresolved — see Slide 7)
+- Minimum marriage age set at 18 (Family Act inconsistency unresolved – see Slide 7)
 - Child labour prohibited below age 16 (aligned with Education Act 2020 compulsory education requirement)
 - Prohibition on child participation in hostilities or armed conflict
 - Framework for community-based child protection through IBAMA volunteer networks
@@ -243,7 +243,7 @@ Five patterns that recur throughout the system's history and continue to shape c
 | Separate detention | Not guaranteed | Required |
 | Judicial flogging | Permitted | **Not abolished** |
 
-**Rehabilitation outcomes (2010-2015):** 10 of 89 juveniles completed rehabilitation programme — 11.2% completion rate. The law's rehabilitation mandate outpaces the system's capacity to deliver.
+**Rehabilitation outcomes (2010-2015):** 10 of 89 juveniles completed rehabilitation programme – 11.2% completion rate. The law's rehabilitation mandate outpaces the system's capacity to deliver.
 
 **Flogging gap:** Children convicted of zina (extramarital sexual activity) can still be sentenced to judicial flogging. Approximately 85% of persons sentenced to flogging in the Maldives are women and girls. CRC Committee has repeatedly called for abolition.
 
@@ -276,7 +276,7 @@ Five patterns that recur throughout the system's history and continue to shape c
 
 **2. Zina and child sexual abuse:**
 - CRPA defines sexual abuse but does not explicitly address the situation where a child above puberty who has been sexually abused is also potentially liable for zina under Islamic criminal law
-- Child victims have been prosecuted for zina — re-victimisation within the system
+- Child victims have been prosecuted for zina – re-victimisation within the system
 - CRC Committee has called for explicit protection of child sexual abuse victims from zina prosecution
 - Rogers, Ali & Naeem (2025): this is a "grey area" that leaves practitioners without clear guidance
 
@@ -326,7 +326,7 @@ These recommendations are public, referenced by development partners in programm
 - Document reasoning in the case file
 - Consult supervisor before taking action
 - Seek guidance from Children's Ombudsperson where appropriate
-- Structural legal ambiguities cannot be resolved at the caseworker level — the task is to protect the child within the framework as it exists while flagging gaps through institutional channels
+- Structural legal ambiguities cannot be resolved at the caseworker level – the task is to protect the child within the framework as it exists while flagging gaps through institutional channels
 
 ---
 
@@ -380,7 +380,7 @@ These recommendations are public, referenced by development partners in programm
 
 ---
 
-## Slide 3: The Caseload Crisis
+## Slide 3: Caseload and Staffing Levels
 
 | Metric | Value |
 |---|---|
@@ -399,13 +399,13 @@ These recommendations are public, referenced by development partners in programm
 
 ---
 
-## Slide 4: FCSCs — Atoll-Level Service Delivery
+## Slide 4: FCSCs – Atoll-Level Service Delivery
 
-**24 FCSCs operational** (December 2024) — one per administrative atoll plus Addu City and Fuvahmulah.
+**24 FCSCs operational** (December 2024) – one per administrative atoll plus Addu City and Fuvahmulah.
 
 **Functions:** Receives referrals from all sources; conducts initial assessments; manages cases across ALL social service domains (child protection, DV, elderly, disability, family disputes); coordinates with local police, schools, health facilities; feeds data into MCPD.
 
-**Geographic constraint:** Each FCSC covers 10-15 inhabited islands, some accessible only by multi-hour boat journeys. During rough weather, travel between islands impossible for days or weeks. Ministry presence on 20 of 199 inhabited islands — children on the remaining 179 islands depend on informal community mechanisms, IBAMA volunteers, and remote reporting via 1412.
+**Geographic constraint:** Each FCSC covers 10-15 inhabited islands, some accessible only by multi-hour boat journeys. During rough weather, travel between islands impossible for days or weeks. Ministry presence on 20 of 199 inhabited islands – children on the remaining 179 islands depend on informal community mechanisms, IBAMA volunteers, and remote reporting via 1412.
 
 **Workforce:** Initially staffed by school leavers with one-year certificates (Kelaniya, Sri Lanka, 2006). Four-year BSW now available at MNU. Graduate supply has never matched demand across 20 atolls. Many graduates prefer Male' postings over remote atoll deployments.
 
@@ -425,7 +425,7 @@ These recommendations are public, referenced by development partners in programm
 
 **Diversion programme:** Hundreds of children diverted from prosecution (2020-2022) through counselling, family conferencing, community service.
 
-**Juvenile Court (Male'):** Specialist court with child-friendly procedures — separate waiting areas, informal seating, public excluded, specialist-trained judges, child-appropriate interview rooms. Constraint: children from outer islands must travel to Male' for proceedings.
+**Juvenile Court (Male'):** Specialist court with child-friendly procedures – separate waiting areas, informal seating, public excluded, specialist-trained judges, child-appropriate interview rooms. Constraint: children from outer islands must travel to Male' for proceedings.
 
 ---
 
@@ -446,7 +446,7 @@ These recommendations are public, referenced by development partners in programm
 
 **Family Protection Authority (FPA):**
 - Independent agency under DVPA 2012
-- Manages DV cases — overlap with CP when children witness or experience DV
+- Manages DV cases – overlap with CP when children witness or experience DV
 - 642 DV cases attended at peak (2016)
 - Creates coordination requirements between FPA and CFPS
 
@@ -477,23 +477,23 @@ These recommendations are public, referenced by development partners in programm
 ## Slide 8: Coordination Mechanisms and Their Limitations
 
 **Existing coordination mechanisms:**
-- Multi-Disciplinary Teams (MDTs) at atoll level — bringing together social workers, police, health, education
+- Multi-Disciplinary Teams (MDTs) at atoll level – bringing together social workers, police, health, education
 - Case Management Coordination Committee (monthly, MPS-MoSFD)
 - Child Protection Committees at atoll level
 - School-based child protection focal points (since 2015)
 
 **Documented coordination failures (Rogers, Ali & Naeem 2025; UNICEF 2022):**
-- No overarching coordination architecture — multiple parallel mechanisms without integration
-- MDTs function inconsistently across atolls — depend on local relationships rather than systematic protocols
+- No overarching coordination architecture – multiple parallel mechanisms without integration
+- MDTs function inconsistently across atolls – depend on local relationships rather than systematic protocols
 - Information sharing between agencies remains ad hoc despite MoUs
 - The 2009 baby death case pattern (agencies in contact with family but not communicating with each other) has not been structurally resolved
 - School focal points lack clear referral pathways to FCSCs
 - No formal case conferencing protocols are consistently applied across all FCSCs
-- Political interference in casework documented — local power dynamics influencing case outcomes, particularly where alleged perpetrators hold community authority
+- Political interference in casework documented – local power dynamics influencing case outcomes, particularly where alleged perpetrators hold community authority
 
 ---
 
-## Slide 9: IBAMA — Community-Based Child Protection
+## Slide 9: IBAMA – Community-Based Child Protection
 
 **IBAMA (community protection groups):**
 - Volunteer networks at island level, established under CRPA framework
@@ -501,11 +501,11 @@ These recommendations are public, referenced by development partners in programm
 - Intended function: early identification and referral of child protection concerns, community-level support, bridging gap between FCSCs and islands without social service presence
 
 **Limitations:**
-- Volunteers, not professionals — no case management authority
+- Volunteers, not professionals – no case management authority
 - Training quality and consistency varies significantly across islands
 - Volunteer motivation difficult to sustain without compensation or formal recognition
 - On some islands, IBAMA groups are inactive or exist on paper only
-- Small island dynamics mean IBAMA members may be related to or socially connected to families involved in cases — compromising independence
+- Small island dynamics mean IBAMA members may be related to or socially connected to families involved in cases – compromising independence
 
 **Coverage gap context:** IBAMA operates on selected islands; the remaining 179 islands without FCSC presence have no formal child protection mechanism of any kind.
 
@@ -513,7 +513,7 @@ These recommendations are public, referenced by development partners in programm
 
 ## Slide 10: Discussion
 
-- Where do you see the most critical coordination gaps in your current work?
+- Where do you see the main coordination gaps in your current work?
 - How does the Male'-centralised decision-making structure affect case outcomes for children on outer islands?
 
 ## Module 4: Demographics and Data
@@ -544,26 +544,26 @@ The child population is shrinking in both absolute and relative terms due to the
 | Indicator | Value | Source |
 |---|---|---|
 | National poverty rate | 5.4% | HIES 2019 |
-| Poverty rate — atolls | 9.5% | HIES 2019 |
-| Poverty rate — Male' | 0.9% | HIES 2019 |
-| Households with disabled member — poverty rate | 9.6% | HIES 2019 |
+| Poverty rate – atolls | 9.5% | HIES 2019 |
+| Poverty rate – Male' | 0.9% | HIES 2019 |
+| Households with disabled member – poverty rate | 9.6% | HIES 2019 |
 | Female-headed household poverty rate | 6% | HIES 2019 |
-| Children in households with >10 members — poverty rate | 12% | HIES 2019 |
+| Children in households with >10 members – poverty rate | 12% | HIES 2019 |
 | Highest poverty atolls | Raa 18.9%, Gaafu Dhaalu 15.6%, Thaa 14.4% | HIES 2019 |
 | Divorce-to-marriage ratio (2016) | ~60% (3,417 divorces / 5,488 marriages) | Government data |
 
-Poverty is overwhelmingly atoll-based: 92% of the national poor live in atolls. The highest-poverty atolls are in the geographic periphery (north and south), furthest from Male'-based services. The high divorce rate creates economic instability for children — the prenuptial agreement mechanism barely exists (~8 agreements ever executed nationally).
+Poverty is overwhelmingly atoll-based: 92% of the national poor live in atolls. The highest-poverty atolls are in the geographic periphery (north and south), furthest from Male'-based services. The high divorce rate creates economic instability for children – the prenuptial agreement mechanism barely exists (~8 agreements ever executed nationally).
 
 ---
 
-## Slide 3: Child Maltreatment — Case Volume Data
+## Slide 3: Child Maltreatment – Case Volume Data
 
 **Cases received by MoSFD/MoGFSS:**
 
 | Year | Total Cases | VAC Cases | VAC as % of Total |
 |---|---|---|---|
-| 2017 | — | — | — |
-| 2018 (Mar-May only) | — | 349 | 48% CSA/physical violence |
+| 2017 | – | – | – |
+| 2018 (Mar-May only) | – | 349 | 48% CSA/physical violence |
 | 2023 | 2,936 | 1,278 | 43.5% |
 
 **Types of child maltreatment reported (2017-2022 trend):**
@@ -576,7 +576,7 @@ Poverty is overwhelmingly atoll-based: 92% of the national poor live in atolls. 
 
 ---
 
-## Slide 4: Child Sexual Abuse — Prevalence Data
+## Slide 4: Child Sexual Abuse – Prevalence Data
 
 | Indicator | Value | Source |
 |---|---|---|
@@ -586,7 +586,7 @@ Poverty is overwhelmingly atoll-based: 92% of the national poor live in atolls. 
 | IGMH rape cases (2005-2009) | 43 total; 22 involving minors; ~half of minor cases were gang rapes | Hospital data |
 | Hospital child abuse presentations | Rising trend | IGMH records |
 
-**Perpetrator profile:** Majority of CSA perpetrated by family members or known individuals, not strangers. The familial nature of most CSA compounds the disclosure barrier — reporting means reporting against one's own relative on a small island where the consequences are socially devastating.
+**Perpetrator profile:** Majority of CSA perpetrated by family members or known individuals, not strangers. The familial nature of most CSA compounds the disclosure barrier – reporting means reporting against one's own relative on a small island where the consequences are socially devastating.
 
 ---
 
@@ -599,7 +599,7 @@ Poverty is overwhelmingly atoll-based: 92% of the national poor live in atolls. 
 | In foster care | 16 children with 18 registered foster carers | Government data 2023 |
 | Prenuptial agreements ever executed | ~8 | CFW research 2026 |
 
-The 91% institutionalisation rate is among the highest globally. International standards and CRC guidance strongly favour family-based care (foster care, kinship care) over institutional care. The foster care system is minimal — 18 registered carers nationally for 16 children. Kafalah (Islamic guardianship) exists as a care option but is not systematically tracked.
+The 91% institutionalisation rate is among the highest globally. International standards and CRC guidance strongly favour family-based care (foster care, kinship care) over institutional care. The foster care system is minimal – 18 registered carers nationally for 16 children. Kafalah (Islamic guardianship) exists as a care option but is not systematically tracked.
 
 The near-absence of prenuptial agreements means that upon divorce (which occurs at among the highest rates globally), custody, maintenance, and asset division are contested without pre-agreed terms, creating economic instability that directly affects children.
 
@@ -611,11 +611,11 @@ The near-absence of prenuptial agreements means that upon divorce (which occurs 
 |---|---|---|
 | Child marriage rate (before 18) | 2.2% | ADB 2025 |
 | Children married (Census 2014, aged 15-17) | 106 (58.5% girls) | Census 2014 |
-| US DOL rating on child labour (2018) | "Minimal advancement" — second-lowest tier | US DOL |
+| US DOL rating on child labour (2018) | "Minimal advancement" – second-lowest tier | US DOL |
 | Forms of worst child labour | Forced domestic labour, commercial sexual exploitation, drug trafficking | US DOL |
 | Children involved in drug trafficking | Recruited by gangs; minors used because of lower penalties | US DOL / research |
 
-Children sent from outer islands to relatives in Male' for education are vulnerable to coerced domestic work — the line between age-appropriate household chores and exploitation is culturally contested. Gang recruitment of minors for drug distribution is documented and linked to the juvenile justice pipeline.
+Children sent from outer islands to relatives in Male' for education are vulnerable to coerced domestic work – the line between age-appropriate household chores and exploitation is culturally contested. Gang recruitment of minors for drug distribution is documented and linked to the juvenile justice pipeline.
 
 ---
 
@@ -637,8 +637,8 @@ Children with disabilities face compounded vulnerability: higher rates of violen
 
 | Indicator | Value | Source |
 |---|---|---|
-| Drug use prevalence — Male' | 6.64% | Research data |
-| Drug use prevalence — atolls | 2.02% | Research data |
+| Drug use prevalence – Male' | 6.64% | Research data |
+| Drug use prevalence – atolls | 2.02% | Research data |
 | Drug users beginning before age 18 | 57.8% | Situational Analysis 2021 |
 | Drug users beginning before age 17 | ~50% | UNODC |
 | Peer influence as initiation reason | 72.2% (2021); 38% (2003) | SA 2021 / RAS 2003 |
@@ -646,7 +646,7 @@ Children with disabilities face compounded vulnerability: higher rates of violen
 | Youth seriously considering suicide (past 12 months) | 19.9% | GSHS 2009 |
 | Youth tobacco use (any tobacco) | 45.7% | GYTS 2019 |
 
-The drug-child protection interface: more than half of drug users began before age 18. Children are recruited into drug distribution by gangs. Children of substance-abusing parents face neglect and exposure to violence. The mental health data (19.9% suicidal ideation among youth) indicates a crisis with minimal service capacity to respond — limited child/adolescent psychologists, no school-based counselling infrastructure in most atolls.
+The drug-child protection interface: more than half of drug users began before age 18. Children are recruited into drug distribution by gangs. Children of substance-abusing parents face neglect and exposure to violence. The mental health data (19.9% suicidal ideation among youth) indicates a crisis with minimal service capacity to respond – limited child/adolescent psychologists, no school-based counselling infrastructure in most atolls.
 
 ---
 
@@ -661,9 +661,9 @@ Child protection vulnerability is not evenly distributed. Key geographic pattern
 | Youth drug involvement | Higher in Male' (6.64%) but spreading to atolls (2.02%) |
 | Internal migration | Young adults migrate to Male' for education/employment, leaving children with grandparents or relatives |
 | Housing density | Male': extreme overcrowding (10.4% of population in overcrowded conditions are 2x more likely to be poor) |
-| Island size | Smaller islands have fewer services but stronger informal social surveillance — which can both protect and suppress |
+| Island size | Smaller islands have fewer services but stronger informal social surveillance – which can both protect and suppress |
 
-Census 2022 atoll-level data enables needs-based resource allocation — but the ministry's current budget allocation to FCSCs does not reflect atoll-level vulnerability variation.
+Census 2022 atoll-level data enables needs-based resource allocation – but the ministry's current budget allocation to FCSCs does not reflect atoll-level vulnerability variation.
 
 ---
 
@@ -708,13 +708,13 @@ The evidence base for child protection policy in the Maldives remains thin relat
 **Operational constraints:**
 - Staffing limits response capacity during peak hours
 - No integrated follow-up tracking between helpline intake and FCSC case management (pilot digital system in progress)
-- Public awareness remains uneven — higher in Male', lower in atolls
+- Public awareness remains uneven – higher in Male', lower in atolls
 - Children on outer islands may lack private access to phones for confidential reporting
 - Language barrier: helpline operates in Dhivehi; foreign children (migrant worker families) may lack access
 
 ---
 
-## Slide 2: FCSC Service Delivery — What Is Actually Provided
+## Slide 2: FCSC Service Delivery – What Is Actually Provided
 
 **At each of the 24 FCSCs, staff deliver:**
 - Intake and initial risk assessment for child protection referrals
@@ -743,7 +743,7 @@ The evidence base for child protection policy in the Maldives remains thin relat
 | Care Type | Current Capacity | Notes |
 |---|---|---|
 | Residential institutions | Houses 170 of 187 children in care (91%) | Multiple facilities in Male'; limited atoll options |
-| Foster care | 18 registered carers, 16 children placed | Minimal — no systematic recruitment or support programme |
+| Foster care | 18 registered carers, 16 children placed | Minimal – no systematic recruitment or support programme |
 | Kafalah (Islamic guardianship) | Not systematically tracked | Cultural practice exists but not formalised within CP system |
 | Kinship care | Common in practice | Often informal; not always monitored by CFPS |
 
@@ -752,7 +752,7 @@ The evidence base for child protection policy in the Maldives remains thin relat
 **Gaps:**
 - No foster carer recruitment, training, or support programme at scale
 - No specialised therapeutic foster care for high-needs children
-- No leaving care support framework — children age out of institutional care at 18 with minimal transition planning
+- No leaving care support framework – children age out of institutional care at 18 with minimal transition planning
 - Institutional care quality monitoring is inconsistent
 
 ---
@@ -765,18 +765,18 @@ The evidence base for child protection policy in the Maldives remains thin relat
 
 | Indicator | Status |
 |---|---|
-| Professional awareness of reporting obligation | Variable — higher in Male', lower in atolls |
+| Professional awareness of reporting obligation | Variable – higher in Male', lower in atolls |
 | Training on mandatory reporting | Provided to some professionals; not universal |
 | Reporting rate | Low relative to estimated prevalence |
 | Anonymous reporting mechanism | 1412 accepts anonymous reports |
 | Consequences for failure to report | Legally prescribed but not enforced in practice |
 
 **Barriers to reporting:**
-- Small island social dynamics — reporter's identity easily inferred
+- Small island social dynamics – reporter's identity easily inferred
 - Fear of retaliation, particularly where alleged perpetrator has community authority
-- Satr norms — cultural expectation of concealing family faults
-- Uncertainty about what happens after a report — fear of "making things worse"
-- Lack of confidence in system response — perception that reporting leads to no action
+- Satr norms – cultural expectation of concealing family faults
+- Uncertainty about what happens after a report – fear of "making things worse"
+- Lack of confidence in system response – perception that reporting leads to no action
 - For children: dependence on the alleged perpetrator for housing, food, education
 
 ---
@@ -787,7 +787,7 @@ The evidence base for child protection policy in the Maldives remains thin relat
 
 | Component | Status |
 |---|---|
-| Focal points designated | Yes — in most government schools |
+| Focal points designated | Yes – in most government schools |
 | Training provided | Initial orientation; ongoing training inconsistent |
 | Referral pathway to FCSCs | Exists in policy; inconsistently applied in practice |
 | Case conferencing between schools and CFPS | Not systematically conducted |
@@ -818,7 +818,7 @@ Schools are the most frequent point of contact between the state and children ou
 
 ---
 
-## Slide 7: Community-Based Services — IBAMA and CSGs
+## Slide 7: Community-Based Services – IBAMA and CSGs
 
 **IBAMA (community child protection groups):**
 - Evolved from Community Social Groups (2010)
@@ -858,7 +858,7 @@ Coverage: IBAMA operates on selected islands. The majority of islands without FC
 
 | Service | Available in Male' | Available in Atolls |
 |---|---|---|
-| Social workers | Yes (CFPS) | Yes (FCSCs — 2-5 per atoll) |
+| Social workers | Yes (CFPS) | Yes (FCSCs – 2-5 per atoll) |
 | Police investigation (FCPW) | Yes | Limited |
 | Forensic medical examination | Yes (IGMH) | No |
 | Therapeutic counselling | Limited | No |
@@ -867,7 +867,7 @@ Coverage: IBAMA operates on selected islands. The majority of islands without FC
 | Residential care | Yes | Very limited |
 | Foster care | Minimal (18 carers nationally) | Minimal |
 | Legal representation for children | Limited | No |
-| Juvenile Court | Yes (Male' only) | No — children must travel to Male' |
+| Juvenile Court | Yes (Male' only) | No – children must travel to Male' |
 | Substance abuse treatment | Limited | Minimal |
 
 The service gap between Male' and atolls is the defining constraint. A child in Male' has access to a functioning (if strained) institutional ecosystem. A child on an outer island in a high-poverty atoll may have access to none of these services.
@@ -907,7 +907,7 @@ The Maldives Study on Women's Health and Life Experiences remains the most metho
 - 12.2% of women aged 15-49 reported childhood sexual abuse (16.3% in Male')
 - ~1 in 3 women experienced physical or sexual intimate partner violence
 - Qualitative data documented community norms around honour ideology, satr, and the suppression of disclosure
-- Children growing up in violent households — while not the study's primary focus — face direct and indirect exposure to violence
+- Children growing up in violent households – while not the study's primary focus – face direct and indirect exposure to violence
 - The study established empirical evidence for patterns that were previously anecdotal or suspected
 
 **Limitation:** The study is now nearly 20 years old. No comparable national prevalence study has been conducted since. The evidence base for CSA prevalence relies on a single study from 2006/07.
@@ -919,7 +919,7 @@ The Maldives Study on Women's Health and Life Experiences remains the most metho
 The first academic treatment of Maldivian child protection within an international comparative framework (Bristol University Press, Policy Press).
 
 **Key findings:**
-- The Maldivian CP system has "absorbed the system of England which is a needs-based system" through UNICEF-facilitated technical support — despite the UN's own rights-based approach
+- The Maldivian CP system has "absorbed the system of England which is a needs-based system" through UNICEF-facilitated technical support – despite the UN's own rights-based approach
 - The CRPA drafting process drew on England's Children Act framework and Asian-Pacific comparative legislation via Defence for Children International
 - The system has both strengths (legal framework, MCPD database, FCSC network) and structural weaknesses (caseload crisis, coordination gaps, implementation lag)
 - The Children's Ombudsperson creates a monitoring tension: ambitious oversight objectives that overstretched workers cannot fulfil, driving defensive documentation over genuine welfare improvement
@@ -935,7 +935,7 @@ UNICEF has produced multiple situation analyses (most recent: 2021, updated 2025
 - Average caseworker caseload: >160 potential cases, 70-80 active (vs. 25-30 recommended)
 - Reactive crisis response displaces preventive family support
 - Inter-agency coordination remains ad hoc despite formal mechanisms
-- The FCSC generalist model — handling all social service domains with the same team — prevents specialisation
+- The FCSC generalist model – handling all social service domains with the same team – prevents specialisation
 - Training quality and supervision for social workers are inconsistent
 - Data systems improving (MCPD) but outcome tracking absent
 - Alternative care heavily institutionalised (91%)
@@ -967,15 +967,15 @@ The National Action Plan for Preventing and Responding to Violence Against Child
 
 | Research Finding | Addressed in NAPVAC? |
 |---|---|
-| Caseload crisis (70-80 cases per worker) | Partially — acknowledges workforce needs but no specific recruitment targets |
+| Caseload crisis (70-80 cases per worker) | Partially – acknowledges workforce needs but no specific recruitment targets |
 | CSA prevalence (12.2%, Fulu 2006/07) | Referenced but no updated prevalence study commissioned |
-| Coordination failures across agencies | Addressed — coordination strengthening is a pillar |
-| Alternative care institutionalisation (91%) | Addressed — family-based care expansion planned |
+| Coordination failures across agencies | Addressed – coordination strengthening is a pillar |
+| Alternative care institutionalisation (91%) | Addressed – family-based care expansion planned |
 | Gang recruitment of children for drug trafficking | Partially addressed through cross-cutting vulnerability lens |
 | Zina/CSA grey area for adolescent victims | Not explicitly addressed |
-| Online child exploitation | Addressed — digital safety included |
+| Online child exploitation | Addressed – digital safety included |
 | Children with disabilities' compounded vulnerability | Partially addressed |
-| School-based CP mechanism gaps | Addressed — school CP strengthening planned |
+| School-based CP mechanism gaps | Addressed – school CP strengthening planned |
 
 ---
 
@@ -983,7 +983,7 @@ The National Action Plan for Preventing and Responding to Violence Against Child
 
 | Assessment | Organisation | Key CP-Relevant Finding |
 |---|---|---|
-| Worst Forms of Child Labor (2018) | US DOL | "Minimal advancement" — second-lowest rating |
+| Worst Forms of Child Labor (2018) | US DOL | "Minimal advancement" – second-lowest rating |
 | Trafficking in Persons Report | US State Dept | Tier 2 Watch List; child exploitation documented |
 | CRC Concluding Observations | CRC Committee | Marriage age inconsistency; flogging; zina/CSA boundary; caseload; data gaps |
 | UPR Recommendations | UN Human Rights Council | Multiple recommendations on child rights implementation |
@@ -999,7 +999,7 @@ These external assessments provide independent validation of domestically identi
 |---|---|---|---|
 | Mariya Ali | 2013 | Maqasid approach to CSA | Islamic law/child rights compatibility |
 | Shaffa Hameed | 2012 | Sexual health policies and youth | Disconnect between policy assumptions and youth experience |
-| Raheema Abdul Raheem | 2014 | Postnatal depression in Male' | 27% postnatal depression at 1 month — maternal mental health/child vulnerability link |
+| Raheema Abdul Raheem | 2014 | Postnatal depression in Male' | 27% postnatal depression at 1 month – maternal mental health/child vulnerability link |
 | Hala Hameed | 2004 | Gender and intra-household relations, Shaviyani | Household power dynamics affecting children |
 | Aminath Mohamed Didi | 2001 | Marital dissolution and fertility, Addu | Divorce effects on children's family stability |
 | Asim Ahmed | 2011 | Poverty standards in the Maldives | Consensual poverty measurement affecting child welfare definitions |
@@ -1008,7 +1008,7 @@ The Maldivian scholarly output on child protection is small but growing. Most do
 
 ---
 
-## Slide 9: Evidence Gaps — What We Do Not Know
+## Slide 9: Evidence Gaps – What We Do Not Know
 
 | Gap | Implication |
 |---|---|
@@ -1021,7 +1021,7 @@ The Maldivian scholarly output on child protection is small but growing. Most do
 | No corporal punishment prevalence data (home settings) | Scale of the problem unknown |
 | No dedicated child mental health study | Reliance on youth survey fragments (GSHS) |
 
-The evidence base is insufficient relative to the policy and programme decisions it must support. The absence of outcome data is particularly significant — the system cannot demonstrate its own effectiveness.
+The evidence base is insufficient relative to the policy and programme decisions it must support. The absence of outcome data is particularly significant – the system cannot demonstrate its own effectiveness.
 
 ---
 
@@ -1039,8 +1039,8 @@ The evidence base is insufficient relative to the policy and programme decisions
 
 | Plan | Period | Lead | Status |
 |---|---|---|---|
-| NSAP-CP (National Strategic Action Plan — Child Protection) | 2020-2024 | MoSFD | Expired; successor unclear |
-| NAPVAC (National Action Plan for Preventing and Responding to Violence Against Children) | 2024-2028 | MoSFD | Current — launched 2024 |
+| NSAP-CP (National Strategic Action Plan – Child Protection) | 2020-2024 | MoSFD | Expired; successor unclear |
+| NAPVAC (National Action Plan for Preventing and Responding to Violence Against Children) | 2024-2028 | MoSFD | Current – launched 2024 |
 | National Action Plan on Trafficking in Persons | Various | MoHA/MoSFD | Updated periodically |
 | NAP P/CVE (Prevention/Countering Violent Extremism) | 2020-2024 | NCTC | Includes child protection components |
 
@@ -1052,7 +1052,7 @@ The evidence base is insufficient relative to the policy and programme decisions
 
 ---
 
-## Slide 2: NAPVAC 2024-2028 — Structure and Priorities
+## Slide 2: NAPVAC 2024-2028 – Structure and Priorities
 
 The NAPVAC is the current strategic framework for child protection. Developed with UNICEF technical support.
 
@@ -1104,7 +1104,7 @@ The NAPVAC is the current strategic framework for child protection. Developed wi
 
 4. **Multi-agency coordination requirements:** Plans assign responsibilities to multiple ministries and agencies (MoSFD, MoE, MPS, PGO, MoH, FPA) without authority over those agencies. MoSFD cannot compel the police to improve response times or the PGO to increase prosecution rates.
 
-5. **Atoll-level implementation gap:** Plans are designed centrally in Male'. Translation into atoll-level action depends on FCSC capacity, local council engagement, and community buy-in — none of which is assured.
+5. **Atoll-level implementation gap:** Plans are designed centrally in Male'. Translation into atoll-level action depends on FCSC capacity, local council engagement, and community buy-in – none of which is assured.
 
 6. **Plan succession without evaluation:** New plans are developed before previous plans are systematically evaluated. The NSAP-CP 2020-2024 expired without a published evaluation of what was achieved.
 
@@ -1144,17 +1144,17 @@ The SOPs define the operational process that social workers should follow. Key e
 
 ---
 
-## Slide 7: The Coordination Architecture — Mandated Mechanisms
+## Slide 7: The Coordination Architecture – Mandated Mechanisms
 
 | Mechanism | Function | Status |
 |---|---|---|
 | Multi-Disciplinary Teams (MDTs) | Atoll-level case discussion bringing police, health, education, social work | Functioning inconsistently across atolls |
 | Case Management Coordination Committee | Monthly MPS-MoSFD data reconciliation | Operational in Male' |
-| Atoll-level Child Protection Committees | Multi-agency coordination at atoll level | Variable — some active, some dormant |
+| Atoll-level Child Protection Committees | Multi-agency coordination at atoll level | Variable – some active, some dormant |
 | National Council for Child Rights Protection | Policy-level coordination | Established under CRPA; meets periodically |
 | School CP Focal Points | Early identification and referral from schools | In place; referral pathways inconsistent |
 
-**The fundamental coordination problem:** No single agency has authority over all child protection actors. MoSFD sets policy but cannot direct police, prosecution, courts, or health services. Coordination depends on relationships, MoUs, and goodwill — not structural authority. This produces the recurring pattern identified in Module 3: agencies in contact with the same family without communicating.
+**The fundamental coordination problem:** No single agency has authority over all child protection actors. MoSFD sets policy but cannot direct police, prosecution, courts, or health services. Coordination depends on relationships, MoUs, and goodwill – not structural authority. This produces the recurring pattern identified in Module 3: agencies in contact with the same family without communicating.
 
 ---
 
@@ -1173,15 +1173,15 @@ The SOPs define the operational process that social workers should follow. Key e
 | Convention | Ratified | Reservations | Reporting Body | Most Recent Report |
 |---|---|---|---|---|
 | CRC | 1991 | Art. 14(1) freedom of religion; Art. 21 adoption | Committee on the Rights of the Child | Combined 6th/7th, submitted October 2021 |
-| Optional Protocol on Sale of Children | 2002 | None | CRC Committee | — |
-| Optional Protocol on Armed Conflict | 2004 | None | CRC Committee | — |
+| Optional Protocol on Sale of Children | 2002 | None | CRC Committee | – |
+| Optional Protocol on Armed Conflict | 2004 | None | CRC Committee | – |
 | CEDAW | 1993 | Various (Islam-related) | CEDAW Committee | 6th periodic report |
 | CRPD | 2010 | None | CRPD Committee | Initial report 2023 |
 
 **Additional frameworks:**
-- Universal Periodic Review (UPR) — periodic review by UN Human Rights Council; multiple CP-relevant recommendations
-- ILO Convention 182 on Worst Forms of Child Labour — ratified 2013
-- Palermo Protocol on Trafficking — relevant to child trafficking
+- Universal Periodic Review (UPR) – periodic review by UN Human Rights Council; multiple CP-relevant recommendations
+- ILO Convention 182 on Worst Forms of Child Labour – ratified 2013
+- Palermo Protocol on Trafficking – relevant to child trafficking
 
 ---
 
@@ -1206,7 +1206,7 @@ The SOPs define the operational process that social workers should follow. Key e
 
 ---
 
-## Slide 3: CRC Committee Concluding Observations — Key Recommendations
+## Slide 3: CRC Committee Concluding Observations – Key Recommendations
 
 | Recommendation | Status | Operational Impact |
 |---|---|---|
@@ -1230,7 +1230,7 @@ CEDAW recommendations that directly affect child protection:
 - **Child marriage:** CEDAW Committee has separately called for harmonisation of marriage age at 18
 - **FGM/C:** CEDAW Committee flagged the 13% prevalence (DHS 2016-17) and declining but not eliminated practice
 - **Women in the criminal justice system:** The gendered impact of flogging (85% women/girls) is a CEDAW concern
-- **Gendered caregiving:** Women bear disproportionate responsibility for child care, elder care, and domestic labour — affecting their economic participation and creating vulnerability when marriages dissolve
+- **Gendered caregiving:** Women bear disproportionate responsibility for child care, elder care, and domestic labour – affecting their economic participation and creating vulnerability when marriages dissolve
 - **Domestic violence:** DVPA implementation gaps directly affect children who witness or experience DV
 
 **CEDAW implementation rate:** Only 3% of 55 CEDAW recommendations have been fully implemented (CSO/HRCM assessment).
@@ -1335,7 +1335,7 @@ In practice, the gap between what the framework prescribes and what the system d
 | Clinical supervision | Inconsistent; not available in all FCSCs |
 | Career progression | Limited within the social work profession |
 
-The workforce constraint is the single most significant implementation barrier. Every other gap — assessment quality, follow-up frequency, coordination, documentation — is downstream of insufficient staff.
+The workforce constraint is a primary implementation barrier. Every other gap – assessment quality, follow-up frequency, coordination, documentation – is downstream of insufficient staff.
 
 ---
 
@@ -1376,7 +1376,7 @@ Cases progressively drop out at each stage of the criminal justice process:
 - Island council
 - No social worker, no police investigator, no forensic capacity, no court, no shelter, no psychologist
 
-**What this means in practice:** A child sexually abused on an outer island during monsoon season may wait days for a social worker to arrive by boat, weeks for forensic examination in Male', months for police investigation, and years for prosecution — if prosecution occurs at all. The perpetrator likely remains on the same island throughout.
+**What this means in practice:** A child sexually abused on an outer island during monsoon season may wait days for a social worker to arrive by boat, weeks for forensic examination in Male', months for police investigation, and years for prosecution – if prosecution occurs at all. The perpetrator likely remains on the same island throughout.
 
 ---
 
@@ -1384,13 +1384,13 @@ Cases progressively drop out at each stage of the criminal justice process:
 
 **Documented patterns (Rogers, Ali & Naeem 2025; UNICEF 2022):**
 
-- **Agencies working in silos:** Health, education, police, and social services each hold partial information about the same family without systematic sharing — the 2009 baby death case pattern
+- **Agencies working in silos:** Health, education, police, and social services each hold partial information about the same family without systematic sharing – the 2009 baby death case pattern
 - **MDTs functioning inconsistently:** Some atolls have active multi-disciplinary teams; others have them on paper only. Effectiveness depends on personal relationships between local professionals, not institutional protocols
 - **School-FCSC disconnect:** School focal points identify concerns but referral pathways are unclear or unused. No systematic case conferencing between education and child protection
 - **FPA-CFPS overlap:** DV cases involving children require coordination between FPA (DV mandate) and CFPS (CP mandate). No joint protocol systematically applied
 - **Police response variability:** Some police officers take child protection reports seriously; others treat them as family matters and encourage informal resolution
 
-**Political interference:** Documented cases where local power dynamics — island councillors, atoll officials, politically connected families — influence case handling. On an island of 500 people, the alleged perpetrator may be the island chief's relative.
+**Political interference:** Documented cases where local power dynamics – island councillors, atoll officials, politically connected families – influence case handling. On an island of 500 people, the alleged perpetrator may be the island chief's relative.
 
 ---
 
@@ -1407,23 +1407,23 @@ Cases progressively drop out at each stage of the criminal justice process:
 - Institutions exist and have beds; foster homes must be found, assessed, and matched
 - No professional foster care support infrastructure
 - Community reluctance to take in unrelated children (stigma, cost, disruption)
-- Kinship care is common but often informal and unmonitored — quality varies
+- Kinship care is common but often informal and unmonitored – quality varies
 - The system lacks the assessment and matching capacity that family-based alternatives require
 
-**Leaving care:** Children exit institutional care at 18 with no systematic transition support. No leaving care policy or programme exists. This transition point is a documented vulnerability — young adults without family support, vocational skills, or housing entering the community unprepared.
+**Leaving care:** Children exit institutional care at 18 with no systematic transition support. No leaving care policy or programme exists. This transition point is a documented vulnerability – young adults without family support, vocational skills, or housing entering the community unprepared.
 
 ---
 
-## Slide 7: Mandatory Reporting — Implementation Status
+## Slide 7: Mandatory Reporting – Implementation Status
 
-**Legal obligation:** Clear (CRPA — all persons).
+**Legal obligation:** Clear (CRPA – all persons).
 
 **Implementation reality:**
 
 | Factor | Status |
 |---|---|
-| Professional training on reporting obligations | Inconsistent — some professions trained, others not |
-| Public awareness of reporting obligation | Low — particularly in atolls |
+| Professional training on reporting obligations | Inconsistent – some professions trained, others not |
+| Public awareness of reporting obligation | Low – particularly in atolls |
 | Enforcement of failure-to-report provisions | No documented prosecutions for failure to report |
 | Anonymous reporting mechanism | 1412 accepts anonymous reports |
 | Reporter protection | Legal provision exists; practical protection on small islands uncertain |
@@ -1432,7 +1432,7 @@ Cases progressively drop out at each stage of the criminal justice process:
 **Why reporting remains low despite the legal obligation:**
 - Social cost of reporting on a small island (identity easily inferred)
 - Fear of retaliation where perpetrator has authority or connections
-- Satr norms — cultural obligation to conceal family faults
+- Satr norms – cultural obligation to conceal family faults
 - Perception that reporting makes things worse ("nothing will happen" or "the family will be destroyed")
 - Children's dependence on the very adults they would report against
 - No enforcement: failure to report has not been prosecuted, so the obligation lacks practical consequences
@@ -1447,7 +1447,7 @@ Cases progressively drop out at each stage of the criminal justice process:
 - Pilot digital case management in selected FCSCs (2023)
 
 **Implementation gaps:**
-- Data entry depends on caseworker time — overloaded workers may delay or abbreviate entries
+- Data entry depends on caseworker time – overloaded workers may delay or abbreviate entries
 - Outcome data not tracked (case opened → case closed, but no follow-up on child wellbeing post-intervention)
 - Data quality varies across FCSCs
 - No systematic data linkage between MCPD (MoSFD), police records (MPS), health records (hospitals), or education records (MoEYS)
@@ -1464,14 +1464,14 @@ Child protection social work is emotionally demanding, physically isolating (for
 | Issue | Detail |
 |---|---|
 | Clinical supervision | Not consistently available; some FCSCs have no supervisor |
-| Peer support | Limited — small teams, geographic isolation |
+| Peer support | Limited – small teams, geographic isolation |
 | Vicarious trauma | Recognised but not systematically addressed |
 | Personal safety | Death threats from gang-connected families documented |
 | Remuneration | Modest relative to caseload demands and professional risk |
 | Career progression | Limited pathways within social work; many leave for better-paying roles |
 | Professional recognition | Social work as a profession is still establishing its identity and status |
 
-The caseload crisis and these professional support gaps are not separate problems. They interact: overloaded workers without supervision burn out faster, make more errors, and leave sooner — further depleting the workforce.
+The caseload crisis and these professional support gaps are not separate problems. They interact: overloaded workers without supervision burn out faster, make more errors, and leave sooner – further depleting the workforce.
 
 ---
 
@@ -1485,20 +1485,20 @@ The caseload crisis and these professional support gaps are not separate problem
 
 ---
 
-## Slide 1: Where the System Stands — Summary Assessment
+## Slide 1: Where the System Stands – Summary Assessment
 
 | Dimension | Status |
 |---|---|
-| Legal framework | Strong (CRPA 2019, JJ Act, DVPA) — major gaps: marriage age inconsistency, flogging, zina/CSA boundary |
-| Institutional architecture | Exists (CFPS, 24 FCSCs, Ombudsperson, DJJ) — coordination weak, authority fragmented |
-| Workforce | Critically insufficient — 61 workers for 128,000 children; 70-80 caseloads |
-| Data systems | Improving (MCPD since 2016) — outcome tracking absent |
+| Legal framework | Strong (CRPA 2019, JJ Act, DVPA) – major gaps: marriage age inconsistency, flogging, zina/CSA boundary |
+| Institutional architecture | Exists (CFPS, 24 FCSCs, Ombudsperson, DJJ) – coordination weak, authority fragmented |
+| Workforce | Critically insufficient – 61 workers for 128,000 children; 70-80 caseloads |
+| Data systems | Improving (MCPD since 2016) – outcome tracking absent |
 | Alternative care | Heavily institutionalised (91%); foster care minimal (18 carers nationally) |
-| Criminal justice response | Weak — 3% DV prosecution rate; 16.7% conviction rate |
+| Criminal justice response | Weak – 3% DV prosecution rate; 16.7% conviction rate |
 | Geographic coverage | 20 FCSCs for 199 islands; most islands have no social service presence |
-| Prevention | Underdeveloped — system is almost entirely reactive |
-| Evidence base | Thin — no national prevalence study since 2006/07; no outcome data |
-| International compliance | Mixed — legislation improving; implementation lagging across most CRC recommendations |
+| Prevention | Underdeveloped – system is almost entirely reactive |
+| Evidence base | Thin – no national prevalence study since 2006/07; no outcome data |
+| International compliance | Mixed – legislation improving; implementation lagging across most CRC recommendations |
 
 ---
 
@@ -1533,7 +1533,7 @@ Based on the evidence reviewed in this course, five reform areas would have the 
 
 **5. Evidence and accountability**
 - Commission a national child abuse prevalence study (no study since 2006/07)
-- Implement outcome tracking in the MCPD — measuring what happens to children post-intervention
+- Implement outcome tracking in the MCPD – measuring what happens to children post-intervention
 - Establish a child death review mechanism
 - Evaluate IBAMA effectiveness systematically
 - Publish evaluations of action plans before designing successors
@@ -1590,7 +1590,7 @@ The current action plan sets targets in four pillars:
 
 **Political economy constraints:**
 - CP reform competes with infrastructure, defence, and economic priorities for budget
-- Legislative amendments require People's Majlis action — parliamentary attention to CP is intermittent
+- Legislative amendments require People's Majlis action – parliamentary attention to CP is intermittent
 - Each change of government brings institutional restructuring (ministry name/portfolio changes) that disrupts continuity
 - The Article 10 tension (Islam and child rights) constrains certain reforms (corporal punishment, marriage age, adoption)
 
@@ -1627,7 +1627,7 @@ The Maldivian system is young (formal CP since 1991), small (61 workers), and ge
 
 ---
 
-## Slide 8: Course Summary — What You Should Know
+## Slide 8: Course Summary – What You Should Know
 
 After completing this course, you should understand:
 
@@ -1642,7 +1642,7 @@ After completing this course, you should understand:
 9. **Implementation realities:** The workforce crisis; criminal justice funnel; Male'-atoll gap; coordination failures
 10. **Reform agenda:** Five priority areas; what staff can do individually; what requires systemic change
 
-**The encyclopedia** — 110,000+ words on child protection alone — is your ongoing reference. This course is the structured overview; the encyclopedia provides the depth for any specific area you need to explore further.
+**The encyclopedia** – 110,000+ words on child protection alone – is your ongoing reference. This course is the structured overview; the encyclopedia provides the depth for any specific area you need to explore further.
 
 ---
 

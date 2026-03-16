@@ -1,6 +1,6 @@
 # Part XV: Cross-Cutting Issues and Emerging Challenges
 
-The preceding fourteen parts of this encyclopedia have examined specific domains of Maldivian social policy -- child protection, gender-based violence, disability, substance abuse, housing, health, and others -- as discrete systems with their own legal frameworks, institutional arrangements, and implementation challenges. Yet the most consequential problems facing the Maldives do not respect these sectoral boundaries. Violent extremism recruits from the same pool of disaffected youth that gangs target; divorce destabilises the same families that the child protection system struggles to support; the chronic shortage of professional social workers undermines every service delivery programme simultaneously; and the geographic fragmentation that hampers healthcare access equally impedes police response, court services, and welfare provision.
+The preceding fourteen parts of this encyclopedia have examined specific domains of Maldivian social policy -- child protection, gender-based violence, disability, substance abuse, housing, health, and others -- as discrete systems with their own legal frameworks, institutional arrangements, and implementation challenges. Yet many of the problems facing the Maldives do not respect these sectoral boundaries. Violent extremism recruits from the same pool of disaffected youth that gangs target; divorce destabilises the same families that the child protection system struggles to support; the chronic shortage of professional social workers undermines every service delivery programme simultaneously; and the geographic fragmentation that hampers healthcare access equally impedes police response, court services, and welfare provision.
 
 This final substantive chapter addresses nine cross-cutting issues that run through and beneath the policy domains already examined. These are not peripheral concerns or future hypotheticals. They are present-day realities that shape, constrain, and sometimes overwhelm the systems described elsewhere in this encyclopedia. Each section examines the issue's scale, the policy and legal responses that have been attempted, the frontline realities of implementation, and the structural gaps that remain.
 
@@ -26,11 +26,11 @@ The NAP identifies a complex web of social, psychological, and structural factor
 
 **Failure of redemption pathways.** The NAP identifies "the immense difficulties of returning to a more socially acceptable pathway if a person somehow drops out of the mainstream" as a critical driver. Getting back on track after imprisonment, gang membership, drug treatment, or educational dropout "is a massive challenge that seems to have led some to try to find their idea of redemption in violent extremism."[^9]
 
-### The Prison Radicalisation Crisis
+### Prison Radicalisation
 
 The 2022 ICSVE study on prison radicalisation, conducted by Dr. Anne Speckhard and published by Transparency Maldives and the Ministry of Home Affairs, provides the most detailed empirical account of how radicalisation operates within Maldivian correctional facilities. Based on interviews with 20 prisoners at Maafushi high-security prison (17 men and 3 women), one former prisoner, and extensive stakeholder consultations, the study reveals a structured extremist ecosystem operating within prison walls.
 
-**Demographics of the radicalised.** The prisoner sample had a mean age at first arrest of 21.56 years, mean education of 8.2 years, and 64.7 percent were from poor or working-class backgrounds. A striking 47.1 percent were divorced, and the mean prior prison time before their current sentence was 69.7 months -- indicating that these were individuals with extensive prior contact with the criminal justice system.[^10]
+**Demographics of the radicalised.** The prisoner sample had a mean age at first arrest of 21.56 years, mean education of 8.2 years, and 64.7 percent were from poor or working-class backgrounds. 47.1 percent were divorced, and the mean prior prison time before their current sentence was 69.7 months -- indicating that these were individuals with extensive prior contact with the criminal justice system.[^10]
 
 **The prison cell structure.** At Maafushi Prison, the extremist organisation operates with a hierarchical structure: one overarching emir leads all militant jihadists in the prison, each prison unit has its own emir, and the cells maintain a shura council (a panel of Islamic judges) that metes out punishments. The extremists "claim to be in a state of war and are waging jihad against the Maldivian government, which they believe to be taghut and not a legitimate Islamic government."[^11] They declare other prisoners who resist their ideology to be kafirs (unbelievers), and physical attacks on dissenters are carried out "ordered by their unit emirs."[^12]
 
@@ -94,7 +94,7 @@ The Anti-Human Trafficking Office, established under the law, is responsible for
 
 The geographic dispersal of the workforce across hundreds of islands makes systematic monitoring effectively impossible with current resources. The regulatory architecture assumes a concentrated, accessible labour market. The reality is a workforce scattered across construction sites, resorts, fishing vessels, and private households on islands that may be hours from the nearest government office.
 
-> *→ **Extended Coverage:** For comprehensive analysis of human trafficking — including child trafficking, sex trafficking, intersectional vulnerability, and national response gaps — see **Part V: Gender, GBV, and Women's Empowerment, §5.91–§5.100** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of human trafficking – including child trafficking, sex trafficking, intersectional vulnerability, and national response gaps – see **Part V: Gender, GBV, and Women's Empowerment, §5.91–§5.100** of this encyclopedia.*
 
 ---
 
@@ -128,7 +128,7 @@ The Maldives Police Service Strategic Plan 2024-2028 addresses gang violence as 
 
 However, effective gang intervention requires sustained investment in alternative pathways for young people -- employment programmes, vocational training, recreational facilities, mentoring, and family support services -- that are under-resourced across the board. The fundamental challenge is that gangs offer young men immediate material benefits, social belonging, status, and protection that the state has been unable to provide through legitimate channels.
 
-> *→ **Extended Coverage:** For comprehensive analysis of gang violence within the child protection system — including the gang-to-juvenile-justice pipeline, gang recruitment of children, and the child protection and violent extremism interface — see **Part IV: Child Protection and Child Rights, §4.97** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of gang violence within the child protection system – including the gang-to-juvenile-justice pipeline, gang recruitment of children, and the child protection and violent extremism interface – see **Part IV: Child Protection and Child Rights, §4.97** of this encyclopedia.*
 
 ---
 
@@ -190,7 +190,7 @@ The consequences of high divorce rates ripple across multiple social policy doma
 
 Despite the scale and consequences of divorce in the Maldives, Ahmed and Riyaz (2024) note that "systematic studies on the high divorce rate in the Maldives are scarce," and "none of these studies addresses the root cause of the high divorce rate."[^42] The mandatory Marriage Awareness Programme under the Family Court Regulation exists in law but its effectiveness has not been systematically evaluated. Relationship counselling is not available as a public service in most islands. Premarital education programmes are absent or minimal. The policy response to divorce in the Maldives remains reactive rather than preventive, focused on managing the consequences of marital breakdown rather than addressing its structural causes -- congested housing, youth unemployment, inadequate family support systems, and the normalisation of serial marriage.
 
-> *→ **Extended Coverage:** For comprehensive analysis of divorce impacts on children — including custody asymmetries, maintenance enforcement failures, and the child protection-Family Court interface — see **Part IV: Child Protection and Child Rights, §4.99** of this encyclopedia. For full structural gender analysis of the Family Act and divorce law, see **Part V: Gender, GBV, and Women's Empowerment, §5.115**.*
+> *→ **Extended Coverage:** For comprehensive analysis of divorce impacts on children – including custody asymmetries, maintenance enforcement failures, and the child protection-Family Court interface – see **Part IV: Child Protection and Child Rights, §4.99** of this encyclopedia. For full structural gender analysis of the Family Act and divorce law, see **Part V: Gender, GBV, and Women's Empowerment, §5.115**.*
 
 ---
 
@@ -264,7 +264,7 @@ The digital divide in the Maldives maps directly onto the island-urban divide ex
 
 ## 15.7 Social Work Professionalisation
 
-### The Workforce Crisis
+### Workforce Shortages
 
 Every section of this encyclopedia has identified the shortage of qualified social workers as a fundamental constraint on social service delivery. Whether the issue is child protection, domestic violence response, disability services, elder care, substance abuse treatment, or P/CVE interventions, the frontline reality is the same: too few workers, inadequately trained, poorly compensated, spread across too many islands, carrying caseloads that make meaningful engagement with vulnerable individuals and families impossible.
 
@@ -325,7 +325,7 @@ The path toward a professional social work system requires several concurrent re
 
 ## 15.8 Island-Urban Disparities in Service Access
 
-### The Fundamental Geographic Challenge
+### Geographic Barriers to Service Delivery
 
 The Maldives' geography imposes a service delivery challenge that is unique in its scale and complexity. Of approximately 1,190 islands, 187 are inhabited, spread across 26 natural atolls (organised into 20 administrative atolls). The population ranges from Male' with approximately 250,000 people to islands with fewer than 200 residents. This extreme variation in population size, combined with geographic isolation, means that the per-capita cost of service delivery on small outer islands is many multiples of what it costs in Male' -- and yet the populations on those islands have the same constitutional entitlements to healthcare, education, justice, and social protection.
 
@@ -400,7 +400,7 @@ Beyond fiscal constraints, councils face severe capacity limitations. Island Cou
 
 The gap between the decentralisation Act's aspiration and the reality of council capacity creates a paradox: the communities most in need of effective social services -- small, remote islands with limited economic opportunities and significant social challenges -- are precisely those whose councils have the least capacity to deliver them.
 
-### The Coordination Challenge
+### Coordination Across Sectors
 
 Decentralisation in the Maldives has produced a complex governance landscape in which central government ministries, independent commissions (HRCM, Anti-Corruption Commission), autonomous agencies (NSPA, NCTC), atoll councils, island councils, city councils, and WDCs all have overlapping responsibilities for aspects of social service delivery. The coordination mechanisms between these layers are underdeveloped, leading to confusion about responsibilities, duplication of some functions, and gaps in others.
 
@@ -422,7 +422,7 @@ Effective decentralisation of social services requires:
 
 ---
 
-## Conclusion: The Interconnected Challenge
+## Conclusion
 
 The nine issues examined in this chapter are not separate problems requiring separate solutions. They are manifestations of a common set of structural challenges: a small, geographically fragmented nation attempting to build comprehensive social service systems with limited fiscal resources, a thin human capital base, and governance structures that are still maturing after the democratic transition of 2008.
 

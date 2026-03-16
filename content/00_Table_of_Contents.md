@@ -2,7 +2,7 @@
 ## A Definitive Reference for the Ministry of Social and Family Development
 
 **Compiled for the Social Ministry Policy Department, Research Division, and Case Management Teams**
-**Version 1.0 — March 2026**
+**Version 1.0 – March 2026**
 
 ---
 
@@ -39,14 +39,14 @@
 - 2.18 Shariah Law and Its Interaction with Social Legislation
 
 ### PART III: INSTITUTIONAL ARCHITECTURE AND GOVERNANCE
-- 3.1 Ministry of Social and Family Development (MoSFD) — Structure and Mandate
+- 3.1 Ministry of Social and Family Development (MoSFD) – Structure and Mandate
 - 3.2 National Social Protection Agency (NSPA)
 - 3.3 Child and Family Protection Services (CFPS)
-- 3.4 Family and Children Service Centres (FCSCs) — Atoll Level
+- 3.4 Family and Children Service Centres (FCSCs) – Atoll Level
 - 3.5 National Drug Agency (NDA)
 - 3.6 Human Rights Commission of the Maldives (HRCM)
 - 3.7 Children's Ombudsperson
-- 3.8 Maldives Police Service — Family and Child Protection Department
+- 3.8 Maldives Police Service – Family and Child Protection Department
 - 3.9 Local Government Authority and Decentralised Service Delivery
 - 3.10 Council for the Protection of the Rights of the Child
 - 3.11 Women's Development Committees (WDCs)
@@ -59,15 +59,15 @@
 - 4.2 Legal Framework: From Law 9/91 to CRPA 2019
 - 4.3 Definitions of Child Maltreatment Under Maldivian Law
 - 4.4 Child Protection Case Management and Procedures
-- 4.5 Prevalence and Forms of Child Abuse — Research Evidence
+- 4.5 Prevalence and Forms of Child Abuse – Research Evidence
 - 4.6 Child Sexual Abuse: Patterns, Legal Responses, and Challenges
 - 4.7 Child Labour in the Maldives
-- 4.8 Children Born Out of Wedlock — Legal Status and Social Stigma
+- 4.8 Children Born Out of Wedlock – Legal Status and Social Stigma
 - 4.9 Juvenile Justice: Rehabilitation vs. Retribution
 - 4.10 Alternative Care: Foster Care, Institutional Care, and Kinship Care
 - 4.11 The Child Helpline (1412) and Mandatory Reporting
-- 4.12 Corporal Punishment — Legal Reform and Ongoing Challenges
-- 4.13 Child Marriage — Prevalence, Law, and Prevention Efforts
+- 4.12 Corporal Punishment – Legal Reform and Ongoing Challenges
+- 4.13 Child Marriage – Prevalence, Law, and Prevention Efforts
 - 4.14 Child Poverty and Multidimensional Deprivation
 - 4.15 Children and Climate Vulnerability
 - 4.16 Social Worker Workforce and Capacity Challenges
@@ -78,20 +78,20 @@
 - 5.1 Historical Context of Gender Relations in the Maldives
 - 5.2 Legal Framework for Gender Equality
 - 5.3 Gender-Based Violence: Prevalence and Patterns
-- 5.4 Domestic Violence — The 2006 and 2007 National Studies
+- 5.4 Domestic Violence – The 2006 and 2007 National Studies
 - 5.5 GBV During COVID-19
 - 5.6 Female Genital Mutilation/Cutting (FGM/C)
 - 5.7 Sexual and Reproductive Health and Rights
 - 5.8 Women's Economic Participation and Labour Force Disparities
 - 5.9 Women in Political Leadership and Decision-Making
 - 5.10 Gender-Responsive Budgeting and Tax Policy
-- 5.11 Women's Development Committees — Assessment and Effectiveness
+- 5.11 Women's Development Committees – Assessment and Effectiveness
 - 5.12 CEDAW Compliance and Reporting
-- 5.13 Beijing Platform for Action — Progress and Challenges
+- 5.13 Beijing Platform for Action – Progress and Challenges
 - 5.14 Research Findings and Evidence Base
 
 ### PART VI: DISABILITY AND INCLUSIVE SOCIAL PROTECTION
-- 6.1 Disability Prevalence in the Maldives — Census and Survey Data
+- 6.1 Disability Prevalence in the Maldives – Census and Survey Data
 - 6.2 Disability Act 2010 and Implementing Regulations
 - 6.3 National Registry of Persons with Disabilities
 - 6.4 Disability Allowance and Benefits
@@ -105,10 +105,10 @@
 - 6.12 Research Evidence and Recommendations
 
 ### PART VII: ELDERLY CARE AND POPULATION AGEING
-- 7.1 Demographic Transition — Ageing Trends and Projections
+- 7.1 Demographic Transition – Ageing Trends and Projections
 - 7.2 Legal and Policy Framework for the Elderly
 - 7.3 Elderly Allowance (Senior Citizen Pension)
-- 7.4 Institutional Care — Guraidhoo and Other Facilities
+- 7.4 Institutional Care – Guraidhoo and Other Facilities
 - 7.5 Home Care and Community-Based Support
 - 7.6 Health Needs of the Elderly Population
 - 7.7 MIPAA Implementation and Review
@@ -124,7 +124,7 @@
 - 8.4 Prevalence, Patterns, and Demographics of Drug Use
 - 8.5 Drug Treatment and Rehabilitation Services
 - 8.6 National Standards for Drug Treatment
-- 8.7 National Drug Agency — Structure and Programs
+- 8.7 National Drug Agency – Structure and Programs
 - 8.8 Drug-Related Crime and Gang Violence
 - 8.9 Harm Reduction Approaches and Debates
 - 8.10 Drug Use and Youth Vulnerability
@@ -136,12 +136,12 @@
 - 9.1 National Mental Health Policy 2015–2025
 - 9.2 Mental Health Service Delivery Architecture
 - 9.3 Prevalence of Mental Health Conditions
-- 9.4 Youth Mental Health — Assessment and Evidence
+- 9.4 Youth Mental Health – Assessment and Evidence
 - 9.5 Psychosocial Support and Counselling Services
-- 9.6 Suicide and Self-Harm — Data and Prevention
+- 9.6 Suicide and Self-Harm – Data and Prevention
 - 9.7 Intersection with Substance Abuse
 - 9.8 COVID-19 and Mental Health Impacts
-- 9.9 Workforce Capacity — Psychiatrists, Psychologists, and Counsellors
+- 9.9 Workforce Capacity – Psychiatrists, Psychologists, and Counsellors
 - 9.10 Stigma, Cultural Barriers, and Help-Seeking Behaviour
 - 9.11 Research Evidence and Recommendations
 
@@ -149,7 +149,7 @@
 - 10.1 Education Act 2020 and Governance Framework
 - 10.2 Historical Evolution of the Education System
 - 10.3 Primary, Secondary, and Higher Secondary Education
-- 10.4 Higher Education — MNU, IUM, and Private Institutions
+- 10.4 Higher Education – MNU, IUM, and Private Institutions
 - 10.5 Technical and Vocational Education and Training (TVET)
 - 10.6 Inclusive Education and Special Needs
 - 10.7 Education Quality, Access, and Equity
@@ -162,30 +162,30 @@
 
 ### PART XI: HEALTH SYSTEMS AND SOCIAL DETERMINANTS OF HEALTH
 - 11.1 Health Master Plan 2016–2025
-- 11.2 Healthcare Delivery Architecture — Tertiary, Regional, Atoll, Island
-- 11.3 Aasandha — Universal Health Insurance
+- 11.2 Healthcare Delivery Architecture – Tertiary, Regional, Atoll, Island
+- 11.3 Aasandha – Universal Health Insurance
 - 11.4 Reproductive, Maternal, Newborn, Child, and Adolescent Health (RMNCAH)
-- 11.5 Non-Communicable Diseases — Burden and Response
+- 11.5 Non-Communicable Diseases – Burden and Response
 - 11.6 Nutrition and Food Security
 - 11.7 Tobacco Control
 - 11.8 Physical Activity and Obesity
 - 11.9 WHO Country Cooperation Strategies
-- 11.10 Health Workforce — Distribution and Challenges
+- 11.10 Health Workforce – Distribution and Challenges
 - 11.11 Regional Hospital Decentralisation
 - 11.12 Corruption Vulnerabilities in the Health Sector
-- 11.13 Thalassaemia — National Prevention Programme
-- 11.14 COVID-19 — Response and Social Impacts
+- 11.13 Thalassaemia – National Prevention Programme
+- 11.14 COVID-19 – Response and Social Impacts
 - 11.15 Research Evidence
 
 ### PART XII: HOUSING, POVERTY, AND ECONOMIC VULNERABILITY
-- 12.1 Poverty and Inequality — Trends and Measurement
+- 12.1 Poverty and Inequality – Trends and Measurement
 - 12.2 Multidimensional Child Poverty
 - 12.3 Housing Policy and the Housing Crisis
-- 12.4 Greater Male Region — Housing Market Analysis
+- 12.4 Greater Male Region – Housing Market Analysis
 - 12.5 Population Concentration and Internal Migration
 - 12.6 Household Income and Expenditure Surveys
 - 12.7 Labour Market and Employment Challenges
-- 12.8 COVID-19 Economic Impacts — Livelihood Assessments
+- 12.8 COVID-19 Economic Impacts – Livelihood Assessments
 - 12.9 Social Disparities Across Atolls and Islands
 - 12.10 Fisheries Communities and Economic Vulnerability
 - 12.11 Research Evidence and Policy Recommendations
@@ -193,7 +193,7 @@
 ### PART XIII: SOCIAL PROTECTION SYSTEMS AND PROGRAMS
 - 13.1 Overview of the Social Protection System
 - 13.2 National Social Protection Framework 2022–2026
-- 13.3 Aasandha (Universal Health Insurance) — Expenditure and Coverage
+- 13.3 Aasandha (Universal Health Insurance) – Expenditure and Coverage
 - 13.4 Single Parent Allowance
 - 13.5 Foster Parent Allowance
 - 13.6 Disability Allowance
@@ -202,17 +202,17 @@
 - 13.9 Income Support During COVID-19
 - 13.10 Husnuvaa (Social Housing) Programs
 - 13.11 Zakat and Islamic Social Protection
-- 13.12 Social Registry and Benefit Management System — World Bank Feasibility
+- 13.12 Social Registry and Benefit Management System – World Bank Feasibility
 - 13.13 Social Protection Expenditure Review
 - 13.14 Data Integration and Digital Transformation
 - 13.15 Targeting, Leakage, and Reform Challenges
 - 13.16 International Comparisons and Best Practices
 
 ### PART XIV: CLIMATE VULNERABILITY AND SOCIAL RESILIENCE
-- 14.1 Climate Change Context — Existential Threat
+- 14.1 Climate Change Context – Existential Threat
 - 14.2 National Climate Change Policy
 - 14.3 Climate Change and Food Security
-- 14.4 Climate and Health — Social Determinants
+- 14.4 Climate and Health – Social Determinants
 - 14.5 Climate-Related Displacement and Migration
 - 14.6 Disaster Vulnerability in Island Communities
 - 14.7 Gender-Responsive Climate Financing
@@ -222,9 +222,9 @@
 
 ### PART XV: CROSS-CUTTING ISSUES AND EMERGING CHALLENGES
 - 15.1 Violent Extremism and Social Factors
-- 15.2 Human Trafficking — Prevalence and Response
+- 15.2 Human Trafficking – Prevalence and Response
 - 15.3 Gang Violence and Its Social Dimensions
-- 15.4 Divorce — Rates, Causes, and Socioeconomic Analysis
+- 15.4 Divorce – Rates, Causes, and Socioeconomic Analysis
 - 15.5 Human Rights Awareness and Education
 - 15.6 Digital Governance and Social Service Delivery
 - 15.7 Social Work Professionalisation
@@ -260,7 +260,7 @@
 - 17.13 Crime and Justice Statistics (MPS 2021–2024; human trafficking TIP data; prison; HRCM torture complaints)
 - 17.14 Climate Vulnerability and Disaster Statistics
 - 17.15 COVID-19 Socioeconomic Impact Statistics
-- 17.16 Treaty Body Reporting — Required Statistical Indicators (CEDAW, CRC, CRPD indicator frameworks with gap analysis)
+- 17.16 Treaty Body Reporting – Required Statistical Indicators (CEDAW, CRC, CRPD indicator frameworks with gap analysis)
 
 ### PART XVIII: INTERNATIONAL OBLIGATIONS REPORTING DRAFTS
 
@@ -287,7 +287,7 @@
 - Appendix A: Comprehensive Annotated Bibliography (31,536 words, 20 thematic categories)
 - Appendix B: Chronological Timeline of Major Social Legislation
 - Appendix C: Directory of Key Institutions and Agencies
-- Appendix D: Maldivian Scholarly Output — Social Policy Related Research
+- Appendix D: Maldivian Scholarly Output – Social Policy Related Research
 - Appendix E: Key Statistical Tables and Indicators
 - Appendix F: Glossary of Maldivian Social Policy Terms
 - Appendix G: Development Partner Project Mapping (22,099 words, 14 partners with project-level detail)
@@ -308,7 +308,7 @@
 
 | File | Contents | Words |
 |------|----------|-------|
-| `00_Table_of_Contents.md` | This file | — |
+| `00_Table_of_Contents.md` | This file | – |
 | `01_Historical_Evolution.md` | Part I | 3,990 |
 | `02_Legal_Framework.md` | Part II | 7,784 |
 | `03_Institutional_Architecture.md` | Part III | 8,909 |
@@ -324,15 +324,15 @@
 | `13_Social_Protection.md` | Part XIII | 10,038 |
 | `14_Climate_Vulnerability.md` | Part XIV | 8,935 |
 | `15_Cross_Cutting_Issues.md` | Part XV | 9,501 |
-| `16_Appendix_A_Bibliography.md` | Appendix A — Annotated Bibliography | 31,536 |
+| `16_Appendix_A_Bibliography.md` | Appendix A – Annotated Bibliography | 31,536 |
 | `17_Appendices_B_to_F.md` | Appendices B–F | 12,081 |
 | `18_Source_Tracking_Table.md` | Source Tracking Table | 14,815 |
-| `19_Action_Plans_Analysis.md` | Part XVI — Action Plans Analysis | 21,530 |
-| `20_Appendix_G_Development_Partners.md` | Appendix G — Development Partner Project Mapping | 22,099 |
+| `19_Action_Plans_Analysis.md` | Part XVI – Action Plans Analysis | 21,530 |
+| `20_Appendix_G_Development_Partners.md` | Appendix G – Development Partner Project Mapping | 22,099 |
 | `21_Service_Provider_Directory.md` | Geographical Service Provider Directory | 22,236 |
 | `21b_CSO_NGO_Directory.md` | CSO/NGO Directory | 11,636 |
 | `21c_Complete_Service_Data.md` | Complete Island-Level Service Data | 22,645 |
-| `22_CRPD_Periodic_Report_Draft.md` | Part XVIII-A — CRPD Periodic Report Draft | 9,445 |
-| `23_CRC_Periodic_Report_Draft.md` | Part XVIII-B — CRC Periodic Report Draft | 13,563 |
-| `24_CEDAW_Periodic_Report_Draft.md` | Part XVIII-C — CEDAW Periodic Report Draft | 10,496 |
-| `25_Statistics_Compendium.md` | Part XVII — Statistical Compendium | 9,446 |
+| `22_CRPD_Periodic_Report_Draft.md` | Part XVIII-A – CRPD Periodic Report Draft | 9,445 |
+| `23_CRC_Periodic_Report_Draft.md` | Part XVIII-B – CRC Periodic Report Draft | 13,563 |
+| `24_CEDAW_Periodic_Report_Draft.md` | Part XVIII-C – CEDAW Periodic Report Draft | 10,496 |
+| `25_Statistics_Compendium.md` | Part XVII – Statistical Compendium | 9,446 |

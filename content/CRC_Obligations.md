@@ -43,7 +43,7 @@ The Government acknowledges the Committee's Concluding Observations on the fourt
 
 ## 1.2 Key Developments Since the Last Report
 
-The period 2015–2024 represents the most transformative decade in Maldives' child rights legislative and institutional history. The following developments are of particular significance:
+The period 2015–2024 saw substantial legislative and institutional developments in Maldives' child rights framework. The following developments are of particular significance:
 
 **Legislative Reforms (2014–2024):**
 - Enactment of the Child Rights Protection Act (Law No. 18/2019), which for the first time codified comprehensive child rights protections into domestic law, defining the child, establishing the principle of the best interests of the child, mandating child protection procedures, and establishing the legal basis for the Child and Family Protection Service (CFPS).^[Child Rights Protection Act, Law No. 18/2019, People's Majlis, Republic of Maldives]
@@ -59,7 +59,7 @@ The period 2015–2024 represents the most transformative decade in Maldives' ch
 - Establishment of the Juvenile Court as a dedicated specialist court in Malé for children in conflict with the law.
 
 **Key Remaining Challenges:**
-Notwithstanding these advances, significant implementation gaps persist. Outer island communities — comprising over 65% of the country's inhabited islands — remain underserved by child protection infrastructure. The ratio of social workers to child population remains critically low outside Malé. Child marriage continues to occur, particularly in outer atolls. Conviction rates for child sexual abuse remain very low despite high reporting. Corporal punishment in school settings persists informally despite legislative prohibition. The foster care system remains underdeveloped, with most children unable to remain in their family environment placed in institutional care or informal kinship arrangements.
+Notwithstanding these advances, significant implementation gaps persist. Outer island communities – comprising over 65% of the country's inhabited islands – remain underserved by child protection infrastructure. The ratio of social workers to child population remains critically low outside Malé. Child marriage continues to occur, particularly in outer atolls. Conviction rates for child sexual abuse remain very low despite high reporting. Corporal punishment in school settings persists informally despite legislative prohibition. The foster care system remains underdeveloped, with most children unable to remain in their family environment placed in institutional care or informal kinship arrangements.
 
 ## 1.3 Child Population Statistics
 
@@ -150,7 +150,7 @@ The **Child and Family Protection Service (CFPS)**, operating under MoSFD, serve
 
 **Family and Children Service Centres (FCSCs)** operate in all 20 administrative atolls and in Malé City. Each FCSC serves as the primary child protection interface at the atoll level, receiving referrals, conducting assessments, managing cases, and coordinating with local authorities, schools, health facilities and police. As of December 2024, 24 FCSCs are operational, including dedicated centres in Addu City and Fuvahmulah City.^[MoSFD, Annual Report 2024]
 
-A key structural challenge is that many inhabited islands — of which there are 187 — are served only at the atoll capital level. Islands without FCSCs or resident social workers must rely on hotline referrals, remote case management, and periodic visits from atoll FCSC staff. This geographic constraint represents the most significant operational gap in the child protection system.^[Rogers, Ali & Naeem, Child Protection Systems in Maldives: A Systems Analysis, 2025]
+A key structural challenge is that many inhabited islands – of which there are 187 – are served only at the atoll capital level. Islands without FCSCs or resident social workers must rely on hotline referrals, remote case management, and periodic visits from atoll FCSC staff. This geographic constraint represents the most significant operational gap in the child protection system.^[Rogers, Ali & Naeem, Child Protection Systems in Maldives: A Systems Analysis, 2025]
 
 ### Role of the Human Rights Commission of Maldives (HRCM)
 
@@ -170,7 +170,7 @@ A successor **National Child Protection Strategy (2025–2030)** is currently in
 
 The Government acknowledges the Committee's consistent concern regarding the adequacy of budget allocations for child welfare services. Total expenditure on child protection and social welfare services has increased significantly over the reporting period, though the Government recognises that increases have not kept pace with the expanding mandate of the child protection system following the 2019 legislative reforms.
 
-MoSFD's overall budget increased from MVR 180 million in 2015 to MVR 420 million in 2024, a 133% nominal increase. However, the proportion allocated specifically to child protection services — as distinct from broader social protection and family welfare — remains difficult to disaggregate precisely due to integrated budget lines. The Government is working to develop child-sensitive budgeting frameworks that will allow more precise tracking of child-specific expenditure.^[Ministry of Finance, Budget Estimates 2015–2024]
+MoSFD's overall budget increased from MVR 180 million in 2015 to MVR 420 million in 2024, a 133% nominal increase. However, the proportion allocated specifically to child protection services – as distinct from broader social protection and family welfare – remains difficult to disaggregate precisely due to integrated budget lines. The Government is working to develop child-sensitive budgeting frameworks that will allow more precise tracking of child-specific expenditure.^[Ministry of Finance, Budget Estimates 2015–2024]
 
 Key budget allocations relevant to children include:
 - Aasandha universal health insurance (covering all children): MVR 1.2 billion annually
@@ -258,7 +258,7 @@ The Constitution of Maldives (2008) guarantees equality before the law and prohi
 
 The principle of the best interests of the child (*maslahat al-tifl*) is now codified as a primary consideration in all decisions affecting children under Article 6 of the Child Rights Protection Act (2019). This principle must be applied by all government bodies, courts, institutions and private entities when taking decisions that affect children.
 
-In judicial proceedings, the Family Court and Juvenile Court are required to conduct a best interests assessment in all cases involving children. However, the operationalisation of the best interests principle in practice — particularly in outer island settings where decisions may be made by local officials without formal training in child rights — remains a challenge. The Government has developed best interests assessment tools and training materials for FCSCs and is working to build capacity of court officials and local government officers.^[MoSFD, Best Interests Assessment Framework, 2022]
+In judicial proceedings, the Family Court and Juvenile Court are required to conduct a best interests assessment in all cases involving children. However, the operationalisation of the best interests principle in practice – particularly in outer island settings where decisions may be made by local officials without formal training in child rights – remains a challenge. The Government has developed best interests assessment tools and training materials for FCSCs and is working to build capacity of court officials and local government officers.^[MoSFD, Best Interests Assessment Framework, 2022]
 
 In child protection cases, CFPS case management protocols require a formal best interests determination before any decision to separate a child from their family or place a child in alternative care. However, monitoring of compliance with this requirement outside Malé remains limited by supervision and data collection constraints.
 
@@ -266,7 +266,7 @@ In child protection cases, CFPS case management protocols require a formal best 
 
 The Constitution guarantees the right to life and to physical integrity. Child mortality indicators have improved significantly over the reporting period. The infant mortality rate declined from approximately 12 per 1,000 live births in 2010 to 7.1 per 1,000 in 2022, reflecting improvements in neonatal care, the universal health insurance system (Aasandha), and geographic expansion of health services through the health network.^[Ministry of Health, Health Management Information System, 2022]
 
-**Child deaths from violence** — including deaths resulting from child abuse or neglect — are not systematically tracked in a disaggregated manner, representing a data gap. The Government is working to strengthen death review mechanisms, including the establishment of a Child Death Review Committee within MoSFD, to identify preventable child deaths and systemic risk factors.
+**Child deaths from violence** – including deaths resulting from child abuse or neglect – are not systematically tracked in a disaggregated manner, representing a data gap. The Government is working to strengthen death review mechanisms, including the establishment of a Child Death Review Committee within MoSFD, to identify preventable child deaths and systemic risk factors.
 
 **Drug-related mortality among youth** is an emerging concern. The National Drug Agency (NDA) 2021 survey estimated over 7,000 active drug users in Maldives, with youth aged 15–24 representing a significant and growing proportion. The relationship between drug use and child development outcomes is a priority area for government action.^[National Drug Agency, National Drug Use Survey, 2021]
 
@@ -293,7 +293,7 @@ Maldives has achieved near-universal birth registration for children born in hea
 
 However, challenges remain for specific groups:
 - **Children born to undocumented migrant workers:** These children face significant barriers to birth registration. Without registered birth certificates, they cannot access education, healthcare or social services in the normal way. The Government is reviewing its policies on birth registration for children of undocumented migrants, with the principle of universal birth registration informing policy deliberations.^[Vulnerability Mapping: Migrant Children and Statelessness, 2020]
-- **Children born outside health facilities:** While rare — the vast majority of births occur in health facilities — home births in remote islands can result in delayed registration. Mobile registration services operate in some atolls.
+- **Children born outside health facilities:** While rare – the vast majority of births occur in health facilities – home births in remote islands can result in delayed registration. Mobile registration services operate in some atolls.
 - **Stateless children:** A small number of children are at risk of statelessness as a result of their parents' legal status. The Government is engaged with UNHCR on addressing statelessness risks.
 
 ## 4.2 Name and Nationality (Article 8)
@@ -302,7 +302,7 @@ Children have the right to a name from birth under Maldivian law. Maldivian chil
 
 ## 4.3 Freedom of Expression, Thought, Conscience and Religion (Articles 13–14)
 
-As noted in Cluster 1, Maldives maintains its reservation to Article 14 concerning freedom of religion and conscience in light of Islam's status as the state religion. In practice, all Maldivian citizens — including children — are constitutionally required to be Muslim, and the practice of other religions is prohibited under Article 9 of the Constitution.
+As noted in Cluster 1, Maldives maintains its reservation to Article 14 concerning freedom of religion and conscience in light of Islam's status as the state religion. In practice, all Maldivian citizens – including children – are constitutionally required to be Muslim, and the practice of other religions is prohibited under Article 9 of the Constitution.
 
 The Government recognises the tension between this constitutional provision and the universality of Article 14 as interpreted by the Committee, and acknowledges the Committee's previous recommendation to withdraw the reservation. The Government reiterates that this reservation reflects the deepest constitutional foundations of the Maldivian state and that any change would require constitutional reform.
 
@@ -430,7 +430,7 @@ Separation of a child from their parents is a measure of last resort under Maldi
 
 Emergency protective orders (EPOs) can be issued by CFPS and confirmed by the Family Court within 24 hours. Longer-term placement orders require Family Court approval following a full best interests assessment. During the reporting period, FCSCs have progressively strengthened their procedures for seeking court orders and for ensuring regular review of children in out-of-home placements.
 
-The number of children formally placed in out-of-home care through court orders has increased over the reporting period as the child protection system has matured and developed capacity to identify and act on protection risks. However, the Government acknowledges that many children remain in informal family arrangements — with extended family members — without formal legal status or oversight, representing a governance gap in the alternative care framework.
+The number of children formally placed in out-of-home care through court orders has increased over the reporting period as the child protection system has matured and developed capacity to identify and act on protection risks. However, the Government acknowledges that many children remain in informal family arrangements – with extended family members – without formal legal status or oversight, representing a governance gap in the alternative care framework.
 
 ## 6.3 Family Reunification (Article 10)
 
@@ -444,7 +444,7 @@ Under Islamic family law as applied in Maldives, fathers are obligated to provid
 
 **Current situation:** Maldives does not have a developed foster care system in the formal sense. Children who cannot remain with their parents are primarily placed through two mechanisms:
 
-1. **Kinship care:** Placement with extended family members (grandparents, aunts/uncles) — the predominant form of alternative care in practice, operating largely informally without formal legal oversight
+1. **Kinship care:** Placement with extended family members (grandparents, aunts/uncles) – the predominant form of alternative care in practice, operating largely informally without formal legal oversight
 2. **Residential institutional care:** A very small number of children are placed in residential facilities
 
 Institutional care options in Maldives are limited. The **Kudakudhinge Hiyaa** (Children's Home) in Malé operates as the primary residential facility for children who cannot be cared for within family settings. Capacity is limited, and the facility has been subject to monitoring visits by the HRCM and the Children's Ombudsperson. The Government is committed to a care reform process that shifts toward family-based care, consistent with the UN Guidelines for the Alternative Care of Children (2010).^[United Nations Guidelines for the Alternative Care of Children, GA Resolution 64/142, 2010]
@@ -488,7 +488,7 @@ The most significant challenges for children with disabilities include:
 - **Geographic access:** Children in outer islands have very limited access to specialist services without travelling to Malé, which is costly and disruptive for families
 - **Inclusive education implementation:** While inclusive education policy exists, implementation varies widely; many schools lack accessible infrastructure, trained SEN staff, and adapted learning materials
 - **Data limitations:** Disaggregated data on educational attendance, health outcomes and social participation for children with disabilities is limited
-- **Social stigma:** Despite legal protections, children with some forms of disability — particularly intellectual disabilities and psychosocial disabilities — continue to face social stigma in some communities
+- **Social stigma:** Despite legal protections, children with some forms of disability – particularly intellectual disabilities and psychosocial disabilities – continue to face social stigma in some communities
 - **Mental health services:** Almost no specialist child mental health services exist outside Malé
 
 ## 7.2 Health and Health Services (Articles 24, 27)
@@ -497,12 +497,12 @@ The most significant challenges for children with disabilities include:
 
 The **Aasandha** universal health insurance scheme, introduced in 2012, provides comprehensive health coverage for all Maldivian citizens including all children. Aasandha covers hospital inpatient care, outpatient consultations, diagnostic services, and approved medications at no cost to insured persons at public health facilities. For children, this means that access to healthcare is effectively free at the point of use across the national health network.^[Aasandha Universal Health Insurance, MoH Overview, 2022]
 
-Aasandha has had a transformative impact on health-seeking behaviour and health outcomes for children, contributing to the significant decline in infant and child mortality observed over the reporting period.
+Aasandha has had a substantial impact on health-seeking behaviour and health outcomes for children, contributing to the significant decline in infant and child mortality observed over the reporting period.
 
 ### Health Infrastructure
 
 The Ministry of Health operates a tiered health infrastructure comprising:
-- Indira Gandhi Memorial Hospital (IGMH) — the national referral hospital in Malé
+- Indira Gandhi Memorial Hospital (IGMH) – the national referral hospital in Malé
 - Regional hospitals in the six regional centres (Addu City, Kulhudhuffushi, Naifaru, Thinadhoo, Fuvahmulah)
 - Atoll hospitals in each atoll capital
 - Health centres on inhabited islands above a population threshold
@@ -526,7 +526,7 @@ The Government's **National School Health Programme** includes school-based nutr
 
 Adolescent health is an area of significant government focus during the reporting period. Key adolescent health concerns include:
 
-**Sexual and reproductive health:** Comprehensive adolescent sexual and reproductive health (ASRH) education has been a contested issue in Maldives. The national school curriculum includes some reproductive health content within science and Islamic studies, but comprehensive sexuality education — in the sense understood by international public health bodies — has not been adopted due to social and religious sensitivities. Teen pregnancy, while not a major national public health statistic in aggregate, remains a concern in some outer island communities and among school dropout populations.
+**Sexual and reproductive health:** Comprehensive adolescent sexual and reproductive health (ASRH) education has been a contested issue in Maldives. The national school curriculum includes some reproductive health content within science and Islamic studies, but comprehensive sexuality education – in the sense understood by international public health bodies – has not been adopted due to social and religious sensitivities. Teen pregnancy, while not a major national public health statistic in aggregate, remains a concern in some outer island communities and among school dropout populations.
 
 **Mental health:** Adolescent mental health is a growing and largely unaddressed need. The demand for child and adolescent mental health services significantly exceeds supply. The national hospital (IGMH) has a limited adult psychiatry service; specialist child and adolescent psychiatry is effectively unavailable. The Government is developing a mental health policy that includes child and adolescent components, and a small number of school-based counselling posts have been established, though coverage is far from universal.^[Ministry of Health, National Mental Health Policy, 2023 (draft)]
 
@@ -542,7 +542,7 @@ The Household Income and Expenditure Survey (HIES 2019–20) estimated that appr
 
 The Maldives faces a serious drug problem that has significant implications for children. Drug use disproportionately affects youth, with the NDA 2021 survey estimating that over 7,000 individuals are actively using drugs, with the 15–29 age group representing the largest user cohort.^[National Drug Agency, National Drug Use Survey, 2021]
 
-The primary substances of concern are heroin (brown sugar), methamphetamine, and cannabis. Drug use is associated with gang involvement, school dropout, criminal activity and family breakdown — all of which have direct adverse impacts on child welfare.
+The primary substances of concern are heroin (brown sugar), methamphetamine, and cannabis. Drug use is associated with gang involvement, school dropout, criminal activity and family breakdown – all of which have direct adverse impacts on child welfare.
 
 Children are affected both as users themselves (older adolescents) and as children in families affected by parental drug use. Parental substance abuse is a significant contributing factor in child abuse and neglect cases managed by CFPS and FCSCs.
 
@@ -597,7 +597,7 @@ The MoE has implemented a National Curriculum Framework and national assessment 
 
 The national school curriculum is guided by principles that encompass both academic achievement and values development. The Education Act (2021) specifies that education shall develop children's: full mental and physical potential; respect for Islamic values; respect for human rights and fundamental freedoms; national identity and civic responsibility; environmental awareness; and preparation for adult life and economic participation.^[Education Act, 2021, Article 6]
 
-The curriculum balance between Islamic studies and secular academic subjects has been a subject of public discourse. The Government is committed to a curriculum that prepares children both for full participation in Maldivian society — rooted in Islamic values — and for engagement with a globalised world.
+The curriculum balance between Islamic studies and secular academic subjects has been a subject of public discourse. The Government is committed to a curriculum that prepares children both for full participation in Maldivian society – rooted in Islamic values – and for engagement with a globalised world.
 
 Human rights education is incorporated into the social studies curriculum. The MoE, in partnership with the HRCM, has developed child rights modules incorporated into the curriculum at primary and secondary levels.
 
@@ -630,7 +630,7 @@ Child labour in Maldives is not a large-scale phenomenon in the formal economy, 
 
 **Fishing industry:** Children from fishing families may assist with fishing activities from an early age. Participation in family fishing is culturally embedded and not considered labour in the traditional sense, but can interfere with schooling and expose children to hazardous conditions. MPS data recorded 24 potential child labour cases in 2022 and 23 in 2021, though these statistics likely represent only a fraction of the actual situation.^[Maldives Police Service, Crime Statistics 2022]
 
-**Domestic work:** Children engaged in unpaid domestic labour — including in their own homes — is largely invisible to monitoring systems. In some cases, children from outer islands are brought to urban centres, including Malé and resort workers' accommodation, to work as domestic helpers, in conditions that may amount to trafficking and forced labour. This form of child labour is very difficult to detect and monitor.
+**Domestic work:** Children engaged in unpaid domestic labour – including in their own homes – is largely invisible to monitoring systems. In some cases, children from outer islands are brought to urban centres, including Malé and resort workers' accommodation, to work as domestic helpers, in conditions that may amount to trafficking and forced labour. This form of child labour is very difficult to detect and monitor.
 
 **Tourism support economy:** Children may be engaged in small-scale vending, tourism support activities, or informal service work in resort-adjacent communities. The formal resort sector, regulated by the Tourism Ministry, has its own employment standards that generally preclude child labour, but the informal tourism economy is less well monitored.
 
@@ -659,8 +659,8 @@ The Juvenile Justice Act (Law No. 19/2019) represents a fundamental restructurin
 **Diversion:** The Juvenile Justice Act establishes a formal diversion programme for first-time and minor offenders. Eligible children are diverted from prosecution and instead undergo a structured programme that may include counselling, family conferencing, community service, and supervised activities. Diversion is managed by the DJJ with CFPS involvement. In the first three years of operation (2020–2022), hundreds of children were diverted from prosecution through this mechanism.
 
 **Rehabilitation Facilities:**
-- **Imaduddin School for Boys** — the secure rehabilitation facility for male juvenile offenders. The facility provides education, vocational training, sports, religious education, and psychosocial support. Capacity is limited and the physical environment has been an ongoing concern, with the HRCM noting in 2023 that infrastructure improvements were needed.^[Human Rights Commission of Maldives, Monitoring Report on Juvenile Facilities, 2023]
-- **Fiyavathi Rehabilitation Centre** — the rehabilitation facility for female juvenile offenders. Given the small number of girls in conflict with the law at any given time, this facility also serves girls in need of protective care who cannot be managed in community settings. The dual function of the facility — rehabilitation for offenders and protection for vulnerable girls — raises concerns about the appropriateness of the environment for non-offending children.
+- **Imaduddin School for Boys** – the secure rehabilitation facility for male juvenile offenders. The facility provides education, vocational training, sports, religious education, and psychosocial support. Capacity is limited and the physical environment has been an ongoing concern, with the HRCM noting in 2023 that infrastructure improvements were needed.^[Human Rights Commission of Maldives, Monitoring Report on Juvenile Facilities, 2023]
+- **Fiyavathi Rehabilitation Centre** – the rehabilitation facility for female juvenile offenders. Given the small number of girls in conflict with the law at any given time, this facility also serves girls in need of protective care who cannot be managed in community settings. The dual function of the facility – rehabilitation for offenders and protection for vulnerable girls – raises concerns about the appropriateness of the environment for non-offending children.
 
 **Sentencing:** The Juvenile Justice Act provides a menu of child-appropriate sentencing options including formal caution, conditional discharge, supervision orders, community service, probation, and as a last resort, placement in a rehabilitation facility. Imprisonment in an adult facility is prohibited for children under 18.
 
@@ -668,13 +668,13 @@ The Juvenile Justice Act (Law No. 19/2019) represents a fundamental restructurin
 
 **Legal representation:** Children in conflict with the law are entitled to legal representation under the Juvenile Justice Act, but legal aid for children is extremely limited in practice. The public defender system is under-resourced, and many children appear in Juvenile Court without adequate legal counsel, particularly in cases where family resources are limited. The Government is developing a specialist juvenile legal aid programme in partnership with the Attorney General's Office.^[Rogers, Ali & Naeem, 2025]
 
-**Remand detention:** Pre-trial detention of children remains a concern. While the Juvenile Justice Act limits pre-trial detention and prioritises bail and supervision orders, practical pressures — including the difficulty of securing appropriate community supervision arrangements — can result in children spending extended periods in pre-trial detention. The DJJ and Juvenile Court are working to reduce remand detention periods.
+**Remand detention:** Pre-trial detention of children remains a concern. While the Juvenile Justice Act limits pre-trial detention and prioritises bail and supervision orders, practical pressures – including the difficulty of securing appropriate community supervision arrangements – can result in children spending extended periods in pre-trial detention. The DJJ and Juvenile Court are working to reduce remand detention periods.
 
-**Children in gangs:** Gang involvement among youth is a significant and growing concern in Malé and to a lesser extent in other urban centres. The gangs involved in drug distribution, extortion and violence recruit young people — sometimes children — as members. Gang membership intersects with drug use, school dropout, and exposure to violence. The Government's response involves both enforcement action through MPS and prevention/intervention programmes through MoSFD, DJJ, and NDA. A comprehensive gang prevention strategy is in development.^[Maldives Police Service, Gang and Organised Crime Report, 2022]
+**Children in gangs:** Gang involvement among youth is a significant and growing concern in Malé and to a lesser extent in other urban centres. The gangs involved in drug distribution, extortion and violence recruit young people – sometimes children – as members. Gang membership intersects with drug use, school dropout, and exposure to violence. The Government's response involves both enforcement action through MPS and prevention/intervention programmes through MoSFD, DJJ, and NDA. A comprehensive gang prevention strategy is in development.^[Maldives Police Service, Gang and Organised Crime Report, 2022]
 
-**Recidivism and reintegration:** Data on reoffending rates for children who have completed the diversion programme or been released from rehabilitation facilities is limited. Anecdotal evidence from DJJ and CFPS suggests that reintegration into family and community settings — and avoidance of reoffending — is more successful for children who maintain family connections and who have access to education and employment pathways post-release. Strengthening post-release support is a DJJ priority.
+**Recidivism and reintegration:** Data on reoffending rates for children who have completed the diversion programme or been released from rehabilitation facilities is limited. Anecdotal evidence from DJJ and CFPS suggests that reintegration into family and community settings – and avoidance of reoffending – is more successful for children who maintain family connections and who have access to education and employment pathways post-release. Strengthening post-release support is a DJJ priority.
 
-## 9.3 Children in Situations of Exploitation — Commercial Sexual Exploitation (Articles 34–36)
+## 9.3 Children in Situations of Exploitation – Commercial Sexual Exploitation (Articles 34–36)
 
 Commercial sexual exploitation of children (CSEC) is addressed in Cluster 5 in the context of violence against children. The Government reiterates here that CSEC is criminalised under the Sexual Offences Act (2014) as amended, and that the MPS and Prosecutor General's office treat CSEC as a serious crime. Comprehensive protective measures, including services for child survivors, are provided through CFPS.
 
@@ -686,7 +686,7 @@ A **National Child Sexual Abuse Response Protocol** is being developed by MoSFD 
 
 Maldives is not a conflict-affected state and children in Maldives are not at risk of involvement in armed conflict. The Maldives Defence Force does not recruit persons below 18 years of age.
 
-The Government acknowledges concerns related to the travel of a small number of Maldivian citizens to conflict zones to participate in extremist activities during the reporting period. Where children are affected by this — whether as children of individuals who have left the country for conflict zones, or as adolescents who may be at risk of radicalisation — the Government responds through a combination of Prevent-type programming within the education and community context, and child protection responses through CFPS where specific children are identified as at risk.^[Ministry of Home Affairs, Preventing Violent Extremism National Action Plan, 2022]
+The Government acknowledges concerns related to the travel of a small number of Maldivian citizens to conflict zones to participate in extremist activities during the reporting period. Where children are affected by this – whether as children of individuals who have left the country for conflict zones, or as adolescents who may be at risk of radicalisation – the Government responds through a combination of Prevent-type programming within the education and community context, and child protection responses through CFPS where specific children are identified as at risk.^[Ministry of Home Affairs, Preventing Violent Extremism National Action Plan, 2022]
 
 ## 9.5 Children from Minority or Indigenous Groups (Article 30)
 
@@ -708,11 +708,11 @@ The Committee recommended that Maldives establish 18 as the absolute minimum age
 
 ## Corporal Punishment
 
-The Committee recommended that Maldives explicitly prohibit all forms of corporal punishment in all settings. As described in Cluster 5, the Child Rights Protection Act (2019) has now achieved this legal prohibition. The challenge of ensuring implementation — particularly in the home — remains, and the Government is addressing this through awareness, parenting support and enforcement measures.
+The Committee recommended that Maldives explicitly prohibit all forms of corporal punishment in all settings. As described in Cluster 5, the Child Rights Protection Act (2019) has now achieved this legal prohibition. The challenge of ensuring implementation – particularly in the home – remains, and the Government is addressing this through awareness, parenting support and enforcement measures.
 
 ## Juvenile Justice
 
-The Committee recommended comprehensive juvenile justice reform. As described in Cluster 9, the Juvenile Justice Act (2019) has fundamentally transformed the juvenile justice framework. The Government acknowledges that implementation — particularly regarding legal aid, conditions in rehabilitation facilities, and reintegration support — requires continued investment.
+The Committee recommended comprehensive juvenile justice reform. As described in Cluster 9, the Juvenile Justice Act (2019) has fundamentally transformed the juvenile justice framework. The Government acknowledges that implementation – particularly regarding legal aid, conditions in rehabilitation facilities, and reintegration support – requires continued investment.
 
 ## Birth Registration for Children of Migrant Workers
 
@@ -789,7 +789,7 @@ The Committee recommended strengthening of data collection systems. As described
 **Government Institutions:**
 - Ministry of Social and Family Development (MoSFD)
 - Child and Family Protection Service (CFPS)
-- Family and Children Service Centres (FCSCs) — 24 centres
+- Family and Children Service Centres (FCSCs) – 24 centres
 - Department of Juvenile Justice (DJJ)
 - Juvenile Court
 - Disability and Special Needs Service Centre (DSNSC)
@@ -797,7 +797,7 @@ The Committee recommended strengthening of data collection systems. As described
 - National Drug Agency (NDA)
 - Human Rights Commission of Maldives (HRCM)
 - Office of the Children's Ombudsperson
-- Maldives Police Service — Child Protection Units (CPUs)
+- Maldives Police Service – Child Protection Units (CPUs)
 - Labour Relations Authority (LRA)
 - National Anti-Trafficking Committee
 
@@ -833,11 +833,11 @@ The following consultations were conducted in preparation of this report:
 
 ## CONCLUDING STATEMENT
 
-The Republic of Maldives has made transformative advances in child rights protection over the reporting period. The enactment of the Child Rights Protection Act and the Juvenile Justice Act in 2019 constitutes the most significant legislative achievement in Maldives' child rights history. The expansion of the FCSC network, the establishment of the Department of Juvenile Justice, the operationalisation of the Children's Ombudsperson, and the development of multi-agency coordination mechanisms represent substantial institutional progress.
+The Republic of Maldives has made substantial advances in child rights protection over the reporting period. The enactment of the Child Rights Protection Act and the Juvenile Justice Act in 2019 represents the most comprehensive child rights legislation enacted in the Maldives. The expansion of the FCSC network, the establishment of the Department of Juvenile Justice, the operationalisation of the Children's Ombudsperson, and the development of multi-agency coordination mechanisms represent substantial institutional progress.
 
-At the same time, the Government is acutely aware that legislative and institutional achievements do not automatically translate into improved outcomes for children — particularly for the most vulnerable children in the most remote communities. The persistent implementation gap between law and practice in outer islands, the inadequacy of services for children with disabilities outside Malé, the chronically low conviction rates for child sexual abuse, the continuing phenomenon of child marriage, the underdevelopment of foster care, and the growing challenges of youth drug use and gang involvement all demand sustained government attention and investment.
+At the same time, the Government is acutely aware that legislative and institutional achievements do not automatically translate into improved outcomes for children – particularly for the most vulnerable children in the most remote communities. The persistent implementation gap between law and practice in outer islands, the inadequacy of services for children with disabilities outside Malé, the chronically low conviction rates for child sexual abuse, the continuing phenomenon of child marriage, the underdevelopment of foster care, and the growing challenges of youth drug use and gang involvement all demand sustained government attention and investment.
 
-The Government of Maldives reaffirms its commitment to the Convention on the Rights of the Child and to the rights of every Maldivian child — regardless of where they live, their family circumstances, or their individual characteristics — to protection, participation and development in accordance with their full potential. This report is submitted in that spirit, with acknowledgement of both progress made and work that remains.
+The Government of Maldives reaffirms its commitment to the Convention on the Rights of the Child and to the rights of every Maldivian child – regardless of where they live, their family circumstances, or their individual characteristics – to protection, participation and development in accordance with their full potential. This report is submitted in that spirit, with acknowledgement of both progress made and work that remains.
 
 ---
 

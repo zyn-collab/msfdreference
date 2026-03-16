@@ -31,7 +31,7 @@
 
 5. The State Party acknowledges the importance of meaningful participation of organisations of persons with disabilities (OPDs) in the preparation of periodic reports, consistent with Article 4(3) of the Convention. Consultations were conducted with disability civil society organisations during 2024–2025, building on the multi-stakeholder process used in the preparation of the 2025 Situational Analysis on the Rights of Persons with Disabilities, which was developed in partnership with UNDP Maldives and the UN Partnership to Promote the Rights of Persons with Disabilities (UNPRPD).^[Situational Analysis of the Rights of Persons with Disabilities in the Maldives, UNDP/UNPRPD/MoSFD, January 2025, https://maldives.un.org/sites/default/files/2025-01/Situation-Analysis-of-the-Rights-of-Persons-with-Disabilities-in-the-Maldives-country-report-1.pdf]
 
-6. The State Party acknowledges that the 2025 Situational Analysis identified a significant gap in the systematic participation of persons with psychosocial disabilities in consultation processes. This group remains among the most marginalised, and their exclusion from formal consultation processes is a challenge the State Party commits to addressing in the next reporting cycle. Similarly, women and girls with disabilities were noted to be substantially underrepresented due to restrictions imposed by families.^[UN Geneva Meeting Summary, CRPD 33rd Session — Maldives, August 2025, https://www.ungeneva.org/en/news-media/meeting-summary/2025/08/experts-committee-rights-persons-disabilities-appreciate-efforts]
+6. The State Party acknowledges that the 2025 Situational Analysis identified a significant gap in the systematic participation of persons with psychosocial disabilities in consultation processes. This group remains among the most marginalised, and their exclusion from formal consultation processes is a challenge the State Party commits to addressing in the next reporting cycle. Similarly, women and girls with disabilities were noted to be substantially underrepresented due to restrictions imposed by families.^[UN Geneva Meeting Summary, CRPD 33rd Session – Maldives, August 2025, https://www.ungeneva.org/en/news-media/meeting-summary/2025/08/experts-committee-rights-persons-disabilities-appreciate-efforts]
 
 ### 3. Overview of the Disability Situation in Maldives
 
@@ -41,7 +41,7 @@
 
 9. The dominant disability categories registered in the NDR include physical/mobility impairments, visual impairments, hearing impairments, and intellectual disabilities. Persons with psychosocial (mental health-related) disabilities remain largely absent from administrative data due to gaps in census methodology and the social stigma associated with mental health conditions.^[Global Disability Fund, Maldives Country Brief, May 2025, https://globaldisabilityfund.org/new/wp-content/uploads/2025/05/maldives-country-brief.pdf]
 
-10. The disability profile of Maldives is shaped by its developmental context. Non-communicable diseases (NCDs), consanguineous marriages in geographically isolated communities, inadequate prenatal care in outer islands, and limited rehabilitative services have historically contributed to disability prevalence. Climate vulnerability — including flooding, storm surges, and saltwater intrusion affecting freshwater supplies — disproportionately affects persons with disabilities who have fewer resources to evacuate or adapt.
+10. The disability profile of Maldives is shaped by its developmental context. Non-communicable diseases (NCDs), consanguineous marriages in geographically isolated communities, inadequate prenatal care in outer islands, and limited rehabilitative services have historically contributed to disability prevalence. Climate vulnerability – including flooding, storm surges, and saltwater intrusion affecting freshwater supplies – disproportionately affects persons with disabilities who have fewer resources to evacuate or adapt.
 
 ---
 
@@ -55,7 +55,7 @@
 
 11. Prior to 2010, Maldives had no dedicated legislation on disability rights. The dominant paradigm was charitable and welfare-based, with provision centred on the Reehendi shelter for destitute persons, which also accommodated persons with severe disabilities in conditions that did not meet rights-based standards. Disability was conceptualised primarily through a medical model as a personal impairment requiring institutional care, rather than as a condition arising from the interaction between impairment and attitudinal and environmental barriers.
 
-12. The enactment of the Disability Act (Law No. 8/2010) — formally titled the Act for the Protection of the Rights of Persons with Disabilities and Provision of Financial Assistance — marked the first recognition in Maldivian law of disability as a rights-based concern. The Act adopted language broadly consistent with the social model of disability, recognising the obligations of the State to provide reasonable accommodation, equal opportunities, and non-discrimination in employment and access to services.^[Disability Act (Law No. 8/2010), Republic of Maldives, 2010]
+12. The enactment of the Disability Act (Law No. 8/2010) – formally titled the Act for the Protection of the Rights of Persons with Disabilities and Provision of Financial Assistance – marked the first recognition in Maldivian law of disability as a rights-based concern. The Act adopted language broadly consistent with the social model of disability, recognising the obligations of the State to provide reasonable accommodation, equal opportunities, and non-discrimination in employment and access to services.^[Disability Act (Law No. 8/2010), Republic of Maldives, 2010]
 
 13. However, the Act retained elements of the medical/welfare model, defining disability primarily through medical categorisation, and its implementation through the period 2010–2018 was characterised by weak institutional capacity, limited budgetary allocation, and absence of monitoring mechanisms. The Regulation on Protection of Rights of Persons with Disabilities and Financial Assistance (2011/R-3) established operational procedures for disability certification and allowance payments but did not create robust enforcement mechanisms.^[Regulation 2011/R-3 on Protection of Rights of Persons with Disabilities and Financial Assistance]
 
@@ -67,7 +67,7 @@
 - **Employment Regulation (2024/R-9)**: A dedicated regulation on providing employment opportunities for persons with disabilities, encouraging their hiring across civil service and state-owned enterprises (SOEs).^[Employment Regulation 2024/R-9, Republic of Maldives; UN Geneva Meeting Summary, August 2025]
 - **Education Act (2021)**: Includes provisions for inclusive education and special educational needs, building on the 2013 Inclusive Education Policy.^[Education Act, Republic of Maldives, 2021]
 
-15. The Disability Act (8/2010) is currently undergoing a comprehensive participatory review, announced before the Committee during the initial report examination in August 2025, to address identified gaps and bring domestic legislation closer to full CRPD compliance.^[UN Geneva Meeting Summary, CRPD 33rd Session — Maldives, August 2025]
+15. The Disability Act (8/2010) is currently undergoing a comprehensive participatory review, announced before the Committee during the initial report examination in August 2025, to address identified gaps and bring domestic legislation closer to full CRPD compliance.^[UN Geneva Meeting Summary, CRPD 33rd Session – Maldives, August 2025]
 
 16. The State Party acknowledges that the definition of disability in domestic law does not yet fully reflect the Convention's interactive model (Article 1), and that the prohibition of discrimination on grounds of disability in the Constitution (Article 20) has not been supplemented by robust statutory anti-discrimination provisions with accessible complaints mechanisms and effective remedies.
 
@@ -83,7 +83,7 @@
 
 #### 2019–2025 Developments
 
-19. No standalone anti-discrimination law has been enacted during the reporting period. Anti-discrimination provisions for persons with disabilities remain dispersed across the Disability Act (2010), the Employment Act (2/2008), and constitutional guarantees. This legislative fragmentation means there is no comprehensive, sector-spanning anti-discrimination statute that covers access to goods and services, healthcare, education, and public life — areas the Committee has consistently identified as requiring explicit statutory protection.
+19. No standalone anti-discrimination law has been enacted during the reporting period. Anti-discrimination provisions for persons with disabilities remain dispersed across the Disability Act (2010), the Employment Act (2/2008), and constitutional guarantees. This legislative fragmentation means there is no comprehensive, sector-spanning anti-discrimination statute that covers access to goods and services, healthcare, education, and public life – areas the Committee has consistently identified as requiring explicit statutory protection.
 
 20. The State Party acknowledges the CRPD Committee's concern, expressed during the August 2025 review, that policy implementation remains weak and legal protections are not effectively enforced.^[Global Disability Fund, Maldives Country Brief, May 2025] HRCM has produced disability-focused monitoring reports and receives individual complaints but cannot issue binding remedies. The State Party commits, in the next legislative cycle, to reviewing options for establishing a more effective anti-discrimination enforcement mechanism.
 
@@ -101,7 +101,7 @@
 
 #### 2019–2025 Developments
 
-24. The 2022 Census data confirmed the gender dimension of disability: 55% of the 24,401 persons with disabilities identified are women. Despite this demographic reality, there remains a significant absence of strategies, policies, and disaggregated data specifically addressing women with disabilities — a concern explicitly noted by the CRPD Committee during the August 2025 review.^[UN Geneva Meeting Summary, CRPD 33rd Session — Maldives, August 2025]
+24. The 2022 Census data confirmed the gender dimension of disability: 55% of the 24,401 persons with disabilities identified are women. Despite this demographic reality, there remains a significant absence of strategies, policies, and disaggregated data specifically addressing women with disabilities – a concern explicitly noted by the CRPD Committee during the August 2025 review.^[UN Geneva Meeting Summary, CRPD 33rd Session – Maldives, August 2025]
 
 25. A notable economic inclusion initiative was introduced in 2024: a five-year financial scheme of MVR 100 million to support women entrepreneurs, with 25% of allocations reserved for women with disabilities.^[CRPD/C/MDV/1 State Party Report and UN Geneva Meeting Summary, August 2025] This constitutes the most significant gender-disability intersectional measure of the reporting period.
 
@@ -129,7 +129,7 @@
 
 33. Despite these advances, significant challenges persist. Findings from a 2024 study on inclusive education implementation confirmed that teacher training gaps, inadequate teacher-student ratios, insufficient physical accessibility of school buildings, and attitudinal barriers remain major obstacles.^[Implementation of Inclusive Education in a Selected School in Malé, Maldives: Teachers' Experiences, ResearchGate, 2024, https://researchgate.net/publication/383514987] Children with disabilities in outer islands continue to face severely limited access to SEN support, as specialised teachers and resources remain concentrated in larger urban schools.
 
-34. The Child and Family Protection Service (CFPS), the front-line child protection authority, does not systematically screen for disability when receiving referrals of children at risk, and disability-specific case management protocols for child protection have not been developed. Children with disabilities — particularly those with intellectual or psychosocial disabilities — are at elevated risk of abuse and neglect, yet this vulnerability is not adequately reflected in child protection systems.
+34. The Child and Family Protection Service (CFPS), the front-line child protection authority, does not systematically screen for disability when receiving referrals of children at risk, and disability-specific case management protocols for child protection have not been developed. Children with disabilities – particularly those with intellectual or psychosocial disabilities – are at elevated risk of abuse and neglect, yet this vulnerability is not adequately reflected in child protection systems.
 
 ---
 
@@ -141,11 +141,11 @@
 
 #### 2019–2025 Developments
 
-36. The 2024 Employment Regulation (R-9/2024) includes a mandate for sensitisation programmes targeting employers in the civil service and private sector. As of August 2025, over 350 persons with disabilities had been placed in employment through government awareness and facilitation initiatives.^[UN Geneva Meeting Summary, CRPD 33rd Session — Maldives, August 2025]
+36. The 2024 Employment Regulation (R-9/2024) includes a mandate for sensitisation programmes targeting employers in the civil service and private sector. As of August 2025, over 350 persons with disabilities had been placed in employment through government awareness and facilitation initiatives.^[UN Geneva Meeting Summary, CRPD 33rd Session – Maldives, August 2025]
 
 37. ADDA conducts public awareness programmes on disability rights and conducts training for frontline service providers. However, these activities are not sustained, systematically evaluated, or consistently resourced.
 
-38. The 2025 Situational Analysis identified that social stigma — particularly around mental health conditions and intellectual disabilities — remains a major barrier to school enrolment, employment, and social participation. Families continue to conceal the disability status of household members, particularly girls and women, which contributes to under-registration and exclusion. Disability awareness curricula are not systematically integrated into school education.
+38. The 2025 Situational Analysis identified that social stigma – particularly around mental health conditions and intellectual disabilities – remains a major barrier to school enrolment, employment, and social participation. Families continue to conceal the disability status of household members, particularly girls and women, which contributes to under-registration and exclusion. Disability awareness curricula are not systematically integrated into school education.
 
 ---
 
@@ -155,7 +155,7 @@
 
 39. Maldives had no building accessibility standards or regulations during the pre-2010 period. The Disability Act (2010) included broad obligations for physical accessibility of public buildings and transport, but these were not accompanied by enforceable standards, a compliance timeline, or designated responsibility for enforcement.
 
-40. The geographic character of the Maldives — a dispersed archipelago where islands are connected primarily by inter-island ferry services and seaplanes — creates structural accessibility challenges unrelated to infrastructure design. Ferry landings, in particular, involve small boats and uneven surfaces that are inaccessible to wheelchair users and persons with mobility impairments.
+40. The geographic character of the Maldives – a dispersed archipelago where islands are connected primarily by inter-island ferry services and seaplanes – creates structural accessibility challenges unrelated to infrastructure design. Ferry landings, in particular, involve small boats and uneven surfaces that are inaccessible to wheelchair users and persons with mobility impairments.
 
 #### 2019–2025 Developments
 
@@ -165,7 +165,7 @@
 
 43. **Information and Communication Accessibility**: Sign language interpretation services are critically limited. There is no government-funded sign language interpretation service for general public access. Braille resources and audio-description services for public information are absent or negligible. Government websites are not systematically tested for WCAG compliance. Maldives Sign Language lacks formal recognition as an official language.^[Situational Analysis, 2025]
 
-44. **Notable Progress**: In the 2023 presidential election, visually impaired voters were able to cast their ballots independently and confidentially using a designated tactile template — a historic first for Maldives, demonstrating that accessible solutions are achievable when political commitment exists.^[UN Geneva Meeting Summary, CRPD 33rd Session — Maldives, August 2025]
+44. **Notable Progress**: In the 2023 presidential election, visually impaired voters were able to cast their ballots independently and confidentially using a designated tactile template – a historic first for Maldives, demonstrating that accessible solutions are achievable when political commitment exists.^[UN Geneva Meeting Summary, CRPD 33rd Session – Maldives, August 2025]
 
 ---
 
@@ -173,9 +173,9 @@
 
 45. The Constitution of Maldives guarantees the right to life to every person. No specific legislative provision addresses the right to life of persons with disabilities in the context of medical decision-making, denial of treatment, or emergency situations.
 
-46. The State Party notes that access to Aasandha (the universal health insurance scheme) provides all persons with disabilities with financial coverage for essential healthcare, including emergency and acute care. Persons registered in the NDR receive additional health-related benefits. However, the quality and physical accessibility of healthcare services — particularly in outer islands — remain barriers to the effective realisation of the right to health and associated survival interests of persons with disabilities.^[Aasandha Health Insurance Scheme, Ministry of Finance and Aasandha Maldives]
+46. The State Party notes that access to Aasandha (the universal health insurance scheme) provides all persons with disabilities with financial coverage for essential healthcare, including emergency and acute care. Persons registered in the NDR receive additional health-related benefits. However, the quality and physical accessibility of healthcare services – particularly in outer islands – remain barriers to the effective realisation of the right to health and associated survival interests of persons with disabilities.^[Aasandha Health Insurance Scheme, Ministry of Finance and Aasandha Maldives]
 
-47. The State Party is reviewing its mental health framework in light of the CRPD Committee's observations, and acknowledges concerns that involuntary hospitalisation procedures in the Mental Health Act — where enacted — may affect the right to life and security of persons with psychosocial disabilities.
+47. The State Party is reviewing its mental health framework in light of the CRPD Committee's observations, and acknowledges concerns that involuntary hospitalisation procedures in the Mental Health Act – where enacted – may affect the right to life and security of persons with psychosocial disabilities.
 
 ---
 
@@ -189,7 +189,7 @@
 
 #### 2019–2025 Developments
 
-50. The Sendai Framework for Disaster Risk Reduction (2015–2030) — to which Maldives is a signatory — calls for disability-inclusive disaster risk reduction. The State Party has taken initial steps to integrate disability considerations into disaster management policy, including acknowledgement in national climate adaptation strategies that persons with disabilities are among the most vulnerable groups.^[Situational Analysis, 2025]
+50. The Sendai Framework for Disaster Risk Reduction (2015–2030) – to which Maldives is a signatory – calls for disability-inclusive disaster risk reduction. The State Party has taken initial steps to integrate disability considerations into disaster management policy, including acknowledgement in national climate adaptation strategies that persons with disabilities are among the most vulnerable groups.^[Situational Analysis, 2025]
 
 51. However, the 2025 Situational Analysis found that legal inconsistencies and gaps in coordination continue to prevent a systematically disability-inclusive emergency response. Evacuation plans at the island council level rarely address the needs of persons with mobility, visual, or cognitive impairments. The NDR is not currently integrated with the NDMA's emergency preparedness planning, meaning that first responders do not know the location of persons with disabilities in their jurisdiction during a disaster.^[Situational Analysis, 2025; Global Disability Fund, Maldives Country Brief, 2025]
 
@@ -225,7 +225,7 @@
 
 59. The Legal Aid Act (2016) established a legal aid framework in Maldives administered through the Attorney General's Office, but it does not include disability-specific provisions or outreach strategies for persons with disabilities in outer islands.^[Legal Aid Act, Republic of Maldives, 2016]
 
-60. The State Party acknowledges that procedural accommodations in court proceedings — including sign language interpretation, accessible court buildings, and modified hearing formats — are not yet routinely provided. The Maldives courts system has not adopted a policy on disability accommodation in legal proceedings.
+60. The State Party acknowledges that procedural accommodations in court proceedings – including sign language interpretation, accessible court buildings, and modified hearing formats – are not yet routinely provided. The Maldives courts system has not adopted a policy on disability accommodation in legal proceedings.
 
 61. The geographic concentration of courts in Malé and in atoll capital islands creates a further barrier to justice access for persons with disabilities in small outer islands, who face compounded barriers of physical inaccessibility, transport costs, and unavailability of disability support services.
 
@@ -235,9 +235,9 @@
 
 ### ARTICLE 14: LIBERTY AND SECURITY OF PERSON
 
-63. The Maldives Penal Code (9/2014) provides general protections for individual liberty. However, the State Party acknowledges that provisions permitting the involuntary hospitalisation of persons with "mental illness" — under health and public order frameworks — remain in force and have not been reviewed for compatibility with CRPD Article 14.
+63. The Maldives Penal Code (9/2014) provides general protections for individual liberty. However, the State Party acknowledges that provisions permitting the involuntary hospitalisation of persons with "mental illness" – under health and public order frameworks – remain in force and have not been reviewed for compatibility with CRPD Article 14.
 
-64. The CRPD Committee's General Comment No. 1 and its Guidelines on article 14 (2015) have clarified that disability — including psychosocial disability — may never serve as a justification for deprivation of liberty. The State Party is committed to reviewing relevant provisions to eliminate disability-based grounds for involuntary detention as part of the mental health legislative reform process currently underway.
+64. The CRPD Committee's General Comment No. 1 and its Guidelines on article 14 (2015) have clarified that disability – including psychosocial disability – may never serve as a justification for deprivation of liberty. The State Party is committed to reviewing relevant provisions to eliminate disability-based grounds for involuntary detention as part of the mental health legislative reform process currently underway.
 
 65. Persons with disabilities detained in correctional facilities do not receive disability-specific accommodation in practice. No prison accessibility standards exist, and disability identification at admission to the Maldives Correctional Service is not systematic.
 
@@ -247,9 +247,9 @@
 
 66. The Maldives Constitution and the Maldives Penal Code (9/2014) prohibit torture and ill-treatment. The State Party is party to the Convention Against Torture (CAT).
 
-67. The State Party acknowledges concern that residential care settings for persons with disabilities — including those managed under ADDA — have not been subject to systematic independent monitoring. The physical conditions and treatment standards in these settings have not been evaluated against international standards for the prohibition of cruel, inhuman, or degrading treatment. The HRCM has monitoring authority but does not routinely inspect disability care facilities.
+67. The State Party acknowledges concern that residential care settings for persons with disabilities – including those managed under ADDA – have not been subject to systematic independent monitoring. The physical conditions and treatment standards in these settings have not been evaluated against international standards for the prohibition of cruel, inhuman, or degrading treatment. The HRCM has monitoring authority but does not routinely inspect disability care facilities.
 
-68. The State Party commits to establishing a systematic monitoring mechanism — consistent with the OPCAT framework — for all residential settings accommodating persons with disabilities, inclusive of settings managed by both government and civil society organisations.
+68. The State Party commits to establishing a systematic monitoring mechanism – consistent with the OPCAT framework – for all residential settings accommodating persons with disabilities, inclusive of settings managed by both government and civil society organisations.
 
 ---
 
@@ -257,7 +257,7 @@
 
 #### Pre-2019 Situation
 
-69. Persons with disabilities — particularly women and children with disabilities — face elevated risks of exploitation, violence, and abuse in the Maldivian context. Social and familial confinement of persons with disabilities, limited personal autonomy, dependence on informal care arrangements, and absence of accessible reporting mechanisms collectively heighten this vulnerability.
+69. Persons with disabilities – particularly women and children with disabilities – face elevated risks of exploitation, violence, and abuse in the Maldivian context. Social and familial confinement of persons with disabilities, limited personal autonomy, dependence on informal care arrangements, and absence of accessible reporting mechanisms collectively heighten this vulnerability.
 
 70. The Sexual Offences Act (17/2014) and the Prevention of Domestic Violence Act (3/2012) provide general protections but do not include disability-specific provisions that account for the particular vulnerabilities of persons with disabilities in reporting and prosecuting violence.
 
@@ -291,7 +291,7 @@
 
 #### Pre-2019 Situation
 
-78. Community-based living for persons with disabilities was severely limited prior to the reporting period. Institutional provision — centred on the Reehendi shelter — housed persons with severe disabilities in congregate settings. Most persons with disabilities lived with families, with no formal personal assistance, home-based support, or independent living support services available.
+78. Community-based living for persons with disabilities was severely limited prior to the reporting period. Institutional provision – centred on the Reehendi shelter – housed persons with severe disabilities in congregate settings. Most persons with disabilities lived with families, with no formal personal assistance, home-based support, or independent living support services available.
 
 #### 2019–2025 Developments
 
@@ -299,7 +299,7 @@
 
 80. The Disability Allowance (MVR 2,000 per month), administered by NSPA, provides income support but is insufficient on its own to enable independent living, particularly given the high cost of living in Malé. The allowance was increased from a tiered rate (MVR 2,000 for severe, MVR 1,000 for moderate) to a flat rate of MVR 2,000 for all registered persons with disabilities in 2019.^[NSPA Disability Allowance Scheme; Regulation 2011/R-3]
 
-81. The 2025 Situational Analysis found that the concept of independent living as articulated in Article 19 — including the right to choose where and with whom one lives — is not embedded in national disability policy. Most formal provision for persons with disabilities is centred on institutional or family care models, with no strategic plan for transition to community-based alternatives.
+81. The 2025 Situational Analysis found that the concept of independent living as articulated in Article 19 – including the right to choose where and with whom one lives – is not embedded in national disability policy. Most formal provision for persons with disabilities is centred on institutional or family care models, with no strategic plan for transition to community-based alternatives.
 
 82. The 2019 confirmation that disability allowance would not be withdrawn upon gaining employment was a critical policy reform, removing a disincentive to work that had effectively trapped many persons with disabilities in welfare dependency.^[NSPA/MoSFD Policy Announcement, 2019; Maldives Policy Think Tank, "Breaking the Implementation Gap", 2024]
 
@@ -319,7 +319,7 @@
 
 86. Maldives Sign Language is used by the deaf community but has not been accorded legal recognition as an official language. Sign language interpretation services are not systematically provided in public settings, including at government press conferences, parliamentary proceedings, or public emergency broadcasts.
 
-87. The State Party acknowledges that public information — including information on rights, social services, legal procedures, and emergency alerts — is not routinely available in accessible formats including Braille, Easy Read, audio formats, or Maldivian Sign Language. Government websites have not been assessed against WCAG 2.1 accessibility standards.
+87. The State Party acknowledges that public information – including information on rights, social services, legal procedures, and emergency alerts – is not routinely available in accessible formats including Braille, Easy Read, audio formats, or Maldivian Sign Language. Government websites have not been assessed against WCAG 2.1 accessibility standards.
 
 88. During the COVID-19 pandemic, the absence of Maldives Sign Language interpretation in public health communications left deaf persons without timely access to critical health information, illustrating the concrete consequences of this gap.
 
@@ -341,7 +341,7 @@
 
 93. The Maldives Institute for Autism (MIA), established in 2018, provides specialised early intervention and schooling for children with autism spectrum conditions in Malé, including a centre-based programme and outreach support.
 
-94. GPE funding (USD 9.5 million, 2024) under the THAIBA Agenda explicitly prioritises children with disabilities as among the most at-risk learners. The three GPE grants — including a USD 3 million Multiplier grant with the World Bank — will fund inclusive education system transformation through 2028.^[UNICEF Maldives, Towards More Inclusive and Equitable Education, 2024]
+94. GPE funding (USD 9.5 million, 2024) under the THAIBA Agenda explicitly prioritises children with disabilities as among the most at-risk learners. The three GPE grants – including a USD 3 million Multiplier grant with the World Bank – will fund inclusive education system transformation through 2028.^[UNICEF Maldives, Towards More Inclusive and Equitable Education, 2024]
 
 95. Despite this progress, significant gaps remain:
 
@@ -354,7 +354,7 @@
 | SEN teacher-to-student ratio | No national standard set |
 | Psychosocial/intellectual disability inclusion | Limited; MIA serves autism only |
 
-96. Higher education institutions — including Maldives National University (MNU) and Maldives Institute of Technology (MIT) — do not have systematic disability support services, accessible facilities, or reasonable accommodation policies for students with disabilities. This constitutes a significant barrier to educational achievement and career development for students with disabilities who successfully complete secondary school.
+96. Higher education institutions – including Maldives National University (MNU) and Maldives Institute of Technology (MIT) – do not have systematic disability support services, accessible facilities, or reasonable accommodation policies for students with disabilities. This constitutes a significant barrier to educational achievement and career development for students with disabilities who successfully complete secondary school.
 
 ---
 
@@ -368,13 +368,13 @@
 
 98. Aasandha continues to provide universal health coverage, and persons with disabilities are included within this universal scheme. No specific disability health package or additional entitlement exists beyond the universal coverage.^[Aasandha Universal Health Insurance Scheme, Ministry of Finance]
 
-99. Healthcare facilities in outer islands — regional hospitals and health centres — remain largely inaccessible for persons with physical disabilities. Ramps, accessible bathrooms, and disability-adapted examination equipment are absent in most primary care settings outside Malé.
+99. Healthcare facilities in outer islands – regional hospitals and health centres – remain largely inaccessible for persons with physical disabilities. Ramps, accessible bathrooms, and disability-adapted examination equipment are absent in most primary care settings outside Malé.
 
-100. Mental health services represent a particular gap. The limited number of psychiatrists, psychologists, and counsellors in Maldives — concentrated in Malé — means that persons with psychosocial disabilities in outer islands have virtually no access to community-based mental health support. Telepsychiatry programmes have been piloted but are not systematically funded or scaled.
+100. Mental health services represent a particular gap. The limited number of psychiatrists, psychologists, and counsellors in Maldives – concentrated in Malé – means that persons with psychosocial disabilities in outer islands have virtually no access to community-based mental health support. Telepsychiatry programmes have been piloted but are not systematically funded or scaled.
 
-101. Rehabilitation services — physiotherapy, occupational therapy, and speech and language therapy — are similarly concentrated in Malé. The Indira Gandhi Memorial Hospital (IGMH) provides the primary rehabilitation service. No systematic community rehabilitation programme exists, and persons with newly acquired disabilities outside Malé have no access to timely rehabilitation services.
+101. Rehabilitation services – physiotherapy, occupational therapy, and speech and language therapy – are similarly concentrated in Malé. The Indira Gandhi Memorial Hospital (IGMH) provides the primary rehabilitation service. No systematic community rehabilitation programme exists, and persons with newly acquired disabilities outside Malé have no access to timely rehabilitation services.
 
-102. The State Party notes that the interaction between disability and non-communicable diseases (NCDs) requires attention. The high prevalence of NCDs in Maldives — including diabetes (with associated complications of visual impairment and limb amputation), cardiovascular disease, and obesity — contributes to acquired disability, and persons already living with disabilities face particular risks from NCD co-morbidities. NCD prevention and management programmes do not yet systematically incorporate disability considerations.
+102. The State Party notes that the interaction between disability and non-communicable diseases (NCDs) requires attention. The high prevalence of NCDs in Maldives – including diabetes (with associated complications of visual impairment and limb amputation), cardiovascular disease, and obesity – contributes to acquired disability, and persons already living with disabilities face particular risks from NCD co-morbidities. NCD prevention and management programmes do not yet systematically incorporate disability considerations.
 
 ---
 
@@ -443,11 +443,11 @@
 
 ### ARTICLE 29: PARTICIPATION IN POLITICAL AND PUBLIC LIFE
 
-118. The 2023 presidential election milestone — visually impaired voters independently casting ballots using a tactile template — is the most significant disability-inclusive democracy development of the reporting period.^[UN Geneva Meeting Summary, August 2025]
+118. The 2023 presidential election milestone – visually impaired voters independently casting ballots using a tactile template – is the most significant disability-inclusive democracy development of the reporting period.^[UN Geneva Meeting Summary, August 2025]
 
 119. Despite this achievement, systemic participation gaps persist. Persons with disabilities are substantially underrepresented in elected office at all levels: national Parliament (People's Majlis), Atoll and City Councils, and Island Councils. No disability quota or reserved seat provision exists in electoral law.
 
-120. Voting stations and election materials are not fully accessible. Physical inaccessibility of polling stations — steps, narrow doorways, inaccessible booths — remains a barrier for voters with mobility impairments in most locations outside the 2023 pilot. Election information is not routinely available in sign language or Braille.^[Global Disability Fund, Maldives Country Brief, 2025]
+120. Voting stations and election materials are not fully accessible. Physical inaccessibility of polling stations – steps, narrow doorways, inaccessible booths – remains a barrier for voters with mobility impairments in most locations outside the 2023 pilot. Election information is not routinely available in sign language or Braille.^[Global Disability Fund, Maldives Country Brief, 2025]
 
 121. Persons with disabilities lack representation in government, policy-making bodies, and the senior civil service. The technical advisory committee established under Employment Regulation 2024/R-9 was criticised by disability advocates for initially lacking meaningful representation of persons with disabilities in its composition.^[Maldives Policy Think Tank, "Breaking the Implementation Gap", 2024, https://maldivespolicythinktank.com/breaking-the-implementation-gap-a-call-for-transformative-change-in-disability-rights-in-the-maldives/]
 
@@ -455,13 +455,13 @@
 
 ### ARTICLE 30: PARTICIPATION IN CULTURAL LIFE, RECREATION, LEISURE AND SPORT
 
-122. Cultural and recreational facilities in Maldives — including the National Museum, public parks, sport facilities, and community centres — are not systematically accessible to persons with disabilities.
+122. Cultural and recreational facilities in Maldives – including the National Museum, public parks, sport facilities, and community centres – are not systematically accessible to persons with disabilities.
 
 123. ADDA organises some recreational activities for persons with disabilities registered with the agency in Malé. These include sports events (adapted sports) and cultural participation activities around national holidays and International Day of Persons with Disabilities.
 
 124. Maldives has participated in the South Asian Federation (SAF) Games, but has not systematically promoted Paralympic-level disability sport. No national adapted sports policy or programme exists.
 
-125. Access to cultural life — including film, theatre, and literary materials in accessible formats — is severely constrained by the absence of audio description, captioning, sign language-interpreted performances, or accessible cultural venues.
+125. Access to cultural life – including film, theatre, and literary materials in accessible formats – is severely constrained by the absence of audio description, captioning, sign language-interpreted performances, or accessible cultural venues.
 
 ---
 
@@ -527,7 +527,7 @@
 
 135. The Disability Act (2010) designated the Ministry responsible for social affairs as the national focal point for disability policy. In practice, implementation responsibility was fragmented across multiple ministries with no clear coordination mechanism and no national disability action plan with measurable targets.
 
-136. The Adult Disability Care Centre (ADCC) — the predecessor of ADDA — served as the primary service delivery agency but had limited regulatory or coordination functions. Monitoring of the Disability Act's implementation was not systematically conducted.
+136. The Adult Disability Care Centre (ADCC) – the predecessor of ADDA – served as the primary service delivery agency but had limited regulatory or coordination functions. Monitoring of the Disability Act's implementation was not systematically conducted.
 
 #### 2019–2025 Developments
 
@@ -539,7 +539,7 @@
 
 140. **Independent Monitoring**: The Human Rights Commission of Maldives (HRCM), established under Law No. 6/2006 and constitutionally mandated as an independent national human rights institution (NHRI), serves as the independent monitoring mechanism under Article 33(2). HRCM has the mandate to receive complaints, investigate human rights violations, and produce thematic monitoring reports. HRCM has conducted disability-focused monitoring activities and produced reports on the rights of persons with disabilities.^[HRCM Disability Monitoring, hrcm.org.mv]
 
-141. HRCM's capacity for disability monitoring is constrained by limited budgetary resources, insufficient disability expertise among staff, and the geographic reach challenges common to all Maldivian institutions. Outer island monitoring — essential given that 65% of persons with disabilities live outside Malé — is particularly limited.
+141. HRCM's capacity for disability monitoring is constrained by limited budgetary resources, insufficient disability expertise among staff, and the geographic reach challenges common to all Maldivian institutions. Outer island monitoring – essential given that 65% of persons with disabilities live outside Malé – is particularly limited.
 
 142. **National Action Planning**: As of 2025, a Disability Strategic Action Plan for 2025–2030 is under development. The National Strategic Action Plan (SAP) for 2025–2030 includes disability inclusion as a focus area but does not specify dedicated disability targets or indicators.^[Situational Analysis, 2025; Global Disability Fund, Maldives Country Brief, 2025] The State Party commits to finalising the Disability Strategic Action Plan with measurable, time-bound targets disaggregated by disability type, gender, and geographic location.
 
@@ -623,7 +623,7 @@ The State Party acknowledges the contributions of civil society organisations in
 - Maldives Association for the Blind (MAB)
 - Maldives Policy Think Tank (research and advocacy)
 
-The State Party acknowledges that OPD capacity in Maldives requires significant strengthening, and commits to supporting the development of representative OPDs — particularly for women with disabilities, persons with psychosocial disabilities, persons with intellectual disabilities, and persons with disabilities in outer islands.
+The State Party acknowledges that OPD capacity in Maldives requires significant strengthening, and commits to supporting the development of representative OPDs – particularly for women with disabilities, persons with psychosocial disabilities, persons with intellectual disabilities, and persons with disabilities in outer islands.
 
 ---
 
@@ -671,6 +671,6 @@ The State Party acknowledges that OPD capacity in Maldives requires significant 
 
 ---
 
-*End of CRPD Combined Initial and Second Periodic Report — Republic of Maldives (Draft)*
+*End of CRPD Combined Initial and Second Periodic Report – Republic of Maldives (Draft)*
 
 *Prepared for the Maldives Social Policy Encyclopedia, Social Ministry Policy Department, March 2026.*

@@ -10,9 +10,9 @@ The Maldives has been an independent nation-state for most of its recorded histo
 
 - **Zakat (obligatory almsgiving):** As a 100% Sunni Muslim nation, the Maldives relied on zakat as the primary institutionalised form of wealth redistribution. Zakat funds were collected and distributed locally, typically through island kadheeb (chiefs) and mosque committees, providing support to the poor, orphans, debtors, and travellers.[^1]
 
-- **Extended family and island community networks:** The geographically dispersed nature of the Maldives — with populations spread across approximately 200 inhabited islands out of 1,192 total — created tight-knit island communities where informal social support was the norm. Families bore primary responsibility for care of children, the elderly, and persons with disabilities. The concept of "institutional care" was virtually non-existent.[^2]
+- **Extended family and island community networks:** The geographically dispersed nature of the Maldives – with populations spread across approximately 200 inhabited islands out of 1,192 total – created tight-knit island communities where informal social support was the norm. Families bore primary responsibility for care of children, the elderly, and persons with disabilities. The concept of "institutional care" was virtually non-existent.[^2]
 
-- **Island-level governance:** Each inhabited island was governed by a kadheeb (island chief), appointed by the sultan, who served as the local administrator, dispute resolver, and overseer of community affairs. Social disputes — including family matters, child custody, and property inheritance — were resolved through a combination of Islamic jurisprudence (fiqh) and customary practice (urf).[^3]
+- **Island-level governance:** Each inhabited island was governed by a kadheeb (island chief), appointed by the sultan, who served as the local administrator, dispute resolver, and overseer of community affairs. Social disputes – including family matters, child custody, and property inheritance – were resolved through a combination of Islamic jurisprudence (fiqh) and customary practice (urf).[^3]
 
 - **Matrilineal traditions:** Unlike many South Asian Muslim societies, the Maldives historically exhibited matrilocal marriage patterns, where husbands moved to the wife's family island or household. Women held property rights and inheritance rights (as guaranteed under Islamic law), and female participation in fishing-adjacent economic activities (such as fish processing) was substantial. This gave Maldivian women a degree of economic agency unusual in the region, though political power remained firmly male-dominated.[^4]
 
@@ -23,7 +23,7 @@ The Maldives has been an independent nation-state for most of its recorded histo
 Under the British protectorate agreement (1887), the Maldives retained internal self-governance while Britain managed external defence and foreign affairs. The British had minimal interest in social policy intervention. Key developments during this period include:
 
 - **1927:** The first modern school, Majeediyya School, was established in Malé, marking the beginning of formal education beyond traditional religious schools (edhuruge). For boys only initially.
-- **1944:** Aminiya School opened for girls in Malé — one of the earliest formal educational institutions for women in the Indian Ocean region.
+- **1944:** Aminiya School opened for girls in Malé – one of the earliest formal educational institutions for women in the Indian Ocean region.
 - **1952–1953:** The First Republic briefly replaced the sultanate but lasted only one year before the monarchy was restored. No significant social legislation was passed.
 - **1953:** The first constitution of the republic was promulgated, though it was short-lived.
 - **1960s:** A few health centres and schools were established in atoll capitals with minimal coverage.
@@ -54,7 +54,7 @@ On 11 November 1968, following a national referendum, the Maldives became a repu
 
 ## 1.3 The Gayoom Era: Foundations of Modern Social Policy (1978–2008)
 
-Maumoon Abdul Gayoom came to power in 1978 and governed for 30 years — the longest-serving leader in Maldivian history. His era saw the construction of most foundational social institutions.
+Maumoon Abdul Gayoom came to power in 1978 and governed for 30 years – the longest-serving leader in Maldivian history. His era saw the construction of most foundational social institutions.
 
 ### Early Gayoom Period (1978–1990)
 
@@ -77,7 +77,7 @@ Maumoon Abdul Gayoom came to power in 1978 and governed for 30 years — the lon
 
 This decade saw the creation of the first dedicated social welfare institutions:
 
-- **1991:** The Maldives ratified the UN Convention on the Rights of the Child (CRC), with reservations on Article 14(1) (freedom of religion) and Article 21 (adoption), based on Islamic law. The same year, the first child protection law was enacted — **Law on the Protection of the Rights of the Child (Law 9/91)**. This was largely declaratory, lacking enforcement mechanisms and operational definitions, but it established the legal principle that children have rights under Maldivian law.[^7]
+- **1991:** The Maldives ratified the UN Convention on the Rights of the Child (CRC), with reservations on Article 14(1) (freedom of religion) and Article 21 (adoption), based on Islamic law. The same year, the first child protection law was enacted – **Law on the Protection of the Rights of the Child (Law 9/91)**. This was largely declaratory, lacking enforcement mechanisms and operational definitions, but it established the legal principle that children have rights under Maldivian law.[^7]
 
 > *→ **Extended Coverage:** For comprehensive analysis of the CRC ratification, the origins of Law 9/91, and the full institutional history leading to the CRPA 2019, see **Part IV: Child Protection and Child Rights, §4.1–§4.18** of this encyclopedia.*
 
@@ -101,7 +101,7 @@ This decade saw the creation of the first dedicated social welfare institutions:
 
 - **2002–2003:** The first National Drug Use Survey was conducted, revealing the scale of substance abuse. Growing public concern about youth drug use drove calls for dedicated drug treatment services.
 
-- **2003:** First National Narcotics Control Bureau established. Early drug rehabilitation efforts began, characterised by significant "practice dilemmas" — the tension between Islamic morality-based approaches and evidence-based harm reduction models.[^11]
+- **2003:** First National Narcotics Control Bureau established. Early drug rehabilitation efforts began, characterised by significant "practice dilemmas" – the tension between Islamic morality-based approaches and evidence-based harm reduction models.[^11]
 
 - **2004:** The **Indian Ocean Tsunami** (26 December 2004) devastated the Maldives. Though the death toll (82 confirmed dead, 26 missing) was lower than in neighbouring countries, the economic and social impact was enormous:
   - 14 islands completely destroyed and evacuated permanently
@@ -110,13 +110,13 @@ This decade saw the creation of the first dedicated social welfare institutions:
   - Economic damage estimated at 62% of GDP
   - The disaster exposed the extreme vulnerability of atoll communities and catalysed international development assistance
   - UNICEF significantly expanded its programmes in the Maldives, creating a dedicated child protection programme (previously combined with education)
-  - The disaster relief effort brought unprecedented international attention to social vulnerabilities in the Maldives[^12]
+  - The disaster relief effort brought considerable international attention to social vulnerabilities in the Maldives[^12]
 
 - **2005–2006:** Post-tsunami reconstruction drove significant institutional development:
   - **2005:** Social workers' roles expanded significantly. UNICEF and VSO provided technical support for developing policies and procedures.
-  - **2006:** Groups of school leavers received training through programmes at the Ministry of Gender and Family and at the University of Kelaniya (Sri Lanka) — a 1-year Advanced Certificate course. These trained social workers were deployed to Family and Children Service Centres on the atolls.[^13]
+  - **2006:** Groups of school leavers received training through programmes at the Ministry of Gender and Family and at the University of Kelaniya (Sri Lanka) – a 1-year Advanced Certificate course. These trained social workers were deployed to Family and Children Service Centres on the atolls.[^13]
   - **2006:** A child protection procedure manual was developed, drawing on England's "Working Together" guidance (DfE, 2003). However, the imported Western framework created practical tensions with local religious and cultural practices, particularly around parental disciplinary authority.[^14]
-  - **2006:** The **Maldives Study on Women's Health and Life Experiences** was published — the first national survey of domestic violence. It revealed that approximately one in three women had experienced physical and/or sexual violence from an intimate partner.[^15]
+  - **2006:** The **Maldives Study on Women's Health and Life Experiences** was published – the first national survey of domestic violence. It revealed that approximately one in three women had experienced physical and/or sexual violence from an intimate partner.[^15]
 
 > *→ **Extended Coverage:** For comprehensive analysis of GBV prevalence data beginning with this 2006 survey, the DVPA 2012 operational framework, and the full FPA response system, see **Part V: Gender, GBV, and Women's Empowerment, §5.1–§5.20** of this encyclopedia. For the social work profession history and the 2006–2007 training initiatives, see **Part IV: Child Protection and Child Rights, §4.59**.*
 
@@ -128,11 +128,11 @@ This decade saw the creation of the first dedicated social welfare institutions:
 
 ## 1.4 Democratic Transition and Social Reform (2008–2012)
 
-The 2008 presidential election — the first multi-party democratic election in Maldivian history — brought Mohamed Nasheed (MDP) to power, defeating Gayoom. This marked a watershed moment for social policy.
+The 2008 presidential election – the first multi-party democratic election in Maldivian history – brought Mohamed Nasheed (MDP) to power, defeating Gayoom. The change in government brought significant shifts in social policy direction.
 
 ### The Nasheed Administration (2008–2012)
 
-**Universal health insurance — Madhana:** The Nasheed government introduced the Madhana health insurance scheme, later renamed **Aasandha** under subsequent governments. This represented the single largest social protection expansion in Maldivian history — providing universal health insurance coverage to all citizens.
+**Universal health insurance – Madhana:** The Nasheed government introduced the Madhana health insurance scheme, later renamed **Aasandha** under subsequent governments. This represented the single largest social protection expansion in Maldivian history – providing universal health insurance coverage to all citizens.
 
 **Social protection expansion:**
 - **Introduction of the Senior Citizen Allowance:** A non-contributory monthly pension of MVR 2,000 for all citizens aged 65 and above, later increased to MVR 5,000. This was the Maldives' first universal cash transfer programme and transformed elderly welfare.
@@ -154,12 +154,12 @@ The 2008 presidential election — the first multi-party democratic election in 
 - Initiated in 2010 by the Ministry of Health and Family
 - Provided a community-led approach to addressing social problems and facilitating timely access to services
 - Supported by UNICEF
-- Later revived under the **IBAMA** ("you and I together") project — a multi-sectoral community-based system for preventing and responding to violence against children, the elderly, and other vulnerable populations[^19]
+- Later revived under the **IBAMA** ("you and I together") project – a multi-sectoral community-based system for preventing and responding to violence against children, the elderly, and other vulnerable populations[^19]
 
-**Climate advocacy:** Nasheed gained international attention for climate advocacy, including an underwater cabinet meeting highlighting sea-level rise threats. This elevated global awareness of the Maldives' existential climate vulnerability and its social dimensions.
+**Climate advocacy:** Nasheed gained international attention for climate advocacy, including an underwater cabinet meeting highlighting sea-level rise threats, drawing global attention to the Maldives' climate vulnerability and its social dimensions.
 
 **Political crisis and removal:**
-On 7 February 2012, Nasheed resigned under pressure from political opponents, police, and military — in what he described as a coup. Vice President Mohamed Waheed Hassan assumed the presidency. Despite political turmoil, the social protection programmes introduced under Nasheed were not reversed, establishing them as politically difficult to dismantle.
+On 7 February 2012, Nasheed resigned under pressure from political opponents, police, and military – in what he described as a coup. Vice President Mohamed Waheed Hassan assumed the presidency. Despite political turmoil, the social protection programmes introduced under Nasheed were not reversed, establishing them as politically difficult to dismantle.
 
 ---
 
@@ -177,7 +177,7 @@ On 7 February 2012, Nasheed resigned under pressure from political opponents, po
 
 - **Domestic Violence Prevention Act 2012 (Act 3/2012):** Enacted during the transition period, this law for the first time criminalised domestic violence as a distinct offence, established protection orders, and mandated service provision for victims. However, implementation challenges remained severe, including lack of shelters, limited police training, and cultural resistance to reporting.[^20]
 
-- **Sexual Offences Act 2014 (Act 17/2014):** Modernised the legal framework for sexual crimes, though tensions between Islamic legal principles (particularly around zina — extramarital sex) and child protection imperatives remained unresolved.[^21]
+- **Sexual Offences Act 2014 (Act 17/2014):** Modernised the legal framework for sexual crimes, though tensions between Islamic legal principles (particularly around zina – extramarital sex) and child protection imperatives remained unresolved.[^21]
 
 - **Social Protection Act 2014:** Formalised the various cash transfer programmes established under Nasheed.
 
@@ -212,7 +212,7 @@ Ibrahim Mohamed Solih (MDP) won the 2018 presidential election on a platform emp
   - Gave legal recognition to community protection groups
   - Incorporated "Responsibilities and duties of a child" (Article 36 a-h) to address cultural tensions around children's rights and parental authority[^23]
 
-> *→ **Extended Coverage:** For comprehensive analysis of the CRPA 2019 — its provisions, the CFPS case management system, mandatory reporting enforcement, and implementation gaps — see **Part IV: Child Protection and Child Rights, §4.1–§4.18** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of the CRPA 2019 – its provisions, the CFPS case management system, mandatory reporting enforcement, and implementation gaps – see **Part IV: Child Protection and Child Rights, §4.1–§4.18** of this encyclopedia.*
 
 - **Juvenile Justice Act 2019 (Act 18/2019):**
   - Set the age of criminal responsibility at 15 years
@@ -249,7 +249,7 @@ Mohamed Muizzu (PNC/PPM) assumed the presidency in November 2023 with a platform
 
 - **Ministry restructuring:** The social welfare ministry was renamed the **Ministry of Social and Family Development (MoSFD)**, signalling a focus on family-centred approaches.
 
-- **Housing as social policy:** The Muizzu government has emphasised housing construction — particularly in Hulhumalé and Gulhifalhu — as a central plank of social policy, responding to the chronic housing shortage that affects virtually all Maldivian families.
+- **Housing as social policy:** The Muizzu government has emphasised housing construction – particularly in Hulhumalé and Gulhifalhu – as a central plank of social policy, responding to the chronic housing shortage that affects virtually all Maldivian families.
 
 - **Continued social protection programmes:** Cash transfer programmes (senior citizen allowance, disability allowance, single parent allowance) have been maintained, though there are ongoing discussions about targeting reforms and fiscal sustainability.
 
@@ -263,8 +263,8 @@ Mohamed Muizzu (PNC/PPM) assumed the presidency in November 2023 with a platform
 
 | Year | Milestone |
 |------|-----------|
-| 1927 | Majeediyya School established — first modern school |
-| 1944 | Aminiya School — first girls' school |
+| 1927 | Majeediyya School established – first modern school |
+| 1944 | Aminiya School – first girls' school |
 | 1965 | Independence from British protectorate |
 | 1968 | Second Republic established |
 | 1972 | First tourist resort opens (Kurumba Village) |
@@ -277,7 +277,7 @@ Mohamed Muizzu (PNC/PPM) assumed the presidency in November 2023 with a platform
 | 1998 | Maldives College of Higher Education (MCHE) established |
 | 2000 | Maldives Accreditation Board created |
 | 2002–03 | First National Drug Use Survey |
-| 2004 | Indian Ocean Tsunami — catalyses social sector development |
+| 2004 | Indian Ocean Tsunami – catalyses social sector development |
 | 2006 | First national domestic violence survey; child protection procedure manual developed |
 | 2007 | New Constitution ratified; Social Work diploma programme launched |
 | 2008 | First democratic election; Nasheed government introduces universal health insurance and cash transfers |
@@ -310,7 +310,7 @@ Mohamed Muizzu (PNC/PPM) assumed the presidency in November 2023 with a platform
 
 [^4]: Baksi-Lahiri, S. (2004). "Women's power and ritual politics in the Maldives." PhD thesis, Cornell University. See also: UNDP/GESI Diagnostic of Selected Sectors in Maldives.
 
-[^5]: "Political System of the Ancient Kingdom" — available in the document collection.
+[^5]: "Political System of the Ancient Kingdom" – available in the document collection.
 
 [^6]: Ahmad, A. H. (2005). "Private housing development: refining rational choice." PhD thesis, University College London.
 

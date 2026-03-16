@@ -1,6 +1,6 @@
 # Action Plans Analysis
 
-This chapter provides a systematic, cross-cutting analysis of the action plans and policy documents that operationalise the Maldives' social policy commitments. Rather than describing each plan in isolation — as the preceding thematic chapters have done — this analysis examines the action plan architecture as a whole: its internal coherence, its alignment with evidence and international obligations, and its capacity to translate legislative mandates into measurable change for the populations it is designed to serve.
+This chapter provides a systematic, cross-cutting analysis of the action plans and policy documents that operationalise the Maldives' social policy commitments. Rather than describing each plan in isolation – as the preceding thematic chapters have done – this analysis examines the action plan architecture as a whole: its internal coherence, its alignment with evidence and international obligations, and its capacity to translate legislative mandates into measurable change for the populations it is designed to serve.
 
 ---
 
@@ -72,7 +72,7 @@ The Maldives' social policy architecture rests on a constellation of action plan
 
 **Key Observation:** The NAPVAC is methodologically the most sophisticated of the active plans, incorporating a theory of change, a socio-ecological model, and trauma-informed care principles. It is also the most explicit about the scale of the problem it addresses: 2,936 cases in 2023, with negligence and sexual abuse as the most common types.[^12] However, the plan's own introduction acknowledges that the predecessor NAP-PRVAC 2017 was never effectively implemented due to "lack of a systematic and holistic approach" and "difficulties in establishing collaborative efforts with stakeholders," and that "similar challenges were identified during the consultations conducted for the formulation of renewed NAP 2024-2028."[^13] This candid self-assessment raises the question of whether the structural barriers that defeated the 2017 plan have been sufficiently addressed to enable the 2024 plan to succeed.
 
-The plan explicitly references UK child protection frameworks (the Children Act 1989, Section 47 investigations) as conceptual touchstones, continuing the pattern identified in Part IV of this encyclopedia wherein Maldivian child protection frameworks are substantially modelled on English systems without adequate contextualisation to the Maldivian operational reality — a reality characterised by 61 social workers serving 128,208 children across 189 inhabited islands.[^14]
+The plan explicitly references UK child protection frameworks (the Children Act 1989, Section 47 investigations) as conceptual touchstones, continuing the pattern identified in Part IV of this encyclopedia wherein Maldivian child protection frameworks are substantially modelled on English systems without adequate contextualisation to the Maldivian operational reality – a reality characterised by 61 social workers serving 128,208 children across 189 inhabited islands.[^14]
 
 ---
 
@@ -102,7 +102,7 @@ The plan explicitly references UK child protection frameworks (the Children Act 
 
 5. **Access to Justice** (3 strategies): Creating awareness for legal empowerment of women; strengthening mechanisms for protection orders for GBV victims; ensuring equal participation of men and women as employees and decision-makers in the justice sector.[^19]
 
-**Key Observation:** The GEAP is the most institutionally grounded of the action plans, as it is a statutory requirement under Article 42 of the Gender Equality Act. This gives it a legal mandate that other plans lack. However, the SAP light chapter on Women and Gender (2024) noted that the GEAP "is still in effect" but that the Gender Focal Point network and capacity-building infrastructure "remained incomplete" nearly six years after the Act's passage — and that the Terms of Reference for updating the gender training manual in Dhivehi were only issued in October 2022.[^20] The GEAP's dependence on 25+ implementing agencies, each with their own priorities and capacity constraints, makes coordination a critical vulnerability. The plan assigns extensive responsibilities across government but provides limited detail on accountability mechanisms for non-compliance.
+**Key Observation:** The GEAP is the most institutionally grounded of the action plans, as it is a statutory requirement under Article 42 of the Gender Equality Act. This gives it a legal mandate that other plans lack. However, the SAP light chapter on Women and Gender (2024) noted that the GEAP "is still in effect" but that the Gender Focal Point network and capacity-building infrastructure "remained incomplete" nearly six years after the Act's passage – and that the Terms of Reference for updating the gender training manual in Dhivehi were only issued in October 2022.[^20] The GEAP's dependence on 25+ implementing agencies, each with their own priorities and capacity constraints, makes coordination a critical vulnerability. The plan assigns extensive responsibilities across government but provides limited detail on accountability mechanisms for non-compliance.
 
 ---
 
@@ -110,7 +110,7 @@ The plan explicitly references UK child protection frameworks (the Children Act 
 
 | Element | Detail |
 |---|---|
-| **Full Title** | Maldives National Ageing Policy (Proposed Draft — Revision of 2018 National Elderly Policy) |
+| **Full Title** | Maldives National Ageing Policy (Proposed Draft – Revision of 2018 National Elderly Policy) |
 | **Period** | Proposed (draft dated 28 August 2024, revised 9 September 2024) |
 | **Authoring Body** | MoSFD (commissioned external consultant) |
 | **Status** | Proposed / Under Revision |
@@ -130,18 +130,18 @@ The plan explicitly references UK child protection frameworks (the Children Act 
 
 4. **Income Security** (2 goals, added in 2024 revision): Ensuring sustainable and equitable income security mechanisms; establishing social protection and social security for caregivers of older persons.[^24]
 
-**Key Observation:** The revised ageing policy is the only instrument in the current portfolio that is still in draft status. The situational analysis accompanying the draft identifies alarming trends: 46% of the elderly population has hypertension, 28% has diabetes, 45% has a disability, and the informal employment rate stands at 89.9% (with 99.1% for women), meaning the vast majority of the ageing population has no contributory pension entitlements beyond the universal basic pension.[^25] The draft calls for a "whole of government and community approach" but does not address the fundamental challenge identified in the government's own MIPAA survey — that "lack of overall political support" for ageing issues is "always" present, with "other pressing issues tak[ing] precedence when designing policies."[^26] The absence of a dedicated elderly law, which the policy itself acknowledges, means the policy has no statutory enforcement mechanism.
+**Key Observation:** The revised ageing policy is the only instrument in the current portfolio that is still in draft status. The situational analysis accompanying the draft identifies concerning trends: 46% of the elderly population has hypertension, 28% has diabetes, 45% has a disability, and the informal employment rate stands at 89.9% (with 99.1% for women), meaning the vast majority of the ageing population has no contributory pension entitlements beyond the universal basic pension.[^25] The draft calls for a "whole of government and community approach" but does not address the fundamental challenge identified in the government's own MIPAA survey – that "lack of overall political support" for ageing issues is "always" present, with "other pressing issues tak[ing] precedence when designing policies."[^26] The absence of a dedicated elderly law, which the policy itself acknowledges, means the policy has no statutory enforcement mechanism.
 
 ---
 
-#### 1.1.5 Strategic Action Plan (SAP) Light Chapters — Social Sector (Shelved Draft)
+#### 1.1.5 Strategic Action Plan (SAP) Light Chapters – Social Sector (Shelved Draft)
 
 | Element | Detail |
 |---|---|
-| **Full Title** | SAP Light Chapter Writeups — Women and Gender Equality; Persons with Disabilities; Child and Family Protection; Social Protection |
+| **Full Title** | SAP Light Chapter Writeups – Women and Gender Equality; Persons with Disabilities; Child and Family Protection; Social Protection |
 | **Period** | Was intended to align with government's medium-term planning cycle (successor to SAP 2019–2023) |
 | **Authoring Body** | Government of Maldives / MoSFD input |
-| **Status** | **Shelved** — drafting was initiated but the plan has been abandoned; it will not proceed to implementation. Retained here as a reference because it contains useful situational analysis and data. |
+| **Status** | **Shelved** – drafting was initiated but the plan has been abandoned; it will not proceed to implementation. Retained here as a reference because it contains useful situational analysis and data. |
 | **Legal Basis** | Government planning framework |
 | **Number of Chapters** | 4 sub-chapters within the social sector |
 | **Key Implementing Agencies** | MoSFD (lead), NSPA, Ministry of Health, Ministry of Homeland Security and Technology |
@@ -156,7 +156,7 @@ The plan explicitly references UK child protection frameworks (the Children Act 
 
 - **Social Protection:** Outcome of a more rational social protection system with better-targeted benefits. NSPA statistics: 3,245 parents and 5,563 children benefiting from single parent allowances; 121 parents and 149 children from foster parent allowances; 12,374 people from disability allowance (as of 2023).[^30]
 
-**Key Observation:** The SAP light chapters were shelved before completion — medium-term targets, headline indicators, and Phase 2 content were all marked as "To be developed in Phase 2" but this Phase 2 never materialised before the plan was abandoned. The shelving of the SAP means the Maldives currently lacks an overarching government planning framework within which the sector-specific action plans can be coordinated. This absence is significant: it means that the individual action plans (NAPDI, NAPVAC, GEAP, Ageing Policy) operate without a unifying medium-term strategy that would sequence priorities, allocate resources across sectors, and resolve inter-plan coordination challenges. The situational analysis and data contained in the SAP draft chapters remain valuable as reference material, even though the plan itself will not proceed.
+**Key Observation:** The SAP light chapters were shelved before completion – medium-term targets, headline indicators, and Phase 2 content were all marked as "To be developed in Phase 2" but this Phase 2 never materialised before the plan was abandoned. The shelving of the SAP means the Maldives currently lacks an overarching government planning framework within which the sector-specific action plans can be coordinated. This absence is significant: it means that the individual action plans (NAPDI, NAPVAC, GEAP, Ageing Policy) operate without a unifying medium-term strategy that would sequence priorities, allocate resources across sectors, and resolve inter-plan coordination challenges. The situational analysis and data contained in the SAP draft chapters remain valuable as reference material, even though the plan itself will not proceed.
 
 ---
 
@@ -208,7 +208,7 @@ The following plans are referenced across the encyclopedia but were not availabl
 
 ### 1.2 Lapsed Action Plans
 
-The following plans have expired or been superseded, but their legacy — both achievements and unfinished business — shapes the current landscape.
+The following plans have expired or been superseded, but their legacy – both achievements and unfinished business – shapes the current landscape.
 
 #### National Plan of Action on Older Persons, 2019–2023
 
@@ -270,109 +270,109 @@ The Ministry operates through the following subordinate institutions:[^38]
 | **Vilingili Social Service Centre** | Island-level social service delivery |
 | **Social Centres for Elderly** | Community-based elderly care |
 
-The breadth of the mandate — 39 responsibilities spanning five vulnerable population groups, gender mainstreaming, family strengthening, emergency preparedness, licensing, research, and international treaty reporting — assigned to a single ministry with limited staff and fiscal resources, illustrates the structural overstretch that characterises the Maldivian social policy architecture.
+The breadth of the mandate – 39 responsibilities spanning five vulnerable population groups, gender mainstreaming, family strengthening, emergency preparedness, licensing, research, and international treaty reporting – assigned to a single ministry with limited staff and fiscal resources, illustrates the structural overstretch that characterises the Maldivian social policy architecture.
 
 ---
 
-## Section 2: Evidence Cross-Reference — What the Research Says About Each Plan's Priorities
+## Section 2: Evidence Cross-Reference – What the Research Says About Each Plan's Priorities
 
 This section maps each active or proposed action plan's goals against the evidence base documented across the encyclopedia, assessing whether each plan addresses the right problems in the right way and identifying evidence gaps that the plans do not account for.
 
-### 2.1 NAPDI v6 (Disability Inclusion) — Evidence Cross-Reference
+### 2.1 NAPDI v6 (Disability Inclusion) – Evidence Cross-Reference
 
 #### Policy Goal 1: Good Health and Wellbeing
 
 | Plan Goal | What the Evidence Shows | Does the Goal Address the Right Problem? | Evidence Gaps |
 |---|---|---|---|
-| Universal access to healthcare for PWDs | Census 2022 found 24,401 PWDs (7% of population) but only 13,656 registered in NDR (56%); the UNPRPD 2024 assessment found healthcare providers "infantilise adults with disabilities" and hold "commonly held belief... that medical conditions experienced by persons with disabilities are a direct result of their disability"[^39] | Partially — the goal correctly identifies physical accessibility and communication as barriers, but does not address attitudinal barriers among healthcare providers or the diagnostic bias documented in evidence | No data on health outcomes for PWDs; no measurement of diagnostic error rates; no baseline on accessibility compliance of health facilities |
-| Social protection reform recognising disability diversity | Only 25.6% of PWDs receive disability allowance (Hameed et al., 2022); the allowance was rated as insufficient by all FGD participants; lowest coverage among women, older adults, those in Male', and those with sensory impairments[^40] | Yes — the strategy to "review and revise social protection and medical welfare policies to recognize the diversity of disabilities" directly addresses the documented one-size-fits-all problem | No cost modelling for expanded tiered benefits; no data on unmet needs by disability type |
-| Early identification and intervention for children | SEN units in 87% of government schools by 2017, but many removed in effort to practise "inclusion" without providing reasonable accommodations; children with disabilities in school face bullying and exclusion from activities[^41] | Yes — early identification is a critical gap; however, the strategy focuses on tools and sensitisation rather than the structural capacity of the health and education systems to act on early identification findings | No prevalence data on specific childhood disabilities; no data on early intervention service capacity outside Male' |
+| Universal access to healthcare for PWDs | Census 2022 found 24,401 PWDs (7% of population) but only 13,656 registered in NDR (56%); the UNPRPD 2024 assessment found healthcare providers "infantilise adults with disabilities" and hold "commonly held belief... that medical conditions experienced by persons with disabilities are a direct result of their disability"[^39] | Partially – the goal correctly identifies physical accessibility and communication as barriers, but does not address attitudinal barriers among healthcare providers or the diagnostic bias documented in evidence | No data on health outcomes for PWDs; no measurement of diagnostic error rates; no baseline on accessibility compliance of health facilities |
+| Social protection reform recognising disability diversity | Only 25.6% of PWDs receive disability allowance (Hameed et al., 2022); the allowance was rated as insufficient by all FGD participants; lowest coverage among women, older adults, those in Male', and those with sensory impairments[^40] | Yes – the strategy to "review and revise social protection and medical welfare policies to recognize the diversity of disabilities" directly addresses the documented one-size-fits-all problem | No cost modelling for expanded tiered benefits; no data on unmet needs by disability type |
+| Early identification and intervention for children | SEN units in 87% of government schools by 2017, but many removed in effort to practise "inclusion" without providing reasonable accommodations; children with disabilities in school face bullying and exclusion from activities[^41] | Yes – early identification is a critical gap; however, the strategy focuses on tools and sensitisation rather than the structural capacity of the health and education systems to act on early identification findings | No prevalence data on specific childhood disabilities; no data on early intervention service capacity outside Male' |
 
 #### Policy Goal 2: Quality and Inclusive Education
 
 | Plan Goal | What the Evidence Shows | Does the Goal Address the Right Problem? | Evidence Gaps |
 |---|---|---|---|
-| Inclusive primary and secondary education | Inclusive Education Policy updated 2021 but implementation poor; deaf students lack sign language interpreters; students with intellectual disabilities assigned to higher grades by age not ability; visual impairment students lack accessible materials; switch from Dhivehi to ASL sign language caused "major disruption"[^42] | Partially — the goal addresses curriculum review and educator capacity but does not confront the specific crises documented (sign language switch, removal of SEN units, lack of IEP implementation) | No data on educational attainment of students with disabilities; no tracking of transition rates from primary to secondary to tertiary |
-| Access to tertiary education | Higher education institutions "remain largely inaccessible"; lecturers do not make accommodations; students asked to "find their own helpers during examinations"[^43] | Yes — but the strategy (review and assess opportunities) is diagnostic rather than prescriptive | No data on enrolment, retention, or completion rates for students with disabilities in higher education |
+| Inclusive primary and secondary education | Inclusive Education Policy updated 2021 but implementation poor; deaf students lack sign language interpreters; students with intellectual disabilities assigned to higher grades by age not ability; visual impairment students lack accessible materials; switch from Dhivehi to ASL sign language caused "major disruption"[^42] | Partially – the goal addresses curriculum review and educator capacity but does not confront the specific crises documented (sign language switch, removal of SEN units, lack of IEP implementation) | No data on educational attainment of students with disabilities; no tracking of transition rates from primary to secondary to tertiary |
+| Access to tertiary education | Higher education institutions "remain largely inaccessible"; lecturers do not make accommodations; students asked to "find their own helpers during examinations"[^43] | Yes – but the strategy (review and assess opportunities) is diagnostic rather than prescriptive | No data on enrolment, retention, or completion rates for students with disabilities in higher education |
 
 #### Policy Goal 3: Decent Work
 
 | Plan Goal | What the Evidence Shows | Does the Goal Address the Right Problem? | Evidence Gaps |
 |---|---|---|---|
-| Full employment and equal pay | Labour force participation: 41% for men with disabilities, 28% for women with disabilities; jobs created for PWDs are "tokenistic and lack concrete job descriptions"; teachers with disabilities "discouraged or forced to resign"[^44] | Partially — the plan addresses vocational training and workplace policies but does not confront the documented corruption and nepotism in hiring ("people with either political or family connections usually become hired for jobs") or the active discrimination against employees who develop disabilities | No data on employment rates by disability type; no wage comparison data; no data on workplace accommodations provided |
+| Full employment and equal pay | Labour force participation: 41% for men with disabilities, 28% for women with disabilities; jobs created for PWDs are "tokenistic and lack concrete job descriptions"; teachers with disabilities "discouraged or forced to resign"[^44] | Partially – the plan addresses vocational training and workplace policies but does not confront the documented corruption and nepotism in hiring ("people with either political or family connections usually become hired for jobs") or the active discrimination against employees who develop disabilities | No data on employment rates by disability type; no wage comparison data; no data on workplace accommodations provided |
 
 #### Policy Goal 4: Accessible Cities and Communities
 
 | Plan Goal | What the Evidence Shows | Does the Goal Address the Right Problem? | Evidence Gaps |
 |---|---|---|---|
-| Accessible housing and infrastructure | Most public buildings lack ramps, large doorways, or lifts; mosques not wheelchair-accessible; roads have limited wheelchair accessibility; "no supported living housing options" for independent living; social housing does not include disability considerations[^45] | Yes — but the Minimum Standards for Accessibility (2013/R-557) have narrow scope and poor compliance; the strategy to "enforce existing building codes" assumes codes are adequate when they are not | No systematic accessibility audit of public infrastructure; no data on housing adaptations funded or completed |
-| Accessible transport | Buses not fully accessible; no accessible taxis (except MAPD vehicles); RTL ferries not fully accessible; wheelchair accessibility on speedboats impossible independently[^46] | Yes — but the strategy focuses on design improvement rather than enforcement or interim solutions for the current inaccessible fleet | No data on transport usage by PWDs; no cost estimates for accessibility retrofitting |
+| Accessible housing and infrastructure | Most public buildings lack ramps, large doorways, or lifts; mosques not wheelchair-accessible; roads have limited wheelchair accessibility; "no supported living housing options" for independent living; social housing does not include disability considerations[^45] | Yes – but the Minimum Standards for Accessibility (2013/R-557) have narrow scope and poor compliance; the strategy to "enforce existing building codes" assumes codes are adequate when they are not | No systematic accessibility audit of public infrastructure; no data on housing adaptations funded or completed |
+| Accessible transport | Buses not fully accessible; no accessible taxis (except MAPD vehicles); RTL ferries not fully accessible; wheelchair accessibility on speedboats impossible independently[^46] | Yes – but the strategy focuses on design improvement rather than enforcement or interim solutions for the current inaccessible fleet | No data on transport usage by PWDs; no cost estimates for accessibility retrofitting |
 
 #### Policy Goal 5: Access to Justice
 
 | Plan Goal | What the Evidence Shows | Does the Goal Address the Right Problem? | Evidence Gaps |
 |---|---|---|---|
-| Equal access to justice | Court proceedings involving children with disabilities conducted "without interpreters"; legal documents and proceedings largely inaccessible; 60% prevalence of sexual violence against children with disabilities (predominantly girls); inaccessible police reporting mechanisms[^47] | Yes — the plan correctly identifies courtroom accessibility and legal framework review as priorities | No data on case outcomes for PWDs in the justice system; no data on protection order applications by or for PWDs |
+| Equal access to justice | Court proceedings involving children with disabilities conducted "without interpreters"; legal documents and proceedings largely inaccessible; 60% prevalence of sexual violence against children with disabilities (predominantly girls); inaccessible police reporting mechanisms[^47] | Yes – the plan correctly identifies courtroom accessibility and legal framework review as priorities | No data on case outcomes for PWDs in the justice system; no data on protection order applications by or for PWDs |
 
 ---
 
-### 2.2 NAPVAC (Violence Against Children) — Evidence Cross-Reference
+### 2.2 NAPVAC (Violence Against Children) – Evidence Cross-Reference
 
 #### Strategic Area 1: Home (Safer Families)
 
 | Plan Goal | What the Evidence Shows | Does the Goal Address the Right Problem? | Evidence Gaps |
 |---|---|---|---|
-| Clear pathways for early detection and intervention | No established referral systems or case conferences between schools and CFPS; police checks and child protection training for school staff absent; care plans are "rare" and "regular review meetings are not common practice"[^48] | Yes — this is the single most critical operational gap in child protection | No data on time between first concern and first intervention; no mapping of existing informal identification pathways |
-| Empowering parents for positive environments | Children are "both the primary reason women stay in violent relationships AND the primary reason they eventually leave"; reproductive coercion documented as a tool of control; overcrowded housing identified as a driver of violence and pressure[^49] | Partially — the parent empowerment frame assumes parents have agency they may not possess; the evidence shows many parents (primarily mothers) are themselves trapped in violent circumstances and cannot create safe environments without structural support (housing, income, legal protection) | No prevalence data on positive parenting practices; no baseline on parent help-seeking behaviour |
-| Evidence-based policy strengthening | No national prevalence study of child maltreatment has ever been conducted; the primary DV study dates from 2007; no evaluation of the CSG/IBAMA volunteer model has been conducted[^50] | Yes — the goal to ground policy in evidence is essential, but the plan does not itself commission the missing studies | The entire evidence base for VAC prevalence in the Maldives is outdated or absent |
+| Clear pathways for early detection and intervention | No established referral systems or case conferences between schools and CFPS; police checks and child protection training for school staff absent; care plans are "rare" and "regular review meetings are not common practice"[^48] | Yes – this is a primary operational gap in child protection | No data on time between first concern and first intervention; no mapping of existing informal identification pathways |
+| Empowering parents for positive environments | Children are "both the primary reason women stay in violent relationships AND the primary reason they eventually leave"; reproductive coercion documented as a tool of control; overcrowded housing identified as a driver of violence and pressure[^49] | Partially – the parent empowerment frame assumes parents have agency they may not possess; the evidence shows many parents (primarily mothers) are themselves trapped in violent circumstances and cannot create safe environments without structural support (housing, income, legal protection) | No prevalence data on positive parenting practices; no baseline on parent help-seeking behaviour |
+| Evidence-based policy strengthening | No national prevalence study of child maltreatment has ever been conducted; the primary DV study dates from 2007; no evaluation of the CSG/IBAMA volunteer model has been conducted[^50] | Yes – the goal to ground policy in evidence is essential, but the plan does not itself commission the missing studies | The entire evidence base for VAC prevalence in the Maldives is outdated or absent |
 
 #### Strategic Area 2: School (Safer Educational Settings)
 
 | Plan Goal | What the Evidence Shows | Does the Goal Address the Right Problem? | Evidence Gaps |
 |---|---|---|---|
-| Protecting children from bullying and violence in schools | Education Act 2020 banned corporal punishment in schools but no prohibition in home, alternative care, or penal settings; no mandatory child protection training for school staff; children with disabilities face bullying with no school action[^51] | Partially — the plan focuses on educator training and reporting but does not address the absence of police checks for persons working with children or the corporal punishment gap outside schools | No national data on school bullying prevalence; no data on teacher-perpetrated violence |
+| Protecting children from bullying and violence in schools | Education Act 2020 banned corporal punishment in schools but no prohibition in home, alternative care, or penal settings; no mandatory child protection training for school staff; children with disabilities face bullying with no school action[^51] | Partially – the plan focuses on educator training and reporting but does not address the absence of police checks for persons working with children or the corporal punishment gap outside schools | No national data on school bullying prevalence; no data on teacher-perpetrated violence |
 
 #### Strategic Area 3: Community (Safer Communities)
 
 | Plan Goal | What the Evidence Shows | Does the Goal Address the Right Problem? | Evidence Gaps |
 |---|---|---|---|
-| Safe community environment | The Ministry operates in only 20 of 189 inhabited islands; "complex politics permeates even child protection activities"; social workers have received death threats[^52] | Partially — the plan envisions community mobilisation through IBAMA groups and awareness campaigns but does not address the political interference and intimidation that the evidence identifies as a fundamental barrier | No mapping of community-level protective factors; no assessment of IBAMA effectiveness |
+| Safe community environment | The Ministry operates in only 20 of 189 inhabited islands; "complex politics permeates even child protection activities"; social workers have received death threats[^52] | Partially – the plan envisions community mobilisation through IBAMA groups and awareness campaigns but does not address the political interference and intimidation that the evidence identifies as a fundamental barrier | No mapping of community-level protective factors; no assessment of IBAMA effectiveness |
 
 #### Strategic Area 4: Online (Safer Online Spaces)
 
 | Plan Goal | What the Evidence Shows | Does the Goal Address the Right Problem? | Evidence Gaps |
 |---|---|---|---|
-| Legislative and institutional frameworks for online child protection | Online sexual exploitation is an "emerging concern" given high internet/smartphone penetration; cyberbullying added as a category in recent case data; technology-facilitated abuse used to trap GBV survivors[^53] | Yes — this is an area where the evidence base is thin and legislative frameworks are absent | No prevalence data on online child exploitation; no assessment of existing digital literacy programmes |
+| Legislative and institutional frameworks for online child protection | Online sexual exploitation is an "emerging concern" given high internet/smartphone penetration; cyberbullying added as a category in recent case data; technology-facilitated abuse used to trap GBV survivors[^53] | Yes – this is an area where the evidence base is thin and legislative frameworks are absent | No prevalence data on online child exploitation; no assessment of existing digital literacy programmes |
 
 #### Strategic Area 5: CP System and Services
 
 | Plan Goal | What the Evidence Shows | Does the Goal Address the Right Problem? | Evidence Gaps |
 |---|---|---|---|
-| Strengthened integrated CP system | 61 child protection social workers serve 128,208 children (caseload 70–80 vs. recommended 25–30); no multi-agency case conferencing; the Family Act Section 4(b) loophole on child marriage persists; judicial flogging not abolished for children[^54] | Partially — the plan correctly identifies system strengthening but does not confront the workforce crisis at the specificity the evidence demands (number of additional workers needed, training pipeline, remuneration competitiveness) or the legislative loopholes | No costed workforce expansion plan; no model for service delivery to the 169 islands without Ministry presence |
+| Strengthened integrated CP system | 61 child protection social workers serve 128,208 children (caseload 70–80 vs. recommended 25–30); no multi-agency case conferencing; the Family Act Section 4(b) loophole on child marriage persists; judicial flogging not abolished for children[^54] | Partially – the plan correctly identifies system strengthening but does not confront the workforce crisis at the specificity the evidence demands (number of additional workers needed, training pipeline, remuneration competitiveness) or the legislative loopholes | No costed workforce expansion plan; no model for service delivery to the 169 islands without Ministry presence |
 
 ---
 
-### 2.3 GEAP (Gender Equality) — Evidence Cross-Reference
+### 2.3 GEAP (Gender Equality) – Evidence Cross-Reference
 
 | Plan Goal | What the Evidence Shows | Does the Goal Address the Right Problem? | Evidence Gaps |
 |---|---|---|---|
-| **Leadership and Governance:** Women's political participation | Maldives ranked 101st of 136 countries for political empowerment (score 0.089) in Global Gender Gap Report 2013; WDCs assessed as ineffective (Transparency Maldives, 2015)[^55] | Yes — but the plan relies on awareness campaigns and electoral law review rather than mandatory quotas, which the evidence suggests are necessary for meaningful progress | No updated political participation data post-2013; no assessment of barriers at local government level |
-| **Economic Empowerment:** Equal participation | Women's labour force participation significantly lower than men's despite near-perfect education parity; 59% of informal sector employment is female; women concentrated in lower-paid roles; "double burden" of paid work and unpaid care persists[^56] | Partially — the plan addresses stereotyping and employment legislation but does not confront the tourism sector's structural exclusion of women or the absence of childcare infrastructure | No time-use survey data; no cost-benefit analysis of childcare provision |
-| **GBV Elimination:** Reduced violence | The 2007 WHLE study remains the only national DV prevalence study; FPA caseload rose from 19 (2013) to 642 (2016); marital rape not fully criminalised; the DVPA 2012 did not recognise marital rape[^57] | Yes — but the plan's strategies are institutional (strengthening frameworks, health sector response) rather than structural (housing, economic independence for survivors, legal reform on marital rape) | No updated prevalence study (nearly two decades without re-measurement); no data on DV during COVID-19 at national level |
-| **Access to Justice:** Equal access and effective remedies | Qualitative research found recently divorced women in Greater Male' were unaware of legal rights before or during marriage; protection order mechanisms exist but uptake data unavailable; burdensome evidence requirements for SGBV prosecution[^58] | Yes — but the plan does not address the intersection of Islamic family law with gender equality law, which the Musawah framework analysis identifies as the structural root of women's legal disadvantage | No data on protection order applications, grants, and enforcement; no assessment of legal aid availability for women |
-| **Institutional Gender Mainstreaming:** Gender-responsive budgeting | Gender-sensitive tax policy analysis conducted 2022 but GRB not yet implemented across government; gender focal point network incomplete[^59] | Yes — GRB is the mechanism through which gender commitments are translated into fiscal reality | No gender budget analysis of current government spending; no assessment of gender focal point effectiveness |
+| **Leadership and Governance:** Women's political participation | Maldives ranked 101st of 136 countries for political empowerment (score 0.089) in Global Gender Gap Report 2013; WDCs assessed as ineffective (Transparency Maldives, 2015)[^55] | Yes – but the plan relies on awareness campaigns and electoral law review rather than mandatory quotas, which the evidence suggests are necessary for meaningful progress | No updated political participation data post-2013; no assessment of barriers at local government level |
+| **Economic Empowerment:** Equal participation | Women's labour force participation significantly lower than men's despite near-perfect education parity; 59% of informal sector employment is female; women concentrated in lower-paid roles; "double burden" of paid work and unpaid care persists[^56] | Partially – the plan addresses stereotyping and employment legislation but does not confront the tourism sector's structural exclusion of women or the absence of childcare infrastructure | No time-use survey data; no cost-benefit analysis of childcare provision |
+| **GBV Elimination:** Reduced violence | The 2007 WHLE study remains the only national DV prevalence study; FPA caseload rose from 19 (2013) to 642 (2016); marital rape not fully criminalised; the DVPA 2012 did not recognise marital rape[^57] | Yes – but the plan's strategies are institutional (strengthening frameworks, health sector response) rather than structural (housing, economic independence for survivors, legal reform on marital rape) | No updated prevalence study (nearly two decades without re-measurement); no data on DV during COVID-19 at national level |
+| **Access to Justice:** Equal access and effective remedies | Qualitative research found recently divorced women in Greater Male' were unaware of legal rights before or during marriage; protection order mechanisms exist but uptake data unavailable; burdensome evidence requirements for SGBV prosecution[^58] | Yes – but the plan does not address the intersection of Islamic family law with gender equality law, which the Musawah framework analysis identifies as the structural root of women's legal disadvantage | No data on protection order applications, grants, and enforcement; no assessment of legal aid availability for women |
+| **Institutional Gender Mainstreaming:** Gender-responsive budgeting | Gender-sensitive tax policy analysis conducted 2022 but GRB not yet implemented across government; gender focal point network incomplete[^59] | Yes – GRB is the mechanism through which gender commitments are translated into fiscal reality | No gender budget analysis of current government spending; no assessment of gender focal point effectiveness |
 
 ---
 
-### 2.4 National Ageing Policy (Proposed Revision) — Evidence Cross-Reference
+### 2.4 National Ageing Policy (Proposed Revision) – Evidence Cross-Reference
 
 | Plan Goal | What the Evidence Shows | Does the Goal Address the Right Problem? | Evidence Gaps |
 |---|---|---|---|
-| **Development and Mainstreaming** | Population ageing is the fastest demographic shift in the Maldives: 8.3% aged 60+ in 2023, projected 34.1% by 2054; TFR 1.7 (below replacement); yet "lack of overall political support" is "always" present for ageing issues[^60] | Yes — mainstreaming is essential given the cross-cutting nature of ageing, but the policy does not specify how to overcome the documented political indifference | No actuarial projection of pension liabilities; no age-disaggregated data on service utilisation |
-| **Health and Wellbeing** | 46% of elderly have hypertension; 28% have diabetes; 45% have a disability; mental health services for elderly "severely limited"; specialist doctors "scarce in the atolls"[^61] | Yes — but the policy's focus on "healthy ageing" and "self-care efficacy" may understate the scale of chronic disease management needed for a population where nearly half are hypertensive | No geriatric workforce assessment; no data on NCD management outcomes for elderly; no palliative care needs assessment |
-| **Ageing in Place** | Only one residential elderly care facility (HPSN, Guraidhoo) for the entire country; planned facilities in Addu and Male' stalled; no regulatory framework for private elderly care; rural-to-urban migration leaves elderly isolated on outer islands[^62] | Yes — ageing-in-place is the right strategic direction given fiscal and cultural constraints, but requires community-based care infrastructure that does not exist outside Greater Male' | No mapping of community-based care capacity; no assessment of family caregiver burden; no data on unmet long-term care needs |
-| **Income Security** | Basic Pension of MVR 5,000/month achieves near-universal coverage for 65+; 89.9% of employment is informal (99.1% for women), meaning most have no contributory pension; pension adequacy varies enormously between Male' (where rent consumes pension) and outer islands[^63] | Yes — but the policy does not address the fiscal sustainability challenge that the basic pension's cost will more than double as the 65+ population grows | No detailed actuarial projections; no analysis of pension adequacy by location and household composition |
-| **Caregiver Support** | Primary support persons are "mostly women"; no formal support systems exist for family caregivers; no respite services; the gendered caregiver burden is documented across disability, elderly, and child protection evidence[^64] | Yes — this is among the most important gaps identified across the entire social policy landscape; the policy correctly identifies it but provides strategies (training, sensitisation) rather than structural solutions (respite care, caregiver allowances, workplace flexibility mandates) | No data on caregiver health outcomes; no time-use data on care burden; no costing of respite care models |
+| **Development and Mainstreaming** | Population ageing is the fastest demographic shift in the Maldives: 8.3% aged 60+ in 2023, projected 34.1% by 2054; TFR 1.7 (below replacement); yet "lack of overall political support" is "always" present for ageing issues[^60] | Yes – mainstreaming is essential given the cross-cutting nature of ageing, but the policy does not specify how to overcome the documented political indifference | No actuarial projection of pension liabilities; no age-disaggregated data on service utilisation |
+| **Health and Wellbeing** | 46% of elderly have hypertension; 28% have diabetes; 45% have a disability; mental health services for elderly "severely limited"; specialist doctors "scarce in the atolls"[^61] | Yes – but the policy's focus on "healthy ageing" and "self-care efficacy" may understate the scale of chronic disease management needed for a population where nearly half are hypertensive | No geriatric workforce assessment; no data on NCD management outcomes for elderly; no palliative care needs assessment |
+| **Ageing in Place** | Only one residential elderly care facility (HPSN, Guraidhoo) for the entire country; planned facilities in Addu and Male' stalled; no regulatory framework for private elderly care; rural-to-urban migration leaves elderly isolated on outer islands[^62] | Yes – ageing-in-place is the right strategic direction given fiscal and cultural constraints, but requires community-based care infrastructure that does not exist outside Greater Male' | No mapping of community-based care capacity; no assessment of family caregiver burden; no data on unmet long-term care needs |
+| **Income Security** | Basic Pension of MVR 5,000/month achieves near-universal coverage for 65+; 89.9% of employment is informal (99.1% for women), meaning most have no contributory pension; pension adequacy varies enormously between Male' (where rent consumes pension) and outer islands[^63] | Yes – but the policy does not address the fiscal sustainability challenge that the basic pension's cost will more than double as the 65+ population grows | No detailed actuarial projections; no analysis of pension adequacy by location and household composition |
+| **Caregiver Support** | Primary support persons are "mostly women"; no formal support systems exist for family caregivers; no respite services; the gendered caregiver burden is documented across disability, elderly, and child protection evidence[^64] | Yes – this is among the most important gaps identified across the entire social policy landscape; the policy correctly identifies it but provides strategies (training, sensitisation) rather than structural solutions (respite care, caregiver allowances, workplace flexibility mandates) | No data on caregiver health outcomes; no time-use data on care burden; no costing of respite care models |
 
 ---
 
@@ -385,9 +385,9 @@ The Maldives' social policy commitments are shaped by a web of international tre
 | Action Plan | CRC | CEDAW | CRPD | MIPAA | SDGs | Other |
 |---|---|---|---|---|---|---|
 | **NAPDI v6** (2024–2028) | Art. 23 (children with disabilities) | General Recommendation on women with disabilities | Articles 5–30 (comprehensive) | Not directly addressed | SDGs 3, 4, 8, 11, 16 (explicit alignment of goals) | Jakarta Declaration on Asian-Pacific Decade of PWDs (2023–2030); Incheon Strategy; Sendai Framework |
-| **NAPVAC** (2024–2028) | Articles 19 (protection from violence), 34 (sexual exploitation), 37 (torture/degrading treatment), 39 (rehabilitation) | Art. 5 (stereotypes and prejudice) — through gender-equitable norms component | Not specifically addressed beyond children with disabilities | Not addressed | SDGs 5, 16 (implicitly) | CRC Optional Protocols on sale of children and on communications procedure |
-| **GEAP** (2022–2026) | Art. 2 (non-discrimination, gender) | Articles 1–16 (comprehensive — GEAP is CEDAW's operational instrument) | Not specifically addressed | Not addressed | SDGs 5 (gender equality), 8 (decent work), 10 (reduced inequalities), 16 (justice) | Beijing Platform for Action; ICPD Programme of Action |
-| **National Ageing Policy** (proposed) | Not addressed | General concern for older women | Not directly addressed beyond older PWDs | MIPAA (comprehensive — policy explicitly aligned to 4th Review) | SDGs 1, 3, 10, 11 | UN Principles for Older Persons (1991); UN Decade of Healthy Ageing (2021–2030); Kuala Lumpur Declaration on Ageing (2015) |
+| **NAPVAC** (2024–2028) | Articles 19 (protection from violence), 34 (sexual exploitation), 37 (torture/degrading treatment), 39 (rehabilitation) | Art. 5 (stereotypes and prejudice) – through gender-equitable norms component | Not specifically addressed beyond children with disabilities | Not addressed | SDGs 5, 16 (implicitly) | CRC Optional Protocols on sale of children and on communications procedure |
+| **GEAP** (2022–2026) | Art. 2 (non-discrimination, gender) | Articles 1–16 (comprehensive – GEAP is CEDAW's operational instrument) | Not specifically addressed | Not addressed | SDGs 5 (gender equality), 8 (decent work), 10 (reduced inequalities), 16 (justice) | Beijing Platform for Action; ICPD Programme of Action |
+| **National Ageing Policy** (proposed) | Not addressed | General concern for older women | Not directly addressed beyond older PWDs | MIPAA (comprehensive – policy explicitly aligned to 4th Review) | SDGs 1, 3, 10, 11 | UN Principles for Older Persons (1991); UN Decade of Healthy Ageing (2021–2030); Kuala Lumpur Declaration on Ageing (2015) |
 | **DVPNS 3rd** (2023–2027) | Art. 19 (violence) | Articles 1–5 (discrimination/violence against women) | Not addressed | Not addressed | SDG 5 (target 5.2) | Istanbul Convention principles (not ratified by Maldives) |
 | **RMNCAH Strategy** (2020–2025) | Art. 24 (health) | Art. 12 (health), Art. 16 (family planning) | Not addressed | Not addressed | SDGs 3 (health), 5 (gender) | ICPD Programme of Action; Every Woman Every Child Global Strategy |
 | **Health Master Plan** (2016–2025) | Art. 24 (health) | Art. 12 (health) | Art. 25 (health) | Health dimension of MIPAA | SDG 3 (comprehensive) | WHO Health Systems Framework |
@@ -397,16 +397,16 @@ The Maldives' social policy commitments are shaped by a web of international tre
 
 | International Obligation | Which Plans Address It | Coverage Assessment | **GAPS** |
 |---|---|---|---|
-| **CRC** (ratified 1991, reservations on Arts. 14(1) and 21) | NAPVAC (primary); NAPDI (Art. 23); RMNCAH; Health Master Plan | Moderate — NAPVAC covers violence/protection dimensions; health dimensions partially covered | **Art. 26 (social security for children):** No plan specifically operationalises children's social security rights. **Art. 27 (adequate standard of living):** Child poverty and multidimensional deprivation not addressed by any current action plan. **Art. 28/29 (education):** No education-specific action plan exists. **Art. 31 (rest, leisure, play):** Not addressed. **Art. 40 (juvenile justice):** No action plan covers juvenile justice reform despite documented 11.2% rehabilitation completion rate and absence of separate detention facilities[^65] |
-| **CEDAW** (ratified 1993, reservation on Art. 16) | GEAP (primary); DVPNS; RMNCAH | Moderate — GEAP provides framework but blanket reservation on Art. 16 (family law) is the most significant structural limitation | **Art. 16 (marriage and family):** The reservation on this article means the most consequential area of gender inequality — family law, custody, maintenance, marriage/divorce rights — is explicitly excluded from CEDAW obligations. No action plan addresses removal of this reservation. **Art. 14 (rural women):** No plan specifically addresses the distinct circumstances of women in outer atolls[^66] |
-| **CRPD** (ratified 2010) | NAPDI (primary); Health Master Plan (Art. 25) | Strong on paper — NAPDI covers all five CRPD priority areas | **Art. 12 (legal capacity):** Not addressed by any plan; the medical model still predominates in practice. **Art. 19 (independent living):** No supported living options exist; NAPDI mentions independent living but does not operationalise it. **Art. 33 (national monitoring):** Disability Council has only one member with a disability and is widely assessed as ineffective[^67] |
-| **MIPAA** (endorsed 2002) | National Ageing Policy (primary, explicitly aligned to 4th Review) | Moderate — the revised policy addresses all three MIPAA pillars but remains in draft and has no legal enforcement mechanism | **Older persons in development:** No plan addresses the economic contribution of older persons or their role in development. **Advancing health and wellbeing:** Geriatric care infrastructure does not exist outside Greater Male'. **Ensuring enabling and supportive environments:** No age-friendly cities/communities programme has been launched[^68] |
-| **SDG 1 (No Poverty)** | National Ageing Policy (income security); SAP light draft (shelved — social protection chapter) | Weak — no poverty-specific action plan | **No comprehensive poverty reduction action plan exists.** The social protection chapter of the SAP was marked "targets to be developed" before the plan was shelved entirely. Multidimensional child poverty receives no plan coverage |
-| **SDG 3 (Health)** | RMNCAH; Health Master Plan | Moderate — but both are in their final year (2025) | **Mental health:** No action plan covers mental health despite documented crisis (only psychiatrists at IGMH; WHO STEPS data showing high NCD burden). **Substance abuse:** No current action plan, despite drug offences being the primary driver of juvenile justice contact[^69] |
+| **CRC** (ratified 1991, reservations on Arts. 14(1) and 21) | NAPVAC (primary); NAPDI (Art. 23); RMNCAH; Health Master Plan | Moderate – NAPVAC covers violence/protection dimensions; health dimensions partially covered | **Art. 26 (social security for children):** No plan specifically operationalises children's social security rights. **Art. 27 (adequate standard of living):** Child poverty and multidimensional deprivation not addressed by any current action plan. **Art. 28/29 (education):** No education-specific action plan exists. **Art. 31 (rest, leisure, play):** Not addressed. **Art. 40 (juvenile justice):** No action plan covers juvenile justice reform despite documented 11.2% rehabilitation completion rate and absence of separate detention facilities[^65] |
+| **CEDAW** (ratified 1993, reservation on Art. 16) | GEAP (primary); DVPNS; RMNCAH | Moderate – GEAP provides framework but blanket reservation on Art. 16 (family law) is a major structural limitation | **Art. 16 (marriage and family):** The reservation on this article means a central area of gender inequality – family law, custody, maintenance, marriage/divorce rights – is explicitly excluded from CEDAW obligations. No action plan addresses removal of this reservation. **Art. 14 (rural women):** No plan specifically addresses the distinct circumstances of women in outer atolls[^66] |
+| **CRPD** (ratified 2010) | NAPDI (primary); Health Master Plan (Art. 25) | Strong on paper – NAPDI covers all five CRPD priority areas | **Art. 12 (legal capacity):** Not addressed by any plan; the medical model still predominates in practice. **Art. 19 (independent living):** No supported living options exist; NAPDI mentions independent living but does not operationalise it. **Art. 33 (national monitoring):** Disability Council has only one member with a disability and is widely assessed as ineffective[^67] |
+| **MIPAA** (endorsed 2002) | National Ageing Policy (primary, explicitly aligned to 4th Review) | Moderate – the revised policy addresses all three MIPAA pillars but remains in draft and has no legal enforcement mechanism | **Older persons in development:** No plan addresses the economic contribution of older persons or their role in development. **Advancing health and wellbeing:** Geriatric care infrastructure does not exist outside Greater Male'. **Ensuring enabling and supportive environments:** No age-friendly cities/communities programme has been launched[^68] |
+| **SDG 1 (No Poverty)** | National Ageing Policy (income security); SAP light draft (shelved – social protection chapter) | Weak – no poverty-specific action plan | **No comprehensive poverty reduction action plan exists.** The social protection chapter of the SAP was marked "targets to be developed" before the plan was shelved entirely. Multidimensional child poverty receives no plan coverage |
+| **SDG 3 (Health)** | RMNCAH; Health Master Plan | Moderate – but both are in their final year (2025) | **Mental health:** No action plan covers mental health despite documented crisis (only psychiatrists at IGMH; WHO STEPS data showing high NCD burden). **Substance abuse:** No current action plan, despite drug offences being the primary driver of juvenile justice contact[^69] |
 | **SDG 4 (Education)** | NAPDI (inclusive education); SAP light draft (shelved) referenced education | Weak | **No standalone education action plan exists** addressing the documented challenges in quality, atoll-level access, and school safety |
 | **SDG 5 (Gender Equality)** | GEAP (primary); DVPNS; RMNCAH | Moderate | **Marital rape:** Not addressed by any plan as a specific reform priority. **FGM/C:** No plan explicitly addresses FGM/C elimination or criminalisation despite 13% prevalence (DHS 2016–17)[^70] |
-| **SDG 10 (Reduced Inequalities)** | NAPDI; National Ageing Policy; GEAP | Weak — none address geographic inequality (Male'–atoll divide) as a standalone objective | **The Male'–atoll service delivery gap** is the single most consequential inequality in Maldivian social policy and is not addressed by any action plan as a primary objective |
-| **SDG 11 (Sustainable Cities)** | NAPDI (Goal 4) | Weak | **Housing affordability and overcrowding** — documented as a driver of DV, child abuse, and elderly vulnerability — is not addressed by any action plan |
+| **SDG 10 (Reduced Inequalities)** | NAPDI; National Ageing Policy; GEAP | Weak – none address geographic inequality (Male'–atoll divide) as a standalone objective | **The Male'–atoll service delivery gap** is a defining inequality in Maldivian social policy and is not addressed by any action plan as a primary objective |
+| **SDG 11 (Sustainable Cities)** | NAPDI (Goal 4) | Weak | **Housing affordability and overcrowding** – documented as a driver of DV, child abuse, and elderly vulnerability – is not addressed by any action plan |
 | **SDG 16 (Peace, Justice)** | NAPDI (Goal 5); NAPVAC (CP System); GEAP (Goal 5); NAP P/CVE | Moderate | **Juvenile justice reform** has no action plan. **Family law reform** (removing discriminatory provisions) has no action plan |
 
 ### Critical Gaps in International Obligation Coverage
@@ -435,26 +435,26 @@ The multiplicity of action plans creates both opportunities for synergy and risk
 
 | Population Group | NAPDI | NAPVAC | GEAP | Ageing Policy | DVPNS 3rd | RMNCAH | Health Master Plan | SAP Light (shelved) | NAP P/CVE |
 |---|---|---|---|---|---|---|---|---|---|
-| **Children (0–17)** | Children with disabilities | Primary focus | Gender dimensions | — | Children witnessing DV | Newborn/child/adolescent health | General health | CP subsector | Children in extremism |
-| **Women** | Women with disabilities | Gender-equitable norms | Primary focus | Older women | Primary focus (DV survivors) | Maternal/reproductive | General health | Gender chapter | — |
-| **Persons with Disabilities** | Primary focus | — | Mentioned as vulnerable group | Older PWDs | — | — | Art. 25 CRPD | PWD subsector | — |
-| **Elderly (60+)** | Older PWDs | — | Older women mentioned | Primary focus | Elder abuse (general DV) | — | Geriatric (limited) | — | — |
-| **Youth (18–24)** | Youth with disabilities | Limited (focus on children) | Youth economic empowerment | — | — | Adolescent health | General health | — | Youth radicalisation |
-| **Men/Boys** | Men with disabilities | Boys experiencing violence | Men as stakeholders in equality | Older men | Men as perpetrators (primarily) | — | General health | — | Men in extremism |
-| **Single parents** | — | Context (stressed single parents) | Single mothers as vulnerable | — | — | — | — | Single parent allowance | — |
-| **Informal workers** | — | — | Women in informal economy | Informal sector elderly | — | — | — | Social protection | — |
+| **Children (0–17)** | Children with disabilities | Primary focus | Gender dimensions | – | Children witnessing DV | Newborn/child/adolescent health | General health | CP subsector | Children in extremism |
+| **Women** | Women with disabilities | Gender-equitable norms | Primary focus | Older women | Primary focus (DV survivors) | Maternal/reproductive | General health | Gender chapter | – |
+| **Persons with Disabilities** | Primary focus | – | Mentioned as vulnerable group | Older PWDs | – | – | Art. 25 CRPD | PWD subsector | – |
+| **Elderly (60+)** | Older PWDs | – | Older women mentioned | Primary focus | Elder abuse (general DV) | – | Geriatric (limited) | – | – |
+| **Youth (18–24)** | Youth with disabilities | Limited (focus on children) | Youth economic empowerment | – | – | Adolescent health | General health | – | Youth radicalisation |
+| **Men/Boys** | Men with disabilities | Boys experiencing violence | Men as stakeholders in equality | Older men | Men as perpetrators (primarily) | – | General health | – | Men in extremism |
+| **Single parents** | – | Context (stressed single parents) | Single mothers as vulnerable | – | – | – | – | Single parent allowance | – |
+| **Informal workers** | – | – | Women in informal economy | Informal sector elderly | – | – | – | Social protection | – |
 
 ### 4.2 Gaps in Population Coverage
 
 The matrix reveals several populations that fall outside or between the coverage of existing plans:
 
-1. **Youth aged 18–24 not in education, employment, or training (NEET):** No plan provides comprehensive coverage for this group. Youth with disabilities are partially covered by NAPDI; youth at risk of radicalisation by NAP P/CVE; but the broader NEET population — which includes young people involved in gangs, substance use, and informal employment — has no dedicated action plan.
+1. **Youth aged 18–24 not in education, employment, or training (NEET):** No plan provides comprehensive coverage for this group. Youth with disabilities are partially covered by NAPDI; youth at risk of radicalisation by NAP P/CVE; but the broader NEET population – which includes young people involved in gangs, substance use, and informal employment – has no dedicated action plan.
 
 2. **Male victims of violence:** While the NAPVAC covers boys experiencing violence, and the DVPNS technically covers all DV victims regardless of gender, the evidence base and service architecture are overwhelmingly oriented toward female victims. Men experiencing domestic violence (18% of FPA caseload) have no targeted intervention framework.
 
 3. **Migrants and foreign workers:** No plan addresses the social protection or vulnerability of the significant foreign worker population in the Maldives, despite documented concerns about exploitation in construction and domestic work sectors.
 
-4. **Families in crisis (holistic):** Individual plans target specific vulnerabilities within families — child abuse, DV, disability, elderly care — but no plan provides an integrated family support framework that addresses the documented reality of compounding, intersecting vulnerabilities within the same household.
+4. **Families in crisis (holistic):** Individual plans target specific vulnerabilities within families – child abuse, DV, disability, elderly care – but no plan provides an integrated family support framework that addresses the documented reality of compounding, intersecting vulnerabilities within the same household.
 
 ### 4.3 Mandate Overlap and Duplication
 
@@ -464,7 +464,7 @@ Several areas of significant overlap exist between plans:
 
 **Gender equality and disability:** The GEAP mentions women with disabilities as a vulnerable group requiring economic empowerment support. The NAPDI v6 includes gender-specific provisions and strategies addressing women with disabilities. However, the HRCM CRPD Shadow Report (2023) found that "feminist and women's rights discourses in Maldives do not adopt an intersectional lens and thus exclude women with disabilities in their advocacy."[^72] The two plans operate in parallel rather than in an integrated manner.
 
-**Gender equality and child protection:** The GEAP addresses GBV elimination including violence against children; the NAPVAC addresses gender-equitable norms as part of its community strategy. The overlap is logical — gender norms drive both GBV and VAC — but the implementing structures are different, with FPA leading DV response and CFPS leading child protection, and no systematic integration between the two.
+**Gender equality and child protection:** The GEAP addresses GBV elimination including violence against children; the NAPVAC addresses gender-equitable norms as part of its community strategy. The overlap is logical – gender norms drive both GBV and VAC – but the implementing structures are different, with FPA leading DV response and CFPS leading child protection, and no systematic integration between the two.
 
 **Elderly care and disability:** The revised Ageing Policy notes that 45% of the elderly population has a disability, but the NAPDI and the Ageing Policy do not cross-reference each other or establish shared strategies for older persons with disabilities. The Special Care Centre at Guraidhoo houses both elderly and disabled residents, but this co-location has not been translated into coordinated policy.
 
@@ -495,11 +495,11 @@ The action plans currently in force or under development cover overlapping but n
 | NAPDI v6 | 2024 | 2028 | 5 years |
 | NAPVAC | 2024 | 2028 | 5 years |
 | National Ageing Policy | 2024 | TBD (draft) | TBD |
-| SAP Light (shelved) | N/A | N/A | N/A — plan abandoned before timeline was set |
+| SAP Light (shelved) | N/A | N/A | N/A – plan abandoned before timeline was set |
 
 The Health Master Plan and RMNCAH Strategy are in their final year (2025), meaning the health policy framework within which disability, gender, and ageing health goals must be pursued will expire before the social sector plans reach their midpoint. The NAP P/CVE has already lapsed (2024). The GEAP will expire in 2026, two years before the NAPDI and NAPVAC, creating a potential gender equality policy vacuum during the final years of those plans.
 
-The shelving of the SAP light chapters means the Maldives has no overarching government social policy planning framework at all — only sector-specific plans operating independently. Combined with the National Ageing Policy's draft status, the coordination architecture that all other plans depend upon is fundamentally absent.
+The shelving of the SAP light chapters means the Maldives has no overarching government social policy planning framework at all – only sector-specific plans operating independently. Combined with the National Ageing Policy's draft status, the coordination architecture that all other plans depend upon is fundamentally absent.
 
 ### 4.6 Coordination Mechanisms
 
@@ -512,9 +512,9 @@ The formal coordination mechanisms specified across the plans are:
 
 There is **no cross-plan coordination mechanism.** No inter-ministerial body is tasked with ensuring that the NAPDI, NAPVAC, GEAP, Ageing Policy, DVPNS, and other plans are implemented in a coordinated manner, resolve conflicts, eliminate duplication, or address the gaps identified in this analysis. Each plan has its own (often non-functional) coordination mechanism, but no supra-plan governance structure exists.
 
-This absence is particularly consequential for populations that sit at the intersection of multiple plans — children with disabilities (NAPDI + NAPVAC), elderly women experiencing DV (Ageing Policy + DVPNS + GEAP), women with disabilities experiencing GBV (NAPDI + GEAP + DVPNS) — whose needs cannot be met by any single plan and require coordinated multi-plan implementation.
+This absence is particularly consequential for populations that sit at the intersection of multiple plans – children with disabilities (NAPDI + NAPVAC), elderly women experiencing DV (Ageing Policy + DVPNS + GEAP), women with disabilities experiencing GBV (NAPDI + GEAP + DVPNS) – whose needs cannot be met by any single plan and require coordinated multi-plan implementation.
 
-### 4.7 The Fundamental Structural Problem
+### 4.7 Structural Gaps in the Action Plan Architecture
 
 The analysis reveals a fundamental structural problem in the Maldivian social policy architecture: **the action plans are designed as parallel vertical instruments for distinct population groups, but the populations they serve experience intersecting, compounding vulnerabilities that cannot be addressed through vertical delivery.**
 
@@ -526,7 +526,7 @@ A woman with a disability experiencing domestic violence on an outer island need
 - The health system's mental health support (no plan)
 - The housing system's accessible housing (no plan)
 
-Each of these needs is addressed (partially) by a different plan, implemented by different agencies, coordinated (poorly) by different mechanisms, and funded (inadequately) from different budget lines. The woman on the outer island, however, encounters these systems — to the extent she encounters them at all — through a single entry point: the local FCSC, which is staffed by a small number of workers responsible for child protection, domestic violence response, disability services, and social protection referrals across an entire atoll.
+Each of these needs is addressed (partially) by a different plan, implemented by different agencies, coordinated (poorly) by different mechanisms, and funded (inadequately) from different budget lines. The woman on the outer island, however, encounters these systems – to the extent she encounters them at all – through a single entry point: the local FCSC, which is staffed by a small number of workers responsible for child protection, domestic violence response, disability services, and social protection referrals across an entire atoll.
 
 The action plans describe what should happen. The institutional architecture determines what can happen. The gap between the two is the central challenge of Maldivian social policy implementation.
 
@@ -546,15 +546,15 @@ The action plans describe what should happen. The institutional architecture det
 
 [^6]: HRCM, *CRPD Shadow Report Submission to the UN Committee on the Rights of Persons with Disabilities* (2023), documenting "incongruence between key legislations, and the regulations, policies or guidelines formulated to aid implementation."
 
-[^7]: NAPVAC (April 2024), Strategic Area I — Home: Safer Homes, Outcomes 1–3 and outcome indicators.
+[^7]: NAPVAC (April 2024), Strategic Area I – Home: Safer Homes, Outcomes 1–3 and outcome indicators.
 
-[^8]: NAPVAC, Strategic Area II — School: Safer Educational Settings, Outcomes 4–5 and outcome indicators.
+[^8]: NAPVAC, Strategic Area II – School: Safer Educational Settings, Outcomes 4–5 and outcome indicators.
 
-[^9]: NAPVAC, Strategic Area III — Community: Safer Communities, Outcomes 6–7 and outcome indicators.
+[^9]: NAPVAC, Strategic Area III – Community: Safer Communities, Outcomes 6–7 and outcome indicators.
 
-[^10]: NAPVAC, Strategic Area IV — Online: Safer Online Spaces, Outcomes 8–9 and outcome indicators.
+[^10]: NAPVAC, Strategic Area IV – Online: Safer Online Spaces, Outcomes 8–9 and outcome indicators.
 
-[^11]: NAPVAC, Strategic Area V — CP System and Services, Outcomes 10–12 and outcome indicators.
+[^11]: NAPVAC, Strategic Area V – CP System and Services, Outcomes 10–12 and outcome indicators.
 
 [^12]: NAPVAC Introduction: "In 2023, a total of 2936 cases were received and attended by the Ministry of Social and Family Development (MoSFD) of which 1,278 of the cases (43.5%) were Violence Against Children (VAC) cases."
 
@@ -572,7 +572,7 @@ The action plans describe what should happen. The institutional architecture det
 
 [^19]: GEAP, Policy Goal 5: Access to Justice, Strategies 1–3.
 
-[^20]: SAP Light Chapter Writeups — Chapter 2 (Women and Gender Equality), noting the GEAP "is still in effect" and referencing the TOR for updating the gender training manual.
+[^20]: SAP Light Chapter Writeups – Chapter 2 (Women and Gender Equality), noting the GEAP "is still in effect" and referencing the TOR for updating the gender training manual.
 
 [^21]: National Ageing Policy (Final Draft, August 2024, revised September 2024), Policy Area 1: Development, Prevention, Protection and Life-long Learning, Goals 1–6.
 
@@ -586,13 +586,13 @@ The action plans describe what should happen. The institutional architecture det
 
 [^26]: MIPAA Survey Response (2021), Government of Maldives, self-reporting that "lack of overall political support" is "always" present and that "other pressing issues take precedence."
 
-[^27]: SAP Light Chapter Writeups — Chapter 2 (Women and Gender Equality).
+[^27]: SAP Light Chapter Writeups – Chapter 2 (Women and Gender Equality).
 
-[^28]: SAP Light Chapter Writeups — Chapter 5 (Caring Society, Persons with Disabilities subsection).
+[^28]: SAP Light Chapter Writeups – Chapter 5 (Caring Society, Persons with Disabilities subsection).
 
-[^29]: SAP Light Chapter Writeups — Chapter 5 (Caring Society, Child and Family Protection subsection).
+[^29]: SAP Light Chapter Writeups – Chapter 5 (Caring Society, Child and Family Protection subsection).
 
-[^30]: SAP Light Chapter Writeups — Chapter 5 (Caring Society, Social Protection subsection). NSPA statistics cited.
+[^30]: SAP Light Chapter Writeups – Chapter 5 (Caring Society, Social Protection subsection). NSPA statistics cited.
 
 [^31]: Rogers, Ali & Naeem (2025), reporting only 3 children successfully reintegrated through the National Reintegration Centre. See Part IV, Section 4.9.4 of this encyclopedia.
 
@@ -680,7 +680,7 @@ The action plans describe what should happen. The institutional architecture det
 
 [^73]: NAPVAC, Monitoring and Evaluation section.
 
-[^74]: SAP Light Chapter Writeups — Chapter 2, on GEAP implementation status and incomplete gender focal point network.
+[^74]: SAP Light Chapter Writeups – Chapter 2, on GEAP implementation status and incomplete gender focal point network.
 
 [^75]: UNPRPD Situational Analysis (2024), on Disability Council effectiveness. Part VI, Section 6.2.
 
@@ -947,7 +947,7 @@ The central finding of this encyclopedia's analysis across all social policy dom
 
 **Readiness verdict: Capable of processing cases but lacking specialised capacity and data systems.** The CFW recommendations call for mediation pathways, custody weaponisation protocols, case tracking with status visibility, and child support payment reform. Implementing these would require significant judicial modernisation, training, and IT investment.
 
-### 6.8 The Coordination Problem
+### 6.8 Coordination Across Plans
 
 Beyond individual agencies, the most significant institutional readiness gap is coordination. A family facing multiple vulnerabilities -- domestic violence, substance abuse, disability, poverty -- must interact with MoSFD, NSPA, FPA, police, NDA, the judiciary, health services, and potentially Zakat House, with no single case manager coordinating across agencies. Integration relies on informal relationships rather than institutional protocols.[^38]
 
@@ -1213,7 +1213,7 @@ Several requirements cut across all phases and should be treated as ongoing rath
 | Years 2-3 (Scale-up) | ~USD 3 million + MVR 15 million/year recurrent | Government budget increase, donor projects, private sector CSR |
 | Years 3-5 (Consolidation) | ~USD 2 million + MVR 20 million/year recurrent | Transitioned to government budget lines |
 
-These figures are indicative and require detailed costing through the capacity-matching assessment proposed as Action Item 1.15. The total additional investment over five years -- approximately USD 8-10 million in development costs plus MVR 20-25 million per year in recurrent costs -- represents a modest increment on existing social sector spending but would deliver transformative improvements in institutional capacity, service coverage, and outcome measurement.[^62]
+These figures are indicative and require detailed costing through the capacity-matching assessment proposed as Action Item 1.15. The total additional investment over five years -- approximately USD 8-10 million in development costs plus MVR 20-25 million per year in recurrent costs -- represents a modest increment on existing social sector spending but would deliver substantial improvements in institutional capacity, service coverage, and outcome measurement.[^62]
 
 ### 8.8 Accountability Framework
 

@@ -84,38 +84,38 @@ This appendix provides a comprehensive index of Maldivian news coverage related 
 | 2013-12-15 | ކަނޑުހުޅުދޫ އުމުރުން ދުވަސްވީ މީހެއްގެ ގެއިން 10،000ރ. ވަގައްނަގައިފި | 10,000 from an elderly man's house. stolen | [Link](https://archive.mv/dv/articles/pMM5) |
 | 2014-01-11 | ދުވަސްވީ މީހުންނަށް މީހަކު މެދުވެރިނުކޮށް ފަސޭހައިން ފުލުހުންނާ ގުޅޭނެ ޕްރޮގްރާމެއް ފަށައިފި | Older people to be easily connected to police without anyone through anyone | [Link](https://archive.mv/dv/articles/E5xvg) |
 | 2014-01-11 | އުމުރުން ދުވަސްވީ މީހުންނަށް ފުލުހުންނާ ފަސޭހައިން ގުޅޭގޮތް ހަދައިދީފި | The elderly have been able to access police with easy access to police | [Link](https://archive.mv/dv/articles/G8kke) |
-| 2014-01-11 | އުމުރުން ދުވަސްވީ މީހުންނަށް މީހަކު މެދުވެރިނުކޮށް ފުލުހުންނަށް ގުޅޭނެ ގޮތް ހަމަޖައްސައިދެނީ | The elderly are being able to contact the police without anyone through someone | — |
-| 2014-01-11 | އުމުރުން ދުވަސްވީ މީހުންގެ އެލަވަންސް ވަރަށް އަވަހަށް 5000ރ. އަށް ބޮޑުކުރާނަން: ނާއިބު ރައީސް | The elderly allowance will be Rs 5000 soon. to be increased to 100,000 | — |
-| 2014-01-18 | އުމުރުން ދުވަސްވީ މީހަކަށް ފާހަގަ ޖަހަންވާ ގޮތް ބުނެދިން މައްސަލަ ހޫނުވެއްޖެ | The issue of telling an elderly man how to mark the case heated up | — |
-| 2014-01-23 | ސައިކަލަކުން ޖެހި އުމުރުން ދުވަސްވީ މީހެއްގެ ފައިބިނދިއްޖެ | Elderly man has been hit by a bicycle | — |
-| 2014-02-09 | ދުވަސްވީ މީހުންނަށް ފޯނުން، ފުލުހުންގެ އެހީ! | For the elderly on the phone, police help! | — |
-| 2014-02-11 | ދުވަސްވީ މީހުންނަށް އަންނަ މަހުން ފެށިގެން 5000 ރުފިޔާ ދެނީ | 5,000 to be paid to the elderly from next month | — |
-| 2014-02-11 | މާޗް މަހުން ފެށިގެން އުމުރުން ދުވަސްވީ މީހުންނަށް 5000 ރުފިޔާ ލިބޭނެ - ސަރުކާރު | 5000 for the elderly from March - government | — |
-| 2014-02-11 | އަންނަ މަހުން ފެށިގެން ދުވަސްވީ މީހުންނަށް 5،000 ރުފިޔާ ދެނީ | 5,000 to be paid to the elderly from next month | — |
-| 2014-02-15 | އުމުރުން ދުވަސްވީ ފަރާތްތަކަށް އިނާޔަތްދޭން ފުރަތަމަ ނިންމީ ރައީސް މައުމޫން - ނާއިބު ރައީސް | President Maumoon first decided to give allowances to the elderly - Vice President | — |
-| 2014-02-20 | ވަޒީރުންގެ މުސާރަ ދުވަސްވީ މީހުންނަށް ދޭން ނަޝީދު އެދިވަޑައިގެންފި | Nasheed asks for ministers' salaries to be paid to the elderly | — |
-| 2014-02-20 | ދުވަސްވީ މީހަކަށް ވޯޓުލުމުގެ ފުރުސަތު ދީފައި ނުވާތީ ކޮނޑޭ ކައުންސިލްގެ އިންތިހާބު ބާތިލްކޮށްފި | Conde Council elections canceled because an elderly person was not given the opportunity to vote | — |
-| 2014-02-21 | އުމުރުން ދުވަސްވީ މީހުން މާބޮޑަށް އަރާމުކުރުމުން ވެސް ނުކުޅެދުންތެރިކަން އިތުރުވޭ – ދިރާސާ | Older restrictions are also more comfortable – study | — |
-| 2014-03-02 | ދުވަސްވީ މީހުންގެ ޕެންޝަނަށް 5،000ރ. ދޭ ވަރަށް ފައިސާއެއް އަދި ނުލިބޭ: މަނިކު | 5,000 for the pension of the elderly. Give not enough money yet: Manik | — |
-| 2014-03-02 | އުމުރުން ދުވަސްވީ މީހުންނަށް ދޭންޖެހޭ 5،000ރ. އަންގާރަ ދުވަހުގެ ނިޔަލަށް ލިބޭނެ: އަދީބު | 5,000 to the elderly. Being to be available until Tuesday: Adib | — |
-| 2014-03-02 | އުމުރުން ދުވަސްވީ މީހުންނަށްދޭ 5000 ރުފިޔާ ޖަމާކުރަން ފަށައިފި | 5000 for the elderly | — |
-| 2014-03-02 | އުމުރުން ދުވަސްވީ މީހުންނަށް މިމަހު 5000 ރުފިޔާ ނުދެވޭނެއެކޭ ނުބުނަން - ޕެންޝަން އޮފީސް | 5000 for the elderly this month - Pension Office | — |
-| 2014-03-02 | އުމުރުން ދުވަސްވީ މީހުންގެ ތެރެއިން ގާތްގަނޑަކަށް 3،000 މީހުން ފައިސާ ނުނަގާ: ޕެންޝަން އޮފީސް | About 3,000 elderly people don't withdraw money: Pension Office | — |
-| 2014-03-02 | ސަރުކާރުން ދޭން ވައުދުވި 5000 ރުފިޔާ ދުވަސްވީ މީހުނަށް ދޭން ފަށައިފި | 5000 rupees promised by the government to be paid to older people | — |
-| 2014-03-04 | އުމުރުން ދުވަސްވީ މީހުންނަށް 5،000ރ. ޖަމާކޮށްދީފި | 5,000 for the elderly. has been deposited | — |
-| 2014-03-04 | އުމުރުން ދުވަސްވީ މީހުންނަށްދޭ 5000 ރުފިޔާ ޖަމާކޮށްދީފި | 5000 for the elderly | — |
-| 2014-03-04 | ގިނަ ދުވަހު މަރުނުވެ ހުރުމަށް އަރާމުކުރުމަށާއި ކެއުމަށް އިސްކަންދޭންޖެހޭ - އުމުރުން ދުވަސްވީ މީހާ | Preference should be given to rest for long periods of time - the elderly man should be given priority | — |
-| 2014-03-04 | އުމުރުން ދުވަސްވީ މީހުންނަށް 5000ރ. ޖަމާކޮށްދީފި | 5000 for the elderly. has been deposited | — |
-| 2014-03-05 | 5000 ރުފިޔާ ލިބުމުން އުމުރުން ދުވަސްވީ މީހުން އުފަލުން ފޮޅިފައި! | 5000 rupees got the elderly people happy! | — |
-| 2014-03-18 | އުމުރުން ދުވަސްވީ މީހުންގެ އިނާޔަތް 7،000ރ. އަށް ބޮޑުކޮށް ދެއްވާނެ ކަމުގެ އިޝާރާތެއް ރައީސް ދެއްވައިފި | 7,000 for the elderly allowance. President gives hint of expansion | — |
-| 2014-03-18 | ދުވަސްވީ މީހުންނަށް 7000 ރުފިޔާ ދިނުމުގެ ވިސްނުން ގެންގުޅުއްވާކަން ރައީސް ހާމަކުރައްވައިފި | President reveals that he intends to give Rs 7,000 to the elderly | — |
-| 2014-04-07 | އުމުރުން ދުވަސްވީ މީހުންނަށް ހިލޭ ދަތުރު ކުރެވޭނެ އިންތިޒާމު ބައެއް ސަރަހައްދުތަކުގައި ހަމަޖައްސައިފި | Free travel for elderly people in some areas | — |
-| 2014-04-08 | އުމުރުން ދުވަސްވީ މީހުންނާ ހާއްސަ އެހީއަށް ބޭނުންވާ މީހުންނާ ކުޑަކުދިންނަށް ހިލޭ ދަތުރުކުރެވޭ ގޮތް ހަދަނީ | Older, special needs people and children can be allowed to travel free of charge | — |
-| 2014-04-19 | މަރަދޫގައި ހިނގި އެކްސިޑެންޓެއްގައި އުމުރުން ދުވަސްވީ މީހަކަށް އައިސީޔޫގައި ފަރުވާދެނީ | Elderly man is being treated in ICU in accident in Maradu | — |
-| 2014-04-21 | މަރަދޫ އެކްސިޑެންޓުގައި އަނިޔާ ލިބުނު އުމުރުން ދުވަސްވީ މީހާ މަރުވެއްޖެ | Elderly man dies in Maradu accident | — |
-| 2014-04-26 | އުމުރުން ދުވަސްވީ މީހެއް ގައިގައި ސައިކަލަކުން ޖެހި ސީރިއަސް އަނިޔާތަކެއް | Serious injuries seriously injured by an elderly man | — |
-| 2014-04-26 | އެކްސިޑެންޓެއްގައި ޒަޚަމްވި ދުވަސްވީ މީހަކު ސީރިއަސް ހާލަތުގައި | Elderly man injured in an accident in serious condition | — |
-| 2014-05-04 | ދުނިޔޭގައި ތިބި އުމުރުން އެންމެ ދުވަސްވީ މީހުންގެ ތެރެއިން އެކަކު މަރުވެއްޖެ | One of the oldest people in the world dies | — |
+| 2014-01-11 | އުމުރުން ދުވަސްވީ މީހުންނަށް މީހަކު މެދުވެރިނުކޮށް ފުލުހުންނަށް ގުޅޭނެ ގޮތް ހަމަޖައްސައިދެނީ | The elderly are being able to contact the police without anyone through someone | – |
+| 2014-01-11 | އުމުރުން ދުވަސްވީ މީހުންގެ އެލަވަންސް ވަރަށް އަވަހަށް 5000ރ. އަށް ބޮޑުކުރާނަން: ނާއިބު ރައީސް | The elderly allowance will be Rs 5000 soon. to be increased to 100,000 | – |
+| 2014-01-18 | އުމުރުން ދުވަސްވީ މީހަކަށް ފާހަގަ ޖަހަންވާ ގޮތް ބުނެދިން މައްސަލަ ހޫނުވެއްޖެ | The issue of telling an elderly man how to mark the case heated up | – |
+| 2014-01-23 | ސައިކަލަކުން ޖެހި އުމުރުން ދުވަސްވީ މީހެއްގެ ފައިބިނދިއްޖެ | Elderly man has been hit by a bicycle | – |
+| 2014-02-09 | ދުވަސްވީ މީހުންނަށް ފޯނުން، ފުލުހުންގެ އެހީ! | For the elderly on the phone, police help! | – |
+| 2014-02-11 | ދުވަސްވީ މީހުންނަށް އަންނަ މަހުން ފެށިގެން 5000 ރުފިޔާ ދެނީ | 5,000 to be paid to the elderly from next month | – |
+| 2014-02-11 | މާޗް މަހުން ފެށިގެން އުމުރުން ދުވަސްވީ މީހުންނަށް 5000 ރުފިޔާ ލިބޭނެ - ސަރުކާރު | 5000 for the elderly from March - government | – |
+| 2014-02-11 | އަންނަ މަހުން ފެށިގެން ދުވަސްވީ މީހުންނަށް 5،000 ރުފިޔާ ދެނީ | 5,000 to be paid to the elderly from next month | – |
+| 2014-02-15 | އުމުރުން ދުވަސްވީ ފަރާތްތަކަށް އިނާޔަތްދޭން ފުރަތަމަ ނިންމީ ރައީސް މައުމޫން - ނާއިބު ރައީސް | President Maumoon first decided to give allowances to the elderly - Vice President | – |
+| 2014-02-20 | ވަޒީރުންގެ މުސާރަ ދުވަސްވީ މީހުންނަށް ދޭން ނަޝީދު އެދިވަޑައިގެންފި | Nasheed asks for ministers' salaries to be paid to the elderly | – |
+| 2014-02-20 | ދުވަސްވީ މީހަކަށް ވޯޓުލުމުގެ ފުރުސަތު ދީފައި ނުވާތީ ކޮނޑޭ ކައުންސިލްގެ އިންތިހާބު ބާތިލްކޮށްފި | Conde Council elections canceled because an elderly person was not given the opportunity to vote | – |
+| 2014-02-21 | އުމުރުން ދުވަސްވީ މީހުން މާބޮޑަށް އަރާމުކުރުމުން ވެސް ނުކުޅެދުންތެރިކަން އިތުރުވޭ – ދިރާސާ | Older restrictions are also more comfortable – study | – |
+| 2014-03-02 | ދުވަސްވީ މީހުންގެ ޕެންޝަނަށް 5،000ރ. ދޭ ވަރަށް ފައިސާއެއް އަދި ނުލިބޭ: މަނިކު | 5,000 for the pension of the elderly. Give not enough money yet: Manik | – |
+| 2014-03-02 | އުމުރުން ދުވަސްވީ މީހުންނަށް ދޭންޖެހޭ 5،000ރ. އަންގާރަ ދުވަހުގެ ނިޔަލަށް ލިބޭނެ: އަދީބު | 5,000 to the elderly. Being to be available until Tuesday: Adib | – |
+| 2014-03-02 | އުމުރުން ދުވަސްވީ މީހުންނަށްދޭ 5000 ރުފިޔާ ޖަމާކުރަން ފަށައިފި | 5000 for the elderly | – |
+| 2014-03-02 | އުމުރުން ދުވަސްވީ މީހުންނަށް މިމަހު 5000 ރުފިޔާ ނުދެވޭނެއެކޭ ނުބުނަން - ޕެންޝަން އޮފީސް | 5000 for the elderly this month - Pension Office | – |
+| 2014-03-02 | އުމުރުން ދުވަސްވީ މީހުންގެ ތެރެއިން ގާތްގަނޑަކަށް 3،000 މީހުން ފައިސާ ނުނަގާ: ޕެންޝަން އޮފީސް | About 3,000 elderly people don't withdraw money: Pension Office | – |
+| 2014-03-02 | ސަރުކާރުން ދޭން ވައުދުވި 5000 ރުފިޔާ ދުވަސްވީ މީހުނަށް ދޭން ފަށައިފި | 5000 rupees promised by the government to be paid to older people | – |
+| 2014-03-04 | އުމުރުން ދުވަސްވީ މީހުންނަށް 5،000ރ. ޖަމާކޮށްދީފި | 5,000 for the elderly. has been deposited | – |
+| 2014-03-04 | އުމުރުން ދުވަސްވީ މީހުންނަށްދޭ 5000 ރުފިޔާ ޖަމާކޮށްދީފި | 5000 for the elderly | – |
+| 2014-03-04 | ގިނަ ދުވަހު މަރުނުވެ ހުރުމަށް އަރާމުކުރުމަށާއި ކެއުމަށް އިސްކަންދޭންޖެހޭ - އުމުރުން ދުވަސްވީ މީހާ | Preference should be given to rest for long periods of time - the elderly man should be given priority | – |
+| 2014-03-04 | އުމުރުން ދުވަސްވީ މީހުންނަށް 5000ރ. ޖަމާކޮށްދީފި | 5000 for the elderly. has been deposited | – |
+| 2014-03-05 | 5000 ރުފިޔާ ލިބުމުން އުމުރުން ދުވަސްވީ މީހުން އުފަލުން ފޮޅިފައި! | 5000 rupees got the elderly people happy! | – |
+| 2014-03-18 | އުމުރުން ދުވަސްވީ މީހުންގެ އިނާޔަތް 7،000ރ. އަށް ބޮޑުކޮށް ދެއްވާނެ ކަމުގެ އިޝާރާތެއް ރައީސް ދެއްވައިފި | 7,000 for the elderly allowance. President gives hint of expansion | – |
+| 2014-03-18 | ދުވަސްވީ މީހުންނަށް 7000 ރުފިޔާ ދިނުމުގެ ވިސްނުން ގެންގުޅުއްވާކަން ރައީސް ހާމަކުރައްވައިފި | President reveals that he intends to give Rs 7,000 to the elderly | – |
+| 2014-04-07 | އުމުރުން ދުވަސްވީ މީހުންނަށް ހިލޭ ދަތުރު ކުރެވޭނެ އިންތިޒާމު ބައެއް ސަރަހައްދުތަކުގައި ހަމަޖައްސައިފި | Free travel for elderly people in some areas | – |
+| 2014-04-08 | އުމުރުން ދުވަސްވީ މީހުންނާ ހާއްސަ އެހީއަށް ބޭނުންވާ މީހުންނާ ކުޑަކުދިންނަށް ހިލޭ ދަތުރުކުރެވޭ ގޮތް ހަދަނީ | Older, special needs people and children can be allowed to travel free of charge | – |
+| 2014-04-19 | މަރަދޫގައި ހިނގި އެކްސިޑެންޓެއްގައި އުމުރުން ދުވަސްވީ މީހަކަށް އައިސީޔޫގައި ފަރުވާދެނީ | Elderly man is being treated in ICU in accident in Maradu | – |
+| 2014-04-21 | މަރަދޫ އެކްސިޑެންޓުގައި އަނިޔާ ލިބުނު އުމުރުން ދުވަސްވީ މީހާ މަރުވެއްޖެ | Elderly man dies in Maradu accident | – |
+| 2014-04-26 | އުމުރުން ދުވަސްވީ މީހެއް ގައިގައި ސައިކަލަކުން ޖެހި ސީރިއަސް އަނިޔާތަކެއް | Serious injuries seriously injured by an elderly man | – |
+| 2014-04-26 | އެކްސިޑެންޓެއްގައި ޒަޚަމްވި ދުވަސްވީ މީހަކު ސީރިއަސް ހާލަތުގައި | Elderly man injured in an accident in serious condition | – |
+| 2014-05-04 | ދުނިޔޭގައި ތިބި އުމުރުން އެންމެ ދުވަސްވީ މީހުންގެ ތެރެއިން އެކަކު މަރުވެއްޖެ | One of the oldest people in the world dies | – |
 | 2014-06-01 | ބަހަކުން ޖެހުނު ދުވަސްވީ އަންހެނެއްގެ ކޮނޑު ކަށިގަނޑުގައި ރެނދުލައިފި | An elderly woman's shoulder cracks in her throat | [Link](https://archive.mv/dv/articles/x5N0Y) |
 | 2014-06-01 | ހުޅުމާލޭގައި ބަހަކުން ޖެހި އުމުރުން ދުވަސްވީ މީހެއްގެ ކޮނޑުހުޅުން ބިނދިއްޖެ | Elderly man breaks shoulder in Hulhumale | [Link](https://archive.mv/dv/articles/ayB3) |
 | 2014-06-03 | ލޯބި ބޭނުންވި ދުވަހު ދުވަސްވީ މީހުންނަށް ހިތްދަތިކަން! | Heartbroken for the elderly the day he needed love! | [Link](https://archive.mv/dv/articles/ryke) |

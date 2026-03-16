@@ -23,7 +23,7 @@ The Constitution of the Republic of Maldives, ratified on 7 August 2008 followin
 
 **Article 10** declares Islam as the state religion and provides that "no law contrary to any tenet of Islam shall be enacted in the Maldives." This provision has significant implications for social legislation, particularly in areas of family law, gender relations, sexual offences, and reproductive rights, creating a framework where all social policy must navigate between international human rights commitments and Islamic legal principles.[^3]
 
-**Critical constitutional tension:** The 2008 Constitution simultaneously commits the Maldives to international human rights standards (Article 68 requires ratified treaties to be given effect in domestic law) while subordinating all law to Islamic principles. This tension runs through virtually every area of social legislation discussed in subsequent sections. The UNFPA's 2023 comprehensive legal review found that this dual framework creates "repetitions, overlaps, contradictions and gaps" across the GBV-related legal architecture.[^4]
+**Constitutional tension:** The 2008 Constitution simultaneously commits the Maldives to international human rights standards (Article 68 requires ratified treaties to be given effect in domestic law) while subordinating all law to Islamic principles. This tension runs through virtually every area of social legislation discussed in subsequent sections. The UNFPA's 2023 legal review found that this dual framework creates "repetitions, overlaps, contradictions and gaps" across the GBV-related legal architecture.[^4]
 
 ---
 
@@ -41,9 +41,9 @@ The Act requires that all marriages involving Maldivian nationals be solemnised 
 
 - **Guardian requirement (Section 6):** A woman requires a male guardian's consent for marriage. The guardian hierarchy follows Islamic jurisprudence: father, paternal grandfather, brother, paternal uncle, and so on. If no male guardian is available, the court itself acts as guardian. This provision embeds a gender asymmetry at the foundational point of marriage, sitting in tension with both the 2008 Constitution's equality provisions and the Gender Equality Act 2016.[^6]
 
-- **Minimum marriage age:** The Act originally set no firm minimum age, allowing marriage upon reaching puberty. The Child Rights Protection Act 2019 raised the legal marriage age to 18. However, a critical inconsistency persists: Section 4(b) of the Family Act still allows the Family Court to authorise marriage below 18 if the child has "reached puberty." This loophole has not been formally closed, and child marriage is reportedly increasing rather than decreasing, with the ADB (2025) documenting a 2.2% child marriage rate before age 18.[^7]
+- **Minimum marriage age:** The Act originally set no firm minimum age, allowing marriage upon reaching puberty. The Child Rights Protection Act 2019 raised the legal marriage age to 18. However, an inconsistency persists: Section 4(b) of the Family Act still allows the Family Court to authorise marriage below 18 if the child has "reached puberty." This loophole has not been formally closed, and child marriage is reportedly increasing rather than decreasing, with the ADB (2025) documenting a 2.2% child marriage rate before age 18.[^7]
 
-- **Polygamy:** The Act permits polygamy (up to four wives) in accordance with Islamic law. Data shows approximately 165 marriages to a second wife were registered in 2015 and 157 in 2016 — these represent only registered polygamous marriages; unregistered marriages may be more common. The Musawah research (2018) documents emotional and financial harms of polygamy on first wives and children.[^8]
+- **Polygamy:** The Act permits polygamy (up to four wives) in accordance with Islamic law. Data shows approximately 165 marriages to a second wife were registered in 2015 and 157 in 2016 – these represent only registered polygamous marriages; unregistered marriages may be more common. The Musawah research (2018) documents emotional and financial harms of polygamy on first wives and children.[^8]
 
 ### 2.2.3 Divorce Provisions
 
@@ -53,11 +53,11 @@ The Family Act creates a structurally asymmetric divorce process:
 
 - **Wife-initiated divorce:** Wives must petition the court on specified grounds such as cruelty, harm, failure to provide maintenance, or incompatibility, and must pass through mandatory conciliation before the court will consider the petition. The evidentiary burden falls entirely on the wife.
 
-- **Triple-talaq:** The Act treats triple-talaq (instant triple divorce) as a single divorce act, a progressive interpretation within Islamic jurisprudence. However, under the three-consecutive-divorce rule, a couple who have divorced three times cannot remarry unless the woman first contracts and consummates a marriage with another man. This has generated the documented practice of "chain-breaking" (*tahlil* marriage), where a man agrees — sometimes for payment — to briefly marry a divorced woman solely to enable her to return to her former husband. This practice instrumentalises women's marital status as a legal mechanism, creates no protections for the woman during the temporary marriage, and exposes her to potential abuse in an entirely unregulated arrangement.[^9]
+- **Triple-talaq:** The Act treats triple-talaq (instant triple divorce) as a single divorce act, a progressive interpretation within Islamic jurisprudence. However, under the three-consecutive-divorce rule, a couple who have divorced three times cannot remarry unless the woman first contracts and consummates a marriage with another man. This has generated the documented practice of "chain-breaking" (*tahlil* marriage), where a man agrees – sometimes for payment – to briefly marry a divorced woman solely to enable her to return to her former husband. This practice instrumentalises women's marital status as a legal mechanism, creates no protections for the woman during the temporary marriage, and exposes her to potential abuse in an entirely unregulated arrangement.[^9]
 
 - **Cost of divorce:** An out-of-court divorce costs the husband only MVR 100 (approximately USD 6) as a fine. This minimal financial disincentive, combined with the ease of husband-initiated divorce, contributes to the Maldives having one of the world's highest divorce rates. The Maldives entered the Guinness Book of Records in 2002 for the world's highest divorce rate at 10.97 per 1,000 population. By 2024, the rate remained among the world's highest at 5.52 per 1,000.[^10]
 
-- **Divorce statistics:** In 2016, there were 5,488 marriages and 3,417 divorces nationally — approximately 60% of marriages ending in divorce. The 2022 Census showed the proportion of divorced women exceeds divorced men by 42.86%, reflecting the differential impact of serial marriage and divorce on women. Divorce rates for women aged 26-40 in Greater Male' are 18.83% higher than comparable women in other atolls, with annual totals of 874 (2021), 927 (2022), 931 (2023), and 779 (2024).[^11]
+- **Divorce statistics:** In 2016, there were 5,488 marriages and 3,417 divorces nationally – approximately 60% of marriages ending in divorce. The 2022 Census showed the proportion of divorced women exceeds divorced men by 42.86%, reflecting the differential impact of serial marriage and divorce on women. Divorce rates for women aged 26-40 in Greater Male' are 18.83% higher than comparable women in other atolls, with annual totals of 874 (2021), 927 (2022), 931 (2023), and 779 (2024).[^11]
 
 ### 2.2.4 Custody and Maintenance
 
@@ -77,12 +77,12 @@ The Family Act creates a structurally asymmetric divorce process:
 
 The vulnerability mapping literature review (2026) synthesises multiple analyses of the Family Act's gender asymmetries:
 
-- Women's unpaid care work carries no legal recognition under the Act. A wife who spends decades maintaining a household and raising children exits divorce with no claim to marital property unless a prenuptial agreement exists — and these are functionally nonexistent.
+- Women's unpaid care work carries no legal recognition under the Act. A wife who spends decades maintaining a household and raising children exits divorce with no claim to marital property unless a prenuptial agreement exists – and these are functionally nonexistent.
 - Wives deemed "disobedient" (*nushuz*) can forfeit their right to maintenance under traditional Islamic jurisprudence as applied in the courts.
 - Mothers bear primary care responsibility but lack commensurate guardianship rights. Custody loss upon remarriage effectively forces women to choose between forming a new partnership and retaining custody of their children.
 - The Musawah framework analysis (2018) concludes that Maldivian family laws "are mired in the challenges of the *qiwamah*-*wilayah* based patriarchal influences of classical *fiqh*." The analysis argues reform is jurisprudentially possible because family laws fall within *mu'amalat* (social/contractual relations open to rational reconsideration), not *ibadat* (fixed devotional obligations).[^14]
 
-> *→ **Extended Coverage:** For comprehensive structural gender analysis of the Family Act — including custody case outcomes, maintenance enforcement failures, and the tahlil marriage practice — see **Part V: Gender, GBV, and Women's Empowerment, §5.115** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive structural gender analysis of the Family Act – including custody case outcomes, maintenance enforcement failures, and the tahlil marriage practice – see **Part V: Gender, GBV, and Women's Empowerment, §5.115** of this encyclopedia.*
 
 ---
 
@@ -124,9 +124,9 @@ The Act applies to violence between current or former spouses, cohabiting partne
 
 The gap between the DVPA's provisions and its implementation has been extensively documented:
 
-**DV is not specifically criminalised.** This is perhaps the most critical issue, identified as a factual correction in the vulnerability mapping audit. Despite common claims (including in some government documents) that the DVPA "criminalised domestic violence," the UNFPA 2023 legal review, HRCM 2021 submission, and CSO 2022 joint submission all confirm that the Act provides civil protective remedies only. Criminal prosecution of DV acts requires charges under the Penal Code (for assault, criminal restraint, etc.). DV itself is not a standalone criminal offence. The CEDAW Committee has specifically raised this concern.[^17]
+**DV is not specifically criminalised.** This issue was identified as a factual correction in the vulnerability mapping audit. Despite common claims (including in some government documents) that the DVPA "criminalised domestic violence," the UNFPA 2023 legal review, HRCM 2021 submission, and CSO 2022 joint submission all confirm that the Act provides civil protective remedies only. Criminal prosecution of DV acts requires charges under the Penal Code (for assault, criminal restraint, etc.). DV itself is not a standalone criminal offence. The CEDAW Committee has specifically raised this concern.[^17]
 
-**Protection order delays and violations:** The GBV-during-COVID analysis (2021) described protection orders as "set up for failure." Court processing delays of 3 months or more for urgent protection orders have been documented. Women in the CFW vulnerability mapping research (2026) described protection orders being violated daily — ex-partners calling their workplace constantly, monitoring social media, appearing at their home — with no consequences. All documented protection order violations were by men. Half of protection orders issued were emergency orders, suggesting the system is reactive rather than preventive.[^18]
+**Protection order delays and violations:** The GBV-during-COVID analysis (2021) described protection orders as "set up for failure." Court processing delays of 3 months or more for urgent protection orders have been documented. Women in the CFW vulnerability mapping research (2026) described protection orders being violated daily – ex-partners calling their workplace constantly, monitoring social media, appearing at their home – with no consequences. All documented protection order violations were by men. Half of protection orders issued were emergency orders, suggesting the system is reactive rather than preventive.[^18]
 
 **Prosecution rates:** Only 3% of DV/GBV cases reported to police are submitted for prosecution. Only 14% of violence against women (VAW) cases at the police level are sent forward for prosecution. Of those that reach court, the conviction rate is only 16.7% (2016-2019 data). Only 3.7% of women who experienced violence received any form of legal assistance.[^19]
 
@@ -136,7 +136,7 @@ The gap between the DVPA's provisions and its implementation has been extensivel
 
 **Understaffing:** In the Male' area, approximately 30 DV cases are reported monthly, but only 3 case workers are available to handle them. Caseworkers across the system handle 70-80 cases each, against a recommended maximum of 25-30.[^22]
 
-> *→ **Extended Coverage:** For comprehensive operational analysis of the DVPA — including FPA response system, shelter gaps, protection order enforcement, and prosecution failures — see **Part V: Gender, GBV, and Women's Empowerment, §5.1–§5.20** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive operational analysis of the DVPA – including FPA response system, shelter gaps, protection order enforcement, and prosecution failures – see **Part V: Gender, GBV, and Women's Empowerment, §5.1–§5.20** of this encyclopedia.*
 
 ---
 
@@ -146,19 +146,19 @@ The gap between the DVPA's provisions and its implementation has been extensivel
 
 The Sexual Offences Act was enacted on 13 May 2014 as the first standalone legislation criminalising rape, sexual assault, and sexual harassment in the Maldives. It defines consent as agreement given voluntarily and freely, and specifies that consent cannot be obtained through force, threats, duress, or when the victim is intoxicated or unconscious.
 
-### 2.4.2 Evidence Requirements — A Critical Barrier
+### 2.4.2 Evidence Requirements
 
 **Section 52** of the Act requires five types of specified evidence for rape prosecution. This evidentiary threshold has been identified by civil society organisations, UNFPA, and the Working Group on Discrimination against Women and Girls (2022) as extremely burdensome and a major barrier to justice for survivors.[^23]
 
-**Section 53** allows delays in reporting or a pre-existing relationship between the victim and the accused to be used as grounds for blocking proceedings. This effectively penalises victims who do not report immediately — despite extensive evidence that delayed reporting is normative for sexual violence survivors.
+**Section 53** allows delays in reporting or a pre-existing relationship between the victim and the accused to be used as grounds for blocking proceedings. This effectively penalises victims who do not report immediately – despite extensive evidence that delayed reporting is normative for sexual violence survivors.
 
 **Past sexual behaviour:** The Act allows evidence of the victim's past sexual history to be admitted, further discouraging reporting and placing survivors' credibility on trial.
 
-The combined effect of these provisions is stark: only 14% of VAW cases at the police level reach prosecution, and the conviction rate for those that do is only 16.7%.[^24]
+In practice, only 14% of VAW cases at the police level reach prosecution, and the conviction rate for those that do is 16.7%.[^24]
 
-### 2.4.3 Marital Rape — Incomplete Criminalisation
+### 2.4.3 Marital Rape – Incomplete Criminalisation
 
-The 2014 Act stopped short of fully recognising marital rape. The 2021 Amendment (Act No. 25/2021) introduced harsher sentences and closed some loopholes, with limited criminalisation of marital rape in certain circumstances. However, a critical conflict remains: **Section 130(b) of the Penal Code 2014** maintains a rebuttable presumption of consent within marriage. This means that while marital rape is technically addressable in some circumstances, the legal default assumption is that a spouse consents to sexual acts within marriage, placing the burden on the victim to rebut this presumption. The UNFPA 2023 review concludes that marital rape remains "incompletely criminalised."[^25]
+The 2014 Act stopped short of fully recognising marital rape. The 2021 Amendment (Act No. 25/2021) introduced harsher sentences and closed some loopholes, with limited criminalisation of marital rape in certain circumstances. However, a conflict remains: **Section 130(b) of the Penal Code 2014** maintains a rebuttable presumption of consent within marriage. This means that while marital rape is technically addressable in some circumstances, the legal default assumption is that a spouse consents to sexual acts within marriage, placing the burden on the victim to rebut this presumption. The UNFPA 2023 review concludes that marital rape remains "incompletely criminalised."[^25]
 
 ### 2.4.4 Victim Protections
 
@@ -169,7 +169,7 @@ The Act does provide some procedural protections for victims:
 
 However, in practice, these protections are inconsistently applied, and the broader evidentiary and procedural barriers described above significantly undermine their effectiveness.
 
-> *→ **Extended Coverage:** For comprehensive analysis of the Sexual Offences Act — including marital rape, zina conflicts, the criminal justice funnel for child victims, and prosecution failure rates — see **Part IV: Child Protection and Child Rights, §4.68** and **Part V: Gender, GBV, and Women's Empowerment, §5.21–§5.40** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of the Sexual Offences Act – including marital rape, zina conflicts, the criminal justice funnel for child victims, and prosecution failure rates – see **Part IV: Child Protection and Child Rights, §4.68** and **Part V: Gender, GBV, and Women's Empowerment, §5.21–§5.40** of this encyclopedia.*
 
 ---
 
@@ -177,7 +177,7 @@ However, in practice, these protections are inconsistently applied, and the broa
 
 ### 2.5.1 Legislative History
 
-The CRPA replaced the earlier Law on the Protection of the Rights of the Child (Law 9/91), which had been largely declaratory, lacking enforcement mechanisms and operational definitions. The CRPA was passed on 14 November 2019 and ratified on 20 November 2019, representing the most comprehensive child protection legislation in Maldivian history.[^26]
+The CRPA replaced the earlier Law on the Protection of the Rights of the Child (Law 9/91), which had been largely declaratory, lacking enforcement mechanisms and operational definitions. The CRPA was passed on 14 November 2019 and ratified on 20 November 2019, the most comprehensive child protection legislation enacted in the Maldives to date.[^26]
 
 The Act was developed over more than a decade, with initial drafting supported by UNICEF beginning in 2006, following the 2004 tsunami which catalysed expanded child protection programming. Multiple iterations were debated in the People's Majlis before final passage.
 
@@ -206,15 +206,15 @@ The sexual abuse definition has been critiqued for not adequately addressing pow
 
 **Children's responsibilities (Article 36):** Unusually, the CRPA includes provisions on "Responsibilities and duties of a child" (Article 36 a-h), addressing cultural tensions around children's rights and parental authority. This was included to respond to community concerns that a rights framework without corresponding duties would undermine parental authority and contribute to behavioural problems among youth.[^29]
 
-### 2.5.3 Corporal Punishment — Not Prohibited
+### 2.5.3 Corporal Punishment – Not Prohibited
 
-A critical gap: Despite government claims, the CRPA does **not** explicitly prohibit corporal punishment of children. The UNFPA 2023 legal analysis confirmed that neither the CRPA, the Domestic Violence Prevention Act, the Family Act, nor the Education Act contains an explicit prohibition on corporal punishment in all settings. While corporal punishment in schools was banned administratively (and reinforced by the Education Act 2020), it remains lawful in the home, alternative care settings, and as a judicial sentence. The Global Initiative to End All Corporal Punishment of Children (2015) documented that corporal punishment was lawful across all settings in the Maldives, and the recommendation to prohibit it explicitly remains outstanding.[^30]
+Despite government claims, the CRPA does **not** explicitly prohibit corporal punishment of children. The UNFPA 2023 legal analysis confirmed that neither the CRPA, the Domestic Violence Prevention Act, the Family Act, nor the Education Act contains an explicit prohibition on corporal punishment in all settings. While corporal punishment in schools was banned administratively (and reinforced by the Education Act 2020), it remains lawful in the home, alternative care settings, and as a judicial sentence. The Global Initiative to End All Corporal Punishment of Children (2015) documented that corporal punishment was lawful across all settings in the Maldives, and the recommendation to prohibit it explicitly remains outstanding.[^30]
 
-> *→ **Extended Coverage:** For comprehensive analysis of the CRPA 2019 — its full operational framework, CFPS case management architecture, mandatory reporting enforcement, institutional gaps, and implementation realities — see **Part IV: Child Protection and Child Rights, §4.1–§4.57** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of the CRPA 2019 – its full operational framework, CFPS case management architecture, mandatory reporting enforcement, institutional gaps, and implementation realities – see **Part IV: Child Protection and Child Rights, §4.1–§4.57** of this encyclopedia.*
 
 ### 2.5.4 Marriage Age Inconsistency
 
-While the CRPA raised the legal marriage age to 18, the Family Act's Section 4(b) loophole allowing marriage below 18 if the child has reached puberty has not been formally resolved. The UNFPA (2023) and multiple civil society reports identify this inconsistency as a critical legislative gap that facilitates continued child marriage. Conservative religious authorities (*fatwas*) have endorsed unregistered marriages, identified by the Family Court Chief Judge as a "huge challenge." Census 2014 recorded 106 children aged 15-17 as married, 58.5% of them girls.[^31]
+While the CRPA raised the legal marriage age to 18, the Family Act's Section 4(b) loophole allowing marriage below 18 if the child has reached puberty has not been formally resolved. The UNFPA (2023) and multiple civil society reports identify this inconsistency as a legislative gap that facilitates continued child marriage. Conservative religious authorities (*fatwas*) have endorsed unregistered marriages, identified by the Family Court Chief Judge as a "huge challenge." Census 2014 recorded 106 children aged 15-17 as married, 58.5% of them girls.[^31]
 
 ---
 
@@ -228,7 +228,7 @@ This Act established specific provisions for the confinement and monitoring of p
 - Provides for victim compensation
 - Applies to offences against children under 18
 
-However, a critical gap exists regarding the interaction between this Act and the age of consent, which is set at 13 years under the broader legal framework — widely considered too low. Additionally, the Act defines child victims of sexual exploitation aged 13 or above in terms that can overlap with *zina* (extramarital sex) provisions under the Penal Code, creating the risk that child victims of sexual exploitation may themselves be prosecuted for consensual sex rather than treated as victims. The influence of honour ideology exacerbates this, as child victims within the protection system risk re-victimisation.[^32]
+However, a gap exists regarding the interaction between this Act and the age of consent, which is set at 13 years under the broader legal framework – widely considered too low. Additionally, the Act defines child victims of sexual exploitation aged 13 or above in terms that can overlap with *zina* (extramarital sex) provisions under the Penal Code, creating the risk that child victims of sexual exploitation may themselves be prosecuted for consensual sex rather than treated as victims. The influence of honour ideology exacerbates this, as child victims within the protection system risk re-victimisation.[^32]
 
 ---
 
@@ -250,7 +250,7 @@ The Juvenile Court was established in 1997, making it one of the older specialis
 - The age of criminal responsibility was 10 years
 - Between 2010 and 2015, 89 juveniles were admitted to rehabilitation programmes, but only 11.2% (10 out of 89) successfully completed rehabilitation
 - Five juveniles were sentenced to death in three separate cases between 2013 and 2015
-- No separate juvenile detention centres existed — juveniles were held alongside adults
+- No separate juvenile detention centres existed – juveniles were held alongside adults
 - A 2014 Regulation allowed children as young as 7 to be sentenced to death for intentional murder, with the sentence executable upon turning 18[^33]
 
 ### 2.7.3 Remaining Concerns
@@ -260,7 +260,7 @@ The Juvenile Court was established in 1997, making it one of the older specialis
 - Rehabilitation programme success rates remain extremely low
 - No dedicated juvenile detention facilities separate from adult facilities have been established[^34]
 
-> *→ **Extended Coverage:** For comprehensive analysis of the juvenile justice system — including the pre-2019 failure era, rehabilitation programme outcomes, and the current architecture — see **Part IV: Child Protection and Child Rights, §4.72** and **§4.77** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of the juvenile justice system – including the pre-2019 failure era, rehabilitation programme outcomes, and the current architecture – see **Part IV: Child Protection and Child Rights, §4.72** and **§4.77** of this encyclopedia.*
 
 ---
 
@@ -279,12 +279,12 @@ The Gender Equality Act was ratified on 23 August 2016. It promotes gender equal
 
 ### 2.8.2 Implementation Gaps
 
-The Act's implementation has been markedly weak:
+The Act's implementation has been limited:
 
 - **Awareness gap:** Stakeholders in the atolls were found to be unaware of the Act's complaint mechanisms. Many women, particularly in outer islands, do not know they have the right to file gender discrimination complaints.
 - **Political representation:** Women in Parliament stand at just 3.2% (3 out of 93 MPs as of April 2024). Local council women's seats reached 39.7% only after introduction of a 33% quota.
 - **Public attitudes:** Only 57.6% of men support gender equality, suggesting substantial societal resistance.
-- **Institutional compliance:** While 43 public sector institutions established complaint mechanisms as required by the associated Prevention of Sexual Harassment Act, zero complaints were received through these mechanisms — suggesting either that the mechanisms are not accessible or not trusted, rather than that harassment does not occur.
+- **Institutional compliance:** While 43 public sector institutions established complaint mechanisms as required by the associated Prevention of Sexual Harassment Act, zero complaints were received through these mechanisms – suggesting either that the mechanisms are not accessible or not trusted, rather than that harassment does not occur.
 - **GEAP implementation:** The Gender Equality Action Plan (GEAP) 2022-2026 was launched in March 2022 with a Steering Committee chaired by the President, signalling high-level political commitment. However, only 3% of 55 CEDAW recommendations have been fully implemented.[^36]
 
 ---
@@ -298,7 +298,7 @@ Enacted on 27 April 2014 and ratified on 13 May 2014, this Act:
 - Established a Sexual Harassment Offences Committee at the national level
 - Mandates investigation of complaints and provision of remedies
 
-**Implementation reality:** Despite 43 public sector institutions establishing complaint mechanisms, the fact that zero complaints have been received points to a fundamental failure of the system. Workers may fear retaliation, distrust the confidentiality of the process, or simply be unaware of the mechanism. The CFW vulnerability mapping research (2026) documented women experiencing workplace harassment by ex-partners, with employers failing to intervene — suggesting that workplace harassment related to domestic situations falls through the gap between the DV Act and the workplace harassment framework.[^37]
+**Implementation reality:** Despite 43 public sector institutions establishing complaint mechanisms, the fact that zero complaints have been received points to a fundamental failure of the system. Workers may fear retaliation, distrust the confidentiality of the process, or simply be unaware of the mechanism. The CFW vulnerability mapping research (2026) documented women experiencing workplace harassment by ex-partners, with employers failing to intervene – suggesting that workplace harassment related to domestic situations falls through the gap between the DV Act and the workplace harassment framework.[^37]
 
 ---
 
@@ -317,7 +317,7 @@ Enacted on 8 July 2010, the Disability Act:
 
 ### 2.10.2 Implementation and Coverage Gaps
 
-Despite the legislative framework, the disability allowance reaches only approximately 25-26% of the estimated population with disabilities (LSHTM & Es-Key, 2022). The number of recipients has grown — from 8,476 in 2019 to 11,371 by 2023 — but remains far below need.
+Despite the legislative framework, the disability allowance reaches only approximately 25-26% of the estimated population with disabilities (LSHTM & Es-Key, 2022). The number of recipients has grown – from 8,476 in 2019 to 11,371 by 2023 – but remains far below need.
 
 A mixed-methods study (Hameed et al., 2022) found that the lowest coverage was among:
 - Women
@@ -327,7 +327,7 @@ A mixed-methods study (Hameed et al., 2022) found that the lowest coverage was a
 
 Barriers to access include lack of information about the allowance, narrow perceptions of what constitutes disability, restrictive eligibility criteria, geographic factors (requiring travel to Male' for assessment), and stigma associated with disability registration.
 
-The HRCM's 2023 CRPD Shadow Report identified extensive gaps between legislative commitments and actual implementation across inclusive education, accessibility, employment, healthcare, and domestic violence protections for PWDs. The December 2024 UNPRPD situational analysis (Faisal, 2024) — the most comprehensive recent assessment — documented systemic failures across equality, accessibility, inclusive service delivery, and budgeting.[^38]
+The HRCM's 2023 CRPD Shadow Report identified extensive gaps between legislative commitments and actual implementation across inclusive education, accessibility, employment, healthcare, and domestic violence protections for PWDs. The December 2024 UNPRPD situational analysis (Faisal, 2024) – the most comprehensive recent assessment – documented systemic failures across equality, accessibility, inclusive service delivery, and budgeting.[^38]
 
 **Intersectional vulnerabilities:** Disabled women's labour force participation is only 28%. 55% of disabled households are female-headed. Persons with disabilities are 4 times more likely to experience violence. Between 40-60% of visually impaired women report sexual abuse.[^39]
 
@@ -354,7 +354,7 @@ The Act underpins the operational architecture of social protection delivery dis
 
 Drug legislation in the Maldives has evolved through several stages:
 
-- **Law No. 17/77 (1977, amended 1995):** The original drug law, which distinguished users from suppliers. Trafficking carried life imprisonment; possession of less than 1 gram carried 5-12 years of banishment, imprisonment, or house arrest; possession of more than 1 gram triggered an automatic presumption of trafficking and life imprisonment. All stakeholders — judiciary, prosecution, defence, and civil society — have consistently agreed these penalties are "harsh, costly and counterproductive."[^41]
+- **Law No. 17/77 (1977, amended 1995):** The original drug law, which distinguished users from suppliers. Trafficking carried life imprisonment; possession of less than 1 gram carried 5-12 years of banishment, imprisonment, or house arrest; possession of more than 1 gram triggered an automatic presumption of trafficking and life imprisonment. All stakeholders – judiciary, prosecution, defence, and civil society – have consistently agreed these penalties are "harsh, costly and counterproductive."[^41]
 
 - **Drugs Act 2011 (Act No. 17/2011):** Replaced the 1977 law and made several significant changes:
   - Established the **National Drug Agency (NDA)** as the coordinating body for drug policy
@@ -365,7 +365,7 @@ Drug legislation in the Maldives has evolved through several stages:
 
 ### 2.12.2 Ongoing Legal Tensions
 
-The fundamental tension in Maldivian drug policy remains the conflict between punitive and therapeutic approaches. Drug offenders constitute over 80% of the prison population. The incarceration rate of 499 per 100,000 is among the highest in the region. Drug use prevalence is 6.64% in Male' and 2.02% in the atolls. Yet rehabilitation success rates are extremely low — only 11.2% of juveniles admitted to rehabilitation programmes between 2010-2015 successfully completed them.[^42]
+The fundamental tension in Maldivian drug policy remains the conflict between punitive and therapeutic approaches. Drug offenders constitute over 80% of the prison population. The incarceration rate of 499 per 100,000 is among the highest in the region. Drug use prevalence is 6.64% in Male' and 2.02% in the atolls. Yet rehabilitation success rates are extremely low – only 11.2% of juveniles admitted to rehabilitation programmes between 2010-2015 successfully completed them.[^42]
 
 The Islamic legal framework adds complexity: intoxicants are forbidden under the Qur'an and Shari'a prohibition, which shapes both public attitudes and policy responses. The result is a policy framework that oscillates between treating drug use as a moral/criminal failing requiring punishment and a health condition requiring treatment, without fully committing to either approach.[^43]
 
@@ -422,7 +422,7 @@ The COVID-19 pandemic exposed further disparities: relief loans went 15% to wome
 
 ## 2.16 Education Act 2020 (Act No. 24/2020)
 
-The Education Act — the first comprehensive education law for the Maldives — codifies:
+The Education Act – the first comprehensive education law for the Maldives – codifies:
 
 - **Compulsory education** from age 4 (pre-primary) through age 16
 - **Free education** through Grade 12 in public schools
@@ -442,13 +442,13 @@ The Maldives has ratified the following international human rights treaties rele
 
 | Treaty | Year Ratified | Key Reservations |
 |--------|---------------|------------------|
-| Convention on the Elimination of Racial Discrimination (ICERD) | 1984 | — |
+| Convention on the Elimination of Racial Discrimination (ICERD) | 1984 | – |
 | Convention on the Elimination of Discrimination Against Women (CEDAW) | 1993 | Articles 7(a) and 16 (marriage and family) |
 | Convention on the Rights of the Child (CRC) | 1991 | Article 14(1) (freedom of religion), Article 21 (adoption) |
-| Convention Against Torture (CAT) | 2004 | — |
-| International Covenant on Civil and Political Rights (ICCPR) | 2006 | — |
-| International Covenant on Economic, Social and Cultural Rights (ICESCR) | 2006 | — |
-| Convention on the Rights of Persons with Disabilities (CRPD) | 2010 | — |
+| Convention Against Torture (CAT) | 2004 | – |
+| International Covenant on Civil and Political Rights (ICCPR) | 2006 | – |
+| International Covenant on Economic, Social and Cultural Rights (ICESCR) | 2006 | – |
+| Convention on the Rights of Persons with Disabilities (CRPD) | 2010 | – |
 
 ### 2.17.1 CEDAW Compliance
 
@@ -464,7 +464,7 @@ The HRCM submitted its first CRPD Shadow Report in 2023, identifying extensive g
 
 ### 2.17.4 Domestic Enforceability
 
-Under Article 93 of the Constitution, international treaties ratified by the Maldives do not automatically become part of domestic law. The CRC, CEDAW, CRPD, and other treaties are not directly enforceable in domestic courts unless their provisions have been incorporated into national legislation. This creates a significant gap between international commitments and domestic legal protection, as documented in the CRIN Access to Justice report (2014).[^53]
+Under Article 93 of the Constitution, international treaties ratified by the Maldives do not automatically become part of domestic law. The CRC, CEDAW, CRPD, and other treaties are not directly enforceable in domestic courts unless their provisions have been incorporated into national legislation. This creates a gap between international commitments and domestic legal protection, as documented in the CRIN Access to Justice report (2014).[^53]
 
 ---
 
@@ -472,7 +472,7 @@ Under Article 93 of the Constitution, international treaties ratified by the Mal
 
 ### 2.18.1 The Constitutional Framework
 
-The interaction between Islamic law and social legislation is perhaps the most complex and consequential dimension of the Maldives' legal architecture. Article 10 of the Constitution declares Islam as the state religion and prohibits any law contrary to Islamic tenets. The legal system operates as a mixture of Islamic law and English common law, with family (Personal Status) and criminal law informed by Shari'ah, and civil and commercial law drawing on common law traditions.[^54]
+The interaction between Islamic law and social legislation is a central dimension of the Maldives' legal architecture. Article 10 of the Constitution declares Islam as the state religion and prohibits any law contrary to Islamic tenets. The legal system operates as a mixture of Islamic law and English common law, with family (Personal Status) and criminal law informed by Shari'ah, and civil and commercial law drawing on common law traditions.[^54]
 
 Islamic law is codified only in relation to family and inheritance matters. In all other areas, Islamic law is not codified but considered authoritative in practice. This creates a dual system where formal legislation may establish protections that are undermined or complicated by Islamic legal principles as interpreted by the courts.
 
@@ -482,17 +482,17 @@ Islamic law is codified only in relation to family and inheritance matters. In a
 
 **Sexual offences and *zina*:** The overlap between sexual offences legislation (which treats non-consensual sex as a crime) and *zina* provisions (which treat all extramarital sex as a criminal offence regardless of consent) creates a situation where victims of rape may face prosecution. The 85% female share of flogging sentences directly reflects this structural problem.
 
-**FGM:** Female genital mutilation affects 13% of women aged 15-49 (DHS 2016-17), with prevalence increasing sharply with age — from 1% among women aged 15-19 to 38% among those aged 45-49. FGM is **not criminalised** in the Maldives. Some religious leaders have endorsed it as *sunnah* (recommended practice). The absence of legal prohibition, combined with religious endorsement, means there is no legal framework for prevention.[^55]
+**FGM:** Female genital mutilation affects 13% of women aged 15-49 (DHS 2016-17), with prevalence increasing sharply with age – from 1% among women aged 15-19 to 38% among those aged 45-49. FGM is **not criminalised** in the Maldives. Some religious leaders have endorsed it as *sunnah* (recommended practice). The absence of legal prohibition, combined with religious endorsement, means there is no legal framework for prevention.[^55]
 
 **Corporal punishment:** Judicial flogging continues under restrictive Shari'ah interpretation. The Penal Code Section 411(d) provides for 100 lashes for extramarital sex. The Anti-Torture Act 2013 recognised torture as a crime but conditions punishment on hospitalisation duration, raising concerns about adequacy. The death penalty is authorised but has not been carried out in modern times (since 1952).[^56]
 
-**Adoption:** Not recognised under Islamic law as practiced in the Maldives (the CRC reservation on Article 21 reflects this). The alternative care system relies on foster care and institutional care rather than adoption. Only 18 registered foster carers existed as of 2023, caring for 16 children — just 9% of the 187 children in alternative care, with the remaining 91% in residential institutional settings.[^57]
+**Adoption:** Not recognised under Islamic law as practiced in the Maldives (the CRC reservation on Article 21 reflects this). The alternative care system relies on foster care and institutional care rather than adoption. Only 18 registered foster carers existed as of 2023, caring for 16 children – just 9% of the 187 children in alternative care, with the remaining 91% in residential institutional settings.[^57]
 
 ### 2.18.3 The Reform Argument
 
-The Musawah framework analysis applied to the Maldives (2018) argues that reform of family law provisions is jurisprudentially possible within Islam because family laws fall within *mu'amalat* — social and contractual relations that are open to rational reconsideration and contextual interpretation — rather than *ibadat* (fixed devotional obligations). This analysis provides a theological and jurisprudential basis for reforming discriminatory family law provisions while remaining within an Islamic framework. The UNFPA 2023 legal review similarly identifies pathways for reform that are consistent with Islamic principles.[^58]
+The Musawah framework analysis applied to the Maldives (2018) argues that reform of family law provisions is jurisprudentially possible within Islam because family laws fall within *mu'amalat* – social and contractual relations that are open to rational reconsideration and contextual interpretation – rather than *ibadat* (fixed devotional obligations). This analysis provides a theological and jurisprudential basis for reforming discriminatory family law provisions while remaining within an Islamic framework. The UNFPA 2023 legal review similarly identifies pathways for reform that are consistent with Islamic principles.[^58]
 
-> *→ **Extended Coverage:** For comprehensive analysis of Islamic law dimensions in child protection — including kafalah, adoption prohibition, and honour ideology — see **Part IV: Child Protection and Child Rights, §4.61** and **§4.64** of this encyclopedia. For Islamic law dimensions in gender and family law, see **Part V: Gender, GBV, and Women's Empowerment, §5.76–§5.90**.*
+> *→ **Extended Coverage:** For comprehensive analysis of Islamic law dimensions in child protection – including kafalah, adoption prohibition, and honour ideology – see **Part IV: Child Protection and Child Rights, §4.61** and **§4.64** of this encyclopedia. For Islamic law dimensions in gender and family law, see **Part V: Gender, GBV, and Women's Empowerment, §5.76–§5.90**.*
 
 ---
 

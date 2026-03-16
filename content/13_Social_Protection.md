@@ -1,6 +1,6 @@
 # Part XIII: Social Protection Systems and Programs
 
-The Maldives has constructed one of the most comprehensive social protection architectures in South Asia relative to its population size, encompassing universal health insurance, non-contributory pensions for the elderly, cash transfers for single parents and foster families, disability allowances, food and utility subsidies, and contributory retirement savings. These programs are anchored in a suite of legislation — principally the Social Protection Act (Act 2/2014), the Maldives Pension Act (Act 8/2009), the National Social Health Insurance Act (Act 15/2011), and the Disability Act (Act 8/2010) — and administered through a network of agencies led by the National Social Protection Agency (NSPA) and the Maldives Pension Administration Office (MPAO). This chapter examines how each program operates in practice: its legal basis, eligibility criteria, benefit levels, application procedures, coverage statistics, fiscal costs, and the persistent gaps between policy ambition and frontline delivery.
+The Maldives has constructed one of the most comprehensive social protection architectures in South Asia relative to its population size, encompassing universal health insurance, non-contributory pensions for the elderly, cash transfers for single parents and foster families, disability allowances, food and utility subsidies, and contributory retirement savings. These programs are anchored in a suite of legislation – principally the Social Protection Act (Act 2/2014), the Maldives Pension Act (Act 8/2009), the National Social Health Insurance Act (Act 15/2011), and the Disability Act (Act 8/2010) – and administered through a network of agencies led by the National Social Protection Agency (NSPA) and the Maldives Pension Administration Office (MPAO). This chapter examines how each program operates in practice: its legal basis, eligibility criteria, benefit levels, application procedures, coverage statistics, fiscal costs, and the persistent gaps between policy ambition and frontline delivery.
 
 ---
 
@@ -8,7 +8,7 @@ The Maldives has constructed one of the most comprehensive social protection arc
 
 ### Conceptual Architecture
 
-The Government of Maldives adopted a "minimum social protection floor" concept in 2009, organizing its programs into three tiers.[^1] At the base is a social floor guaranteeing access to essential health services, primary and lower-secondary education, and basic income support for vulnerable groups. The second tier consists of mandatory social insurance — universal health insurance (Aasandha) and the defined-contribution Maldives Retirement Pension Scheme (MRPS). The third tier encompasses voluntary insurance, including private sickness, disability, and life insurance products.
+The Government of Maldives adopted a "minimum social protection floor" concept in 2009, organizing its programs into three tiers.[^1] At the base is a social floor guaranteeing access to essential health services, primary and lower-secondary education, and basic income support for vulnerable groups. The second tier consists of mandatory social insurance – universal health insurance (Aasandha) and the defined-contribution Maldives Retirement Pension Scheme (MRPS). The third tier encompasses voluntary insurance, including private sickness, disability, and life insurance products.
 
 Within this architecture, the Asian Development Bank's 2012 Social Protection Index (SPI) study identified 20 distinct social protection programs in the Maldives, classified into three categories: (i) social assistance (13 programs), (ii) social insurance (6 programs), and (iii) labor market programs (1 program).[^2] The total social protection expenditure for the 2009 reference year was MVR 782 million, amounting to 3.5% of GDP. Social assistance constituted 52% of total spending, social insurance 47%, and labor market programs barely 1%.[^3]
 
@@ -40,7 +40,7 @@ The National Social Protection Framework (NSPF) 2022–2026 was developed with t
 
 The NSPF is organized around four strategic pillars:
 
-1. **Lifecycle Protection:** Ensuring that social protection programs cover risks at every stage of life — from childhood nutrition and education subsidies, through working-age employment support, to old-age pensions and disability assistance.
+1. **Lifecycle Protection:** Ensuring that social protection programs cover risks at every stage of life – from childhood nutrition and education subsidies, through working-age employment support, to old-age pensions and disability assistance.
 
 2. **Shock Responsiveness:** Building the capacity of the social protection system to scale up rapidly in response to economic shocks, climate disasters, and pandemics, as demonstrated by the COVID-19 experience.
 
@@ -50,21 +50,21 @@ The NSPF is organized around four strategic pillars:
 
 ### Fiscal Sustainability Concerns
 
-A central challenge identified in the NSPF is the rapidly growing cost of social protection. Universal programs — particularly Aasandha and the Old-Age Basic Pension — constitute the largest fiscal commitments. The Framework recommends exploring targeted approaches where feasible (such as the announced means-testing of the basic pension from 2025), strengthening contributory mechanisms, and implementing cost-containment measures for health insurance.[^9]
+A central challenge identified in the NSPF is the rapidly growing cost of social protection. Universal programs – particularly Aasandha and the Old-Age Basic Pension – constitute the largest fiscal commitments. The Framework recommends exploring targeted approaches where feasible (such as the announced means-testing of the basic pension from 2025), strengthening contributory mechanisms, and implementing cost-containment measures for health insurance.[^9]
 
 ---
 
-## 13.3 Aasandha (Universal Health Insurance) — Expenditure and Coverage
+## 13.3 Aasandha (Universal Health Insurance) – Expenditure and Coverage
 
 ### Origins and Evolution
 
-Before Aasandha, government health assistance operated through a welfare system where citizens applied for medical cost reimbursement on a case-by-case basis. The annual expenditure on this welfare assistance was approximately MVR 28.7 million per year during 2008–2010, covering roughly 5,000–6,800 beneficiaries annually.[^10] In 2008, the government introduced "Madhana," a social health insurance scheme covering civil service employees, pensioners, senior citizens, persons below the poverty line, and persons with disabilities — approximately 61,000 people or 19% of the population. Madhana provided coverage up to a yearly maximum of MVR 2,000 depending on income, with the government fully subsidizing those unable to contribute.[^11]
+Before Aasandha, government health assistance operated through a welfare system where citizens applied for medical cost reimbursement on a case-by-case basis. The annual expenditure on this welfare assistance was approximately MVR 28.7 million per year during 2008–2010, covering roughly 5,000–6,800 beneficiaries annually.[^10] In 2008, the government introduced "Madhana," a social health insurance scheme covering civil service employees, pensioners, senior citizens, persons below the poverty line, and persons with disabilities – approximately 61,000 people or 19% of the population. Madhana provided coverage up to a yearly maximum of MVR 2,000 depending on income, with the government fully subsidizing those unable to contribute.[^11]
 
 In 2010, "Madhana Plus" expanded coverage to include international medical services, with annual contributions of MVR 1,500 and mandatory participation in Madhana as a prerequisite. By the end of 2010, the health insurance scheme covered 61,861 beneficiaries with expenditure of MVR 145 million.[^12]
 
 ### Launch of Aasandha (2012)
 
-The transformative shift came in January 2012, when the government launched Aasandha under the National Social Health Insurance Act (Act 15/2011), replacing both Madhana and Madhana Plus with a single universal scheme covering all Maldivian citizens. Initially, each citizen was entitled to medical services up to MVR 100,000 per year.[^13]
+The major shift came in January 2012, when the government launched Aasandha under the National Social Health Insurance Act (Act 15/2011), replacing both Madhana and Madhana Plus with a single universal scheme covering all Maldivian citizens. Initially, each citizen was entitled to medical services up to MVR 100,000 per year.[^13]
 
 In 2014, the government introduced "Husnuvaa Aasandha" (Unlimited Aasandha), removing the annual benefit cap entirely to ensure no citizen would be denied essential treatment due to cost.[^14] This made the Maldives one of the few countries in the world to offer genuinely unlimited, government-funded health coverage to its entire population.
 
@@ -72,7 +72,7 @@ In 2014, the government introduced "Husnuvaa Aasandha" (Unlimited Aasandha), rem
 
 **Coverage:** Every Maldivian citizen is automatically covered from birth, with no premiums, co-payments, or deductibles at the point of service. Citizens present their national identity card at participating health facilities to access cashless services.[^15]
 
-**Scope of benefits:** Aasandha covers outpatient and inpatient consultations, surgeries, laboratory and diagnostic tests, prescription medications, medical evacuations within Maldives, and — through the "Merana" program introduced in 2019 — treatments at partner hospitals in India, Sri Lanka, and Malaysia for conditions not treatable domestically.[^16]
+**Scope of benefits:** Aasandha covers outpatient and inpatient consultations, surgeries, laboratory and diagnostic tests, prescription medications, medical evacuations within Maldives, and – through the "Merana" program introduced in 2019 – treatments at partner hospitals in India, Sri Lanka, and Malaysia for conditions not treatable domestically.[^16]
 
 **Sub-programs:** Aasandha includes specialized coverage streams for IVF treatments (with caps), a Thalassemia Assistance Program for patients with the prevalent genetic blood disorder, and a Fertility Fund.[^17]
 
@@ -92,11 +92,11 @@ The fiscal trajectory of Aasandha is a defining challenge for Maldivian social p
 | 2024 (budget) | 1.9 billion | Approved budget allocation |
 | 2024 (Q1 actual) | 838 million | First quarter alone |
 
-By early 2024, Aasandha was consuming over MVR 838 million in a single quarter — a pace that, if sustained, would far exceed the MVR 1.9 billion annual budget.[^19] A staggering 56% of Aasandha's total costs are attributable to pharmaceuticals, with drug prices in the Maldives reported to be up to 75 times higher than international benchmark prices.[^20]
+By early 2024, Aasandha was consuming over MVR 838 million in a single quarter – a pace that, if sustained, would far exceed the MVR 1.9 billion annual budget.[^19] A staggering 56% of Aasandha's total costs are attributable to pharmaceuticals, with drug prices in the Maldives reported to be up to 75 times higher than international benchmark prices.[^20]
 
 ### The Out-of-Pocket Paradox
 
-Despite providing nominally universal and unlimited coverage, the Maldives continues to exhibit high out-of-pocket health expenditure — approximately 49% of total health spending, according to WHO estimates. This paradox arises because Aasandha does not cover all services (some elective, dental, and cosmetic procedures are excluded), because coverage at private facilities may be partial, and because many citizens traveling abroad for treatment incur costs beyond what Merana reimburses. The result is that while catastrophic health expenditure has been reduced, significant financial burden persists, particularly for households in the atolls who must travel to Male or abroad for specialist care.[^21]
+Despite providing nominally universal and unlimited coverage, the Maldives continues to exhibit high out-of-pocket health expenditure – approximately 49% of total health spending, according to WHO estimates. This paradox arises because Aasandha does not cover all services (some elective, dental, and cosmetic procedures are excluded), because coverage at private facilities may be partial, and because many citizens traveling abroad for treatment incur costs beyond what Merana reimburses. The result is that while catastrophic health expenditure has been reduced, significant financial burden persists, particularly for households in the atolls who must travel to Male or abroad for specialist care.[^21]
 
 ### Reform Directions
 
@@ -108,7 +108,7 @@ The government and international advisors (World Bank, WHO) have recommended sev
 
 ### Legal Basis and Purpose
 
-The Single Parent Allowance is a targeted conditional cash transfer for vulnerable single-parent families, established under the Social Protection Act 2/2014 and governed by the Single Parent Allowance Regulation issued by NSPA.[^23] It aims to support single parents — overwhelmingly single mothers, given the Maldives' high divorce rate — in meeting the basic needs of their children.
+The Single Parent Allowance is a targeted conditional cash transfer for vulnerable single-parent families, established under the Social Protection Act 2/2014 and governed by the Single Parent Allowance Regulation issued by NSPA.[^23] It aims to support single parents – overwhelmingly single mothers, given the Maldives' high divorce rate – in meeting the basic needs of their children.
 
 ### Eligibility Criteria
 
@@ -143,13 +143,13 @@ The application process is documentation-intensive, reflecting NSPA's effort to 
 
 ### Coverage and Fiscal Cost
 
-The scheme reaches several thousand single-parent households nationwide, with the vast majority of recipients being women. In 2023, approximately MVR 60 million was allocated in the state budget for the Single Parent Allowance.[^30] While evaluations have found that the allowance reduces economic strain on recipient families, critics note that the benefit level — even at the enhanced MVR 3,000 per child — remains low relative to the cost of living in Male, where rent alone can exceed MVR 10,000 per month for a modest flat.[^31]
+The scheme reaches several thousand single-parent households nationwide, with the vast majority of recipients being women. In 2023, approximately MVR 60 million was allocated in the state budget for the Single Parent Allowance.[^30] While evaluations have found that the allowance reduces economic strain on recipient families, critics note that the benefit level – even at the enhanced MVR 3,000 per child – remains low relative to the cost of living in Male, where rent alone can exceed MVR 10,000 per month for a modest flat.[^31]
 
 ### Operational Challenges
 
 The heavy documentation requirements can be burdensome for illiterate or very poor parents, though island councils typically assist with form completion. The means test creates cliff effects where a small increase in income can result in total loss of benefits. And the system's reliance on self-reporting of status changes (particularly remarriage) creates opportunities for leakage that NSPA has limited capacity to monitor in real time.[^32]
 
-> *→ **Extended Coverage:** For comprehensive analysis of children in poverty and the social protection interface — including single parent allowance gaps for vulnerable children and child-specific protection measures — see **Part IV: Child Protection and Child Rights, §4.96** of this encyclopedia. For the gender dimensions of the allowance as a lifeline for divorced mothers, see **Part V: Gender, GBV, and Women's Empowerment, §5.44–§5.57**.*
+> *→ **Extended Coverage:** For comprehensive analysis of children in poverty and the social protection interface – including single parent allowance gaps for vulnerable children and child-specific protection measures – see **Part IV: Child Protection and Child Rights, §4.96** of this encyclopedia. For the gender dimensions of the allowance as a lifeline for divorced mothers, see **Part V: Gender, GBV, and Women's Empowerment, §5.44–§5.57**.*
 
 ---
 
@@ -165,13 +165,13 @@ To qualify, the applicant must be:
 
 1. A legally appointed guardian or foster parent of a child under 18, established through either a court order or formal guardianship transfer from the Ministry of Social and Family Development.
 
-2. Fostering a child whose parents are genuinely unable to provide care — due to death, severe disability/illness, incarceration, court-ordered removal for protection, or abandonment.[^34]
+2. Fostering a child whose parents are genuinely unable to provide care – due to death, severe disability/illness, incarceration, court-ordered removal for protection, or abandonment.[^34]
 
 3. A Maldivian citizen residing in the Maldives who passes a means test similar to the single parent allowance (household income below the NSPA cutoff).
 
 4. Meeting care standards including ensuring the child attends school and receives vaccinations. The child's school attendance record and health cards are required documentation.[^35]
 
-5. The fostered child must not already be receiving the Disability Allowance — to prevent double benefits, a child with disabilities in foster care receives either the disability allowance or the foster allowance, not both.[^36]
+5. The fostered child must not already be receiving the Disability Allowance – to prevent double benefits, a child with disabilities in foster care receives either the disability allowance or the foster allowance, not both.[^36]
 
 ### Benefit Amount
 
@@ -184,11 +184,11 @@ Thus a family fostering one child receives MVR 1,500 total; a family fostering t
 
 ### Scale and Effect
 
-Foster care in the Maldives remains relatively limited but is growing as part of the national Alternative Care reform, which seeks to move children out of large institutional settings (such as Kudakudhinge Hiya and Fiyavathi in Hulhumale) into family environments. As of March 2023, there were 187 children in alternative state care nationwide, and the number of formal foster placements — while small — has been increasing, partly incentivized by this allowance.[^38]
+Foster care in the Maldives remains relatively limited but is growing as part of the national Alternative Care reform, which seeks to move children out of large institutional settings (such as Kudakudhinge Hiya and Fiyavathi in Hulhumale) into family environments. As of March 2023, there were 187 children in alternative state care nationwide, and the number of formal foster placements – while small – has been increasing, partly incentivized by this allowance.[^38]
 
 The allowance can be revoked if the child is not well cared for (monitored by CFPS social workers), if the foster arrangement ends, if the child is adopted, or if the child turns 18. Many foster placements are facilitated by the Child and Family Protection Service when children are removed from unsafe homes; in such cases, the Ministry assists new guardians in applying for the allowance.[^39]
 
-> *→ **Extended Coverage:** For comprehensive analysis of the foster care system — including placement numbers, regulatory standards, CFPS oversight, and the gap between institutional and family-based care — see **Part IV: Child Protection and Child Rights, §4.63** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of the foster care system – including placement numbers, regulatory standards, CFPS oversight, and the gap between institutional and family-based care – see **Part IV: Child Protection and Child Rights, §4.63** of this encyclopedia.*
 
 ---
 
@@ -214,7 +214,7 @@ This categorical approach directs greater resources toward those with the most s
 
 ### Eligibility and Application
 
-**Certification process:** Any Maldivian citizen with a permanent disability — physical, sensory, intellectual, or mental — that impacts daily functioning is eligible, regardless of income or age. The certification involves a medical assessment by a designated Medical Board to determine whether the individual meets criteria for disability degree and permanence.[^43]
+**Certification process:** Any Maldivian citizen with a permanent disability – physical, sensory, intellectual, or mental – that impacts daily functioning is eligible, regardless of income or age. The certification involves a medical assessment by a designated Medical Board to determine whether the individual meets criteria for disability degree and permanence.[^43]
 
 **Application:** Submitted through island councils or NSPA offices, with required documentation including the medical evaluation report and national identity card. Payments are made monthly to the guardian (for minors or incapacitated adults) or directly to the person.
 
@@ -226,21 +226,21 @@ As of mid-2023:
 
 - **11,371 persons** receiving disability benefits nationwide (up from approximately 8,500 in 2019)
 - **Annual expenditure exceeding MVR 111 million** in the first half of 2023 alone
-- However, research by Hameed et al. (2022) found that **only 25.6% of persons with disabilities in the Maldives actually receive the allowance**, suggesting major gaps in registration, awareness, or access — particularly in remote atolls.[^45]
+- However, research by Hameed et al. (2022) found that **only 25.6% of persons with disabilities in the Maldives actually receive the allowance**, suggesting major gaps in registration, awareness, or access – particularly in remote atolls.[^45]
 
 ### Complementary Programs
 
 Beyond the cash allowance, registered persons with disabilities receive:
 
-- **Assistive devices:** Hearing aids, wheelchairs, crutches, glasses — with annual expenditure of approximately MVR 0.7–0.9 million, administered through NSPA and the Department of Gender and Family Protection Services.[^46]
+- **Assistive devices:** Hearing aids, wheelchairs, crutches, glasses – with annual expenditure of approximately MVR 0.7–0.9 million, administered through NSPA and the Department of Gender and Family Protection Services.[^46]
 - **Therapy Assistance Program:** Since 2019, NSPA (with the health ministry) has supported over 500 individuals with physiotherapy, speech therapy, or occupational therapy costs, funded through the Zakat Fund or special budget allocations.[^47]
 - **Aasandha coverage:** All medical costs related to disability are covered under the universal health insurance scheme.
 
 ### Impact Assessment
 
-The disability allowance has been found to improve the financial stability of recipient households, providing a modest income that offsets care costs and the lost earnings of a caregiver.[^48] For example, a single mother caring for a child with severe cerebral palsy could receive up to MVR 5,000 under the new tiered scheme — a significant contribution in a household that might otherwise have no income. However, research consistently notes that the allowance alone does not cover all disability-related needs, leading to continued calls for further increases and better targeting of supplementary services.[^49]
+The disability allowance has been found to improve the financial stability of recipient households, providing a modest income that offsets care costs and the lost earnings of a caregiver.[^48] For example, a single mother caring for a child with severe cerebral palsy could receive up to MVR 5,000 under the new tiered scheme – a significant contribution in a household that might otherwise have no income. However, research consistently notes that the allowance alone does not cover all disability-related needs, leading to continued calls for further increases and better targeting of supplementary services.[^49]
 
-> *→ **Extended Coverage:** For comprehensive analysis of children with disabilities within the child protection system — including intersection between disability, abuse risk, and service gaps — see **Part IV: Child Protection and Child Rights, §4.114** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of children with disabilities within the child protection system – including intersection between disability, abuse risk, and service gaps – see **Part IV: Child Protection and Child Rights, §4.114** of this encyclopedia.*
 
 ---
 
@@ -250,9 +250,9 @@ The disability allowance has been found to improve the financial stability of re
 
 The Old-Age Basic Pension (BP) is the single largest social protection program in the Maldives by expenditure. Established by the Maldives Pension Act 2009 and launched in 2010, it is a universal, non-contributory pension providing income security to all senior citizens.[^50]
 
-**Eligibility:** Every Maldivian citizen aged 65 or older is eligible, regardless of income, employment history, or gender, provided they are not already receiving an equivalent pension from another source. The pension is a rights-based legal entitlement — not a discretionary welfare payment.[^51]
+**Eligibility:** Every Maldivian citizen aged 65 or older is eligible, regardless of income, employment history, or gender, provided they are not already receiving an equivalent pension from another source. The pension is a rights-based legal entitlement – not a discretionary welfare payment.[^51]
 
-**Benefit level:** Initially set at MVR 2,300 per month (approximately USD 150), the benefit was progressively increased. In 2014, a "Senior Citizens Allowance" was introduced to top up all elderly pensioners to MVR 5,000 per month. Subsequently, the standard Basic Pension was set at MVR 5,000 for all beneficiaries — the level that remains in effect as of 2026.[^52]
+**Benefit level:** Initially set at MVR 2,300 per month (approximately USD 150), the benefit was progressively increased. In 2014, a "Senior Citizens Allowance" was introduced to top up all elderly pensioners to MVR 5,000 per month. Subsequently, the standard Basic Pension was set at MVR 5,000 for all beneficiaries – the level that remains in effect as of 2026.[^52]
 
 ### Integration with the Contributory Pension
 
@@ -260,7 +260,7 @@ The Basic Pension is designed as a "floor" of income support. If a person also r
 
 ### Application and Payment
 
-Citizens can apply through the Pension Office (MPAO) up to six months before reaching age 65. Required documentation includes proof of age (national ID card) and bank account details. Once approved, payments begin the month the person turns 65 — with no retroactive lump sums for late applications. Monthly payments are deposited directly into the beneficiary's bank account. No annual renewal is required, but beneficiaries must report changes in status.[^54]
+Citizens can apply through the Pension Office (MPAO) up to six months before reaching age 65. Required documentation includes proof of age (national ID card) and bank account details. Once approved, payments begin the month the person turns 65 – with no retroactive lump sums for late applications. Monthly payments are deposited directly into the beneficiary's bank account. No annual renewal is required, but beneficiaries must report changes in status.[^54]
 
 ### Coverage and Expenditure
 
@@ -277,7 +277,7 @@ The program paid out MVR 1.03 billion (approximately USD 67 million) in 2020 alo
 
 The MRPS is the contributory "second pillar" of the pension system. Mandatory for all formal-sector employees (public and private), it requires equal contributions of 7% of salary from both employer and employee (14% total). The funds are invested by MPAO and credited to individual retirement accounts. Participants can draw pensions from age 55 if their accumulated balance supports a monthly annuity of at least MVR 10,000 (twice the Basic Pension amount); otherwise, pensions begin at the standard retirement age of 65.[^56]
 
-As of early 2023, MPAO reported over MVR 15 billion in assets under management. Coverage extends to essentially all public-sector employees and over 70% of private-sector employees. However, informal workers — fishers, small traders, home-based workers — largely do not contribute, and will rely solely on the Basic Pension in old age.[^57]
+As of early 2023, MPAO reported over MVR 15 billion in assets under management. Coverage extends to essentially all public-sector employees and over 70% of private-sector employees. However, informal workers – fishers, small traders, home-based workers – largely do not contribute, and will rely solely on the Basic Pension in old age.[^57]
 
 A 2016 amendment to the Pension Act allowed members to use a portion of their pension savings as housing collateral, reflecting the acute housing crisis and the pragmatic adaptation of pension policy to social needs.[^58]
 
@@ -287,7 +287,7 @@ Before the 2009 reform, the Maldives operated a non-contributory, pay-as-you-go 
 
 ### Means-Testing Reform (2025)
 
-In late 2024, the government announced a policy shift to means-test the Basic Pension from April 2025 onwards, citing unsustainable fiscal growth. Under this reform, higher-income seniors would become ineligible or receive a reduced amount, concentrating the pension on those with lower incomes. As of early 2026, the implementation details — including the income threshold and verification mechanisms — were still being finalized. The reform has generated significant public debate, with opponents arguing it undermines the universal rights-based character of the pension and may discourage retirement savings.[^60]
+In late 2024, the government announced a policy shift to means-test the Basic Pension from April 2025 onwards, citing unsustainable fiscal growth. Under this reform, higher-income seniors would become ineligible or receive a reduced amount, concentrating the pension on those with lower incomes. As of early 2026, the implementation details – including the income threshold and verification mechanisms – were still being finalized. The reform has generated significant public debate, with opponents arguing it undermines the universal rights-based character of the pension and may discourage retirement savings.[^60]
 
 ---
 
@@ -295,9 +295,9 @@ In late 2024, the government announced a policy shift to means-test the Basic Pe
 
 ### Food Subsidy Program
 
-NSPA administers a Food Subsidy Program providing monthly cash grants for staple foods — rice, flour, and sugar — to low-income households. The program is listed on the government's oneGov services portal and targets households already enrolled in other NSPA programs (single parent, disability) or identified as being at risk of food insecurity.[^61]
+NSPA administers a Food Subsidy Program providing monthly cash grants for staple foods – rice, flour, and sugar – to low-income households. The program is listed on the government's oneGov services portal and targets households already enrolled in other NSPA programs (single parent, disability) or identified as being at risk of food insecurity.[^61]
 
-Eligible households receive cash transfers calculated per household member — illustratively around MVR 40 per person for rice, MVR 40 for flour, and MVR 20 for sugar per month — disbursed as a combined cash transfer. The amounts are modest, and the program primarily functions as a supplementary safety net rather than comprehensive food security.[^62]
+Eligible households receive cash transfers calculated per household member – illustratively around MVR 40 per person for rice, MVR 40 for flour, and MVR 20 for sugar per month – disbursed as a combined cash transfer. The amounts are modest, and the program primarily functions as a supplementary safety net rather than comprehensive food security.[^62]
 
 ### Utility Subsidies
 
@@ -325,7 +325,7 @@ The government introduced the Income Support Allowance (ISA) as an emergency cas
 - Self-employed persons whose businesses were forced to close or experienced significant revenue loss
 - Freelance and gig workers without formal employment contracts
 
-The ISA was disbursed through NSPA and represented one of the most significant expansions of social protection coverage in Maldivian history, reaching categories of workers — particularly informal and self-employed workers — who had never previously been part of the social protection system.[^67]
+The ISA was disbursed through NSPA and represented one of the most significant expansions of social protection coverage in Maldivian history, reaching categories of workers – particularly informal and self-employed workers – who had never previously been part of the social protection system.[^67]
 
 ### World Bank Emergency Response (P174014)
 
@@ -337,7 +337,7 @@ During the strict lockdowns in Male (April–July 2020), the government coordina
 
 ### Sectoral and Demographic Impact Patterns
 
-The World Bank's Poverty and Inequality report (2022) provided granular data on the differentiated impact of COVID-19 across sectors, regions, and demographics. Tourism and hospitality workers experienced the most severe shocks — both wage workers and self-employed operators in guesthouses, dive centers, and transport services saw income collapse. Women were disproportionately affected through multiple channels: they were concentrated in sectors hit by closures (education, retail, hospitality), they bore the additional unpaid care burden during school closures, and female-headed households (already more likely to be deprived, per World Bank Table 1.11) had fewer savings buffers. Workers in atolls experienced different shock patterns than those in Male: atoll-based self-employed workers (fishers, small business operators) had somewhat more resilience due to subsistence activities, while Male-based informal workers in cramped shared accommodations were both economically and health-vulnerable.[^65a]
+The World Bank's Poverty and Inequality report (2022) provided granular data on the differentiated impact of COVID-19 across sectors, regions, and demographics. Tourism and hospitality workers experienced the most severe shocks – both wage workers and self-employed operators in guesthouses, dive centers, and transport services saw income collapse. Women were disproportionately affected through multiple channels: they were concentrated in sectors hit by closures (education, retail, hospitality), they bore the additional unpaid care burden during school closures, and female-headed households (already more likely to be deprived, per World Bank Table 1.11) had fewer savings buffers. Workers in atolls experienced different shock patterns than those in Male: atoll-based self-employed workers (fishers, small business operators) had somewhat more resilience due to subsistence activities, while Male-based informal workers in cramped shared accommodations were both economically and health-vulnerable.[^65a]
 
 By February 2021, income shock rates varied significantly by worker type: wage workers with formal contracts experienced lower shock rates than self-workers (business owners, informal laborers), reflecting the partial protection provided by employment contracts and employer obligations. By April 2021, work stoppage rates remained elevated in the hospitality sector even as other sectors began recovering, indicating the prolonged nature of tourism-dependent economic disruption.[^65b]
 
@@ -346,7 +346,7 @@ By February 2021, income shock rates varied significantly by worker type: wage w
 The pandemic experience exposed critical weaknesses in the Maldives' social protection infrastructure:
 
 1. **No social registry:** The absence of a comprehensive database of vulnerable households made rapid targeting impossible, leading to both inclusion errors (benefits reaching the non-poor) and exclusion errors (vulnerable households missed).
-2. **Informal sector blind spot:** Workers in fishing, small trade, and domestic work were largely invisible to the formal social protection system. The Maldives Employment Act (2008), while establishing basic labor rights, exempted certain industries and categories of workers, and failed to include a minimum wage — leaving large segments of the workforce without formal protections that could have facilitated benefit delivery.
+2. **Informal sector blind spot:** Workers in fishing, small trade, and domestic work were largely invisible to the formal social protection system. The Maldives Employment Act (2008), while establishing basic labor rights, exempted certain industries and categories of workers, and failed to include a minimum wage – leaving large segments of the workforce without formal protections that could have facilitated benefit delivery.
 3. **Limited shock-responsiveness:** Programs were designed for steady-state delivery, not rapid scale-up. The ISA had to be designed, approved, and operationalized under emergency conditions, with ad hoc eligibility criteria and verification processes.
 4. **Digital infrastructure gaps:** The lack of digital payment infrastructure in some atolls complicated disbursement. Many informal workers lacked bank accounts, requiring alternative payment arrangements.
 5. **Gender-blind design:** Initial emergency responses did not adequately account for the gendered nature of the economic shock, including the increased unpaid care burden on women and the vulnerability of female-headed households.
@@ -357,9 +357,9 @@ These lessons directly informed the design of subsequent World Bank projects and
 
 ## 13.10 Husnuvaa (Social Housing) Programs
 
-### Housing Crisis Context
+### Housing Context
 
-The Maldives faces an acute housing crisis, particularly in Male, where approximately one-third of the national population is concentrated on an island of just 5.8 square kilometers. Overcrowding, high rents, and the inability of young families to secure affordable housing are among the most pressing social challenges, with direct implications for family stability, child welfare, and poverty.
+The Maldives faces an acute housing shortage, particularly in Male, where approximately one-third of the national population is concentrated on an island of just 5.8 square kilometers. Overcrowding, high rents, and the inability of young families to secure affordable housing are among the main social challenges, with direct implications for family stability, child welfare, and poverty.
 
 ### Social Housing Programs
 
@@ -377,7 +377,7 @@ In a novel use of Islamic charitable funds, the Zakat Fund in 2022 paid down-pay
 
 ### Operational Challenges in Social Housing
 
-The allocation process for social housing has been a persistent source of public grievance. Points-based systems intended to prioritize need have been criticized for lack of transparency, with allegations of political influence in allocation decisions. The sheer scale of demand — tens of thousands of families on waiting lists — relative to supply means that most applicants wait years, if not decades. Monthly installment payments for social housing flats (typically MVR 5,000–7,500) can be burdensome for low-income families, particularly when combined with the costs of furnishing and commuting from Hulhumale to workplaces in Male.
+The allocation process for social housing has been a persistent source of public grievance. Points-based systems intended to prioritize need have been criticized for lack of transparency, with allegations of political influence in allocation decisions. The sheer scale of demand – tens of thousands of families on waiting lists – relative to supply means that most applicants wait years, if not decades. Monthly installment payments for social housing flats (typically MVR 5,000–7,500) can be burdensome for low-income families, particularly when combined with the costs of furnishing and commuting from Hulhumale to workplaces in Male.
 
 For atoll communities, housing needs are different: the challenge is less about affordability and more about quality, with many island homes aging and vulnerable to climate impacts. Government programs for atoll housing construction have been smaller in scale and often delayed by logistical challenges in transporting building materials to remote islands.
 
@@ -414,15 +414,15 @@ Zakat funds support vulnerable families through multiple channels:
 
 While Zakat operates within an Islamic framework distinct from the secular social protection system, there are growing referral linkages. FCSC social workers may refer families with housing issues to the Zakat House; Zakat House verifies Aasandha coverage before providing medical assistance; and the integration of Zakat House with the oneGov digital platform in late 2024 represents a step toward systematic coordination.[^77]
 
-Island councils identify eligible poor families for Zakat distribution, and thousands of families are on the Zakat eligibility lists. During Ramadan, many businesses and individuals conduct additional voluntary charity (Sadaqat) drives — distributing food packs to poor households, often coordinated with the Maldives Red Crescent or Women's Development Committees.[^78]
+Island councils identify eligible poor families for Zakat distribution, and thousands of families are on the Zakat eligibility lists. During Ramadan, many businesses and individuals conduct additional voluntary charity (Sadaqat) drives – distributing food packs to poor households, often coordinated with the Maldives Red Crescent or Women's Development Committees.[^78]
 
 ---
 
-## 13.12 Social Registry and Benefit Management System — World Bank Feasibility
+## 13.12 Social Registry and Benefit Management System – World Bank Feasibility
 
 ### The Problem of Fragmentation
 
-One of the most persistent structural weaknesses of the Maldivian social protection system is the absence of a unified social registry — a comprehensive database linking beneficiary information across all programs. Each program (disability allowance, single parent allowance, Aasandha, basic pension, Zakat) maintains its own beneficiary lists, often with different identification systems, eligibility criteria, and data formats. This fragmentation creates several problems:
+One of the most persistent structural weaknesses of the Maldivian social protection system is the absence of a unified social registry – a comprehensive database linking beneficiary information across all programs. Each program (disability allowance, single parent allowance, Aasandha, basic pension, Zakat) maintains its own beneficiary lists, often with different identification systems, eligibility criteria, and data formats. This fragmentation creates several problems:
 
 - **Duplication:** Individuals may receive benefits from multiple programs without coordination, leading to over-coverage of some while others are missed entirely.
 - **Targeting errors:** Without integrated income and asset data, means-testing relies on self-reported information that is difficult to verify.
@@ -431,7 +431,7 @@ One of the most persistent structural weaknesses of the Maldivian social protect
 
 ### World Bank Feasibility Studies
 
-The World Bank has undertaken feasibility assessments for a Maldives Social Registry and Benefit Management System as part of its broader engagement, including through the SAILS Project (P177240 — Strengthening Labor Market Services and Social Protection). Key recommendations include:
+The World Bank has undertaken feasibility assessments for a Maldives Social Registry and Benefit Management System as part of its broader engagement, including through the SAILS Project (P177240 – Strengthening Labor Market Services and Social Protection). Key recommendations include:
 
 1. **Unified identification:** Using the national identity number as a common identifier across all programs to enable cross-referencing.
 2. **Integrated database:** A single registry capturing household composition, income, assets, program enrollment, and benefit receipt for all social protection beneficiaries.
@@ -456,19 +456,19 @@ The project represents the most significant international investment in Maldivia
 
 ### Aggregate Spending
 
-The ADB's 2012 SPI study calculated total social protection expenditure for the 2009 reference year at MVR 782 million — 3.5% of GDP. The composition was:
+The ADB's 2012 SPI study calculated total social protection expenditure for the 2009 reference year at MVR 782 million – 3.5% of GDP. The composition was:
 
 | Category | Expenditure (MVR millions) | Share (%) |
 |----------|--------------------------|-----------|
 | **Social Insurance** | 346 | 47% |
-| — Pensions | 95 | 13% |
-| — Health Insurance | 78 | 11% |
-| — Other (maternity, disability) | 173 | 23% |
+| – Pensions | 95 | 13% |
+| – Health Insurance | 78 | 11% |
+| – Other (maternity, disability) | 173 | 23% |
 | **Social Assistance** | 389 | 52% |
-| — Assistance for Elderly | 311 | 42% |
-| — Health Assistance | 37 | 5% |
-| — Child Protection | 12 | 2% |
-| — Other Social Assistance | 29 | 4% |
+| – Assistance for Elderly | 311 | 42% |
+| – Health Assistance | 37 | 5% |
+| – Child Protection | 12 | 2% |
+| – Other Social Assistance | 29 | 4% |
 | **Labor Market Programs** | 7 | 1% |
 | **Total** | **742** | **100%** |
 
@@ -478,11 +478,11 @@ The largest single program by expenditure was the Old-Age Basic Pension at MVR 3
 
 Social protection spending has grown dramatically since the ADB's baseline assessment:
 
-- **Basic Pension:** From MVR 311 million (2009) to over MVR 1 billion (2020) — a more than threefold increase driven by population aging, benefit increases, and the transition to MVR 5,000 universal payments.
-- **Aasandha:** From MVR 78 million in health insurance (2010) to a budget of MVR 1.9 billion (2024) — an extraordinary expansion reflecting the shift from limited Madhana coverage to unlimited universal insurance.
+- **Basic Pension:** From MVR 311 million (2009) to over MVR 1 billion (2020) – a more than threefold increase driven by population aging, benefit increases, and the transition to MVR 5,000 universal payments.
+- **Aasandha:** From MVR 78 million in health insurance (2010) to a budget of MVR 1.9 billion (2024) – an extraordinary expansion reflecting the shift from limited Madhana coverage to unlimited universal insurance.
 - **Disability Allowance:** From MVR 4.5 million (2010, covering 250 blind persons) to over MVR 222 million annualized (2023, covering 11,371 persons at increased rates).
 
-By 2024, combined spending on the Basic Pension and Aasandha alone likely exceeded MVR 3 billion — a figure that raises fundamental questions about fiscal sustainability given the Maldives' narrow revenue base and high dependence on tourism earnings.[^83]
+By 2024, combined spending on the Basic Pension and Aasandha alone likely exceeded MVR 3 billion – a figure that raises fundamental questions about fiscal sustainability given the Maldives' narrow revenue base and high dependence on tourism earnings.[^83]
 
 ### Spending as Percentage of GDP
 
@@ -493,14 +493,14 @@ While the Maldives' social protection spending as a share of GDP (estimated at 5
 The ADB's 2012 SPI study provides the most complete historical baseline for program-level expenditure. Key program costs for 2008–2010 illustrate both the scale and the rapid growth trajectory:
 
 - **Absolute Poverty Scheme:** MVR 8.04 million (2008), declining to MVR 6.59 million (2010) as its 1,000 beneficiaries were absorbed into other programs. The scheme was fully phased out in 2011.[^84a]
-- **Basic Pension:** MVR 310.9 million (2009) rising to MVR 339.2 million (2010), covering 13,421 and 14,717 beneficiaries respectively — the single largest program from inception.[^84b]
+- **Basic Pension:** MVR 310.9 million (2009) rising to MVR 339.2 million (2010), covering 13,421 and 14,717 beneficiaries respectively – the single largest program from inception.[^84b]
 - **Civil Service Pension:** MVR 69.3 million (2008) to MVR 99.0 million (2010), covering approximately 4,300–5,200 beneficiaries in a legacy pay-as-you-go scheme now closed to new entrants.[^84c]
-- **Government Provident Fund:** MVR 38.7 million (2008) to MVR 316.9 million (2010) — the spike in 2010 reflecting mass withdrawals as the GPF was being phased out in favor of MRPS, with the government encouraging housing purchases.[^84d]
+- **Government Provident Fund:** MVR 38.7 million (2008) to MVR 316.9 million (2010) – the spike in 2010 reflecting mass withdrawals as the GPF was being phased out in favor of MRPS, with the government encouraging housing purchases.[^84d]
 - **Institutional Care (Children):** MVR 5.2 million (2008) to MVR 5.9 million (2010), covering 39 to 71 children in state care at Kudakudhinge Hiya.[^84e]
 - **Institutional Care (Mentally Ill and Elderly):** MVR 21.8 million (2008) to MVR 19.5 million (2010), covering approximately 150–160 persons at the Home for People with Special Needs in K. Guraidhoo.[^84f]
 - **Mental Health Medication Assistance:** Approximately MVR 1.2 million annually for about 1,000 psychiatric and epileptic patients receiving free medication through a national-level registration and supply chain.[^84g]
 
-These historical figures underscore a crucial point: the social protection system that existed in 2010 — already considered extensive by regional standards — was spending less than MVR 800 million total. By 2024, Aasandha alone was budgeted at MVR 1.9 billion, nearly 2.5 times the entire 2009 social protection budget.[^84h]
+These historical figures underscore a crucial point: the social protection system that existed in 2010 – already considered extensive by regional standards – was spending less than MVR 800 million total. By 2024, Aasandha alone was budgeted at MVR 1.9 billion, nearly 2.5 times the entire 2009 social protection budget.[^84h]
 
 ---
 
@@ -527,7 +527,7 @@ The NSPF 2022–2026 and the World Bank SAILS project both prioritize digital tr
 
 1. **Integrated Social Registry:** A single database of all social protection beneficiaries, using national ID numbers as the common identifier, capable of cross-referencing benefits across programs.
 2. **Automated eligibility verification:** Linking NSPA databases with MIRA (tax authority), MPAO (pension contributions), and banks to enable real-time income and asset verification.
-3. **Digital payment infrastructure:** Expanding mobile money and digital payment options to ensure all beneficiaries — including those in remote atolls without bank branches — can receive benefits electronically.
+3. **Digital payment infrastructure:** Expanding mobile money and digital payment options to ensure all beneficiaries – including those in remote atolls without bank branches – can receive benefits electronically.
 4. **Dynamic targeting:** Using integrated data to identify under-served households and automatically assess eligibility for multiple programs simultaneously, reducing the burden on applicants to navigate multiple application processes.[^88]
 
 The late-2024 integration of Maldives Zakat House with the oneGov platform represents an early step in this direction, enabling digital applications for Zakat assistance alongside secular social protection programs.[^89]
@@ -548,9 +548,9 @@ The Maldivian social protection system exhibits a fundamental tension between it
 
 ### Fiscal Sustainability
 
-The growth trajectory of social protection spending is the most pressing reform challenge:
+The growth trajectory of social protection spending is a central reform challenge:
 
-- **Aasandha:** Unlimited coverage with no cost-sharing creates open-ended fiscal exposure. Pharmaceutical costs — 56% of total Aasandha spending — are inflated by the absence of bulk procurement and price regulation.
+- **Aasandha:** Unlimited coverage with no cost-sharing creates open-ended fiscal exposure. Pharmaceutical costs – 56% of total Aasandha spending – are inflated by the absence of bulk procurement and price regulation.
 - **Basic Pension:** Population aging will increase the number of beneficiaries from approximately 20,000 in 2024 to significantly higher levels over the coming decades. The announced means-testing reform represents an attempt to contain this growth.
 - **Disability Allowance:** The 2023 benefit increase, while justified on welfare grounds, approximately doubled the program's fiscal cost.
 
@@ -558,13 +558,13 @@ Without reform, social protection spending could crowd out other essential publi
 
 ### Administrative Capacity
 
-NSPA, despite its central coordinating role, has limited staff and field presence. Island councils serve as proxy access points but their social protection capacity varies widely. Case management is largely paper-based outside of Male. The shortage of trained social workers — a recurring theme across Maldivian social services — means that program administration often prioritizes processing applications over monitoring outcomes or identifying unregistered vulnerable households.[^92]
+NSPA, despite its central coordinating role, has limited staff and field presence. Island councils serve as proxy access points but their social protection capacity varies widely. Case management is largely paper-based outside of Male. The shortage of trained social workers – a recurring theme across Maldivian social services – means that program administration often prioritizes processing applications over monitoring outcomes or identifying unregistered vulnerable households.[^92]
 
 ### Reform Priorities
 
 Key reform directions emerging from government strategy documents, World Bank assessments, and the NSPF include:
 
-1. **Build the social registry:** This is the foundational investment that enables all other reforms — better targeting, reduced duplication, shock-responsiveness, and evidence-based policy.
+1. **Build the social registry:** This is the foundational investment that enables all other reforms – better targeting, reduced duplication, shock-responsiveness, and evidence-based policy.
 2. **Rationalize Aasandha costs:** Through bulk drug procurement, a national formulary, strengthened primary care to reduce expensive referrals, and possibly modest co-payments for non-essential services.
 3. **Implement Basic Pension means-testing carefully:** Ensuring that the income threshold is set appropriately and that the verification mechanism does not exclude vulnerable seniors who lack documentation.
 4. **Expand informal sector coverage:** Developing voluntary contribution mechanisms for fishers, small traders, and self-employed persons, possibly with government matching contributions.
@@ -582,7 +582,7 @@ The Maldives' social protection system is unusually comprehensive for the South 
 - **Universal non-contributory pension:** The MVR 5,000 monthly Basic Pension for all citizens over 65 is more generous than Nepal's old-age allowance or India's Indira Gandhi National Old Age Pension Scheme, both of which provide much smaller amounts and in India's case are means-tested.
 - **Disability allowance universality:** The Maldives' non-means-tested disability allowance, available to all registered persons with disabilities regardless of income, is unusual in the region.
 
-The ADB's 2012 SPI calculation found a total SPI of 0.049 for the Maldives with social protection expenditure of 3.3% of GDP.[^94] While this was middle-range for South Asia at the time, the dramatic expansion since 2012 — particularly Aasandha and pension growth — would place the Maldives considerably higher in current regional rankings.
+The ADB's 2012 SPI calculation found a total SPI of 0.049 for the Maldives with social protection expenditure of 3.3% of GDP.[^94] While this was middle-range for South Asia at the time, the dramatic expansion since 2012 – particularly Aasandha and pension growth – would place the Maldives considerably higher in current regional rankings.
 
 ### Small Island State Comparisons
 
@@ -598,17 +598,17 @@ International evidence suggests several directions for the Maldives:
 
 1. **Graduated targeting (Colombia's Sisben, Brazil's CadUnico):** These social registries use proxy means testing to classify households by vulnerability level, enabling differential benefit levels and efficient program coordination. The Maldives could adapt similar approaches scaled to its small population.
 
-2. **Health insurance cost containment (Thailand's Universal Coverage Scheme):** Thailand achieved universal health coverage at a fraction of the per-capita cost by using capitation-based provider payments, a national essential drug list, and strong primary care gatekeeping — all measures that could help contain Aasandha costs.
+2. **Health insurance cost containment (Thailand's Universal Coverage Scheme):** Thailand achieved universal health coverage at a fraction of the per-capita cost by using capitation-based provider payments, a national essential drug list, and strong primary care gatekeeping – all measures that could help contain Aasandha costs.
 
 3. **Shock-responsive social protection (Kenya's Hunger Safety Net Programme):** Pre-registered beneficiary databases that can be rapidly scaled up during climate or economic shocks, a model directly applicable to the climate-vulnerable Maldives.
 
-4. **Digital-first delivery (India's JAM Trinity — Jan Dhan, Aadhaar, Mobile):** India's integration of bank accounts, biometric identification, and mobile phones for social protection delivery offers a model for the Maldives' digital transformation, adapted to its much smaller scale.
+4. **Digital-first delivery (India's JAM Trinity – Jan Dhan, Aadhaar, Mobile):** India's integration of bank accounts, biometric identification, and mobile phones for social protection delivery offers a model for the Maldives' digital transformation, adapted to its much smaller scale.
 
 5. **Pension sustainability (Chile, Australia):** Both countries have managed the transition from universal to means-tested pensions while maintaining broad political support by setting thresholds that affect only the wealthiest retirees and phasing changes gradually.[^95]
 
 ### The Maldivian Challenge
 
-The fundamental challenge for the Maldives is sustaining a generous social protection system — designed for a high-income aspiration — on the fiscal base of a middle-income small island state. The country's social protection architecture is, in many respects, ahead of its economic capacity. The task of the coming decade is not to dismantle that architecture but to strengthen its foundations: building the data systems, institutional capacity, and fiscal mechanisms that can sustain these commitments through economic shocks, demographic transitions, and the mounting pressures of climate change.
+The fundamental challenge for the Maldives is sustaining a generous social protection system – designed for a high-income aspiration – on the fiscal base of a middle-income small island state. The country's social protection architecture is, in many respects, ahead of its economic capacity. The task of the coming decade is not to dismantle that architecture but to strengthen its foundations: building the data systems, institutional capacity, and fiscal mechanisms that can sustain these commitments through economic shocks, demographic transitions, and the mounting pressures of climate change.
 
 ---
 
@@ -640,13 +640,13 @@ The fundamental challenge for the Maldives is sustaining a generous social prote
 
 [^13]: Edition, "Aasandha: A Decade of Universal Healthcare in the Maldives," https://edition.mv/new_delhi/33704.
 
-[^14]: Aasandha Company Ltd, "About Us — Husnuvaa Aasandha," https://aasandha.mv/en/company/overview.
+[^14]: Aasandha Company Ltd, "About Us – Husnuvaa Aasandha," https://aasandha.mv/en/company/overview.
 
 [^15]: Ibid.; Aasandha Company Ltd, "Aasandha Scheme," https://aasandha.mv/en/scheme/aasandha-scheme.
 
 [^16]: Edition, "Aasandha: A Decade" (2024), noting the Merana program for overseas care in India, Sri Lanka, and Malaysia.
 
-[^17]: NSPA, "Social Health Protection Act — Regulations," https://www.nspa.gov.mv/v2/index.php/social-health-protection-act/.
+[^17]: NSPA, "Social Health Protection Act – Regulations," https://www.nspa.gov.mv/v2/index.php/social-health-protection-act/.
 
 [^18]: Aasandha Company Ltd, "About Us."
 
@@ -714,13 +714,13 @@ The fundamental challenge for the Maldives is sustaining a generous social prote
 
 [^50]: Maldives Pension Act (Act 8/2009); HelpAge International, "Maldives: Population Ageing Policy Case Study" (2023).
 
-[^51]: Maldives Pension Administration Office, "Basic Pension — Eligibility," https://pension.gov.mv/en/basic-pension.
+[^51]: Maldives Pension Administration Office, "Basic Pension – Eligibility," https://pension.gov.mv/en/basic-pension.
 
 [^52]: HelpAge (2023), noting initial MVR 2,300 benefit, 2014 Senior Citizens Allowance top-up, and stabilization at MVR 5,000.
 
 [^53]: MPAO, "Basic Pension"; OECD, "Maldives IOPS Country Profile 2025."
 
-[^54]: MPAO, "Basic Pension — Application and Payment," noting 6-month advance application, no retroactive payments, and monthly bank deposit.
+[^54]: MPAO, "Basic Pension – Application and Payment," noting 6-month advance application, no retroactive payments, and monthly bank deposit.
 
 [^55]: ADB SPI Report (2012), Table 10, p. 13 (2009–2010 data); HelpAge (2023), citing 18,000 beneficiaries and MVR 1.03 billion expenditure in 2020.
 
@@ -734,7 +734,7 @@ The fundamental challenge for the Maldives is sustaining a generous social prote
 
 [^60]: Atoll Times, "Basic Pension of MVR 5,000 to Be Means-Tested from April 2025" (2024), https://atolltimes.mv/post/business/10435.
 
-[^61]: oneGov Portal, "NSPA — Food Subsidy Program," https://one.gov.mv/entities/NSP.
+[^61]: oneGov Portal, "NSPA – Food Subsidy Program," https://one.gov.mv/entities/NSP.
 
 [^62]: Vulnerability Mapping Report, Section 4.3.4, noting illustrative per-person food subsidy amounts.
 
@@ -742,7 +742,7 @@ The fundamental challenge for the Maldives is sustaining a generous social prote
 
 [^64]: ADB, *Revised Social Protection Index: Methodology and Handbook* (Manila: ADB, 2011), excluding general subsidies from SPI calculation.
 
-[^65]: World Bank, *Poverty and Inequality in Maldives — 2022* (Washington, DC: World Bank, 2022), Chapter 4, documenting COVID-19 income shocks by sector, gender, and region.
+[^65]: World Bank, *Poverty and Inequality in Maldives – 2022* (Washington, DC: World Bank, 2022), Chapter 4, documenting COVID-19 income shocks by sector, gender, and region.
 
 [^66]: COVID-19 Livelihood Impact Assessment, Maldives, citing 44% household income loss.
 
@@ -766,7 +766,7 @@ The fundamental challenge for the Maldives is sustaining a generous social prote
 
 [^76]: YouTube/Maldives Zakat House, "Scholarships and Educational Assistance" (2023).
 
-[^77]: MindCo, "Zakat House Coming to oneGov — Expanding Access to Aid Digitally" (2024).
+[^77]: MindCo, "Zakat House Coming to oneGov – Expanding Access to Aid Digitally" (2024).
 
 [^78]: Vulnerability Mapping Report, Section 4.3.4, on Sadaqat drives and community-level charitable initiatives.
 
@@ -802,7 +802,7 @@ The fundamental challenge for the Maldives is sustaining a generous social prote
 
 [^94]: ADB SPI Report (2012), Chapter IV, SPI calculation and disaggregation.
 
-[^65a]: World Bank, *Poverty and Inequality in Maldives — 2022*, Chapter 4, Tables 4.1–4.4, on COVID-19 income shocks by sector, gender, location, and worker type (February and April 2021 survey rounds).
+[^65a]: World Bank, *Poverty and Inequality in Maldives – 2022*, Chapter 4, Tables 4.1–4.4, on COVID-19 income shocks by sector, gender, location, and worker type (February and April 2021 survey rounds).
 
 [^65b]: Ibid., Tables 4.3–4.4, on work stoppage rates by sector and gender across HIES survey rounds (April–December 2021).
 

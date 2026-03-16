@@ -64,7 +64,7 @@ The period 2019–2025 has been marked by significant legislative and institutio
 - **Updated National Action Plan on Gender Equality (NAPGE)** launched in 2022, incorporating gender-responsive budgeting (GRB) requirements across ministries.
 - **Census 2022** yielding updated labour force and demographic data disaggregated by sex, providing improved baseline data for gender equality monitoring.^[Maldives Population and Housing Census 2022, National Bureau of Statistics]
 
-Despite this progress, the Committee's priority concerns — low political representation, high GBV rates and low prosecution, the Article 16 reservation, FGM/C (female genital mutilation/cutting) not yet criminalised, and the labour force participation gap — remain substantially unresolved and are addressed in detail in Part II of this report.
+Despite this progress, the Committee's priority concerns – low political representation, high GBV rates and low prosecution, the Article 16 reservation, FGM/C (female genital mutilation/cutting) not yet criminalised, and the labour force participation gap – remain substantially unresolved and are addressed in detail in Part II of this report.
 
 ---
 
@@ -106,13 +106,13 @@ The period 2016–2025 saw substantial expansion of the policy framework:
 
 **Prevention of Family Violence Act (2020):** This Act strengthened and expanded the 2012 DVPA framework, broadening the definition of family violence, extending protection to relationships outside formal marriage, and clarifying duties of law enforcement agencies in responding to DV disclosures.^[Prevention of Family Violence Act, Republic of Maldives, 2020]
 
-**Amendment to the Sexual Offences Act (2021):** A critical development — the explicit criminalisation of marital rape, addressing a longstanding gap. The amendment removed the marital exception from the definition of rape, aligning Maldivian law with international human rights standards.^[Sexual Offences (Amendment) Act, Republic of Maldives, 2021]
+**Amendment to the Sexual Offences Act (2021):** A critical development – the explicit criminalisation of marital rape, addressing a longstanding gap. The amendment removed the marital exception from the definition of rape, aligning Maldivian law with international human rights standards.^[Sexual Offences (Amendment) Act, Republic of Maldives, 2021]
 
 **Anti-Human Trafficking Act (Act 12/2013):** Remains in force and provides for victim identification, criminalisation of trafficking for sexual exploitation and labour exploitation, and coordination mechanisms across immigration, police, and social services.^[Anti-Human Trafficking Act, Act 12/2013, Republic of Maldives, 2013]
 
 **Employment Act (Act 2/2008):** Contains provisions on non-discrimination in employment on grounds of sex, maternity protections (60 days paid maternity leave), and anti-harassment provisions. The Act applies to both formal and informal sector workers, though enforcement capacity for the informal sector remains limited.^[Employment Act, Act 2/2008, Republic of Maldives, 2008]
 
-**Implementation Gaps:** Despite this framework, significant implementation gaps persist. The conviction rate for DV cases that reach the court system was 16.7% for the period 2016–2019.^[Family Protection Authority, Annual Statistics 2019] Only approximately 3% of DV/GBV cases reported to police are ultimately submitted for prosecution.^[AIM Project Baseline Assessment, UNDP/MoSFD, 2022] These figures indicate systemic barriers at multiple stages of the justice pathway — victim willingness to pursue cases, police recording practices, prosecutorial decision-making, and judicial interpretation. The AIM Project (2022–2025) is specifically designed to address these bottlenecks through capacity development, case management reform, and multi-agency coordination protocols.^[UNDP Maldives, AIM Project Midterm Review, 2024]
+**Implementation Gaps:** Despite this framework, significant implementation gaps persist. The conviction rate for DV cases that reach the court system was 16.7% for the period 2016–2019.^[Family Protection Authority, Annual Statistics 2019] Only approximately 3% of DV/GBV cases reported to police are ultimately submitted for prosecution.^[AIM Project Baseline Assessment, UNDP/MoSFD, 2022] These figures indicate systemic barriers at multiple stages of the justice pathway – victim willingness to pursue cases, police recording practices, prosecutorial decision-making, and judicial interpretation. The AIM Project (2022–2025) is specifically designed to address these bottlenecks through capacity development, case management reform, and multi-agency coordination protocols.^[UNDP Maldives, AIM Project Midterm Review, 2024]
 
 The National Action Plan on Gender Equality (NAPGE), updated in 2022, provides the overarching policy framework, setting targets in political participation, economic empowerment, GBV response, and institutional capacity. Progress against NAPGE targets is reported annually to the Majlis (Parliament), though the HRCM has noted that monitoring mechanisms remain weak and that data collection for gender-disaggregated indicators across sectoral ministries is inconsistent.^[Human Rights Commission of Maldives, Annual Report 2023]
 
@@ -180,13 +180,13 @@ Traditional gender roles in Maldivian society have long positioned women primari
 
 ### Pre-2015 Situation
 
-Maldives is primarily a destination country for labour migration, with a large foreign workforce (estimated at 150,000–200,000 predominantly Bangladeshi, Indian, Sri Lankan, and other South Asian workers). The risk of trafficking — particularly labour trafficking of migrant workers and, to a lesser extent, sexual trafficking — was recognised before the enactment of specific anti-trafficking legislation. No formal national referral mechanism for trafficking victims existed prior to 2013.
+Maldives is primarily a destination country for labour migration, with a large foreign workforce (estimated at 150,000–200,000 predominantly Bangladeshi, Indian, Sri Lankan, and other South Asian workers). The risk of trafficking – particularly labour trafficking of migrant workers and, to a lesser extent, sexual trafficking – was recognised before the enactment of specific anti-trafficking legislation. No formal national referral mechanism for trafficking victims existed prior to 2013.
 
 ### Current Situation (2015–2025)
 
 **Anti-Human Trafficking Act (12/2013):** This Act criminalises trafficking in persons for sexual exploitation, forced labour, organ trafficking, and other purposes. It provides for victim identification, protection orders, and government-funded victim assistance. The Act establishes coordination between the Maldives Police Service, immigration authorities, and MoSFD for case management.^[Anti-Human Trafficking Act, Act 12/2013, 2013]
 
-**Prevalence and Vulnerability:** Women and girls constitute the majority of identified trafficking victims for sexual exploitation purposes. Foreign women in the sex trade — largely operating in Male' and resort islands — represent a key population. Migrant domestic workers, though a smaller sector in Maldives compared to other South Asian contexts, are also at risk of labour exploitation. The intersection of irregular migration status and trafficking vulnerability means that many victims do not come forward due to fear of deportation.^[US Department of State, Trafficking in Persons Report — Maldives, 2023, https://www.state.gov/reports/2023-trafficking-in-persons-report/maldives/]
+**Prevalence and Vulnerability:** Women and girls constitute the majority of identified trafficking victims for sexual exploitation purposes. Foreign women in the sex trade – largely operating in Male' and resort islands – represent a key population. Migrant domestic workers, though a smaller sector in Maldives compared to other South Asian contexts, are also at risk of labour exploitation. The intersection of irregular migration status and trafficking vulnerability means that many victims do not come forward due to fear of deportation.^[US Department of State, Trafficking in Persons Report – Maldives, 2023, https://www.state.gov/reports/2023-trafficking-in-persons-report/maldives/]
 
 **Family Protection Authority and GBV Intersection:** The FPA's mandate includes cases where trafficking intersects with domestic abuse situations, including women trafficked into forced marriages or exploitative domestic arrangements. Data sharing between FPA, police, and immigration remains a structural challenge, as noted in the AIM Project baseline review.^[AIM Project Baseline Assessment, UNDP/MoSFD, 2022]
 
@@ -202,7 +202,7 @@ Maldives is primarily a destination country for labour migration, with a large f
 
 ### Pre-2015 Situation
 
-Women's participation in formal political life in Maldives has historically been very low. The 2008 democratic transition and multiparty elections did not produce a corresponding increase in women's electoral representation. In the 2014 parliamentary elections, women held approximately 5.9% of Majlis seats — 6 out of 85 seats — a figure that, while modest, was higher than the outcomes produced by subsequent elections.^[Elections Commission of Maldives, 2014 Parliamentary Election Results]
+Women's participation in formal political life in Maldives has historically been very low. The 2008 democratic transition and multiparty elections did not produce a corresponding increase in women's electoral representation. In the 2014 parliamentary elections, women held approximately 5.9% of Majlis seats – 6 out of 85 seats – a figure that, while modest, was higher than the outcomes produced by subsequent elections.^[Elections Commission of Maldives, 2014 Parliamentary Election Results]
 
 ### Current Situation (2015–2025)
 
@@ -248,7 +248,7 @@ Maldives achieved near-universal primary school enrolment for both boys and girl
 
 **Enrolment and Achievement:** Maldives has largely achieved gender parity in primary and secondary school enrolment. In fact, girls consistently outperform boys at the secondary level, and women substantially outnumber men in higher education: women constitute 59–64% of higher education enrolees.^[Maldives Higher Education Ministry, Statistical Report, 2023] The Maldives National University and private institutions report that women represent the majority of graduates across most faculties, including law, social sciences, business, and health sciences.
 
-**Reverse Gender Gap:** A distinctive feature of Maldivian education is the reverse gender gap at secondary and tertiary levels: 88% of secondary school dropouts are male.^[Ministry of Education, Dropout Monitoring Data, 2023] Boys disproportionately leave school early to enter the labour market, particularly in fishing and construction, while girls remain in school longer. This paradox — women outperforming men in education but underperforming in labour force participation and political representation — reflects structural barriers that operate beyond the education system.
+**Reverse Gender Gap:** A distinctive feature of Maldivian education is the reverse gender gap at secondary and tertiary levels: 88% of secondary school dropouts are male.^[Ministry of Education, Dropout Monitoring Data, 2023] Boys disproportionately leave school early to enter the labour market, particularly in fishing and construction, while girls remain in school longer. This paradox – women outperforming men in education but underperforming in labour force participation and political representation – reflects structural barriers that operate beyond the education system.
 
 **Outer Atoll Access:** Geographic access to quality secondary and tertiary education remains unequal. Students from islands without secondary schools must travel to atoll capitals or Male', incurring costs and safety risks. Girls from conservative island communities may face family resistance to inter-island travel for education. Scholarship programmes and boarding facilities have expanded, but geographic inequality in education quality persists.^[Ministry of Education, Atoll Education Access Report, 2022]
 
@@ -272,9 +272,9 @@ Female labour force participation rates have historically been low in Maldives, 
 
 **Resort Sector Exclusion:** Tourism constitutes approximately 28% of GDP and is the largest formal employment sector. However, Maldivian women are almost entirely excluded from the resort sector workforce: only 3% of Maldivian female workers are employed in resorts.^[Census 2022, Labour Force Module] This exclusion is attributable to multiple factors: social and family resistance to women working in geographically isolated resort environments, the perceived moral risk of women in mixed-gender hospitality settings, the physical demands of resort work (particularly in mechanical, dive, and outdoor roles), and recruitment practices that effectively favour men for entry-level roles that women might otherwise fill. The resort sector exclusion has significant economic consequences, as resort jobs typically offer higher wages and benefits than other formal sector employment available to women.
 
-**Domestic Work:** Domestic work — encompassing cleaning, cooking, and childcare services — employs a significant but uncounted proportion of women, both Maldivian and foreign. Domestic workers are not fully covered by the Employment Act's protections, leaving women in this sector outside formal minimum wage, leave entitlement, and anti-harassment frameworks.^[Employment Relations Authority, Domestic Worker Vulnerability Assessment, 2022]
+**Domestic Work:** Domestic work – encompassing cleaning, cooking, and childcare services – employs a significant but uncounted proportion of women, both Maldivian and foreign. Domestic workers are not fully covered by the Employment Act's protections, leaving women in this sector outside formal minimum wage, leave entitlement, and anti-harassment frameworks.^[Employment Relations Authority, Domestic Worker Vulnerability Assessment, 2022]
 
-**Maternity Leave and Protections:** The Employment Act provides for 60 days of paid maternity leave, funded by the employer.^[Employment Act, Act 2/2008, Section on Maternity Leave] This provision applies to the formal sector. The absence of a state-funded maternity insurance scheme means that small employers — who employ many women — face direct financial disincentives when hiring women of childbearing age, contributing to informal discrimination in recruitment. No paternity leave entitlement is currently mandated in law, limiting the redistribution of childcare responsibilities.
+**Maternity Leave and Protections:** The Employment Act provides for 60 days of paid maternity leave, funded by the employer.^[Employment Act, Act 2/2008, Section on Maternity Leave] This provision applies to the formal sector. The absence of a state-funded maternity insurance scheme means that small employers – who employ many women – face direct financial disincentives when hiring women of childbearing age, contributing to informal discrimination in recruitment. No paternity leave entitlement is currently mandated in law, limiting the redistribution of childcare responsibilities.
 
 **Gender Pay Gap:** No official gender pay gap estimate is produced by Maldives statistical agencies. The National Bureau of Statistics' labour module in Census 2022 collected wage data, and disaggregated analysis is expected to be published in 2025. Anecdotal evidence and sectoral analysis suggest that women are concentrated in lower-wage occupations (teaching, nursing, clerical roles) while men dominate higher-wage sectors (fishing, construction, tourism operational roles).^[National Bureau of Statistics, Labour Force Analysis Discussion Paper, 2024]
 
@@ -282,7 +282,7 @@ Female labour force participation rates have historically been low in Maldives, 
 
 **Women with Disabilities:** Women with disabilities face compounded labour market exclusion. The LFPR for women with disabilities is estimated at 28%, compared to 44% for women overall.^[National Bureau of Statistics, Disability Module, Census 2022] Physical inaccessibility of workplaces, employer discrimination, and intersecting social stigma on both gender and disability grounds drive this outcome.
 
-**Informal Sector:** A significant proportion of women's economic activity occurs in the informal sector — home-based crafts (lacquer work, mat weaving, traditional crafts), small trade, and food preparation — which is not captured in LFPR statistics. These activities are often not recognised as "work" by respondents or enumerators and generate income without the legal protections of formal employment.^[MoSFD, Women's Economic Participation Qualitative Study, 2022]
+**Informal Sector:** A significant proportion of women's economic activity occurs in the informal sector – home-based crafts (lacquer work, mat weaving, traditional crafts), small trade, and food preparation – which is not captured in LFPR statistics. These activities are often not recognised as "work" by respondents or enumerators and generate income without the legal protections of formal employment.^[MoSFD, Women's Economic Participation Qualitative Study, 2022]
 
 ---
 
@@ -308,7 +308,7 @@ The CEDAW Committee's 2021 Concluding Observations called upon Maldives to expli
 
 **Aasandha Universal Health Coverage:** The Aasandha scheme, Maldives' national health insurance programme, provides coverage for inpatient and outpatient services at IGMH (Indira Gandhi Memorial Hospital, Male') and partner hospitals. Coverage extends to all citizens including those in atolls for referral care, but the cost and logistics of inter-island travel to access specialist services present barriers, particularly for women with young children, for elderly women, and for women with disabilities.^[Aasandha Annual Report 2023]
 
-**Substance Use and Women:** While substance abuse has been documented primarily among young men, the intersection of DV and substance use — where perpetrators' substance abuse is a risk factor for escalated violence — is poorly addressed by current rehabilitation and DV response systems. Women affected by partners' substance abuse have limited specific service pathways.^[FPA, DV Risk Factor Analysis, 2022]
+**Substance Use and Women:** While substance abuse has been documented primarily among young men, the intersection of DV and substance use – where perpetrators' substance abuse is a risk factor for escalated violence – is poorly addressed by current rehabilitation and DV response systems. Women affected by partners' substance abuse have limited specific service pathways.^[FPA, DV Risk Factor Analysis, 2022]
 
 ---
 
@@ -349,15 +349,15 @@ Prior to the decentralisation reforms of 2010 and the formalisation of WDCs, isl
 
 However, WDCs operate under significant resource constraints: no dedicated recurrent budget is allocated to most WDCs; members are volunteers with no stipend; WDCs have no authority to require action from island councils or government ministries; and capacity (including basic knowledge of DV legislation and referral pathways) varies greatly.^[UNDP/MoSFD, WDC Capacity Assessment, 2022] A 2022 assessment found that fewer than 40% of WDC members had received any formal training from MoSFD in the preceding two years.^[ibid.]
 
-**Health Access:** Atoll women face significant barriers to maternal and reproductive health services. Most islands have Basic Health Units (BHUs) or Health Centres staffed by general nurses and health officers, but without obstetricians, gynaecologists, or midwives. Pregnant women in later stages must travel — often by speedboat, sometimes in adverse weather — to atoll hospitals or Male' for delivery. This creates safety risks and imposes significant costs.^[Ministry of Health, Atoll Health Services Review, 2022] Women in atolls have lower rates of antenatal care visits (fewer than the WHO-recommended eight contacts) and lower contraceptive coverage.^[DHS 2016–17]
+**Health Access:** Atoll women face significant barriers to maternal and reproductive health services. Most islands have Basic Health Units (BHUs) or Health Centres staffed by general nurses and health officers, but without obstetricians, gynaecologists, or midwives. Pregnant women in later stages must travel – often by speedboat, sometimes in adverse weather – to atoll hospitals or Male' for delivery. This creates safety risks and imposes significant costs.^[Ministry of Health, Atoll Health Services Review, 2022] Women in atolls have lower rates of antenatal care visits (fewer than the WHO-recommended eight contacts) and lower contraceptive coverage.^[DHS 2016–17]
 
 **Economic Participation:** Women in outer atolls are predominantly engaged in informal economic activities: weaving, handicrafts, small-scale food production and trade, and subsistence activities. Access to formal employment is limited by the absence of large employers outside Male' and the non-availability of the resort sector to women (resorts are on uninhabited islands and generally employ from Male' or through the foreign workforce). SDFC loan access is further limited in atolls by lower financial literacy, greater distances to service points, and lower awareness of available products.^[MoSFD, Atoll Women's Economic Needs Assessment, 2022]
 
-**Justice Access:** Women in atolls seeking protection orders, legal aid, or judicial remedies for DV or family law matters face severe access barriers. Lower courts in atolls often lack trained judges, and the FPA — with its caseworkers concentrated in Male' — is not accessible by phone or in person to most atoll women. Legal aid services, where they exist, are predominantly in Male'.^[AIM Project Baseline Assessment, 2022] The HRCM maintains regional offices in some atolls, providing some complaint-receiving capacity.
+**Justice Access:** Women in atolls seeking protection orders, legal aid, or judicial remedies for DV or family law matters face severe access barriers. Lower courts in atolls often lack trained judges, and the FPA – with its caseworkers concentrated in Male' – is not accessible by phone or in person to most atoll women. Legal aid services, where they exist, are predominantly in Male'.^[AIM Project Baseline Assessment, 2022] The HRCM maintains regional offices in some atolls, providing some complaint-receiving capacity.
 
 **Fertility and Education:** Women in atolls have higher average fertility than women in Male' (total fertility rate of approximately 2.8 in atolls vs approximately 1.8 in Male' as of Census 2022).^[National Bureau of Statistics, Census 2022 Demographic Profiles] Earlier marriage, earlier first birth, higher parity, and lower educational attainment levels among atoll women reflect the compounding disadvantages of limited services.
 
-**Atoll-Level DV Response:** The FPA's geographic reach is extremely limited. In practice, DV response in atolls depends on local police, island council members, WDC members, and health workers — few of whom have received specialised DV response training. Atoll hospital staff are the most common first point of contact for DV survivors in outer atolls but are not systematically trained in DV identification, safety planning, or referral protocols.^[FPA, DV Response Assessment — Outer Atolls, 2023]
+**Atoll-Level DV Response:** The FPA's geographic reach is extremely limited. In practice, DV response in atolls depends on local police, island council members, WDC members, and health workers – few of whom have received specialised DV response training. Atoll hospital staff are the most common first point of contact for DV survivors in outer atolls but are not systematically trained in DV identification, safety planning, or referral protocols.^[FPA, DV Response Assessment – Outer Atolls, 2023]
 
 ---
 
@@ -367,7 +367,7 @@ However, WDCs operate under significant resource constraints: no dedicated recur
 
 Women in Maldives have formal equality before the law, including the right to initiate litigation, appear as witnesses, and receive equal weight as parties in civil proceedings.^[Constitution of the Republic of Maldives 2008, Article 42] However, several structural factors limit substantive legal equality in practice.
 
-**Islamic Law and Evidence:** In proceedings conducted under Islamic personal status law — including family law matters before the Family Court — the evidentiary framework drawn from classical Sharia jurisprudence may assign different weight to testimony by men and women in specific contexts. While this is not universally applied in modern Maldivian court practice, it creates uncertainty and disadvantage for women in family law proceedings.^[HRCM, Legal Framework Analysis on Women's Rights, 2022]
+**Islamic Law and Evidence:** In proceedings conducted under Islamic personal status law – including family law matters before the Family Court – the evidentiary framework drawn from classical Sharia jurisprudence may assign different weight to testimony by men and women in specific contexts. While this is not universally applied in modern Maldivian court practice, it creates uncertainty and disadvantage for women in family law proceedings.^[HRCM, Legal Framework Analysis on Women's Rights, 2022]
 
 **Legal Aid:** Legal aid services in Maldives are limited in capacity and almost entirely Male'-based. The Legal Aid Commission, established in 2016, provides civil and criminal legal aid but has insufficient staff and budget to meet demand.^[Legal Aid Commission of Maldives, Annual Report 2023] Women seeking legal redress in DV, divorce, or custody matters in atolls typically have no access to legal aid; those in Male' may face long waiting periods.
 
@@ -389,7 +389,7 @@ The Maldives notes the CEDAW Committee's 2021 recommendation to review and withd
 
 ### Minimum Age of Marriage
 
-The minimum legal age of marriage in Maldives is 18 years for both males and females, with exceptions possible through court order.^[Family Law Act, Republic of Maldives] Despite this legal minimum, the ADB 2025 data indicates a child marriage rate of 2.2% before age 18.^[Asian Development Bank, Gender Data Analysis — Maldives, 2025] This suggests that child marriages continue to occur, likely in rural island contexts where court supervision of marriages is less rigorous. The Maldives is committed to eliminating child marriage and has strengthened registration requirements.
+The minimum legal age of marriage in Maldives is 18 years for both males and females, with exceptions possible through court order.^[Family Law Act, Republic of Maldives] Despite this legal minimum, the ADB 2025 data indicates a child marriage rate of 2.2% before age 18.^[Asian Development Bank, Gender Data Analysis – Maldives, 2025] This suggests that child marriages continue to occur, likely in rural island contexts where court supervision of marriages is less rigorous. The Maldives is committed to eliminating child marriage and has strengthened registration requirements.
 
 ### Polygamy
 
@@ -409,7 +409,7 @@ Enforcement of the marital rape provisions remains limited. Prosecutions under t
 
 ### Custody and Guardianship
 
-Under Maldivian family law, mothers are generally awarded care (hadhanah) of young children after divorce, with fathers retaining guardianship (wilayah) rights over children's religious, educational, and major life decisions. As children age, custody arrangements can be contested and courts may award custody to fathers. The financial implications of custody arrangements — including the adequacy of child maintenance payments from non-custodial fathers — significantly affect women's post-divorce economic security.^[Family Court of Maldives, Custody Statistics, 2022]
+Under Maldivian family law, mothers are generally awarded care (hadhanah) of young children after divorce, with fathers retaining guardianship (wilayah) rights over children's religious, educational, and major life decisions. As children age, custody arrangements can be contested and courts may award custody to fathers. The financial implications of custody arrangements – including the adequacy of child maintenance payments from non-custodial fathers – significantly affect women's post-divorce economic security.^[Family Court of Maldives, Custody Statistics, 2022]
 
 ### Inheritance
 
@@ -431,11 +431,11 @@ The trajectory of DV reporting since the enactment of the DVPA 2012 is instructi
 
 ^[Family Protection Authority, Quarterly Statistics 2013–2024]
 
-The overall increase from 19 to 537–696 cases represents primarily an increase in reporting rather than an increase in violence prevalence, reflecting growing community awareness and (relative) trust in the FPA mechanism. However, DV prevalence data from the DHS 2016–17 indicates that 1 in 3 women experience violence in their lifetime, and 1 in 4 experience intimate partner violence — figures that dwarf the number of formally reported cases.^[DHS 2016–17, Violence Against Women Chapter]
+The overall increase from 19 to 537–696 cases represents primarily an increase in reporting rather than an increase in violence prevalence, reflecting growing community awareness and (relative) trust in the FPA mechanism. However, DV prevalence data from the DHS 2016–17 indicates that 1 in 3 women experience violence in their lifetime, and 1 in 4 experience intimate partner violence – figures that dwarf the number of formally reported cases.^[DHS 2016–17, Violence Against Women Chapter]
 
 **GBV cases reported to MoGFSS/MoSFD:** 2021: 494 cases (87% female victims); January–September 2022: 378 cases (89% female victims).^[MoSFD, GBV Case Statistics, 2022] The high female share of victims confirms the gendered nature of reported violence.
 
-**DV Prosecution Rate:** Only approximately 3% of DV/GBV cases reported to police are ultimately submitted to the Prosecutor General's office for prosecution.^[AIM Project Baseline Assessment, 2022] Of those that reach court, the conviction rate was 16.7% for the period 2016–2019.^[FPA, DV Justice Pathway Analysis, 2019] These figures indicate catastrophic attrition in the GBV justice pathway — the gap between prevalence, reporting, police action, prosecution, and conviction represents one of the most serious implementation failures in the Maldives' gender equality framework.
+**DV Prosecution Rate:** Only approximately 3% of DV/GBV cases reported to police are ultimately submitted to the Prosecutor General's office for prosecution.^[AIM Project Baseline Assessment, 2022] Of those that reach court, the conviction rate was 16.7% for the period 2016–2019.^[FPA, DV Justice Pathway Analysis, 2019] These figures indicate catastrophic attrition in the GBV justice pathway – the gap between prevalence, reporting, police action, prosecution, and conviction represents one of the most serious implementation failures in the Maldives' gender equality framework.
 
 ---
 
@@ -511,7 +511,7 @@ The Maldives identifies the following as requiring urgent attention in the comin
 
 ## 3.3 Statistical Annex
 
-**Table 1: Key Gender Equality Indicators — Maldives**
+**Table 1: Key Gender Equality Indicators – Maldives**
 
 | Indicator | Value | Source |
 |-----------|-------|--------|
@@ -567,7 +567,7 @@ The Maldives commits to the following specific actions for the period leading to
 
 **Submitted by:**
 Ministry of Social and Family Development
-Gender Equality Division — CEDAW Focal Point
+Gender Equality Division – CEDAW Focal Point
 Republic of Maldives
 2025
 
@@ -598,5 +598,5 @@ All footnotes are embedded inline using the ^[...] format throughout this docume
 - Ministry of Health Annual Reports (various years)
 - MoSFD/UN Women, COVID-19 Gender Assessment Maldives, 2021
 - SDFC Annual Reports (various years)
-- Asian Development Bank, Gender Data Analysis — Maldives, 2025
-- US Department of State, Trafficking in Persons Report — Maldives, 2023
+- Asian Development Bank, Gender Data Analysis – Maldives, 2025
+- US Department of State, Trafficking in Persons Report – Maldives, 2023

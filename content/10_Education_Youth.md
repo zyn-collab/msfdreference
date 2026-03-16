@@ -1,6 +1,6 @@
 # Part X: Education and Youth Development
 
-Education and youth development constitute the foundational infrastructure of social policy in the Maldives. A nation where more than 40% of the population is aged 18-34 faces an existential imperative: either it equips its young people with the knowledge, skills, and resilience to navigate a rapidly changing economy, or it watches them drift into unemployment, substance abuse, gang recruitment, and radicalisation.[^1] The Maldives has achieved near-universal primary enrolment, high literacy rates, and expanding higher education access -- accomplishments that place it among the most educationally advanced nations in South Asia. Yet beneath these headline statistics lie deep structural fractures: geographic inequity between Male and the outer atolls, chronic skills mismatches with the labour market, a vocational training system widely perceived as second-class, alarmingly high youth NEET rates, and an education system that young Maldivians themselves describe as having failed to prepare them for either employment or adult life.[^2] This chapter examines the full landscape of education and youth development policy, from the legislative framework of the Education Act 2020 through the frontline realities of atoll schools, higher education expansion, TVET reform, youth vulnerability, violent extremism, and the unfinished agenda of sexual and reproductive health education.
+Education and youth development constitute the foundational infrastructure of social policy in the Maldives. In a nation where more than 40% of the population is aged 18-34, the stakes of youth policy are high: whether the system equips young people with the knowledge, skills, and resilience to navigate a rapidly changing economy has consequences for unemployment, substance abuse, gang recruitment, and radicalisation.[^1] The Maldives has achieved near-universal primary enrolment, high literacy rates, and expanding higher education access -- accomplishments that place it among the most educationally advanced nations in South Asia. Yet beneath these headline statistics lie deep structural fractures: geographic inequity between Male and the outer atolls, chronic skills mismatches with the labour market, a vocational training system widely perceived as second-class, high youth NEET rates, and an education system that young Maldivians themselves describe as having failed to prepare them for either employment or adult life.[^2] This chapter examines the full landscape of education and youth development policy, from the legislative framework of the Education Act 2020 through the frontline realities of atoll schools, higher education expansion, TVET reform, youth vulnerability, violent extremism, and the unfinished agenda of sexual and reproductive health education.
 
 ---
 
@@ -8,7 +8,7 @@ Education and youth development constitute the foundational infrastructure of so
 
 ### The Legislative Foundation
 
-The Education Act (Law No. 24/2020), ratified by President Ibrahim Mohamed Solih on 10 November 2020, represents the most comprehensive legislative framework for education in Maldivian history. Prior to its passage, the education sector operated under a patchwork of executive regulations, presidential decrees, and ministerial policies without a single overarching statute. The Act establishes education as a fundamental right and codifies the state's obligation to provide free, compulsory education to all children between the ages of 4 and 16 -- spanning from pre-primary (Lower Kindergarten) through the completion of lower secondary education (Grade 10).[^3]
+The Education Act (Law No. 24/2020), ratified by President Ibrahim Mohamed Solih on 10 November 2020, is the most comprehensive legislative framework for education in the Maldives. Prior to its passage, the education sector operated under a patchwork of executive regulations, presidential decrees, and ministerial policies without a single overarching statute. The Act establishes education as a fundamental right and codifies the state's obligation to provide free, compulsory education to all children between the ages of 4 and 16 -- spanning from pre-primary (Lower Kindergarten) through the completion of lower secondary education (Grade 10).[^3]
 
 Key provisions of the Education Act include:
 
@@ -45,7 +45,7 @@ The frequent restructuring of education governance -- with higher education resp
 
 ### From Edhuruge to Universal Schooling
 
-The transformation of Maldivian education from informal coral-stone learning houses to a modern national system is one of the most dramatic social transitions in the country's history. For centuries, education in the Maldives was delivered through the *edhuruge* system -- small, home-based schools typically run by a learned community member, often focused on Quran recitation, basic Arabic literacy, and rudimentary arithmetic. The *edhuruge* served a deeply localised function: each island had its own learning tradition, and there was no standardised curriculum, no formal certification, and no concept of universal access.[^9]
+The transformation of Maldivian education from informal coral-stone learning houses to a modern national system is one of the most substantial social transitions in the country's history. For centuries, education in the Maldives was delivered through the *edhuruge* system -- small, home-based schools typically run by a learned community member, often focused on Quran recitation, basic Arabic literacy, and rudimentary arithmetic. The *edhuruge* served a deeply localised function: each island had its own learning tradition, and there was no standardised curriculum, no formal certification, and no concept of universal access.[^9]
 
 The first modern school in the Maldives, Majeediyya School, was established in Male in 1927, introducing English-medium instruction and a curriculum modelled on the colonial education systems of neighbouring South Asia. For decades, Majeediyya remained the only school offering a modern education, accessible almost exclusively to Male's elite families. The outer atolls remained reliant on the *edhuruge* system well into the second half of the twentieth century.
 
@@ -53,7 +53,7 @@ The first modern school in the Maldives, Majeediyya School, was established in M
 
 President Ibrahim Nasir's government (1968-1978) initiated the first systematic effort to extend modern education beyond Male, establishing government schools on atoll capitals. However, the pace of expansion was limited by the fundamental geographic challenge of the Maldives: 1,190 islands spread across 26 atolls, with most inhabited islands having populations too small to sustain a full-cycle school. The response was a tiered system where smaller islands had primary-only schools, atoll capitals offered education through lower secondary, and only Male and a handful of larger islands provided higher secondary education.
 
-President Maumoon Abdul Gayoom's government (1978-2008) oversaw the most significant expansion in educational history. By the late 1990s, the government had achieved near-universal primary enrolment -- a remarkable feat for a small island developing state. Key milestones included:
+President Maumoon Abdul Gayoom's government (1978-2008) oversaw the largest expansion of the education system to date. By the late 1990s, the government had achieved near-universal primary enrolment -- a remarkable feat for a small island developing state. Key milestones included:
 
 - Establishment of Atoll Education Centres (AECs) on every atoll capital, providing education from primary through lower secondary level.
 - Introduction of community schools on smaller islands, often with government subsidies but community management.
@@ -112,13 +112,13 @@ The O-Level pass rates tell a similarly mixed story. While the proportion of stu
 
 ### Teacher Quality and Distribution
 
-The teacher workforce is the education system's most critical and most challenged resource. As of 2018, approximately 8,700 teachers served in government and community schools. Key challenges include:
+The teacher workforce is central to the education system and faces several persistent challenges. As of 2018, approximately 8,700 teachers served in government and community schools. Key challenges include:
 
 **Qualification gaps**: The Education Sector Analysis found that a significant proportion of teachers, especially in atoll schools, held qualifications below the diploma level that the Education Act would later mandate. While Male schools could recruit degree-holding graduates, atoll schools often relied on teachers with certificate-level qualifications or, in some cases, untrained community members filling gaps.
 
 **Expatriate dependence**: The system relies heavily on expatriate teachers, particularly for secondary-level science and mathematics instruction. In 2018, approximately 30% of secondary teachers in some atolls were expatriates, primarily from India and Sri Lanka. While these teachers fill critical gaps, high turnover rates, language barriers, and inconsistent quality have been persistent concerns.
 
-**The urban-rural divide**: Qualified Maldivian teachers overwhelmingly prefer to work in Male, where living conditions, professional development opportunities, and social amenities are superior. Despite incentive schemes (including atoll allowances), recruitment and retention of qualified teachers in outer atolls remains the single most intractable human resource challenge in the education sector.
+**The urban-rural divide**: Qualified Maldivian teachers overwhelmingly prefer to work in Male, where living conditions, professional development opportunities, and social amenities are superior. Despite incentive schemes (including atoll allowances), recruitment and retention of qualified teachers in outer atolls remains a persistent human resource challenge in the education sector.
 
 **Multi-grade teaching**: On smaller islands with limited student populations, teachers must simultaneously instruct multiple grades in a single classroom. The Education Sector Analysis dedicated an entire section to multi-grade teaching, finding that while it is a practical necessity, most teachers have received no specific training in multi-grade pedagogies, leading to compromised learning outcomes.[^19]
 
@@ -182,7 +182,7 @@ The MNQF-based breakdown of enrolments reveals an important structural shift. Be
 
 ### The Persistent "Second-Class" Perception
 
-Perhaps no aspect of the Maldivian education system has been as thoroughly diagnosed yet as stubbornly resistant to reform as TVET. The ILO's 2012 TVET Assessment, a comprehensive evaluation using the Interagency Working Group (IWG) framework, identified a fundamental cultural barrier: TVET is perceived as a second-class option by Maldivian youth and their families, a pathway for those who have "failed" in the academic stream rather than a valued route to skilled employment.[^27]
+TVET has been extensively studied and diagnosed, yet reform has been slow. The ILO's 2012 TVET Assessment, a comprehensive evaluation using the Interagency Working Group (IWG) framework, identified a fundamental cultural barrier: TVET is perceived as a second-class option by Maldivian youth and their families, a pathway for those who have "failed" in the academic stream rather than a valued route to skilled employment.[^27]
 
 This perception is not irrational. The Maldivian education system has been structured around academic achievement, measured primarily by GCE O-Level and A-Level results, with success defined as university entry. Students who do not achieve the requisite grades are effectively streamed into TVET by default rather than by informed choice. The result is a TVET system that receives the least academically prepared students, reinforcing the perception that it is for those who cannot succeed elsewhere.
 
@@ -232,7 +232,7 @@ The reality of inclusive education falls far short of these commitments. The Edu
 
 **Identification and diagnosis**: There is no national system for early identification and assessment of learning disabilities, autism spectrum disorders, or other developmental conditions. Children with less visible disabilities often go undiagnosed and unsupported throughout their schooling. The few diagnostic services that exist are concentrated in Male.[^38]
 
-**Trained personnel**: The number of trained special education teachers is critically insufficient. Most schools, particularly in the atolls, have no SEN-trained staff. Regular classroom teachers have received little or no training in differentiated instruction, classroom management for diverse learners, or basic SEN awareness.
+**Trained personnel**: The number of trained special education teachers is insufficient. Most schools, particularly in the atolls, have no SEN-trained staff. Regular classroom teachers have received little or no training in differentiated instruction, classroom management for diverse learners, or basic SEN awareness.
 
 **Physical accessibility**: School infrastructure across the atolls was not designed with accessibility in mind. Multi-storey buildings without lifts, narrow doorways, and inaccessible sanitation facilities effectively exclude wheelchair users and those with mobility impairments. While new school construction projects increasingly incorporate universal design principles, the existing stock of school buildings remains largely inaccessible.
 
@@ -244,13 +244,13 @@ The reality of inclusive education falls far short of these commitments. The Edu
 
 Despite these challenges, several initiatives have sought to advance inclusive education. The MoE has established SEN units in some Male schools, staffed with specialist teachers and providing individualised support. The Faculty of Education at MNU offers modules in special and inclusive education, gradually building the pipeline of trained teachers. International development partners, including UNICEF, have supported inclusive education pilot programmes. However, the scale of these initiatives remains inadequate relative to the magnitude of need, and the atolls remain severely underserved.[^40]
 
-> *→ **Extended Coverage:** For comprehensive analysis of schools as child protection sites — including the NCPP, boarding school risks, mandatory reporting by teachers, and corporal punishment — see **Part IV: Child Protection and Child Rights, §4.76** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of schools as child protection sites – including the NCPP, boarding school risks, mandatory reporting by teachers, and corporal punishment – see **Part IV: Child Protection and Child Rights, §4.76** of this encyclopedia.*
 
 ---
 
 ## 10.7 Education Quality, Access, and Equity
 
-### The Geographic Equity Crisis
+### Geographic Equity
 
 The defining challenge of Maldivian education is geographic inequity. The archipelagic geography -- 187 inhabited islands spread across 871 km from north to south -- creates inherent difficulties in providing uniform educational quality. But the current level of disparity goes well beyond what geography alone necessitates, reflecting decades of underinvestment in atoll education and the gravitational pull of Male as the centre of economic and social life.
 
@@ -286,7 +286,7 @@ The global trend of increasing out-of-school adolescents is evident in the Maldi
 
 ## 10.8 Life Skills Education and Adolescent Development
 
-### The Life Skills Deficit
+### Life Skills in Schools
 
 The gap between what Maldivian schools teach and what young people need to navigate adult life has been a recurring theme in research and youth consultations. The national curriculum includes life skills components, but their implementation is inconsistent and often superficial. Life skills education in the Maldivian context is expected to cover critical thinking, decision-making, emotional regulation, interpersonal communication, conflict resolution, financial literacy, and health-related behaviours -- yet in practice, schools prioritise examination-oriented instruction at the expense of these competencies.[^46]
 
@@ -300,7 +300,7 @@ The lack of structured support networks in schools compounds adolescent vulnerab
 
 ### Career Guidance
 
-The near-total absence of career guidance in Maldivian schools is one of the most consistently cited failures of the education system. The UNDP Youth Vulnerability study found that "careers guidance was almost entirely lacking, as was vocational training, even though the country suffers from some skills shortages." Young people reported feeling directionless upon completing their education, uncertain about what employment opportunities existed or how to access them. Girls were channelled toward teaching or nursing; boys toward fishing or tourism. Systematic career guidance -- covering the full range of employment options, skills requirements, and educational pathways -- remained essentially absent from the education system, leaving students to make consequential decisions about their futures with minimal information.[^50]
+The near-total absence of career guidance in Maldivian schools is one of the most consistently cited gaps in the education system. The UNDP Youth Vulnerability study found that "careers guidance was almost entirely lacking, as was vocational training, even though the country suffers from some skills shortages." Young people reported feeling directionless upon completing their education, uncertain about what employment opportunities existed or how to access them. Girls were channelled toward teaching or nursing; boys toward fishing or tourism. Systematic career guidance -- covering the full range of employment options, skills requirements, and educational pathways -- remained essentially absent from the education system, leaving students to make consequential decisions about their futures with minimal information.[^50]
 
 The study recommended school-based career guidance backed by a research unit that could help balance job demand with education, and encourage young people into new opportunities. Some Island Councils had brought in advisors for short consultations, but these were ad hoc and unsustained.
 
@@ -308,9 +308,9 @@ The study recommended school-based career guidance backed by a research unit tha
 
 ## 10.9 Youth Employment and NEET (Not in Education, Employment, or Training)
 
-### The Youth Unemployment Crisis
+### Youth Unemployment
 
-Youth unemployment in the Maldives is one of the country's most acute social policy challenges. As of International Youth Day 2021, the country had 257,215 persons aged 18-35, with a labour force participation rate of 69.9% and an unemployment rate of 7.3% among this cohort. However, these headline figures understate the severity of the problem. The actual youth NEET rate -- encompassing those who are neither in education, employment, nor training -- is substantially higher, particularly among young women and those on outer atolls.[^51]
+Youth unemployment in the Maldives is a major social policy challenge. As of International Youth Day 2021, the country had 257,215 persons aged 18-35, with a labour force participation rate of 69.9% and an unemployment rate of 7.3% among this cohort. However, these headline figures understate the severity of the problem. The actual youth NEET rate -- encompassing those who are neither in education, employment, nor training -- is substantially higher, particularly among young women and those on outer atolls.[^51]
 
 The Youth Vulnerability study (2019) reported that "a quarter of young Maldivians are out of work," while simultaneously "more than 100,000 foreigners are working on the islands legally and perhaps another 30,000 illegally." This paradox -- high youth unemployment alongside massive reliance on imported labour -- points to fundamental structural failures in the education-to-employment transition. The economy generates jobs, but the education system does not produce graduates with the skills or orientation to fill them. Tourism, construction, and fishing -- the three largest employment sectors -- depend heavily on foreign workers, while Maldivian graduates cluster in public administration, teaching, and healthcare.[^52]
 
@@ -330,13 +330,13 @@ Several interlocking barriers perpetuate youth unemployment:
 
 Self-employment and entrepreneurship represent a potential pathway out of the unemployment trap, but face their own barriers. Young people interviewed for the Youth Vulnerability study complained about the difficulty of starting businesses: bank loans required collateral (typically land or property) that young people did not have, advice on business plan development was unavailable, and affordable commercial space was impossible to find, particularly on outer islands. "Very little has been done to inculcate an entrepreneurial mindset in people: government jobs are still favoured by many despite the political challenges they present."[^56]
 
-> *→ **Extended Coverage:** For comprehensive analysis of the gender gap in youth employment — including the NEET rate for women, labour force participation barriers, and women's economic participation policy — see **Part V: Gender, GBV, and Women's Empowerment, §5.44–§5.57** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of the gender gap in youth employment – including the NEET rate for women, labour force participation barriers, and women's economic participation policy – see **Part V: Gender, GBV, and Women's Empowerment, §5.44–§5.57** of this encyclopedia.*
 
 ---
 
 ## 10.10 Youth Vulnerability and Risk Factors
 
-### The Intersectionality of Risk
+### Overlapping Risk Factors
 
 Youth vulnerability in the Maldives cannot be understood through any single lens. The UNDP/NCTC Youth Vulnerability in the Maldives study (2019) -- the most comprehensive assessment of its kind -- documented how multiple risk factors intersect and reinforce one another. A young man on an outer island with limited education, no employment prospects, inadequate housing, and exposure to drug networks faces a compound vulnerability that no single intervention can address. The study's polling of 173 respondents identified seven priority challenges facing young Maldivians, ranked in order of concern:
 
@@ -360,7 +360,7 @@ Gangs in Male and Addu City represent a significant threat to youth safety and d
 
 ### Social Isolation and Mental Health
 
-The study found that 69% of respondents felt social isolation was a serious problem for young people, while only 39% agreed that community spirit was strong on their island. This finding is striking in a traditionally communal society and suggests rapid social change is fraying the community bonds that once served as protective factors. The combination of social isolation, untreated mental health conditions, substance abuse, and lack of meaningful engagement creates fertile ground for recruitment into destructive behaviours, whether gang membership, drug dealing, or extremist networks.[^60]
+The study found that 69% of respondents felt social isolation was a serious problem for young people, while only 39% agreed that community spirit was strong on their island. This finding is notable in a traditionally communal society and suggests rapid social change is fraying the community bonds that once served as protective factors. The combination of social isolation, untreated mental health conditions, substance abuse, and lack of meaningful engagement creates fertile ground for recruitment into destructive behaviours, whether gang membership, drug dealing, or extremist networks.[^60]
 
 ---
 
@@ -386,7 +386,7 @@ The National Action Plan on Preventing and Countering Violent Extremism (NAP P/C
 
 The study's recommendation was clear: the most effective counter to extremism was not security-focused deradicalisation but addressing the underlying drivers -- corruption, unemployment, education quality, housing, and social exclusion -- that create vulnerability in the first place.
 
-> *→ **Extended Coverage:** For comprehensive analysis of child protection and violent extremism — including gang recruitment of children, the prison-to-radicalisation pipeline, and child-specific CVE interventions — see **Part IV: Child Protection and Child Rights, §4.97** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of child protection and violent extremism – including gang recruitment of children, the prison-to-radicalisation pipeline, and child-specific CVE interventions – see **Part IV: Child Protection and Child Rights, §4.97** of this encyclopedia.*
 
 ---
 
@@ -421,9 +421,9 @@ Advocacy for improved SRH education has come primarily from international organi
 
 The body of research on education and youth in the Maldives, drawn from government analyses, international assessments, and academic studies, converges on several critical findings:
 
-**1. The education system produces qualifications but not capabilities.** Young Maldivians increasingly hold formal qualifications -- driven by the First Degree Scheme's expansion of university access -- but employers consistently report skills deficits. The mismatch between educational outputs and labour market requirements is the central structural failure of the system. The economy needs technicians, engineers, hospitality professionals, marine biologists, and skilled tradespeople; the education system produces generalists in management, administration, and religious studies.[^68]
+**1. The education system produces qualifications but not capabilities.** Young Maldivians increasingly hold formal qualifications -- driven by the First Degree Scheme's expansion of university access -- but employers consistently report skills deficits. The mismatch between educational outputs and labour market requirements is a central structural weakness of the system. The economy needs technicians, engineers, hospitality professionals, marine biologists, and skilled tradespeople; the education system produces generalists in management, administration, and religious studies.[^68]
 
-**2. Geographic inequity is the system's deepest injustice.** The gap in educational quality between Male and the outer atolls is not merely a resource allocation problem but a structural consequence of national development patterns that have concentrated investment, infrastructure, and opportunity in the capital. Atoll students receive inferior instruction, in worse facilities, with fewer subject choices, from less qualified teachers, and face higher costs to access secondary and higher education. This geographic inequity is a primary driver of internal migration, social dislocation, and youth vulnerability.[^69]
+**2. Geographic inequity is a defining inequity in the system.** The gap in educational quality between Male and the outer atolls is not merely a resource allocation problem but a structural consequence of national development patterns that have concentrated investment, infrastructure, and opportunity in the capital. Atoll students receive inferior instruction, in worse facilities, with fewer subject choices, from less qualified teachers, and face higher costs to access secondary and higher education. This geographic inequity is a primary driver of internal migration, social dislocation, and youth vulnerability.[^69]
 
 **3. TVET reform remains incomplete despite decades of diagnosis.** Every major assessment since at least the ILO's 2012 evaluation has identified the same problems: TVET is perceived as second-class, underfunded, disconnected from industry, and institutionally fragmented. While initiatives like MEERY and the Maldives Polytechnic expansion show intent, the fundamental challenge of transforming social attitudes toward vocational education and integrating TVET into the mainstream education pathway has not been achieved.
 
@@ -447,7 +447,7 @@ The Statistics Booklet 2019-2023 identified 12,724 training requirements in gove
 
 The accumulated evidence points toward the need for an integrated youth policy that addresses education, employment, housing, health, and civic participation as interconnected domains rather than siloed ministerial responsibilities. Young Maldivians themselves have been clear about what they need: quality education accessible on their home islands; career guidance that connects learning to employment; vocational training that is respected and leads to real jobs; housing they can afford; an economy where merit matters more than connections; and a political system that includes rather than exploits them.
 
-The Youth Vulnerability study concluded with a blunt assessment: "What is clear is that the Maldives does not lack awareness of these problems or the ability to solve them. There has instead been a lack of political will to implement reforms." This finding -- that the binding constraint on education and youth development is political commitment rather than technical knowledge or fiscal capacity -- is perhaps the most important conclusion of the entire body of research.[^75]
+The Youth Vulnerability study concluded with a blunt assessment: "What is clear is that the Maldives does not lack awareness of these problems or the ability to solve them. There has instead been a lack of political will to implement reforms." This finding -- that the binding constraint on education and youth development is political commitment rather than technical knowledge or fiscal capacity -- is a central conclusion across the body of research.[^75]
 
 ---
 

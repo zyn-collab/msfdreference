@@ -14,21 +14,21 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 ## 17.1 Population and Demographic Indicators
 
-### 17.1.1 Total Population — Census Time Series
+### 17.1.1 Total Population – Census Time Series
 
 | Year | Total Maldivian Population | Male | Female | Growth Rate (%) |
 |------|---------------------------|------|--------|-----------------|
-| 1911 | 72,237 | — | — | — |
-| 1921 | 70,413 | — | — | -0.3 |
-| 1931 | 78,825 | — | — | 1.1 |
-| 1946 | 82,088 | — | — | 0.3 |
-| 1953 | 85,253 | — | — | 0.6 |
-| 1967 | 103,220 | — | — | 1.4 |
-| 1977 | 142,832 | — | — | 3.3 |
-| 1985 | 180,088 | — | — | 2.9 |
-| 1990 | 213,215 | — | — | 3.4 |
-| 1995 | 244,814 | — | — | 2.8 |
-| 2000 | 270,101 | — | — | 2.0 |
+| 1911 | 72,237 | – | – | – |
+| 1921 | 70,413 | – | – | -0.3 |
+| 1931 | 78,825 | – | – | 1.1 |
+| 1946 | 82,088 | – | – | 0.3 |
+| 1953 | 85,253 | – | – | 0.6 |
+| 1967 | 103,220 | – | – | 1.4 |
+| 1977 | 142,832 | – | – | 3.3 |
+| 1985 | 180,088 | – | – | 2.9 |
+| 1990 | 213,215 | – | – | 3.4 |
+| 1995 | 244,814 | – | – | 2.8 |
+| 2000 | 270,101 | – | – | 2.0 |
 | 2006 | 298,968 | 153,388 | 145,580 | 1.7 |
 | 2014 | 344,023 | 176,404 | 167,619 | 1.8 |
 | 2022 | 382,639 | 193,437 | 189,202 | 1.5 |
@@ -51,7 +51,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *Source: Census 2022 Results Summary, Maldives Bureau of Statistics.*[^3]
 
-### 17.1.3 Age Structure — Census Comparison (2014 vs 2022)
+### 17.1.3 Age Structure – Census Comparison (2014 vs 2022)
 
 | Age Group | 2014 Census | 2022 Census | Change |
 |-----------|-------------|-------------|--------|
@@ -83,7 +83,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 - Child dependency ratio: 41 (2022) vs 38 (2014)
 - Old-age dependency ratio: 7 (2022) vs 8 (2014)
 
-### 17.1.4 Total Fertility Rate — Time Series
+### 17.1.4 Total Fertility Rate – Time Series
 
 | Year | TFR (births per woman) |
 |------|----------------------|
@@ -103,13 +103,13 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 | Year | Total | Male | Female |
 |------|-------|------|--------|
-| 1977 | ~47 | — | — |
+| 1977 | ~47 | – | – |
 | 1990 | 62.5 | 63.0 | 62.0 |
 | 2000 | 72.2 | 71.3 | 73.2 |
 | 2010 | 76.6 | 75.4 | 78.0 |
 | 2015 | 78.0 | 76.6 | 79.6 |
 | 2020 | 78.9 | 77.4 | 80.6 |
-| 2022 | 81.1 | — | — |
+| 2022 | 81.1 | – | – |
 
 *Sources: World Bank WDI; UN DESA World Population Prospects 2022; WHO Global Health Observatory.*[^8]
 
@@ -117,7 +117,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 | Year | Marriages | Divorces | Divorce-to-Marriage Ratio |
 |------|-----------|----------|--------------------------|
-| 2002 | — | — | 10.97 per 1,000 pop. (Guinness Record) |
+| 2002 | – | – | 10.97 per 1,000 pop. (Guinness Record) |
 | 2010 | 6,123 | 2,793 | 45.6% |
 | 2011 | 6,015 | 3,016 | 50.1% |
 | 2012 | 5,699 | 3,011 | 52.8% |
@@ -125,7 +125,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 | 2014 | 5,587 | 3,414 | 61.1% |
 | 2015 | 5,763 | 3,358 | 58.3% |
 | 2016 | 5,488 | 3,417 | 62.3% |
-| 2024 | — | — | 5.52 per 1,000 pop. |
+| 2024 | – | – | 5.52 per 1,000 pop. |
 
 *Sources: Statistical Yearbook of Maldives 2023, 2024; UNFPA Maldives Family Law Report.*[^9]
 
@@ -145,10 +145,10 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 | Year/Period | Total Cases Received | Violence Against Children (VAC) Cases | % VAC |
 |-------------|---------------------|---------------------------------------|-------|
-| March–May 2018 | — | 349 (avg. 116/month) | 48% sexual abuse/physical violence |
-| 2020 (Jan–Sep) | — | Analysed by MoGFSS/FPA (COVID period) | — |
+| March–May 2018 | – | 349 (avg. 116/month) | 48% sexual abuse/physical violence |
+| 2020 (Jan–Sep) | – | Analysed by MoGFSS/FPA (COVID period) | – |
 | 2023 | 2,936 | 1,278 | 43.5% |
-| 2024 | — | 2,855 calls to 1412 helpline | — |
+| 2024 | – | 2,855 calls to 1412 helpline | – |
 
 *Sources: MoSFD/MoGFSS administrative data; 1412 Child Helpline records; UNICEF Maldives.*[^12]
 
@@ -233,7 +233,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *[CEDAW reporting: Articles 1–16; CRC: Violence Against Children cluster]*
 
-### 17.3.1 GBV Prevalence — National Studies
+### 17.3.1 GBV Prevalence – National Studies
 
 | Indicator | Value | Source |
 |-----------|-------|--------|
@@ -243,7 +243,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *Sources: Maldives DHS 2016-17; Vulnerability Mapping files.*[^19]
 
-### 17.3.2 Domestic Violence Cases — Family Protection Authority
+### 17.3.2 Domestic Violence Cases – Family Protection Authority
 
 | Year | DV Cases Reported |
 |------|------------------|
@@ -253,7 +253,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 | 2016 | 642 |
 | 2017 | 539 |
 | 2021 | 696 |
-| 2022 | — |
+| 2022 | – |
 | 2023 (Jan–Sep) | 181 (FPA); 67 (MPS) |
 | 2024 | 537 |
 
@@ -265,10 +265,10 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 | Year/Period | Cases | Gender Breakdown |
 |-------------|-------|-----------------|
-| Jan–Sep 2020 | Analysed (COVID period) | — |
+| Jan–Sep 2020 | Analysed (COVID period) | – |
 | 2021 | 494 | 87% women, 13% men |
 | Jan–Sep 2022 | 378 | 89% female, 11% male |
-| Apr–Jun 2024 | 111 | — |
+| Apr–Jun 2024 | 111 | – |
 
 *Sources: MoGFSS administrative data; UNFPA Maldives GBV analysis.*[^22]
 
@@ -276,20 +276,20 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 | Indicator | Value | Period |
 |-----------|-------|--------|
-| DV/GBV cases submitted for prosecution (of those reported to police) | 3% | — |
-| Violence against women cases reaching prosecution (at police level) | 14% | — |
+| DV/GBV cases submitted for prosecution (of those reported to police) | 3% | – |
+| Violence against women cases reaching prosecution (at police level) | 14% | – |
 | Conviction rate (of those reaching court) | 16.7% | 2016–2019 |
-| Women experiencing violence who received legal assistance | 3.7% | — |
-| Female share of flogging sentences | 85% | — |
+| Women experiencing violence who received legal assistance | 3.7% | – |
+| Female share of flogging sentences | 85% | – |
 
 *Sources: Vulnerability Mapping files; AIM Project data; UNDP Maldives.*[^23]
 
-### 17.3.5 Sexual Offences — MPS Crime Statistics
+### 17.3.5 Sexual Offences – MPS Crime Statistics
 
 | Year | Sexual Offence Cases |
 |------|---------------------|
 | 2022 | 575 |
-| 2023 | — |
+| 2023 | – |
 | 2024 | 467 |
 
 *Source: MPS Bureau of Crime Statistics; MV+ crime trends analysis.*[^24]
@@ -299,11 +299,11 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 | Age Group | Prevalence |
 |-----------|-----------|
 | 15–19 years | 1% |
-| 20–24 years | — |
-| 25–29 years | — |
-| 30–34 years | — |
-| 35–39 years | — |
-| 40–44 years | — |
+| 20–24 years | – |
+| 25–29 years | – |
+| 30–34 years | – |
+| 35–39 years | – |
+| 40–44 years | – |
 | 45–49 years | 38% |
 | Overall (15–49) | 13% |
 
@@ -316,16 +316,16 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 | Indicator | Female | Male | Source |
 |-----------|--------|------|--------|
 | Labour force participation rate | 44% | 80% | Census 2022 |
-| LFPR (ILO modelled, 2023) | — | — | 63.8% overall |
+| LFPR (ILO modelled, 2023) | – | – | 63.8% overall |
 | Government employment (% of respective labour force) | 43% | 38% | Census 2022 |
-| Resort employees (Maldivian female) | 3% | — | Resort Survey 2019 |
+| Resort employees (Maldivian female) | 3% | – | Resort Survey 2019 |
 | SDFC-approved loans to women | 20% | 80% | SDFC 2023 |
 | Part-time/informal work | 59% | 41% | HIES 2019 |
-| Domestic/childcare as barrier to LFPR | 49% (of women outside LF) | — | CEDAW CO 2021 |
-| Higher secondary enrollment (girls) | 56% | — | CEDAW CO 2021 |
-| Daycare centres nationally | 4 | — | Government data 2023 |
-| Women citing family responsibilities for not working | 92% | — | Survey data 2023 |
-| Female NEET rate in atolls (young women) | 42.7% | — | ADB 2025 |
+| Domestic/childcare as barrier to LFPR | 49% (of women outside LF) | – | CEDAW CO 2021 |
+| Higher secondary enrollment (girls) | 56% | – | CEDAW CO 2021 |
+| Daycare centres nationally | 4 | – | Government data 2023 |
+| Women citing family responsibilities for not working | 92% | – | Survey data 2023 |
+| Female NEET rate in atolls (young women) | 42.7% | – | ADB 2025 |
 
 *Sources: Census 2022; CEDAW/C/MDV/CO/6 (2021); HIES 2019; MoSFD; ADB 2025.*[^27]
 
@@ -357,7 +357,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *[CRPD reporting: Articles 1–33]*
 
-### 17.4.1 Disability Prevalence — Census 2022 (Washington Group Short Set)
+### 17.4.1 Disability Prevalence – Census 2022 (Washington Group Short Set)
 
 | Indicator | Value |
 |-----------|-------|
@@ -373,7 +373,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 | Date | Registered Persons |
 |------|-------------------|
-| January 2023 (launch) | — |
+| January 2023 (launch) | – |
 | December 2022 (pre-launch NSPA data) | 10,701 |
 | December 2024 | 13,656 |
 | July 2025 | 14,566 |
@@ -472,9 +472,9 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 |------|--------------|----------------------|--------------------------|
 | 2009 | 13,421 | 2,300 | 310.9 million |
 | 2010 | 14,717 | 2,300 | 339.2 million |
-| 2014 | — | 5,000 (increased) | — |
+| 2014 | – | 5,000 (increased) | – |
 | 2020 | ~18,000 | 5,000 | ~1.03 billion |
-| 2024 | ~20,000+ (est.) | 5,000 | — |
+| 2024 | ~20,000+ (est.) | 5,000 | – |
 
 *Sources: NSPA; MPRS annual reports; national budget documents.*[^39]
 
@@ -493,7 +493,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *Sources: National Drug Use Survey 2011/12 (UNODC); MCS Prison Review.*[^40]
 
-### 17.6.2 Drug Use — Initiation and Patterns
+### 17.6.2 Drug Use – Initiation and Patterns
 
 **Rapid Assessment Survey (RAS) 2003:**
 
@@ -536,7 +536,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *Source: National Situational Analysis of Drug Users 2021.*[^42]
 
-### 17.6.3 Drug-Related Crime — MPS
+### 17.6.3 Drug-Related Crime – MPS
 
 | Indicator | 2023 | 2024 | Change |
 |-----------|------|------|--------|
@@ -548,7 +548,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 | Indicator | Value |
 |-----------|-------|
-| Drug Rehabilitation Centre (Himafushi) — established | 1989 (formal from 1997) |
+| Drug Rehabilitation Centre (Himafushi) – established | 1989 (formal from 1997) |
 | Total admitted by 2010 | 2,597 (~207/year average) |
 | Capacity | 150 (max 250) |
 | Women's dormitory capacity | 20 |
@@ -568,14 +568,14 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 | Indicator | Male' | Addu |
 |-----------|-------|------|
-| Estimated total injectors | ~375 | — |
+| Estimated total injectors | ~375 | – |
 | PWID sampled | 147 | 128 |
 | Injected in last 30 days | 43% | 50% |
-| Injecting every day | 16% (44/275 total) | — |
+| Injecting every day | 16% (44/275 total) | – |
 | Needle sharing (last injection) | 22% | 25% |
 | Hepatitis B | 0 cases | 0 cases |
 | Hepatitis C | 1 case | 1 case |
-| Cumulative HIV (Maldivians) | 14 total; 3 living | — |
+| Cumulative HIV (Maldivians) | 14 total; 3 living | – |
 | HIV testing among injectors | 18% | 16% |
 
 *Source: BBS 2008 (MoH/UNODC/UNAIDS).*[^45]
@@ -598,16 +598,16 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *Sources: WHO Country Profile 2011; WHO STEPS Survey Maldives 2021; NDUS 2011/12; MoH 2003.*[^46]
 
-### 17.7.2 Youth Mental Health — GSHS Data
+### 17.7.2 Youth Mental Health – GSHS Data
 
 | Indicator | 2009 | 2014 |
 |-----------|------|------|
-| Seriously considered suicide (past 12 months) | 19.9% | — |
-| Made plan for suicide attempt | — | 16.8% |
-| Attempted suicide ≥1 time | — | 12.0% |
-| Attempt requiring medical treatment | — | 5.1% |
-| Felt lonely most/all the time | — | 10.1% |
-| Worry preventing sleep most/all the time | — | 9.5% |
+| Seriously considered suicide (past 12 months) | 19.9% | – |
+| Made plan for suicide attempt | – | 16.8% |
+| Attempted suicide ≥1 time | – | 12.0% |
+| Attempt requiring medical treatment | – | 5.1% |
+| Felt lonely most/all the time | – | 10.1% |
+| Worry preventing sleep most/all the time | – | 9.5% |
 
 *Sources: WHO Global School-based Student Health Survey (GSHS) 2009, 2014.*[^47]
 
@@ -622,16 +622,16 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *Sources: MoSFD administrative data 2024; MPS Bureau of Crime Statistics.*[^48]
 
-### 17.7.4 Parental Concern — KAP Survey 2023
+### 17.7.4 Parental Concern – KAP Survey 2023
 
 | Indicator | Value |
 |-----------|-------|
 | Parents worried about children's mental health | 80% |
 | Want more information on adolescent mental health | 89% |
-| Worry level — Central region | 73% |
-| Worry level — North | 69% |
-| Worry level — Greater Male' | 62% |
-| Worry level — South | 61% |
+| Worry level – Central region | 73% |
+| Worry level – North | 69% |
+| Worry level – Greater Male' | 62% |
+| Worry level – South | 61% |
 
 *Source: Knowledge, Attitudes and Practices (KAP) Survey 2023.*[^49]
 
@@ -641,8 +641,8 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 |-----------|--------|-------|--------|
 | IGMH psychiatry waitlist | >3,300 patients | ~330 patients | Pre-pandemic → Aug 2023 |
 | Psychiatry wait time (Male') | 18 months | 2 months | Pre- → post-decentralisation |
-| Psychiatry wait time (regional) | — | 2 weeks | Post-decentralisation |
-| Video consultation reach | — | 55,000 people, 56 islands | By 2023 |
+| Psychiatry wait time (regional) | – | 2 weeks | Post-decentralisation |
+| Video consultation reach | – | 55,000 people, 56 islands | By 2023 |
 
 *Source: MoH mental health decentralisation programme data.*[^50]
 
@@ -666,13 +666,13 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *Sources: Ministry of Education School Statistics 2022/2023, 2023/2024; UNICEF Maldives.*[^51]
 
-### 17.8.2 Higher Education — Time Series
+### 17.8.2 Higher Education – Time Series
 
 | Year | Local Enrolments | New Graduates | Dropouts | Academic Staff | Female Students (%) |
 |------|-----------------|---------------|----------|---------------|-------------------|
 | 2019 | 27,421 | 11,254 | 2,691 | 869 | 59% |
-| 2020 | 26,825 | 7,245 | 1,991 | 2,146 | — |
-| 2021 | 26,733 | 12,837 | 4,066 | 1,867 | — |
+| 2020 | 26,825 | 7,245 | 1,991 | 2,146 | – |
+| 2021 | 26,733 | 12,837 | 4,066 | 1,867 | – |
 | 2022 | 29,016 | 6,093 | 2,897 | 2,395 | 64% |
 
 *Sources: Ministry of Higher Education statistical releases.*[^52]
@@ -708,7 +708,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *[CEDAW: Article 12; CRC: Disability, Basic Health and Welfare cluster]*
 
-### 17.9.1 Infant Mortality Rate — Time Series
+### 17.9.1 Infant Mortality Rate – Time Series
 
 | Year | IMR (per 1,000 live births) |
 |------|-----------------------------|
@@ -789,8 +789,8 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 | Anaemia prevalence (women) | 15.1% | Micronutrient Survey 2007 |
 | Anaemia (children 6m–5y) | 26% | Micronutrient Survey 2007 |
 | Iron deficiency (children) | 57% | Micronutrient Survey 2007 |
-| Vitamin A deficiency — severe (children 6m–5y) | 5.1% | Micronutrient Survey 2007 |
-| Vitamin A deficiency — moderate (children 6m–5y) | 50.1% | Micronutrient Survey 2007 |
+| Vitamin A deficiency – severe (children 6m–5y) | 5.1% | Micronutrient Survey 2007 |
+| Vitamin A deficiency – moderate (children 6m–5y) | 50.1% | Micronutrient Survey 2007 |
 | Zinc deficiency (children) | 16% | Micronutrient Survey 2007 |
 | Zinc deficiency (reproductive-age women) | 27% | Micronutrient Survey 2007 |
 | Iodine deficiency (children) | 19% | Micronutrient Survey 2007 |
@@ -833,7 +833,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *Sources: Statistical Yearbook 2023; Health Master Plan.*[^65]
 
-### 17.9.10 Aasandha — Universal Health Insurance
+### 17.9.10 Aasandha – Universal Health Insurance
 
 | Indicator | Value | Year |
 |-----------|-------|------|
@@ -853,13 +853,13 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *[CEDAW: Articles 11, 13, 14; CRC: Basic Health and Welfare; CRPD: Article 28]*
 
-### 17.10.1 Poverty Rates — HIES 2019 / World Bank 2022
+### 17.10.1 Poverty Rates – HIES 2019 / World Bank 2022
 
 | Indicator | National | Male' | Atolls |
 |-----------|----------|-------|--------|
 | Poverty headcount rate (national poverty line) | 5.4% | 0.9% | 9.5% |
 | Total poor individuals | 24,048 | 1,893 | 22,155 |
-| Share of poor in atolls | 92% | 8% | — |
+| Share of poor in atolls | 92% | 8% | – |
 
 *Sources: HIES 2019; World Bank Poverty and Inequality in Maldives 2022.*[^67]
 
@@ -885,14 +885,14 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 | Household Head Characteristic | Poverty Rate | Deprivation (Male') |
 |------------------------------|-------------|---------------------|
 | Below-primary education | 12.6% | 39.9% |
-| Tertiary education | 0.4% | — |
+| Tertiary education | 0.4% | – |
 | With disability | 9.6% | 11.3% |
-| With chronic disease | — | — (35.5% of heads) |
+| With chronic disease | – | – (35.5% of heads) |
 | Female-headed | 6% | 7.5% |
 | Male-headed | 5% | 6.7% |
-| Self-employed | 5.5% | — |
-| Wage-earning | 2.4% | — |
-| >10 members | 12% | — |
+| Self-employed | 5.5% | – |
+| Wage-earning | 2.4% | – |
+| >10 members | 12% | – |
 | Overcrowded (>3 per sleeping room) | 10.4% of pop. | 2x more likely poor |
 
 *Source: World Bank Poverty and Inequality in Maldives 2022.*[^69]
@@ -902,13 +902,13 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 | Atoll | Poverty Rate | % of National Poor |
 |-------|-------------|-------------------|
 | Gaafu Daalu | 15.6% | 11.2% |
-| Thaa | 14.4% | — |
-| Alif Alif | 14.2% | — |
-| Addu | 5.7% | — |
-| Alif Daalu | 3.1% | — |
-| Waavu | 2.8% | — |
-| Daalu | 2.7% | — |
-| Male' | 0.9% | — |
+| Thaa | 14.4% | – |
+| Alif Alif | 14.2% | – |
+| Addu | 5.7% | – |
+| Alif Daalu | 3.1% | – |
+| Waavu | 2.8% | – |
+| Daalu | 2.7% | – |
+| Male' | 0.9% | – |
 
 *Source: World Bank Poverty and Inequality in Maldives 2022.*[^70]
 
@@ -916,7 +916,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 | Indicator | 2016 (HIES) | 2019 (HIES) |
 |-----------|-------------|-------------|
-| 25.6% of households earning (monthly) | — | MVR 20,000–30,000 |
+| 25.6% of households earning (monthly) | – | MVR 20,000–30,000 |
 | Poorest decile income | MVR 21,019 | MVR 28,770 |
 | Self-employment share of income | 25.9% | 19.7% |
 
@@ -945,7 +945,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *[CEDAW: Article 11; CRC: Special Protection cluster (child labour); CRPD: Article 27]*
 
-### 17.11.1 Labour Force Indicators — Time Series
+### 17.11.1 Labour Force Indicators – Time Series
 
 | Year | Unemployment Rate (%) | Youth Unemployment (15–24, %) | LFPR (%) |
 |------|----------------------|-------------------------------|----------|
@@ -965,7 +965,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 |-----------|--------|------|
 | LFPR (Census 2022) | 44% | 80% |
 | Government employment as share of labour force | 43% | 38% |
-| Youth LFPR | — | 69.9% (overall) |
+| Youth LFPR | – | 69.9% (overall) |
 
 *Source: Census 2022.*[^75]
 
@@ -999,7 +999,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *[CEDAW: Articles 11, 13; CRC: Basic Health and Welfare cluster; CRPD: Article 28]*
 
-### 17.12.1 Social Protection Programs — Overview
+### 17.12.1 Social Protection Programs – Overview
 
 | Programme | Beneficiaries | Monthly Amount (MVR) | Year |
 |-----------|--------------|---------------------|------|
@@ -1011,21 +1011,21 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *Sources: NSPA; MoSFD action plan baselines.*[^78]
 
-### 17.12.2 Social Protection Expenditure — Historical
+### 17.12.2 Social Protection Expenditure – Historical
 
 **ADB Social Protection Index (2009):**
 
 | Component | MVR (millions) | % of Total |
 |-----------|---------------|------------|
 | Social Insurance | 346 | 47% |
-| — Pensions | 95 | 13% |
-| — Health Insurance | 78 | 11% |
-| — Other (maternity, disability) | 173 | 23% |
+| – Pensions | 95 | 13% |
+| – Health Insurance | 78 | 11% |
+| – Other (maternity, disability) | 173 | 23% |
 | Social Assistance | 389 | 52% |
-| — Elderly Assistance | 311 | 42% |
-| — Health Assistance | 37 | 5% |
-| — Child Protection | 12 | 2% |
-| — Other | 29 | 4% |
+| – Elderly Assistance | 311 | 42% |
+| – Health Assistance | 37 | 5% |
+| – Child Protection | 12 | 2% |
+| – Other | 29 | 4% |
 | Labour Market Programs | 7 | 1% |
 | **Total** | **782** | **3.5% of GDP** |
 
@@ -1036,11 +1036,11 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 | Indicator | Value | Year |
 |-----------|-------|------|
 | Assets under management | >MVR 15 billion | Early 2023 |
-| Coverage (public sector) | 100% | — |
-| Coverage (private sector) | >70% | — |
-| Contribution rate | 14% (7% employee + 7% employer) | — |
-| Early retirement age | 55 | — |
-| Standard retirement age | 65 | — |
+| Coverage (public sector) | 100% | – |
+| Coverage (private sector) | >70% | – |
+| Contribution rate | 14% (7% employee + 7% employer) | – |
+| Early retirement age | 55 | – |
+| Standard retirement age | 65 | – |
 
 *Source: MPRS annual report.*[^80]
 
@@ -1057,14 +1057,14 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 ## 17.13 Crime and Justice Statistics
 
-### 17.13.1 Major Crime Categories — MPS (2021–2024)
+### 17.13.1 Major Crime Categories – MPS (2021–2024)
 
 | Category | 2021 | 2022 | 2023 | 2024 | Trend |
 |----------|------|------|------|------|-------|
-| Domestic Violence | 696 | — | — | 537 | -23% |
-| Sexual Offences | — | 575 | — | 467 | -19% |
-| Assaults | 1,611 | — | — | 1,436 | -11% |
-| Drug-Related | — | — | 4,479 | 3,279 | -27% |
+| Domestic Violence | 696 | – | – | 537 | -23% |
+| Sexual Offences | – | 575 | – | 467 | -19% |
+| Assaults | 1,611 | – | – | 1,436 | -11% |
+| Drug-Related | – | – | 4,479 | 3,279 | -27% |
 
 *Source: MPS Bureau of Crime Statistics; MV+ crime trends analysis 2024.*[^82]
 
@@ -1093,7 +1093,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *Source: MCS Prison Review; Vulnerability Mapping.*[^84]
 
-### 17.13.4 HRCM Complaints — Torture
+### 17.13.4 HRCM Complaints – Torture
 
 | Year | Complaints Received | Investigated | Closed (lack of evidence) | Not Registered |
 |------|--------------------|--------------|-----------------------------|---------------|
@@ -1102,7 +1102,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 
 *Source: US State Department Country Reports on Human Rights Practices 2023, 2024.*[^85]
 
-### 17.13.5 Human Trafficking — TIP Report Statistics (2019–2024)
+### 17.13.5 Human Trafficking – TIP Report Statistics (2019–2024)
 
 The U.S. State Department's annual Trafficking in Persons (TIP) Reports provide the most systematic available time-series on Maldives trafficking investigations, prosecutions, convictions, and victim identification.
 
@@ -1112,9 +1112,9 @@ The U.S. State Department's annual Trafficking in Persons (TIP) Reports provide 
 |-----------------|-------------|-------------------|--------------|-------------|-------------------|
 | 2019 | Tier 2 Watch List | 2 trafficking + 27 potential labor | 1 new + 3 continued | 2 | 0 (of 31,000+ undocumented workers screened) |
 | 2020 | Tier 2 | 2 (7 individuals) | 0 new | 0 | 2 |
-| 2021 | Tier 2 | — | 1 new (parliamentarian) | — | — |
-| 2022 | Tier 2 | 4 cases to PGO (Jan 2022) | — | — | — |
-| 2023 | Tier 2 | — | — | — | — |
+| 2021 | Tier 2 | – | 1 new (parliamentarian) | – | – |
+| 2022 | Tier 2 | 4 cases to PGO (Jan 2022) | – | – | – |
+| 2023 | Tier 2 | – | – | – | – |
 
 *Sources: U.S. State Department Trafficking in Persons Reports 2020–2024, Maldives chapters.*[^91]
 
@@ -1123,7 +1123,7 @@ The U.S. State Department's annual Trafficking in Persons (TIP) Reports provide 
 | Year | Potential Child Labour Cases | Forced Child Labour | Child Sex Trafficking Investigations |
 |------|------------------------------|---------------------|--------------------------------------|
 | 2019 | 1 (MPS) | 0 reported | 21 suspected (not investigated by MoGFSS) |
-| 2020 | — | — | — |
+| 2020 | – | – | – |
 | 2021 | 23 | 0 reported | 0 |
 | 2022 | 24 | 0 reported | 0 |
 
@@ -1134,7 +1134,7 @@ The U.S. State Department's annual Trafficking in Persons (TIP) Reports provide 
 | Year | LRA Inspections | LRA Budget (USD) | Budget for Inspections (USD) | Labour Inspectors |
 |------|----------------|------------------|------------------------------|-------------------|
 | 2019 | ~200 | $572,984 | $9,209 | 15 |
-| 2020 | ~70 | — | — (COVID restrictions) | — |
+| 2020 | ~70 | – | – (COVID restrictions) | – |
 
 *Source: U.S. DoL, 2019 Findings on the Worst Forms of Child Labour: Maldives.*[^93]
 
@@ -1142,7 +1142,7 @@ The U.S. State Department's annual Trafficking in Persons (TIP) Reports provide 
 - Maldives is both a **destination country** (trafficked migrants from Bangladesh, India, Sri Lanka in construction/resorts/domestic work) and a **source country** (Maldivian children in forced criminality, drug transport, and commercial sexual exploitation)
 - The dedicated trafficking hotline became inoperable during 2020 and received zero calls before its transfer to the Ministry of Defence
 - No government employee has been prosecuted for trafficking-related complicity despite persistent reports of official involvement
-- The LRA reported inadequate budget for outer island inspections — high inter-island travel costs make comprehensive enforcement impossible within current allocations
+- The LRA reported inadequate budget for outer island inspections – high inter-island travel costs make comprehensive enforcement impossible within current allocations
 
 ---
 
@@ -1228,7 +1228,7 @@ The U.S. State Department's annual Trafficking in Persons (TIP) Reports provide 
 
 ---
 
-## 17.16 Treaty Body Reporting — Required Statistical Indicators
+## 17.16 Treaty Body Reporting – Required Statistical Indicators
 
 This section maps the statistical indicators required for periodic reporting under the three main treaty bodies relevant to MoSFD.
 
@@ -1256,8 +1256,8 @@ This section maps the statistical indicators required for periodic reporting und
 | Gender pay gap | Not systematically measured | No official data |
 | GBV prevalence | 1 in 3 (DHS 2016-17) | No post-2017 national prevalence study |
 | DV case reports | Time series (FPA + MPS) | Inconsistent data across agencies |
-| Women in parliament | 4/87 (4.6%, 2024) | — |
-| Women in judiciary | Limited data | — |
+| Women in parliament | 4/87 (4.6%, 2024) | – |
+| Women in judiciary | Limited data | – |
 | Maternal mortality | Time series available | Quality concerns noted |
 | Contraceptive prevalence | 27% modern methods (DHS 2016-17) | No recent update |
 | FGM/C prevalence | 13% (DHS 2016-17) | No post-2017 data |
@@ -1275,9 +1275,9 @@ This section maps the statistical indicators required for periodic reporting und
 | Employment of PWDs | 28% F / 41% M LFPR | No formal employment data |
 | Accessibility audits | Not systematically conducted | Major gap |
 | Violence against PWDs | Global estimates applied | No national survey |
-| Legal capacity | Not tracked | — |
+| Legal capacity | Not tracked | – |
 | Political participation | Tactile ballots introduced (2023) | Voter registration data for PWDs lacking |
-| Reasonable accommodation requests | Not tracked | — |
+| Reasonable accommodation requests | Not tracked | – |
 
 ---
 
@@ -1291,7 +1291,7 @@ This section maps the statistical indicators required for periodic reporting und
 
 [^4]: Population and Housing Census 2014 and 2022, Maldives Bureau of Statistics. Age group figures from Census statistical releases.
 
-[^5]: "Children in Maldives: Leave No One Behind — Using Census 2022," MBS, January 2025. Available at: https://statisticsmaldives.gov.mv/mbs/wp-content/uploads/2025/01/Child-Equity-Census-2022.pdf
+[^5]: "Children in Maldives: Leave No One Behind – Using Census 2022," MBS, January 2025. Available at: https://statisticsmaldives.gov.mv/mbs/wp-content/uploads/2025/01/Child-Equity-Census-2022.pdf
 
 [^6]: Census 2022 Population Dynamics Report. Available at: https://census.gov.mv/2022/wp-content/uploads/2024/03/Population_Census-2022_Report-Updated-130324.pdf
 
@@ -1333,7 +1333,7 @@ This section maps the statistical indicators required for periodic reporting und
 
 [^25]: Maldives DHS 2016-17, FGM/C module.
 
-[^26]: Legal status as of 2025 — FGM/C is not addressed by specific criminal legislation.
+[^26]: Legal status as of 2025 – FGM/C is not addressed by specific criminal legislation.
 
 [^27]: Data compiled from: Census 2022; CEDAW/C/MDV/CO/6 (November 2021); HIES 2019; MoSFD.
 
@@ -1513,11 +1513,11 @@ This section maps the statistical indicators required for periodic reporting und
 |--------|-------------------|------------------------|----------|
 | CRC | 6th-7th (CRC/C/MDV/6-7, Nov 2021) | Expected Feb 2026 (100th Session) | 8th-9th LOIPR expected Feb 2026 |
 | CEDAW | 6th (CEDAW/C/MDV/6, Apr 2019) | CEDAW/C/MDV/CO/6, Nov 2021 | 7th LOIPR expected Jan 2026 |
-| CRPD | Initial (reviewed Aug 2025) | Adopted Aug 2025 | — |
-| CAT | 2nd (CAT/C/MDV/2, Feb 2024) | Pending | — |
+| CRPD | Initial (reviewed Aug 2025) | Adopted Aug 2025 | – |
+| CAT | 2nd (CAT/C/MDV/2, Feb 2024) | Pending | – |
 | CCPR | 2nd (CCPR/C/MDV/2, Mar 2022) | CCPR/C/MDV/CO/2, Aug 2024 | 3rd expected Jul 2031 |
 | CERD | 13th-15th (CERD/C/MDV/13-15, Oct 2022) | CERD/C/MDV/CO/13-15, Dec 2025 | 16th-22nd due May 2029 |
-| CESCR | 1st (overdue since Jun 2008) | — | — |
+| CESCR | 1st (overdue since Jun 2008) | – | – |
 
 ---
 

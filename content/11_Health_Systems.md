@@ -271,7 +271,7 @@ However, the HMP 2016--2025 noted bluntly that "policy and intersectional suppor
 
 ### Prevalence Data
 
-Tobacco use remains alarmingly high, particularly among young people:
+Tobacco use remains high, particularly among young people:
 
 - **GYTS 2019**: Among students aged 13--15, current tobacco use was 45.7 per cent, and smokeless tobacco use was 46.1 per cent. These figures are among the highest in the South-East Asia Region and represent a dramatic increase from the period 2001--2011, during which tobacco use among the 13--15 age group increased from 10.4 to 11.2 per cent -- suggesting an acceleration in the subsequent years driven partly by the emergence of new tobacco products.[^60]
 - **Adult prevalence**: Smoking prevalence among adults in Male was 18 per cent in 2011. The WHO STEPS Survey 2020--21 provided updated data on both current and former tobacco use across the adult population, including patterns of smokeless tobacco, electronic cigarettes, and water-pipe use.

@@ -1,6 +1,6 @@
 # Part VIII: Substance Abuse and Drug Policy
 
-Substance abuse constitutes one of the most severe and deeply entrenched social policy challenges confronting the Republic of Maldives. What began as isolated incidents of hashish use in the late 1970s has evolved over five decades into a nationwide crisis affecting every atoll, every age cohort, and every dimension of social welfare -- from public health and criminal justice to youth development, family cohesion, and national security. The Maldives' geographic position near the Golden Crescent and Golden Triangle trafficking routes, its extreme population density in Male, its youthful demographic profile, and the paradoxes of rapid modernisation alongside institutional fragility have together created conditions uniquely conducive to the spread of drug use and the entrenchment of a drug economy. This chapter provides a comprehensive account of the historical evolution, legal architecture, epidemiological evidence, treatment infrastructure, institutional responses, and unresolved policy tensions that define the Maldivian drug situation as it stands today.
+Substance abuse constitutes one of the most entrenched social policy challenges confronting the Republic of Maldives. What began as isolated incidents of hashish use in the late 1970s has evolved over five decades into a nationwide crisis affecting every atoll, every age cohort, and every dimension of social welfare -- from public health and criminal justice to youth development, family cohesion, and national security. The Maldives' geographic position near the Golden Crescent and Golden Triangle trafficking routes, its extreme population density in Male, its youthful demographic profile, and the paradoxes of rapid modernisation alongside institutional fragility have together created conditions uniquely conducive to the spread of drug use and the entrenchment of a drug economy. This chapter provides a comprehensive account of the historical evolution, legal architecture, epidemiological evidence, treatment infrastructure, institutional responses, and unresolved policy tensions that define the Maldivian drug situation as it stands today.
 
 ---
 
@@ -18,7 +18,7 @@ Official recognition of the drug problem came in 1977 when a person was arrested
 
 ### 8.1.3 The 1980s and 1990s: Escalation and the Heroin Crisis
 
-Throughout the 1980s, commonly abused substances were hashish oil and cannabis derivatives. The situation escalated dramatically in 1993 with the detection of the first case of heroin abuse.[^4] The introduction of heroin -- particularly the crude form known as "brown sugar" -- fundamentally altered the Maldivian drug landscape. Drug abuse among young males aged 16 to 25 escalated sharply. By 1996, a total of 241 cases of substance abuse were reported to the police. In 1998, over 450 arrests were made for drug abuse and related offences.[^5]
+Throughout the 1980s, commonly abused substances were hashish oil and cannabis derivatives. The situation escalated in 1993 with the detection of the first case of heroin abuse.[^4] The introduction of heroin -- particularly the crude form known as "brown sugar" -- altered the Maldivian drug landscape. Drug abuse among young males aged 16 to 25 escalated sharply. By 1996, a total of 241 cases of substance abuse were reported to the police. In 1998, over 450 arrests were made for drug abuse and related offences.[^5]
 
 The first major seizure of cocaine occurred in September 1993 at Male International Airport, when eight kilograms of cocaine were found concealed in the false bottom of a suitcase carried by a foreign national.[^6] In 1997, three Maldivians were discovered attempting to smuggle 1,372 grams of hashish oil in seven professionally packed cans of corned beef while boarding a flight from Trivandrum Airport to Male.[^7] These incidents revealed the growing sophistication of trafficking networks targeting the country.
 
@@ -45,7 +45,7 @@ By 2010, it was commonly reported that one in 100 adults in the Maldives struggl
 
 ### 8.2.1 Law No. 17/77: The Original Drug Law
 
-The original 1977 legislation was a relatively blunt instrument. Section 2 of the Law on Narcotics criminalised planting, production, import, export, selling, buying, giving, and possession with intent to sell of illegal drugs, with penalties extending to life imprisonment.[^13] Sections 2 and 3 also prohibited the manufacture of controlled substances and made the importation, supply, and sale of precursor chemicals punishable on the same basis as trafficking offences. The law drew no meaningful distinction between drug use, possession, and trafficking -- a conflation that would have profound consequences for the criminal justice system.
+The original 1977 legislation was a relatively blunt instrument. Section 2 of the Law on Narcotics criminalised planting, production, import, export, selling, buying, giving, and possession with intent to sell of illegal drugs, with penalties extending to life imprisonment.[^13] Sections 2 and 3 also prohibited the manufacture of controlled substances and made the importation, supply, and sale of precursor chemicals punishable on the same basis as trafficking offences. The law drew no meaningful distinction between drug use, possession, and trafficking -- a conflation that would have lasting consequences for the criminal justice system.
 
 ### 8.2.2 The Drugs Act 17/2011: A Paradigm Shift
 
@@ -141,7 +141,7 @@ The drug industry in the Maldives is overwhelmingly male-dominated. Across all d
 
 However, female drug use is believed to be significantly underreported due to stronger social stigma, fewer pathways to detection (women are less likely to be stopped and searched), and the near-total absence of gender-sensitive treatment services. The 2010 World Bank evaluation noted that there was no access to detoxification services for females.[^28]
 
-> *→ **Extended Coverage:** For comprehensive analysis of women, substance abuse, and intersectional vulnerability — including gender-sensitive treatment gaps and links to GBV exposure — see **Part V: Gender, GBV, and Women's Empowerment, §5.91–§5.100** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of women, substance abuse, and intersectional vulnerability – including gender-sensitive treatment gaps and links to GBV exposure – see **Part V: Gender, GBV, and Women's Empowerment, §5.91–§5.100** of this encyclopedia.*
 
 ### 8.4.3 Age Profile and the Youth Dimension
 
@@ -254,17 +254,17 @@ Upon release from the DRC, patients enter the Community Service Centre, operated
 
 ### 8.5.6 Critical Assessment of Treatment Services
 
-The 2010 World Bank evaluation by Mortimore and Stimson identified fundamental deficiencies across the treatment system:[^46]
+The 2010 World Bank evaluation by Mortimore and Stimson identified persistent deficiencies across the treatment system:[^46]
 
 - **Treatment period too short**: The 6-8 month rehabilitation programme was considered insufficient, particularly given the absence of a structured re-entry programme.
 - **No sustainable aftercare**: Even if patients were "cured," they returned to the same social conditions that contributed to their addiction, with no aftercare support.
 - **Recycling through the system**: People were being "recycled" through prison and the treatment system with no clear exit.
 - **Services operating below capacity**: Some services were not cost-efficient.
 - **Lack of coordination**: Multiple agencies operated in silos, undermining treatment continuity.
-- **Employment as the missing link**: The lack of job opportunities for recovering drug users was identified as the single greatest obstacle to reintegration across all services.
+- **Employment as the missing link**: The lack of job opportunities for recovering drug users was identified as the largest obstacle to reintegration across all services.
 - **Administrative systems making innovation difficult**: Bureaucratic requirements (such as the five-department clearance for MMT enrolment) deterred voluntary participation.
 
-The evaluation concluded with a stark assessment: "Many of the components of a good treatment and rehabilitation system are in place. There is a lack of coordination which has a negative impact on helping people become abstinent."[^47]
+The evaluation concluded: "Many of the components of a good treatment and rehabilitation system are in place. There is a lack of coordination which has a negative impact on helping people become abstinent."[^47]
 
 ---
 
@@ -300,7 +300,7 @@ The 2021 Situational Analysis documented significant delays in the treatment pip
 - The mean number of days between sentencing and implementation of the sentence was documented, revealing systemic bottlenecks.
 - NDA client files showed a growing backlog across years, with more individuals registered than could be accommodated in available treatment slots.[^53]
 
-These delays have profound implications: individuals ordered to treatment but unable to access it remain in limbo -- neither punished nor treated -- creating a population of court-ordered but un-served substance users who continue using drugs while ostensibly in the system.
+These delays have direct consequences: individuals ordered to treatment but unable to access it remain in limbo -- neither punished nor treated -- creating a population of court-ordered but un-served substance users who continue using drugs while ostensibly in the system.
 
 ---
 
@@ -339,7 +339,7 @@ Several NGOs have played significant roles in drug treatment and prevention:
 - **Society for Health Education (SHE)**: Active in Male.
 - **Open Hand**: Operates in Fuvamulah.[^60]
 
-A critical gap noted by the 2010 evaluation was that all NGO drug programmes were oriented toward recovery -- none were focused on engaging active drug users, creating a service gap for the very population most in need of harm reduction interventions.[^61]
+A gap noted by the 2010 evaluation was that all NGO drug programmes were oriented toward recovery -- none were focused on engaging active drug users, creating a service gap for the very population most in need of harm reduction interventions.[^61]
 
 ---
 
@@ -347,13 +347,13 @@ A critical gap noted by the 2010 evaluation was that all NGO drug programmes wer
 
 ### 8.8.1 Drug Offences and the Criminal Justice System
 
-Drug-related offences have become the dominant category of crime in the Maldivian justice system. By the early 2000s, drug cases constituted the most frequent type before the criminal courts, with a 200% increase noted in recent years.[^62] A 2004 prison review found that **47% of all prisoners were drug offenders** -- a staggering proportion that reflected both the high prevalence of drug use and the punitive orientation of the legal framework.[^63]
+Drug-related offences have become the dominant category of crime in the Maldivian justice system. By the early 2000s, drug cases constituted the most frequent type before the criminal courts, with a 200% increase noted in recent years.[^62] A 2004 prison review found that **47% of all prisoners were drug offenders** -- a proportion that reflected both the high prevalence of drug use and the punitive orientation of the legal framework.[^63]
 
 The Maldives imprisons its people at approximately **15 times the rate of India**, with most of those jailed being non-violent drug offenders whose incarceration raises the risks of radicalisation while doing nothing to diminish crime.[^64]
 
 ### 8.8.2 The Drug-Gang Nexus
 
-The 2019 Youth Vulnerability study documented a deeply concerning overlap between drugs, gangs, and organised crime. Recruiters for criminal gangs target vulnerable groups in communities, particularly those in drug rehabilitation programmes or prison. An overlap has developed between criminal groups and extremists, with the prevalence of drugs, gangs, and unemployment stirring up disillusioned young men.[^65]
+The 2019 Youth Vulnerability study documented a significant overlap between drugs, gangs, and organised crime. Recruiters for criminal gangs target vulnerable groups in communities, particularly those in drug rehabilitation programmes or prison. An overlap has developed between criminal groups and extremists, with the prevalence of drugs, gangs, and unemployment stirring up disillusioned young men.[^65]
 
 Drug users frequently turn to crime to fund their addiction. As the UNAFEI resource paper noted: "The need to use more and more drugs, coupled with the debilitating highs and lows, makes securing a paying job all the harder for users, at a time when they need more and more money to pay for their addiction. Many users turn to crime -- petty theft and robbery -- or turn to dealing."[^66]
 
@@ -365,7 +365,7 @@ The 2021 Situational Analysis highlighted several dimensions of the drug-crime n
 
 ### 8.8.3 The Dense Urban Environment
 
-Male, the capital, with approximately 130,000-250,000 residents (depending on the counting method), is one of the most densely populated cities in the world. This extreme density makes it exceptionally difficult for former drug users to avoid re-encountering old drug haunts and associates. As the UNAFEI resource paper noted: "There is not a single street in Male where you will not see a person dependent upon drugs."[^68] This urban geography fundamentally undermines relapse prevention efforts and makes community-based recovery extremely challenging.
+Male, the capital, with approximately 130,000-250,000 residents (depending on the counting method), is one of the most densely populated cities in the world. This extreme density makes it exceptionally difficult for former drug users to avoid re-encountering old drug haunts and associates. As the UNAFEI resource paper noted: "There is not a single street in Male where you will not see a person dependent upon drugs."[^68] This urban geography undermines relapse prevention efforts and makes community-based recovery extremely challenging.
 
 ---
 
@@ -373,7 +373,7 @@ Male, the capital, with approximately 130,000-250,000 residents (depending on th
 
 ### 8.9.1 The Methadone Maintenance Debate
 
-The introduction of Methadone Maintenance Therapy represented the most significant harm reduction initiative in the Maldives. The pilot programme in Male demonstrated positive results, and the 2010 World Bank evaluation recommended expansion to other sites, possibly determined by mapping and size estimation surveys of heroin use.[^69]
+The introduction of Methadone Maintenance Therapy represented the first major harm reduction initiative in the Maldives. The pilot programme in Male demonstrated positive results, and the 2010 World Bank evaluation recommended expansion to other sites, possibly determined by mapping and size estimation surveys of heroin use.[^69]
 
 However, MMT faced significant resistance and misunderstanding:
 
@@ -384,7 +384,7 @@ However, MMT faced significant resistance and misunderstanding:
 
 ### 8.9.2 HIV Prevention and Injecting Drug Use
 
-Although the HIV epidemic in the Maldives remained in its early stages, the potential for spread through injecting drug use was identified as a critical concern. The 2010 evaluation made several harm reduction recommendations:
+Although the HIV epidemic in the Maldives remained in its early stages, the potential for spread through injecting drug use was identified as a major concern. The 2010 evaluation made several harm reduction recommendations:
 
 - People who continue to inject should receive explicit advice on avoiding blood-borne viruses, including on sterile injecting equipment and procedures.
 - **Relaxation of pharmacy restrictions**: Any prohibition on pharmacists selling sterile equipment to people who inject should be relaxed, with consideration given to a social marketing programme using private sector pharmacies.
@@ -393,7 +393,7 @@ Although the HIV epidemic in the Maldives remained in its early stages, the pote
 
 ### 8.9.3 The Abstinence vs. Harm Reduction Tension
 
-A fundamental tension pervades Maldivian drug policy between abstinence-based approaches (rooted in both the TC model and Islamic principles) and harm reduction approaches (rooted in public health pragmatism). The 2010 evaluation noted that urine testing was used as a punitive/control mechanism rather than a clinical tool -- positive tests resulted in removal from rehabilitation and return to prison, rather than triggering additional support. The evaluation urged that counsellors should have more flexibility to make case-by-case decisions, and that relapse during DRC and Community Service should be treated as an expected part of recovery rather than a reason for expulsion.[^72]
+A persistent tension pervades Maldivian drug policy between abstinence-based approaches (rooted in both the TC model and Islamic principles) and harm reduction approaches (rooted in public health pragmatism). The 2010 evaluation noted that urine testing was used as a punitive/control mechanism rather than a clinical tool -- positive tests resulted in removal from rehabilitation and return to prison, rather than triggering additional support. The evaluation urged that counsellors should have more flexibility to make case-by-case decisions, and that relapse during DRC and Community Service should be treated as an expected part of recovery rather than a reason for expulsion.[^72]
 
 ### 8.9.4 Alcohol: The Absent Dimension
 
@@ -405,7 +405,7 @@ The 2010 evaluation noted the complete absence of an alcohol awareness, harm red
 
 ### 8.10.1 The Youth Vulnerability Study (2019)
 
-The **Youth Vulnerability in the Maldives** study, published in February 2019 by the National Counter Terrorism Centre and UNDP, provided the most comprehensive examination of the intersection between drugs and youth marginalisation. Based on nationwide consultations with young Maldivians aged 18-34, the study found:[^74]
+The **Youth Vulnerability in the Maldives** study, published in February 2019 by the National Counter Terrorism Centre and UNDP, provided a detailed examination of the intersection between drugs and youth marginalisation. Based on nationwide consultations with young Maldivians aged 18-34, the study found:[^74]
 
 - Young people identified **drugs as a serious problem** in their communities, alongside gangs, crime, and corruption.
 - **Drug treatment reaches too few people**, and the support given to them after they leave programmes does too little to help them stay off drugs.
@@ -434,7 +434,7 @@ The education system's capacity to respond is limited. School counsellors lack s
 
 Children from outer atolls who come to Male at age 13 for further education, staying with relatives in overcrowded conditions, are particularly vulnerable. Away from parental supervision, in a dense urban environment saturated with drug availability, these young people face heightened exposure risk.[^80] Conversely, drug use on outer islands is complicated by the even more limited availability of treatment -- most services are concentrated in Male and Addu, leaving the majority of atolls without any local treatment option.
 
-> *→ **Extended Coverage:** For comprehensive analysis of the drug abuse and child protection interface — including parental substance use as a driver of child harm, the drug-gang-juvenile justice nexus, and CFPS-NDA coordination gaps — see **Part IV: Child Protection and Child Rights, §4.80** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of the drug abuse and child protection interface – including parental substance use as a driver of child harm, the drug-gang-juvenile justice nexus, and CFPS-NDA coordination gaps – see **Part IV: Child Protection and Child Rights, §4.80** of this encyclopedia.*
 
 ---
 
@@ -442,7 +442,7 @@ Children from outer atolls who come to Male at age 13 for further education, sta
 
 ### 8.11.1 Disruption of Services
 
-The COVID-19 pandemic significantly affected substance abuse services in the Maldives, though comprehensive documentation of the impact remains limited. The 2021 NDA/WHO Situational Analysis, conducted during the pandemic period, noted several key disruptions:
+The COVID-19 pandemic significantly affected substance abuse services in the Maldives, though comprehensive documentation of the impact remains limited. The 2021 NDA/WHO Situational Analysis, conducted during the pandemic period, noted several disruptions:
 
 - The phenomenon of **online drug sales was quite possibly accelerated** by COVID-19, as contactless drug transactions and dark web markets expanded during lockdowns.[^81]
 - Access to drugs became easier through new channels even as physical mobility was restricted.
@@ -537,7 +537,7 @@ Research on drug use in the Maldives, while growing, remains fragmented and epis
 
 ### 8.13.3 Critical Gaps in Knowledge
 
-Despite the accumulation of research over two decades, several critical gaps persist:
+Despite the accumulation of research over two decades, several gaps persist:
 
 - **No updated population-based prevalence survey** since 2011-12, making it impossible to determine current prevalence with confidence.
 - **No longitudinal outcome data** on treatment effectiveness -- it is unknown what proportion of DRC graduates achieve sustained recovery.
@@ -548,7 +548,7 @@ Despite the accumulation of research over two decades, several critical gaps per
 
 ### 8.13.4 The Implementation Gap
 
-Perhaps the most consistent finding across all research is what might be termed the "implementation gap" -- the distance between what Maldivian law and policy promise and what is actually delivered on the ground. The Maldives has a Drug Act, a Drug Court, a National Drug Agency, treatment standards, and community service programmes. On paper, the system is comprehensive. In practice:
+The most consistent finding across all research is what might be termed the "implementation gap" -- the distance between what Maldivian law and policy promise and what is actually delivered on the ground. The Maldives has a Drug Act, a Drug Court, a National Drug Agency, treatment standards, and community service programmes. On paper, the system is comprehensive. In practice:
 
 - Treatment centres operate below capacity while waiting lists grow, due to administrative bottlenecks and eligibility restrictions.
 - Counsellors are under-qualified and unsupported.
@@ -571,7 +571,7 @@ The 2021 NDA/WHO Situational Analysis outlined the path forward:
 - **Minimisation of waiting times** between drug court orders, assessments, and treatment entry.
 - **Stakeholder collaboration** between government and non-governmental organisations.[^93]
 
-Whether the political will exists to implement these reforms remains the fundamental question. As the Youth Vulnerability study noted, "What is clear is that the Maldives does not lack awareness of these problems or the ability to solve them. There has instead been a lack of political will to implement reforms."[^94]
+Whether the political will exists to implement these reforms remains an open question. As the Youth Vulnerability study noted, "What is clear is that the Maldives does not lack awareness of these problems or the ability to solve them. There has instead been a lack of political will to implement reforms."[^94]
 
 ---
 

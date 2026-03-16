@@ -4,7 +4,7 @@
 
 ## 3.1 Ministry of Social and Family Development (MoSFD) -- Structure and Mandate
 
-The ministry responsible for social policy in the Maldives has undergone repeated reorganisation across administrations, with its name, portfolio scope, and internal structure shifting with each change of government. Under the Muizzu administration (2023-present), the portfolio is held by the **Ministry of Social and Family Development (MoSFD)**. Previous incarnations include the Ministry of Gender, Family and Social Services (MoGFSS) under the Solih administration (2018-2023), the Ministry of Gender and Family under the Yameen administration (2013-2018), and the Ministry of Health and Family during the brief Waheed presidency (2012-2013).[^1] These name changes are not merely cosmetic; they reflect real shifts in which functions are bundled together, which deputy ministers hold what briefs, and which directorates have operational authority at any given time.
+The ministry responsible for social policy in the Maldives has undergone repeated reorganisation across administrations, with its name, portfolio scope, and internal structure shifting with each change of government. Under the Muizzu administration (2023-present), the portfolio is held by the **Ministry of Social and Family Development (MoSFD)**. Previous incarnations include the Ministry of Gender, Family and Social Services (MoGFSS) under the Solih administration (2018-2023), the Ministry of Gender and Family under the Yameen administration (2013-2018), and the Ministry of Health and Family during the brief Waheed presidency (2012-2013).[^1] These name changes reflect actual shifts in which functions are bundled together, which deputy ministers hold what briefs, and which directorates have operational authority at any given time.
 
 ### Core mandate
 
@@ -28,7 +28,7 @@ The ministry's internal organisation typically includes:
 
 The ministry's workforce is thin relative to its mandate. Social service workers in the Maldivian civil service are classified under the National Pay Commission's job classification system, with roles ranging from Chief Social Services Officer down to lead-level positions, with salaries denominated in MVR and structured with allowance steps.[^5] Attracting and retaining qualified social workers has been a persistent challenge. The first cohort of trained social workers emerged only in 2006-2007, when groups of school leavers received an Advanced Certificate through training programmes delivered by ministry staff and at the University of Kelaniya in Sri Lanka. A one-year Advanced Diploma in Social Service Work followed in 2007, eventually giving way to the full four-year undergraduate Social Work degree programme at the Faculty of Health Sciences at the Maldives National University.[^6] However, the supply of graduates has never matched demand across 20 atolls and roughly 200 inhabited islands.
 
-A critical operational constraint is geographic dispersion. The ministry's mandate covers a population spread across approximately 35,000 square miles of ocean, on 199 inhabited islands. Central office staff in Male can set policy and manage databases, but direct service delivery depends on FCSC workers stationed in atoll capitals who may serve multiple islands with limited transport options.[^7] The result is a system where policy ambition consistently exceeds implementation capacity, particularly on remote islands.
+A major operational constraint is geographic dispersion. The ministry's mandate covers a population spread across approximately 35,000 square miles of ocean, on 199 inhabited islands. Central office staff in Male can set policy and manage databases, but direct service delivery depends on FCSC workers stationed in atoll capitals who may serve multiple islands with limited transport options.[^7] The result is a system where policy ambition consistently exceeds implementation capacity, particularly on remote islands.
 
 ### Coordination role
 
@@ -90,7 +90,7 @@ The Child Rights Protection Act (CRPA) 2019 gave CFPS the power to apply for jud
 
 Orders must be applied for within five days of taking a child into state care. When courts require assessments, the task is passed to CFPS workers on top of their existing caseload.[^20]
 
-### Caseload crisis
+### Caseload pressures
 
 CFPS workers carry caseloads that far exceed safe levels. UNICEF (2022) documented average caseloads of over 160 cases per worker, a figure that makes meaningful engagement with individual families effectively impossible and drives a reactive rather than preventive approach to child protection.[^21] The scrutiny of oversight bodies such as HRCM and the Children's Ombudsperson's Office compounds the pressure: these organisations impose ambitious monitoring objectives that are challenging to fulfil given staff capacity, leaving social workers in a permanent state of anxiety about accusations of negligence.[^22]
 
@@ -102,7 +102,7 @@ The toll-free 24-hour national child helpline (1412) was established with assist
 
 Launched in 2016, the MCPD is a digital case management system that links all FCSCs with central CFPS. Each child protection case is entered with unique identifiers, case notes, actions taken, and status updates. Authorised users can access and update cases, and supervisors can oversee workloads and trends. The MCPD has improved information flow significantly -- if a family moves between islands, the new FCSC can see the case history and ensure continuity of care.[^24] However, the system's utility is constrained by the fact that data entry depends on overloaded workers who may not always update records promptly, and the database does not integrate seamlessly with other agency systems such as police crime databases or NSPA's SPIS.
 
-> *→ **Extended Coverage:** For comprehensive analysis of CFPS case management in practice — including caseload data, the MCPD database, inter-agency MDT model, and the 1412 helpline operational realities — see **Part IV: Child Protection and Child Rights, §4.87** and **§4.88** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of CFPS case management in practice – including caseload data, the MCPD database, inter-agency MDT model, and the 1412 helpline operational realities – see **Part IV: Child Protection and Child Rights, §4.87** and **§4.88** of this encyclopedia.*
 
 ---
 
@@ -118,7 +118,7 @@ Each FCSC is staffed by a small team of social workers and support staff -- typi
 
 ### Operational challenges
 
-The geographic reality of FCSCs is the defining constraint on their effectiveness. An FCSC located in an atoll capital may be responsible for serving 10 to 15 inhabited islands, some accessible only by boat with journeys of several hours in favourable conditions. During rough weather seasons, travel between islands can be impossible for days or weeks, meaning that urgent child protection cases on outer islands may go unattended.[^28]
+The geographic reality of FCSCs is the primary constraint on their effectiveness. An FCSC located in an atoll capital may be responsible for serving 10 to 15 inhabited islands, some accessible only by boat with journeys of several hours in favourable conditions. During rough weather seasons, travel between islands can be impossible for days or weeks, meaning that urgent child protection cases on outer islands may go unattended.[^28]
 
 Rogers, Ali and Naeem (2025) identify notable differences between rural atoll FCSCs and urban areas. Urban regions, especially Male, have greater access to services due to better resource allocation and higher awareness. Rural and isolated islands face challenges in accessing services largely due to geographical isolation and resource limitations.[^29] The result is a two-tier system where families in Male have access to specialist teams, inter-agency coordination, and rapid court processes, while families on remote islands depend on one or two overworked generalist social workers who may also be embedded in the local social fabric in ways that compromise professional independence.
 
@@ -222,7 +222,7 @@ These failures are not universal -- some respondents described prompt police res
 
 ### The Decentralisation Act and its evolution
 
-The Decentralisation Act (Law No. 7/2010) fundamentally restructured governance by creating elected local councils at both atoll and island levels, replacing the appointed atoll and island chiefs. Three to four atolls were initially grouped into seven administrative provinces. The Act assigned local councils significant responsibilities, including coordination of social services at the island level.[^59] Subsequent amendments, particularly in 2019, expanded local council responsibilities further, including social protection coordination.
+The Decentralisation Act (Law No. 7/2010) restructured governance by creating elected local councils at both atoll and island levels, replacing the appointed atoll and island chiefs. Three to four atolls were initially grouped into seven administrative provinces. The Act assigned local councils significant responsibilities, including coordination of social services at the island level.[^59] Subsequent amendments, particularly in 2019, expanded local council responsibilities further, including social protection coordination.
 
 ### The Local Government Authority (LGA)
 
@@ -264,7 +264,7 @@ The NCPRC is the successor to the ministerial-level National Council for Childre
 
 The Council's effectiveness is difficult to assess independently. It provides a necessary platform for cross-ministry discussion, but like many coordination bodies in the Maldives, its impact depends on the political will of its members and the frequency with which it actually convenes. The gap between the Council's mandate to ensure integrated child protection and the operational reality of fragmented service delivery remains significant. The Presidential Commission on Child Rights Violations, established in February 2020 in response to public concern over tragic child abuse cases, conducted joint audits of cases involving CFPS, the Police FCPW, and HRCM, highlighting coordination lapses that the NCPRC should theoretically have prevented.[^67]
 
-> *→ **Extended Coverage:** For comprehensive analysis of the Children's Rights Council — its mandate, composition, and effectiveness in driving inter-agency coordination — see **Part IV: Child Protection and Child Rights, §4.86** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of the Children's Rights Council – its mandate, composition, and effectiveness in driving inter-agency coordination – see **Part IV: Child Protection and Child Rights, §4.86** of this encyclopedia.*
 
 ---
 
@@ -288,7 +288,7 @@ The IFES qualitative assessment (2015) found that women in the Maldives are soci
 
 The Transparency Maldives assessment noted that WDCs' capacity to influence local decision-making remained limited despite their formal existence. Their recommendations to island councils are advisory rather than binding, and in conservative communities, women's committee work may face resistance from traditional power structures.[^71]
 
-> *→ **Extended Coverage:** For comprehensive analysis of Women's Development Committees within the broader gender equality architecture — including women's political participation, WDC funding constraints, and links to women's economic empowerment — see **Part V: Gender, GBV, and Women's Empowerment, §5.44–§5.57** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of Women's Development Committees within the broader gender equality architecture – including women's political participation, WDC funding constraints, and links to women's economic empowerment – see **Part V: Gender, GBV, and Women's Empowerment, §5.44–§5.57** of this encyclopedia.*
 
 ---
 
@@ -316,13 +316,13 @@ The quality and activity levels of IBAMA groups vary enormously across islands. 
 
 ### UNICEF
 
-UNICEF has been the single most influential international partner in the development of child protection systems in the Maldives. Following the 2004 Indian Ocean tsunami, UNICEF expanded its programmes and created a focused child protection programme, building on its former combined education and child protection programme. UNICEF provided financial and technical support for the development of policies, procedures, and the drafting of the Child Rights Protection Law to replace the limited 9/91 legislation. UNICEF also supported the drafting of the Juvenile Justice Act (enacted 2019), the establishment of the 1412 child helpline, the development of the MCPD case management database, the IBAMA community-based protection system, and the establishment of CSGs.[^76]
+UNICEF has been the most influential international partner in the development of child protection systems in the Maldives. Following the 2004 Indian Ocean tsunami, UNICEF expanded its programmes and created a focused child protection programme, building on its former combined education and child protection programme. UNICEF provided financial and technical support for the development of policies, procedures, and the drafting of the Child Rights Protection Law to replace the limited 9/91 legislation. UNICEF also supported the drafting of the Juvenile Justice Act (enacted 2019), the establishment of the 1412 child helpline, the development of the MCPD case management database, the IBAMA community-based protection system, and the establishment of CSGs.[^76]
 
 UNICEF's Situation Analysis of Children and Adolescents (most recently by Haarr, 2025) provides the most comprehensive periodic assessment of child outcomes, covering demographics, mortality trends, immunisation, nutrition, early childhood development, adolescent health, education access, violence against children, and institutional capacity gaps.[^77] UNICEF Maldives has also co-produced statistical analyses using Census 2014 and Census 2022 data to inform child-focused policymaking.[^78]
 
 The scale of UNICEF's influence reflects a structural reality: NGOs and civil society are largely absent in the provision of child protection services in the Maldives, making child protection activities dominated by the state with a very active role from UNICEF. As Rogers, Ali and Naeem observe, the system has absorbed the model of England's child protection framework (a needs-based system) through UNICEF-facilitated technical support, despite the UN's own rights-based approach.[^79]
 
-> *→ **Extended Coverage:** For comprehensive analysis of UNICEF's foundational role in building child protection systems — including specific programme contributions, the IBAMA community-based model, and the 1412 helpline — see **Part IV: Child Protection and Child Rights, §4.101** and **§4.102** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of UNICEF's foundational role in building child protection systems – including specific programme contributions, the IBAMA community-based model, and the 1412 helpline – see **Part IV: Child Protection and Child Rights, §4.101** and **§4.102** of this encyclopedia.*
 
 ### UNDP
 
@@ -396,7 +396,7 @@ Civil society in the Maldives is relatively underdeveloped compared to the state
 
 ### Supplementary role and limitations
 
-Civil society contributions are critical but structurally fragile. NGOs such as FLC and Hope for Women depend on donor funding that fluctuates year to year. The government provides small grants to some organisations, but integration of civil society contributions into a sustainable service delivery model remains incomplete. The Strategic Action Plan 2019-2023 called for strengthening public-private partnerships in social service delivery, but implementation has been uneven.[^93]
+Civil society contributions are important but structurally fragile. NGOs such as FLC and Hope for Women depend on donor funding that fluctuates year to year. The government provides small grants to some organisations, but integration of civil society contributions into a sustainable service delivery model remains incomplete. The Strategic Action Plan 2019-2023 called for strengthening public-private partnerships in social service delivery, but implementation has been uneven.[^93]
 
 On remote islands, NGO presence is minimal. Atoll communities often rely on their own initiative through WDCs or ad hoc charity. The cultural norm of community helping -- known as "gah'therikan" -- remains strong, with islanders collectively raising funds through Facebook groups or island Viber groups for urgent cases. This communal safety net, while informal, is an important supplement to formal systems for families who might otherwise fall through gaps.[^94]
 
@@ -414,7 +414,7 @@ The institutional architecture described in this chapter reveals a system that i
 
 ### Geographic inequality
 
-The availability and quality of services varies dramatically by location. A woman in Male has access to CFPS specialist teams, the Family Court, FLC's legal services, Hope for Women's shelter, and multiple police stations with FCPW officers. A woman on a remote island may have access to a single overworked FCSC social worker, a Magistrate Court without specialised family law training, and police officers who treat domestic violence as a personal matter. Shelters are entirely Male-centric, and while plans for regional shelters exist, none had been established at the time of writing.[^98]
+The availability and quality of services varies considerably by location. A woman in Male has access to CFPS specialist teams, the Family Court, FLC's legal services, Hope for Women's shelter, and multiple police stations with FCPW officers. A woman on a remote island may have access to a single overworked FCSC social worker, a Magistrate Court without specialised family law training, and police officers who treat domestic violence as a personal matter. Shelters are entirely Male-centric, and while plans for regional shelters exist, none had been established at the time of writing.[^98]
 
 ### Capacity versus mandate
 

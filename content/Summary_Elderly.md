@@ -27,8 +27,8 @@ Elderly care is the newest and least developed of the ministry's four domains:
 
 **Traditional model:**
 - Extended family networks provided housing, food, and daily care for elderly parents
-- The elderly held high social status in island communities — respected as community elders
-- Islamic values reinforced filial obligation — caring for parents viewed as a religious duty
+- The elderly held high social status in island communities – respected as community elders
+- Islamic values reinforced filial obligation – caring for parents viewed as a religious duty
 - This model functioned when: families lived on the same island, multiple generations shared housing, and communities were stable
 
 **What's eroding the model:**
@@ -47,10 +47,10 @@ Elderly care is the newest and least developed of the ministry's four domains:
 
 | Year | Development |
 |---|---|
-| 2009 | Pension Act — Old-Age Basic Pension (MVR 5,000/month for citizens 65+) |
+| 2009 | Pension Act – Old-Age Basic Pension (MVR 5,000/month for citizens 65+) |
 | 2014 | Senior Citizen Allowance introduced (topped up pension to MVR 5,000) |
 | 2014 | Home visit programme for bedridden individuals launched |
-| 2018 | National Elderly Policy — first dedicated policy instrument (6 rights, 4 principles) |
+| 2018 | National Elderly Policy – first dedicated policy instrument (6 rights, 4 principles) |
 | 2019 | National Plan of Action on Older Persons 2019-2023 (34 priority actions) |
 | 2019 | Senior Citizen Allowance discontinued (basic pension already MVR 5,000) |
 | 2021 | MIPAA Voluntary National Survey submitted |
@@ -95,10 +95,10 @@ Elderly care is the newest and least developed of the ministry's four domains:
 | 2050 | 74,516 | 20 | 75 |
 | 2054 | 88,963 | 24 | 90 |
 
-**By 2054, the 80+ cohort alone (19,028) will be larger than the entire 65+ population in 2014.** This has profound health system implications — the 80+ group has the highest rates of multi-morbidity, cognitive decline, functional dependency, and need for long-term care.
+**By 2054, the 80+ cohort alone (19,028) will be larger than the entire 65+ population in 2014.** This has profound health system implications – the 80+ group has the highest rates of multi-morbidity, cognitive decline, functional dependency, and need for long-term care.
 
 **The three demographic thresholds:**
-- Ageing society (7% aged 65+): **2031** — 5 years away
+- Ageing society (7% aged 65+): **2031** – 5 years away
 - Aged society (14%): **2044**
 - Super-aged society (21%): **2052**
 
@@ -108,7 +108,7 @@ The 21-year transition from ageing to super-aged is among the shortest projected
 
 ## Slide 6: The Male'-Atoll Gap in Elderly Distribution
 
-**Census 2022 — elderly by atoll:**
+**Census 2022 – elderly by atoll:**
 
 | Location | 65+ Population | Share of Total Elderly |
 |---|---|---|
@@ -118,7 +118,7 @@ The 21-year transition from ageing to super-aged is among the shortest projected
 | Raa Atoll | 1,018 | 5.0% |
 | All other atolls | 9,731 | 47.3% |
 
-**Two-thirds of elderly live outside Male'** — dispersed across 20 administrative divisions where health services, social support, and geriatric capacity are minimal or absent. The atolls with the largest elderly populations outside the two cities (Haa Dhaal, Raa, Gaaf Dhaal) are in the northern and southern extremities, furthest from Male'-based tertiary healthcare.
+**Two-thirds of elderly live outside Male'** – dispersed across 20 administrative divisions where health services, social support, and geriatric capacity are minimal or absent. The atolls with the largest elderly populations outside the two cities (Haa Dhaal, Raa, Gaaf Dhaal) are in the northern and southern extremities, furthest from Male'-based tertiary healthcare.
 
 ---
 
@@ -152,7 +152,7 @@ The 21-year transition from ageing to super-aged is among the shortest projected
 | Children | Child Rights Protection Act | 2019 |
 | DV | Domestic Violence Prevention Act | 2012 |
 | Disability | Disability Act | 2010 |
-| **Elderly** | **None — Ageing Bill in preparation, not enacted** | — |
+| **Elderly** | **None – Ageing Bill in preparation, not enacted** | – |
 
 Elderly rights are derived from general constitutional provisions (Articles 17, 21, 23, 35) and from policy frameworks (not legislation). The pension is the only statutory mechanism reaching elderly universally (Pension Act 2009).
 
@@ -221,14 +221,14 @@ Drawn from: UN Principles for Older Persons (1991), Constitution (2008), UN Deca
 - Maldives NOT participating in the Titchfield Group on Ageing Statistics (Q40)
 - MPAO maintains database with segregated data on 65+ (Q37)
 - Free transport for elderly 65+ on government buses/ferries confirmed (Q26.3)
-- Social workers allocated to vulnerable elderly through FCSCs (Q30.2) — but FCSC generalist staff
+- Social workers allocated to vulnerable elderly through FCSCs (Q30.2) – but FCSC generalist staff
 - Ranveyla campaign: nationwide awareness and health screening programme (Q10)
 
 ---
 
-## Slide 6: Elder Abuse — Legal Gaps
+## Slide 6: Elder Abuse – Legal Gaps
 
-**270 elder abuse cases reported 2018-2021** — males constitute >50% of victims (unusual pattern internationally where women predominate).
+**270 elder abuse cases reported 2018-2021** – males constitute >50% of victims (unusual pattern internationally where women predominate).
 
 **Legal protection gaps:**
 - No dedicated elder abuse legislation
@@ -240,7 +240,7 @@ Drawn from: UN Principles for Older Persons (1991), Constitution (2008), UN Deca
 - No specialised elder abuse investigation protocol
 - Financial exploitation of elderly (pension diversion by family) not specifically criminalised
 
-The 270 reported cases (2018-2021) represent only cases entering the formal system. Actual prevalence is unknown — no elder abuse prevalence study exists.
+The 270 reported cases (2018-2021) represent only cases entering the formal system. Actual prevalence is unknown – no elder abuse prevalence study exists.
 
 ---
 
@@ -277,22 +277,22 @@ The DVPA covers violence in "family relationships" which includes elderly person
 |---|---|---|
 | MoSFD (Elderly Division) | Policy coordination, elderly programme oversight | Limited specialist staff; 39 responsibilities total |
 | FCSCs (24) | Atoll-level generalist services including elderly welfare visits | Same staff handle CP, GBV, disability, elderly |
-| MPAO | Pension administration (OABP and MRPS) | Administrative only — not care provision |
+| MPAO | Pension administration (OABP and MRPS) | Administrative only – not care provision |
 | Naadhee Centre | Senior citizens' centre in Male' (opened 2023) | Male' only; social and wellness activities |
 | Guraidhoo (HPSN) | Residential care facility | UN Working Group raised arbitrary detention concerns; not elderly-specific |
-| Aged Care Maldives | NGO — health screening, home care, caregiver training | Small team; donor-dependent; est. 2008 (evolved from Manfaa Centre 2004) |
-| G-Care | NGO — elderly care services | Limited capacity |
-| Moms Aid | NGO — anti-poverty, food aid for vulnerable families (incl elderly) | Founded 2019; corporate partnership model |
+| Aged Care Maldives | NGO – health screening, home care, caregiver training | Small team; donor-dependent; est. 2008 (evolved from Manfaa Centre 2004) |
+| G-Care | NGO – elderly care services | Limited capacity |
+| Moms Aid | NGO – anti-poverty, food aid for vulnerable families (incl elderly) | Founded 2019; corporate partnership model |
 | HRCM | Monitoring; rights investigations | Resource constraints |
 | IBAMA groups | Island-level volunteers | Not elderly-focused; limited coverage |
 
-**The striking absence:** No dedicated elderly care agency exists (unlike ADDA for disability or FPA for DV). Elderly care is a subdivision of a ministry with 39 other responsibilities.
+**A notable absence:** No dedicated elderly care agency exists (unlike ADDA for disability or FPA for DV). Elderly care is a subdivision of a ministry with 39 other responsibilities.
 
 ---
 
 ## Slide 2: The Pension System as the Only Universal Mechanism
 
-The basic pension (MVR 5,000/month for all citizens 65+) is the only mechanism that reaches ALL elderly universally. Everything else — health screening, home visits, social centres, care facilities — reaches only a fraction.
+The basic pension (MVR 5,000/month for all citizens 65+) is the only mechanism that reaches ALL elderly universally. Everything else – health screening, home visits, social centres, care facilities – reaches only a fraction.
 
 **Pension time series (basic pension beneficiaries):**
 
@@ -303,17 +303,17 @@ The basic pension (MVR 5,000/month for all citizens 65+) is the only mechanism t
 | 2019 | 17,496 | 904 |
 | 2020 | ~18,139/month avg | 1,030 |
 | 2023 | 22,023 | ~1,200 |
-| 2024 | — | 1,300 |
+| 2024 | – | 1,300 |
 
 The growth from 15,035 to 22,023 beneficiaries (2011-2023) reflects population ageing. This will accelerate dramatically as the 65+ population grows from 20,553 to 88,963 by 2054.
 
 ---
 
-## Slide 3: Guraidhoo Facility — The Only Residential Care
+## Slide 3: Guraidhoo Facility – The Only Residential Care
 
 **Home for People with Special Needs (HPSN) Guraidhoo:**
 - The only government residential care facility housing elderly alongside persons with disabilities and mental health conditions
-- Not elderly-specific — mixed population creates care challenges
+- Not elderly-specific – mixed population creates care challenges
 - 173 beds (119 psychiatric, 46 geriatric as of 2010 baseline)
 
 **UN Working Group on Arbitrary Detention findings:** Raised concerns about conditions and the legal basis for confinement. Some residents transferred to the facility by families without adequate consent procedures.
@@ -327,16 +327,16 @@ The growth from 15,035 to 22,023 beneficiaries (2011-2023) reflects population a
 **Home visit programme for bedridden individuals:**
 - Government programme providing home-based care support
 - 1,215 bedridden individuals nationally (MoSFD data)
-- Taj & Suzana (2023) study assessed satisfaction with the programme — generally positive but coverage limited
+- Taj & Suzana (2023) study assessed satisfaction with the programme – generally positive but coverage limited
 
 **Naadhee senior citizens' centre (Male'):**
-- Opened 2023 — first dedicated social centre for elderly
+- Opened 2023 – first dedicated social centre for elderly
 - Located in Male'
 - UNFPA Hattah programme (launched July 2024): nutrition and physical activity classes for 55+ at Naadhee; community events on N. Kudafari
 
 **N. Kudafari:** Highlighted as a model island for community-based ageing with dignity
 
-**Ranveyla Campaign:** Nationwide awareness and health screening programme targeting elderly — health checks, awareness about elderly rights, community engagement
+**Ranveyla Campaign:** Nationwide awareness and health screening programme targeting elderly – health checks, awareness about elderly rights, community engagement
 
 **Community-based gaps:**
 - No day care services for elderly outside Male'
@@ -352,7 +352,7 @@ The growth from 15,035 to 22,023 beneficiaries (2011-2023) reflects population a
 | Organisation | Est. | Focus |
 |---|---|---|
 | Aged Care Maldives | 2008 (from Manfaa Centre 2004) | Free health screening (weight, BP, blood sugar, eyesight, dental); home healthcare (bedridden care, tube feeding, catheterisation); exercise/yoga programmes; volunteer companions; caregiver training |
-| G-Care | — | Elderly care services |
+| G-Care | – | Elderly care services |
 | Moms Aid | 2019 | Anti-poverty, food aid to vulnerable families (including elderly); Ramadan Aid programme |
 
 **Aged Care Maldives reach:** Over 874 senior citizens reached through Atmosphere Foundation partnership (launched Oct 2022). Outreach on Ha. Uligam (Dec 2022), Haa Dhaal (Makunudhoo).
@@ -370,7 +370,7 @@ The growth from 15,035 to 22,023 beneficiaries (2011-2023) reflects population a
 | Q33: Legal capacity/supported decision-making | No measures |
 | Q18.3: Elderly involvement in health services development | No data or resources |
 | Q40: Participation in Titchfield Group on Ageing Statistics | Not participating |
-| Q26.3: Free transport for 65+ | Confirmed — government buses and ferries |
+| Q26.3: Free transport for 65+ | Confirmed – government buses and ferries |
 | Q30.2: Social workers for vulnerable elderly | FCSCs provide generalist coverage |
 | Q10.4: Recognition awards for elderly long-service | 2021 nationwide programme |
 | Q10.5.2: Workplace age discrimination | Ranveyla sessions targeting unconscious bias |
@@ -388,7 +388,7 @@ The growth from 15,035 to 22,023 beneficiaries (2011-2023) reflects population a
 - Males >50% of victims (unusual internationally)
 - 36 elderly persons at one point were in state care at the Special Needs Centre (Guraidhoo) after families did not collect them following treatment
 
-**The "not collected" phenomenon:** Some elderly persons were brought to facilities for medical treatment and their families simply did not return to collect them — effectively abandoning them. This has been documented as a growing pattern linked to family care system erosion.
+**The "not collected" phenomenon:** Some elderly persons were brought to facilities for medical treatment and their families simply did not return to collect them – effectively abandoning them. This has been documented as a growing pattern linked to family care system erosion.
 
 ---
 
@@ -412,7 +412,7 @@ The growth from 15,035 to 22,023 beneficiaries (2011-2023) reflects population a
 | Age 65-74 | 13,003 (63%) |
 | Age 75-84 | 5,774 (28%) |
 | Age 85+ | 1,776 (9%) |
-| With disability | 7,402 (36% of 65+) — predominantly walking, seeing, remembering |
+| With disability | 7,402 (36% of 65+) – predominantly walking, seeing, remembering |
 | Married | 60% (M: 78.3%, F: 40.2%) |
 | Widowed | 29% (M: 11.1%, F: 47.4%) |
 | Divorced | 11% |
@@ -422,7 +422,7 @@ The growth from 15,035 to 22,023 beneficiaries (2011-2023) reflects population a
 | In labour force | 16% (M: 22%, F: 9%) |
 | Outside labour force | 84% |
 
-**The widowhood gender gap:** 47.4% of elderly women are widowed vs 11.1% of elderly men — nearly half of all elderly women have lost their spouse, with implications for income, social support, and mental health.
+**The widowhood gender gap:** 47.4% of elderly women are widowed vs 11.1% of elderly men – nearly half of all elderly women have lost their spouse, with implications for income, social support, and mental health.
 
 ---
 
@@ -440,7 +440,7 @@ The growth from 15,035 to 22,023 beneficiaries (2011-2023) reflects population a
 | Shaviyani | 799 |
 | All others | ~6,177 |
 
-**Key pattern:** Two-thirds of elderly live outside Male'. The atolls with the largest elderly populations (Haa Dhaal, Raa, Gaaf Dhaal, Haa Alif) are in the geographic periphery — furthest from Male'-based tertiary healthcare. Small atolls (Vaavu: 111 elderly, Faafu: 224) face the challenge of providing services to very small, dispersed elderly populations.
+**Key pattern:** Two-thirds of elderly live outside Male'. The atolls with the largest elderly populations (Haa Dhaal, Raa, Gaaf Dhaal, Haa Alif) are in the geographic periphery – furthest from Male'-based tertiary healthcare. Small atolls (Vaavu: 111 elderly, Faafu: 224) face the challenge of providing services to very small, dispersed elderly populations.
 
 ---
 
@@ -455,7 +455,7 @@ The growth from 15,035 to 22,023 beneficiaries (2011-2023) reflects population a
 - Agriculture, forestry, fishery: 20% (M: 24%, F: 10%)
 - Wholesale/retail trade: 19% (M: 24%, F: 6%)
 
-**What this means:** Elderly women who work are concentrated in home-based manufacturing (61%) — traditional food production. This is informal work that generates some income but contributes nothing to MRPS pension accumulation. The 84% outside the labour force depend entirely on the pension and/or family support.
+**What this means:** Elderly women who work are concentrated in home-based manufacturing (61%) – traditional food production. This is informal work that generates some income but contributes nothing to MRPS pension accumulation. The 84% outside the labour force depend entirely on the pension and/or family support.
 
 **Pension dependency:** The basic pension (MVR 5,000/month) is the primary income for most elderly. The retirement pension gender gap (78% male beneficiaries) means elderly women are the most pension-dependent demographic.
 
@@ -474,7 +474,7 @@ The growth from 15,035 to 22,023 beneficiaries (2011-2023) reflects population a
 
 **Projection assumptions (UNFPA):** TFR declining from 2.46 (2014) to 1.9 (2054); life expectancy rising from M 73.1 / F 74.8 (2014) to M 83.3 / F 83.6 (2054); net migration to Male' of ~2,200/year.
 
-**The 80+ cohort:** By 2054, the 80+ cohort alone (19,028) will exceed the total 65+ population of 2014 (16,607). This is the highest-need cohort — multi-morbidity, cognitive decline, long-term care dependency.
+**The 80+ cohort:** By 2054, the 80+ cohort alone (19,028) will exceed the total 65+ population of 2014 (16,607). This is the highest-need cohort – multi-morbidity, cognitive decline, long-term care dependency.
 
 ---
 
@@ -490,7 +490,7 @@ NCDs cause approximately **85% of all deaths** in the Maldives (WHO SEARO):
 | Chronic respiratory diseases | 9% |
 | Diabetes | 6% |
 
-Probability of premature NCD death (30-70): declined from 25.7% (2000) to 11.6% (2019) — meaning more people survive into old age with chronic conditions, increasing the NCD burden among the 65+.
+Probability of premature NCD death (30-70): declined from 25.7% (2000) to 11.6% (2019) – meaning more people survive into old age with chronic conditions, increasing the NCD burden among the 65+.
 
 **Data quality caveat:** WHO notes Maldives has "low completeness and/or severe quality issues with cause-of-death assignment."
 
@@ -504,12 +504,12 @@ Probability of premature NCD death (30-70): declined from 25.7% (2000) to 11.6% 
 | 70-74 | 30% |
 | 75+ | 55% |
 
-- 7,402 elderly (36% of 65+) have a disability — predominantly walking, seeing, remembering
+- 7,402 elderly (36% of 65+) have a disability – predominantly walking, seeing, remembering
 - Women show higher disability prevalence (40.1% of elderly women vs 32.1% of elderly men)
 - Among elderly PWDs, 50% have multiple disabilities
 - The elderly population is 5% of the total population but 30% of all persons with disabilities
 
-**Planning implication:** Elderly care and disability services must be integrated — over a third of elderly are also persons with disabilities. Separate systems for elderly and disability create a gap for the largest overlap population.
+**Planning implication:** Elderly care and disability services must be integrated – over a third of elderly are also persons with disabilities. Separate systems for elderly and disability create a gap for the largest overlap population.
 
 ---
 
@@ -518,9 +518,9 @@ Probability of premature NCD death (30-70): declined from 25.7% (2000) to 11.6% 
 **Current:** 41% of population in Greater Male'; projected 64% by 2054.
 
 **Impact on elderly:**
-- Nazra (2018) and Azeez et al. (2020) documented highest depression and loneliness among urban elderly — Male' elderly are physically close to services but socially isolated in overcrowded apartments
+- Nazra (2018) and Azeez et al. (2020) documented highest depression and loneliness among urban elderly – Male' elderly are physically close to services but socially isolated in overcrowded apartments
 - Atoll elderly have community connections but limited services
-- Young adults migrating to Male' leave elderly parents on home islands — geographic separation of generations
+- Young adults migrating to Male' leave elderly parents on home islands – geographic separation of generations
 - Government consolidation policy (70% of population in Greater Male' by 2050) will concentrate elderly in an urban environment where Nazra documented confinement and loneliness
 
 ---
@@ -539,7 +539,7 @@ Probability of premature NCD death (30-70): declined from 25.7% (2000) to 11.6% 
 
 **Old-Age Basic Pension (OABP):**
 - MVR 5,000/month for ALL Maldivian citizens 65+
-- Universal, non-contributory — citizenship + age = eligibility
+- Universal, non-contributory – citizenship + age = eligibility
 - 22,023 beneficiaries (2023): F 11,040, M 10,983
 - Must reside in Maldives; not in full-time state care or incarcerated
 - Deductions: 50% of MRPS retirement pension amount; 100% of other state-funded pensions exceeding MVR 5,000
@@ -552,7 +552,7 @@ Probability of premature NCD death (30-70): declined from 25.7% (2000) to 11.6% 
 - Retirement pension beneficiaries (2023): 1,869 (F: 411, M: 1,458)
 - Retirement pension expenditure: MVR 165 million (2024)
 
-**Pre-2009 system:** Only public service employees had pensions (50% salary after 20 years; 100% after 40 years). Required uninterrupted service — structural gender bias against women who interrupted careers for childcare.
+**Pre-2009 system:** Only public service employees had pensions (50% salary after 20 years; 100% after 40 years). Required uninterrupted service – structural gender bias against women who interrupted careers for childcare.
 
 ---
 
@@ -568,15 +568,15 @@ Probability of premature NCD death (30-70): declined from 25.7% (2000) to 11.6% 
 | MMA warning | Central Bank flagged social protection fiscal sustainability concerns |
 | UNESCAP assessment | Social Protection Readiness Assessment (2023) identified pension system as a fiscal risk |
 
-**The fiscal trajectory:** As the 65+ population grows from 22,023 (current beneficiaries) to potentially 90,000+ by 2054, basic pension costs will quadruple at current rates — from MVR 1.3 billion to MVR 5+ billion annually. No fiscal plan for this escalation has been published.
+**The fiscal trajectory:** As the 65+ population grows from 22,023 (current beneficiaries) to potentially 90,000+ by 2054, basic pension costs will quadruple at current rates – from MVR 1.3 billion to MVR 5+ billion annually. No fiscal plan for this escalation has been published.
 
 ---
 
-## Slide 3: Guraidhoo — Residential Care
+## Slide 3: Guraidhoo – Residential Care
 
 **Home for People with Special Needs (HPSN):**
 - Located on Guraidhoo island
-- Government residential facility — houses elderly, persons with disabilities, and mental health patients together
+- Government residential facility – houses elderly, persons with disabilities, and mental health patients together
 - Not purpose-built for elderly care
 - UN Working Group on Arbitrary Detention raised concerns about: conditions, legal basis for confinement, consent procedures
 - 36 elderly persons at one point in state care after families did not collect them
@@ -601,7 +601,7 @@ Probability of premature NCD death (30-70): declined from 25.7% (2000) to 11.6% 
 ## Slide 5: Naadhee and Community Services
 
 **Naadhee Senior Citizens' Centre (Male'):**
-- Opened 2023 — first dedicated social centre for elderly
+- Opened 2023 – first dedicated social centre for elderly
 - Social activities, health education, community engagement
 - UNFPA Hattah Programme (launched July 2024): nutrition classes, physical activity, cooking with local ingredients (moringa, turmeric)
 
@@ -631,14 +631,14 @@ Probability of premature NCD death (30-70): declined from 25.7% (2000) to 11.6% 
 
 | Indicator | Status |
 |---|---|
-| Geriatricians | 0 — zero nationally |
+| Geriatricians | 0 – zero nationally |
 | Geriatric wards/units | None at IGMH, ADK, or Tree Top |
-| Palliative care | WHO Group 1 — no known activity |
+| Palliative care | WHO Group 1 – no known activity |
 | Dementia strategy | None; no memory care provision |
 | NCDs as share of deaths | 85% |
 | Aasandha coverage | Universal but out-of-pocket at 49% |
-| Regional hospitals | 5 — all now have psychiatrists (up from 2 in 2010) |
-| Atoll health centres | 169+ (30 health posts, 139+ health centres) — no geriatric capacity |
+| Regional hospitals | 5 – all now have psychiatrists (up from 2 in 2010) |
+| Atoll health centres | 169+ (30 health posts, 139+ health centres) – no geriatric capacity |
 | Private elderly care | Medica Maldives (Male') offers geriatric consultations by GPs; home visits |
 
 **The clinical reality:** A geriatric patient in Male' sees a GP who may have experience but no geriatric training. A geriatric patient on an outer island sees a health centre nurse. Neither has geriatric assessment tools, dementia screening protocols, or polypharmacy management guidelines.
@@ -682,7 +682,7 @@ Probability of premature NCD death (30-70): declined from 25.7% (2000) to 11.6% 
 | Wellbeing and Social Connectedness | Moosa | 2016/2019 | 393 elderly across 31 islands; health and social connectedness most important determinants; family centrality; formal associations non-existent outside Male' |
 | Home Visit Study | Taj & Suzana | 2023 | Caretaker satisfaction with government home visit programme; coverage gaps identified |
 | Ageing in the Atolls | Jaufar & Ibrahim | 2025 | Rural elderly experience |
-| Ageing Ungracefully | MFR article | — | Media analysis of elderly marginalisation |
+| Ageing Ungracefully | MFR article | – | Media analysis of elderly marginalisation |
 | MIPAA Voluntary Survey | Government | 2021 | 49 questions; extensive self-disclosed gaps |
 | HelpAge Pension Case Study | HelpAge International | 2023 | Pension sustainability analysis; fiscal trajectory |
 | Census 2022 analysis | MBS | 2022-24 | Full demographic profile; disability-age overlap; employment; marital status |
@@ -690,7 +690,7 @@ Probability of premature NCD death (30-70): declined from 25.7% (2000) to 11.6% 
 
 ---
 
-## Slide 2: The Moosa Research (2016/2019) — Wellbeing and Social Connectedness
+## Slide 2: The Moosa Research (2016/2019) – Wellbeing and Social Connectedness
 
 **Methodology:** 393 elderly persons (65+) surveyed across 31 islands. Custom instrument using capabilities approach. Five life domains: health, social connectedness, economic status, access to goods/services, ability to conform with social norms.
 
@@ -700,34 +700,34 @@ Probability of premature NCD death (30-70): declined from 25.7% (2000) to 11.6% 
 - Family centrality: collectivist social arrangements remain important despite geographic dispersal
 - Structured community-based social activities for older people are **irregular and occasional**
 - Formal voluntary associations working with older people are **non-existent in the islands** (except Male')
-- Elderly maintain high social status in small island communities — tendency NOT to include them in some activities as it may appear disrespectful
+- Elderly maintain high social status in small island communities – tendency NOT to include them in some activities as it may appear disrespectful
 - Despite low social engagement beyond family, different types of social engagement positively affect wellbeing
 
-**Implication:** Policy interventions that strengthen social connectedness — community centres, visiting programmes, structured activities — would have measurable wellbeing impact.
+**Implication:** Policy interventions that strengthen social connectedness – community centres, visiting programmes, structured activities – would have measurable wellbeing impact.
 
 ---
 
-## Slide 3: The Nazra (2018) Study — Urban Elderly Experience
+## Slide 3: The Nazra (2018) Study – Urban Elderly Experience
 
 **Qualitative study of elderly persons in Male'.** Key findings:
 
-- **Depression and loneliness** documented among Male' elderly — urban proximity to services does not prevent social isolation
-- **Confinement** in apartments — elderly confined to small living spaces in overcrowded Male' housing
-- **Pension forms**: elderly persons reported that family members must fill out pension forms because "I cannot do it myself" — reflecting the educational profile (72% primary only; 1 in 5 never attended school)
-- **Healthcare access challenges** despite Male' location — navigating hospital systems, understanding medications, accessing specialists
-- **Social status decline** — the traditional respect for elderly is eroding in the urban context; younger generations have different priorities
+- **Depression and loneliness** documented among Male' elderly – urban proximity to services does not prevent social isolation
+- **Confinement** in apartments – elderly confined to small living spaces in overcrowded Male' housing
+- **Pension forms**: elderly persons reported that family members must fill out pension forms because "I cannot do it myself" – reflecting the educational profile (72% primary only; 1 in 5 never attended school)
+- **Healthcare access challenges** despite Male' location – navigating hospital systems, understanding medications, accessing specialists
+- **Social status decline** – the traditional respect for elderly is eroding in the urban context; younger generations have different priorities
 
 ---
 
-## Slide 4: The Azeez et al. (2020) Study — Depression and Sociability
+## Slide 4: The Azeez et al. (2020) Study – Depression and Sociability
 
 **Quantitative study of depression and loneliness among urban elderly.**
 
 - Depression prevalence documented among Male' elderly (specific rates in the study)
-- Sociability deficit — elderly in Male' are physically close to others but socially disconnected
+- Sociability deficit – elderly in Male' are physically close to others but socially disconnected
 - Contributing factors: migration away from home islands, loss of community context, apartment confinement, death of age-cohort peers, family members working long hours
 
-**The urban paradox:** Male' elderly have geographic access to hospitals, social centres, and services — but they experience some of the highest rates of depression and loneliness documented in any Maldivian population. Proximity to services ≠ social connection.
+**The urban paradox:** Male' elderly have geographic access to hospitals, social centres, and services – but they experience some of the highest rates of depression and loneliness documented in any Maldivian population. Proximity to services ≠ social connection.
 
 ---
 
@@ -807,7 +807,7 @@ Updated from the 2018 National Elderly Policy. Key features:
 - Integration with SDG framework
 - Specific strategies for each goal area
 
-**Limitation:** Like the 2018 policy, this is a policy document — not legislation. No enforcement mechanism, no binding targets, no dedicated budget allocation.
+**Limitation:** Like the 2018 policy, this is a policy document – not legislation. No enforcement mechanism, no binding targets, no dedicated budget allocation.
 
 ---
 
@@ -819,7 +819,7 @@ Same pattern as the other three domains, plus elderly-specific challenges:
 2. **No dedicated agency:** Unlike FPA (DV), ADDA (disability), or CFPS (child protection), elderly care has no dedicated institutional home with operational capacity
 3. **MIPAA is voluntary:** The international framework for elderly policy (MIPAA) has no binding reporting cycle or Committee, creating weaker external accountability than CRC/CEDAW/CRPD
 4. **Fiscal sustainability risk:** The pension system (90%+ of elderly expenditure) faces long-term affordability questions as beneficiaries quadruple
-5. **No specialist workforce:** Cannot implement geriatric care policy without geriatricians — and training a geriatrician takes a decade
+5. **No specialist workforce:** Cannot implement geriatric care policy without geriatricians – and training a geriatrician takes a decade
 6. **The timing paradox:** The system needs to be built NOW (before the demographic cliff) but political urgency is low because the elderly population is currently small (5%)
 
 ---
@@ -828,11 +828,11 @@ Same pattern as the other three domains, plus elderly-specific challenges:
 
 | Achievement | Mechanism |
 |---|---|
-| Universal basic pension (MVR 5,000/month) | Pension Act 2009 — statutory, funded, universal |
-| Pension reaches 22,023 beneficiaries | Administrative system works — pension deposited to accounts |
-| Naadhee centre opened (2023) | Government initiative — first dedicated social centre |
+| Universal basic pension (MVR 5,000/month) | Pension Act 2009 – statutory, funded, universal |
+| Pension reaches 22,023 beneficiaries | Administrative system works – pension deposited to accounts |
+| Naadhee centre opened (2023) | Government initiative – first dedicated social centre |
 | Ranveyla health screening campaign | Cross-ministry/community initiative |
-| Aged Care Maldives home healthcare | NGO initiative — fills gaps government doesn't |
+| Aged Care Maldives home healthcare | NGO initiative – fills gaps government doesn't |
 | Census 2022 elderly data | International partnership (UNFPA) |
 
 **Pattern:** Targeted, well-resourced initiatives produce results (the pension system is a success). Broad policy frameworks without dedicated agencies, budgets, or enforcement produce less change.
@@ -868,7 +868,7 @@ Same pattern as the other three domains, plus elderly-specific challenges:
 
 ---
 
-## Slide 2: The 2021 MIPAA Voluntary National Survey — Key Self-Disclosures
+## Slide 2: The 2021 MIPAA Voluntary National Survey – Key Self-Disclosures
 
 The government's own responses to the 49-question MIPAA survey revealed extensive gaps:
 
@@ -899,9 +899,9 @@ The government's own responses to the 49-question MIPAA survey revealed extensiv
 | Samoa | Universal non-contributory pension for 65+ | Comparable SIDS universal pension |
 | Trinidad & Tobago | National Policy on Ageing (2007); Division of Ageing; 12 priority areas; free transport/drugs/ferry for 60+ | Most developed Caribbean SIDS framework with dedicated agency |
 
-**Trinidad & Tobago's Division of Ageing** is the closest model to what the Maldives lacks — a dedicated operational agency for elderly policy implementation.
+**Trinidad & Tobago's Division of Ageing** is the closest model to what the Maldives lacks – a dedicated operational agency for elderly policy implementation.
 
-**Anderson & Irava (2017) finding for Pacific Islands:** Pacific health systems "not well equipped" for geriatric conditions; extended family weakening in urban areas; strategic window exists to plan proactively — same dynamics apply to the Maldives.
+**Anderson & Irava (2017) finding for Pacific Islands:** Pacific health systems "not well equipped" for geriatric conditions; extended family weakening in urban areas; strategic window exists to plan proactively – same dynamics apply to the Maldives.
 
 ---
 
@@ -911,17 +911,17 @@ The WHO-led UN Decade provides the current international framework for ageing po
 - **Four action areas:** Age-friendly environments, combating ageism, integrated care, long-term care
 - The Maldives' 2024 National Ageing Policy references the Decade
 - No Decade-specific implementation plan exists for the Maldives
-- The Decade runs until 2030 — halfway through, with minimal Maldivian implementation
+- The Decade runs until 2030 – halfway through, with minimal Maldivian implementation
 
 ---
 
 ## Slide 5: What International Frameworks Require of Staff
 
 International frameworks create expectations that affect your work:
-- The MIPAA Survey required data on elderly services, allowances, and policies — this data comes from FCSC records and MoSFD case management
-- The Decade of Healthy Ageing expects governments to develop age-friendly services — your observations of service gaps are the evidence base for reporting
-- SIDS comparisons show that comparable island states have progressed further — this provides benchmarks for what the Maldives should be doing
-- The pension system data (MPAO) demonstrates what a well-functioning universal mechanism looks like — other services should aspire to the same reach
+- The MIPAA Survey required data on elderly services, allowances, and policies – this data comes from FCSC records and MoSFD case management
+- The Decade of Healthy Ageing expects governments to develop age-friendly services – your observations of service gaps are the evidence base for reporting
+- SIDS comparisons show that comparable island states have progressed further – this provides benchmarks for what the Maldives should be doing
+- The pension system data (MPAO) demonstrates what a well-functioning universal mechanism looks like – other services should aspire to the same reach
 
 ---
 
@@ -984,9 +984,9 @@ The traditional family care model is weakening through multiple channels simulta
 | Changing social norms | Younger generations see elderly care as state responsibility |
 | Cost of living | Economic pressure leaves no margin for unpaid caregiving |
 
-**The "not collected" pattern:** Elderly persons brought to facilities for medical treatment whose families do not return to collect them — documented abandonment.
+**The "not collected" pattern:** Elderly persons brought to facilities for medical treatment whose families do not return to collect them – documented abandonment.
 
-**The Moosa finding:** Despite family erosion, family remains central to elderly wellbeing — 29% shared contribution of social connectedness to wellbeing. The solution is not to replace families but to support them.
+**The Moosa finding:** Despite family erosion, family remains central to elderly wellbeing – 29% shared contribution of social connectedness to wellbeing. The solution is not to replace families but to support them.
 
 ---
 
@@ -996,20 +996,20 @@ The traditional family care model is weakening through multiple channels simulta
 |---|---|
 | Geriatricians | 0 nationally |
 | Geriatric wards | None at any hospital |
-| Palliative care | WHO Group 1 — no known activity |
+| Palliative care | WHO Group 1 – no known activity |
 | Dementia services | No strategy; no memory care; no screening protocol |
 | NCD burden | 85% of all deaths from NCDs |
-| Atoll rehabilitation | None — physiotherapy/OT Male'-only |
+| Atoll rehabilitation | None – physiotherapy/OT Male'-only |
 | Polypharmacy management | No geriatric pharmacy guidelines |
 | Fall prevention | No programme |
 | Geriatric mental health | No specialised service |
 | End-of-life care | No guidelines; no hospice |
 
-**The clinical gap:** When an elderly patient presents with complex multi-morbidity, cognitive decline, polypharmacy issues, and functional deterioration — the geriatric syndrome — no part of the Maldivian health system is equipped to manage them as a geriatric patient. They are managed as a series of individual conditions by different specialists without integration.
+**The clinical gap:** When an elderly patient presents with complex multi-morbidity, cognitive decline, polypharmacy issues, and functional deterioration – the geriatric syndrome – no part of the Maldivian health system is equipped to manage them as a geriatric patient. They are managed as a series of individual conditions by different specialists without integration.
 
 ---
 
-## Slide 5: Elder Abuse — What We Know
+## Slide 5: Elder Abuse – What We Know
 
 **270 cases reported to MoSFD (2018-2021).** Males >50% of victims.
 
@@ -1020,18 +1020,18 @@ The traditional family care model is weakening through multiple channels simulta
 - Physical inability to access reporting mechanisms (immobility, cognitive decline)
 - No dedicated elder abuse reporting channel (1412 focuses on children)
 - Social norms against reporting family members
-- Geographic isolation — on an island of 300 people, everyone knows
-- Fear of losing what care they have — reporting may make the situation worse if the abuser is also the caregiver
+- Geographic isolation – on an island of 300 people, everyone knows
+- Fear of losing what care they have – reporting may make the situation worse if the abuser is also the caregiver
 
 **Legal gaps:** No elder abuse-specific legislation, no mandatory reporting for elder abuse specifically, no specialised investigation protocol, no elder-specific shelter or safe housing
 
 ---
 
-## Slide 6: The Workforce Problem
+## Slide 6: Workforce and Staffing
 
 The elderly care workforce gap is the most fundamental constraint:
 
-- **Training a geriatrician takes ~10 years** post-medical school — even if training started today, the first Maldivian geriatrician would not be practicing until ~2035
+- **Training a geriatrician takes ~10 years** post-medical school – even if training started today, the first Maldivian geriatrician would not be practicing until ~2035
 - **No geriatric nursing specialisation** exists in Maldivian nursing education
 - **No geriatric social work** training or specialisation
 - **FCSC staff** who handle elderly cases are generalists with no ageing-specific training
@@ -1044,7 +1044,7 @@ The entire elderly care system depends on a workforce that has not been trained 
 
 ## Slide 7: Discussion
 
-- What is the single most urgent gap you see in elderly care?
+- What is the most pressing gap you see in elderly care?
 - If you could start building one service from scratch, what would it be?
 
 ## Module 10: Reform Agenda
@@ -1056,7 +1056,7 @@ The entire elderly care system depends on a workforce that has not been trained 
 
 | Dimension | Status |
 |---|---|
-| Legislation | None — Ageing Bill in preparation. Only domain without dedicated law |
+| Legislation | None – Ageing Bill in preparation. Only domain without dedicated law |
 | Pension | Well-functioning universal mechanism (MVR 5,000/month; 22,023 beneficiaries). Fiscal sustainability concern as beneficiaries quadruple |
 | Institutional architecture | No dedicated agency. Naadhee (Male' only). Guraidhoo (concerns). ~5 CSOs for 43,000 elderly |
 | Healthcare | Zero geriatricians. WHO Group 1 palliative care. No dementia strategy. Rehabilitation Male'-only |
@@ -1065,7 +1065,7 @@ The entire elderly care system depends on a workforce that has not been trained 
 | Data | Census 2022 improved. No dementia prevalence. No caregiver data. No outcome tracking |
 | Elder abuse | 270 cases (2018-2021). No dedicated law, reporting protocol, or shelter |
 | Family support | Traditional system eroding. No formal caregiver training/support programme in atolls |
-| International | MIPAA voluntary — weak accountability. Behind most comparable SIDS |
+| International | MIPAA voluntary – weak accountability. Behind most comparable SIDS |
 
 ---
 
@@ -1079,7 +1079,7 @@ The entire elderly care system depends on a workforce that has not been trained 
 - Create accessibility requirements for elderly-relevant services
 
 **2. Build the specialist workforce**
-- Fund geriatric medicine training for 5-10 Maldivian doctors (start immediately — 10-year pipeline)
+- Fund geriatric medicine training for 5-10 Maldivian doctors (start immediately – 10-year pipeline)
 - Establish geriatric nursing specialisation at MNU
 - Create elderly-specific training module for all FCSC staff
 - Develop caregiver training programme for atoll-level family caregivers
@@ -1134,7 +1134,7 @@ The encyclopedia (65,000+ words on elderly care) is the ongoing reference.
 ## Slide 5: Final Assessment
 
 ### FA-1: Does the Maldives have a dedicated elderly rights law?
-A) Yes  B) No — the Ageing Bill is in preparation but not enacted
+A) Yes  B) No – the Ageing Bill is in preparation but not enacted
 **Answer: B**
 
 ### FA-2: How many geriatricians practise in the Maldives?
@@ -1170,6 +1170,6 @@ A) 10%  B) 36%  C) 5%  D) 75%
 **Answer: B**
 
 ### FA-10: The 21-year transition from "ageing society" to "super-aged society" (2031-2052) compares how to other countries?
-A) Average  B) Among the shortest globally — France: 115 years; Sweden: 85; Japan: 36; Maldives: 21  C) The longest  D) Comparable to most countries
+A) Average  B) Among the shortest globally – France: 115 years; Sweden: 85; Japan: 36; Maldives: 21  C) The longest  D) Comparable to most countries
 **Answer: B**
 

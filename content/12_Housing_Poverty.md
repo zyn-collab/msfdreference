@@ -66,17 +66,17 @@ The linkage between household head education and child poverty is stark. Househo
 
 Children in atoll communities face particular risks from the combination of limited secondary and tertiary education facilities, health service gaps, water and sanitation deficits, and the economic marginality of primary-sector livelihoods (fisheries, small-scale manufacturing) on which their parents depend.
 
-> *→ **Extended Coverage:** For comprehensive analysis of children in poverty — including the single parent allowance, social protection gaps for children, and the poverty-child protection interface — see **Part IV: Child Protection and Child Rights, §4.96** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of children in poverty – including the single parent allowance, social protection gaps for children, and the poverty-child protection interface – see **Part IV: Child Protection and Child Rights, §4.96** of this encyclopedia.*
 
 ---
 
-## 12.3 Housing Policy and the Housing Crisis
+## 12.3 Housing Policy and the Housing Shortage
 
 ### The Constitutional and Policy Framework
 
 The 2008 Constitution of the Republic of Maldives recognizes housing as a basic human right, placing its provision among the top obligations of the government. This constitutional commitment builds on a longer policy tradition: the National Housing Policy of 2008 (Ministry of Housing and Urban Development) identified six focus areas for addressing the country's housing needs -- adequate shelter for all, housing affordability, housing finance, land management, building standards, and institutional coordination. The Seventh National Development Plan (2007) noted that housing prices in Male' exceeded 12 times the average annual household income, a ratio that places home ownership beyond the reach of most residents.[^13]
 
-The Human Rights Commission of the Maldives (HRCM) has repeatedly flagged housing as one of the most critical socioeconomic rights challenges. A 2008 HRCM rapid assessment reported that **85 percent of household income in Male' was spent on housing**, and that housing-related complaints constituted the third-largest category of economic, social, and cultural rights grievances received by the Commission.[^14]
+The Human Rights Commission of the Maldives (HRCM) has repeatedly flagged housing as a major socioeconomic rights challenge. A 2008 HRCM rapid assessment reported that **85 percent of household income in Male' was spent on housing**, and that housing-related complaints constituted the third-largest category of economic, social, and cultural rights grievances received by the Commission.[^14]
 
 ### Historical Development of Housing Provision
 
@@ -118,7 +118,7 @@ The study found that **56.6 percent** of Greater Male' residents lived in rented
 
 The most common monthly rent was MVR 10,000-15,000 (42.3 percent of renters), followed by below MVR 10,000 (27 percent) and MVR 15,000-20,000 (21.4 percent). The World Bank's 2022 Poverty Assessment found that approximately **74 percent** of households in Male' live in rented dwellings (compared to 5.3 percent in atolls), and renters in Male' spend about **37 percent** of their annual expenditure on rent alone, compared to 19 percent among atoll renters.[^23]
 
-### Affordability Crisis
+### Affordability
 
 The housing market study's most concerning finding relates to affordability. Most renters earning less than MVR 10,000 per month (53.3 percent of individual respondents reported personal income below MVR 5,000) pay rent that consumes most or all of their income. The study concluded that "housing is not affordable for an average person" in the Greater Male' Region, and that rent or housing prices should ideally constitute only 15 to 20 percent of household income -- a benchmark that the vast majority of residents fail to meet.[^24]
 
@@ -146,7 +146,7 @@ The enclave nature of the economy reinforces this pattern. Revenue-generating to
 
 The government has recognized the unsustainability of continued Male'-centric development. The National Spatial Plan, adopted alongside the Strategic Action Plan for 2019-2023, envisions the development of regional hubs and subregional centers with basic services accessible within proximity. The plan aims to distribute development more equitably, reduce overcrowding in the capital, and provide viable alternatives to migration. Past administrations have focused heavily on the Greater Male' Region, and the Hulhumale' Phase II project represents the largest single effort to provide housing relief. However, critics argue that continued investment in Male'-adjacent reclamation merely reinforces centralization rather than creating genuine regional alternatives.[^30]
 
-> *→ **Extended Coverage:** For comprehensive analysis of housing density and child protection — including overcrowding as a driver of family breakdown, child abuse, and GBV — see **Part IV: Child Protection and Child Rights, §4.121** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of housing density and child protection – including overcrowding as a driver of family breakdown, child abuse, and GBV – see **Part IV: Child Protection and Child Rights, §4.121** of this encyclopedia.*
 
 ---
 
@@ -192,7 +192,7 @@ Gender disparities in the labour market are pronounced and structurally embedded
 
 Women who are employed tend to earn less and face greater economic insecurity. In the COVID-19 crisis, while the overall incidence of income shocks was similar for both genders, women were **twice as likely** to stop working entirely (3.4 percent of women versus 6.9 percent, compared to men's lower rates) and nearly three times as likely to experience prolonged work absence (5.1 percent for women versus 1.8 percent for men). In manufacturing, 36 percent of workers are women, but 22 percent of female manufacturing workers had stopped working or were on prolonged absence, compared to 8 percent of male colleagues.[^42]
 
-> *→ **Extended Coverage:** For comprehensive analysis of women's economic participation — including labour force participation barriers, the NEET gender gap, COVID lending disparities, and women's entrepreneurship — see **Part V: Gender, GBV, and Women's Empowerment, §5.44–§5.57** and **§5.117** of this encyclopedia.*
+> *→ **Extended Coverage:** For comprehensive analysis of women's economic participation – including labour force participation barriers, the NEET gender gap, COVID lending disparities, and women's entrepreneurship – see **Part V: Gender, GBV, and Women's Empowerment, §5.44–§5.57** and **§5.117** of this encyclopedia.*
 
 ---
 
@@ -247,7 +247,7 @@ The livelihood assessments revealed critical disparities in vulnerability:
 
 The Maldives' development model has produced pronounced spatial disparities that cannot be reduced to a simple Male'-atolls binary. The World Bank's 2022 Poverty Assessment demonstrates that clusters of better-off and worse-off atolls exist within each region and zone, based on the National Spatial Plan's geographic framework.
 
-In the **North Region** (283.6 km north-south distance), the Upper North zone contains Haa Alif (12.5 percent poverty), Haa Dhaalu (12.9 percent), and Shaviyani (5.6 percent). In the Lower North zone, Raa has the country's highest atoll poverty rate at 18.9 percent, while neighbouring Baa has only 1.7 percent and Laviyani just 2.1 percent. These adjacent atolls share similar geographic characteristics but have starkly different economic profiles, likely related to tourism development (Baa includes a UNESCO Biosphere Reserve with significant resort development).[^50]
+In the **North Region** (283.6 km north-south distance), the Upper North zone contains Haa Alif (12.5 percent poverty), Haa Dhaalu (12.9 percent), and Shaviyani (5.6 percent). In the Lower North zone, Raa has the country's highest atoll poverty rate at 18.9 percent, while neighbouring Baa has only 1.7 percent and Laviyani just 2.1 percent. These adjacent atolls share similar geographic characteristics but have markedly different economic profiles, likely related to tourism development (Baa includes a UNESCO Biosphere Reserve with significant resort development).[^50]
 
 In the **Central Region** (378.3 km north-south), Alif Alif (14.2 percent) and Thaa (14.4 percent) show high poverty alongside neighbours with rates below 3 percent (Alif Daalu at 3.1 percent, Daalu at 2.7 percent, Waavu at 2.8 percent).
 
@@ -285,7 +285,7 @@ Fishing communities face multiple sources of vulnerability:
 
 **Generational change**: Younger Maldivians in atolls increasingly aspire to service-sector employment (particularly government or tourism jobs), and fishing is viewed as a low-status occupation. This creates a potential labour shortage in the fishery and erodes the traditional knowledge base, even as alternative employment remains scarce in many islands.
 
-### Fisheries and the COVID-19 Crisis
+### Fisheries and the COVID-19 Impact
 
 The pandemic's impact on fisheries was complex. While fisheries were not subject to direct closure orders (unlike tourism and guesthouse operations), the cascade of restrictions disrupted market access, transport logistics, and export chains. The Rapid Livelihood Assessment noted that approximately 5 percent of fisheries workers experienced complete work suspension, but broader impacts -- reduced catches due to transport restrictions, inability to sell catch at normal prices, disruption of export logistics -- affected a much larger share of fishing communities. The fisheries sector is the most important primary economic activity and source of employment in almost all inhabited islands, so any disruption has immediate welfare consequences for atoll communities that lack alternative income sources.[^57]
 
@@ -325,7 +325,7 @@ Multiple international development frameworks shape the policy response to housi
 
 The convergent evidence from poverty assessments, housing studies, livelihood assessments, and country diagnostics points to several interconnected policy imperatives:
 
-**1. Regional economic development and decentralization.** The extreme concentration of economic activity and population in the Greater Male' Region is the single most important structural driver of both housing crisis and atoll poverty. Effective implementation of the National Spatial Plan -- through genuine investment in regional hubs with secondary healthcare, higher education, transport connectivity, and private-sector enabling infrastructure -- is essential. Budget allocations must be guided not only by population size and distance but by demonstrated poverty rates and economic potential. Improved inter-atoll ferry connections are a prerequisite for regional hub strategies to function.[^68]
+**1. Regional economic development and decentralization.** The extreme concentration of economic activity and population in the Greater Male' Region is a primary structural driver of both the housing shortage and atoll poverty. Effective implementation of the National Spatial Plan -- through genuine investment in regional hubs with secondary healthcare, higher education, transport connectivity, and private-sector enabling infrastructure -- is essential. Budget allocations must be guided not only by population size and distance but by demonstrated poverty rates and economic potential. Improved inter-atoll ferry connections are a prerequisite for regional hub strategies to function.[^68]
 
 **2. Housing supply and affordability in Greater Male'.** The housing crisis requires expansion of social housing stock, introduction of affordable mortgage products with targeted subsidies for disadvantaged groups (low-income earners, single parents, persons with disabilities, elderly), continued development of Hulhumale' Phase II with explicit affordability targets, establishment of housing finance safety nets backed by annual government allocations, and regulatory mechanisms to prevent developer add-ons from inflating costs beyond approved price points. Cross-subsidization models through public-private partnerships should allocate a mandated percentage of new developments to lower-income housing.[^69]
 

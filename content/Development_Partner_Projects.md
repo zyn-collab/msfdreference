@@ -418,13 +418,13 @@ The project demonstrates the growing recognition that climate resilience and soc
 
 ---
 
-### 2.4 The AIM Project — Accountability and Integration Matters
+### 2.4 The AIM Project – Accountability and Integration Matters
 
 **Donor:** European Union / UNDP Maldives (joint initiative)
 **Partner:** Ministry of Social and Family Development (MoSFD)
 **Objective:** Creating an inclusive justice system for gender-based violence and domestic abuse survivors.
 
-The AIM (Accountability and Integration Matters) project is a collaboration between the EU, UNDP Maldives, and MoSFD. It focuses on justice sector reform to improve access for GBV and domestic abuse survivors — addressing barriers documented throughout this encyclopedia, including incomplete DV criminalisation, the marital rape consent presumption, and geographic barriers to legal services. Further details on budget, timeline, and specific deliverables should be obtained from UNDP Maldives or MoSFD.
+The AIM (Accountability and Integration Matters) project is a collaboration between the EU, UNDP Maldives, and MoSFD. It focuses on justice sector reform to improve access for GBV and domestic abuse survivors – addressing barriers documented throughout this encyclopedia, including incomplete DV criminalisation, the marital rape consent presumption, and geographic barriers to legal services. Further details on budget, timeline, and specific deliverables should be obtained from UNDP Maldives or MoSFD.
 
 **Sources:** [UNDP Maldives](https://www.undp.org/maldives/projects/accountability-and-integrity-matters-aim-project); [MoSFD Facebook](https://www.facebook.com/MSFDmv/posts/678818241105312/).
 

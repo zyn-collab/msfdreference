@@ -11,40 +11,40 @@ This summary distils the key points from the full encyclopedia chapter into a sl
 
 ## Slide 1: Pre-Modern Gender Dynamics
 
-The Maldives presents a paradox: women's educational attainment now exceeds men's at secondary and tertiary levels, female sultanas exercised sovereign authority historically, and matrilocal marriage gave women residential stability — yet labour force participation, political representation, and protection from violence remain deeply constrained.
+The Maldives presents a paradox: women's educational attainment now exceeds men's at secondary and tertiary levels, female sultanas exercised sovereign authority historically, and matrilocal marriage gave women residential stability – yet labour force participation, political representation, and protection from violence remain deeply constrained.
 
 **Historical features:**
-- **Matrilocal marriage:** Husbands moved to wife's family island/household — unusual in the Muslim world; gave women residential stability and social standing
-- **Women's economic roles:** Fish drying/processing (*mas hiki*), weaving, handicraft production — substantial and socially recognised, though confined to traditionally feminised domains
-- **Female sultanas:** Rehendhi Khadijah ruled three times in the 12th century — female sovereign authority was possible but exceptional
+- **Matrilocal marriage:** Husbands moved to wife's family island/household – unusual in the Muslim world; gave women residential stability and social standing
+- **Women's economic roles:** Fish drying/processing (*mas hiki*), weaving, handicraft production – substantial and socially recognised, though confined to traditionally feminised domains
+- **Female sultanas:** Rehendhi Khadijah ruled three times in the 12th century – female sovereign authority was possible but exceptional
 - **Divorce:** Among the world's highest rates historically; Guinness Record in 2002 (10.97 per 1,000 population). Serial marriage/divorce common. Social consequences fell disproportionately on women and children
-- **Island governance:** Entirely male — *kadheeb* (island chief) controlled administration and dispute resolution. Women had no formal governance role
-- **Education:** Gender-differentiated from the outset. Majeediyya School (1927) — boys only. Aminiya School (1944) — first girls' school, one of the earliest in the Indian Ocean region
+- **Island governance:** Entirely male – *kadheeb* (island chief) controlled administration and dispute resolution. Women had no formal governance role
+- **Education:** Gender-differentiated from the outset. Majeediyya School (1927) – boys only. Aminiya School (1944) – first girls' school, one of the earliest in the Indian Ocean region
 
 ---
 
-## Slide 2: 1965-2006 — From Independence to the First DV Survey
+## Slide 2: 1965-2006 – From Independence to the First DV Survey
 
 | Year | Development |
 |---|---|
 | 1965-1980s | National school-building programme expanded girls' primary education across all inhabited islands |
 | 1993 | CEDAW ratification (1 July 1993) with reservations on Articles 7(a) and 16 (Islamic law) |
-| 1993 | Ministry of Youth, Women and Social Welfare established — first institutional recognition |
+| 1993 | Ministry of Youth, Women and Social Welfare established – first institutional recognition |
 | 1990s | No DV legislation, no legal framework for intervention, no data on violence prevalence |
 | 2006 | **Fulu Study (Women's Health and Life Experiences):** ~1 in 3 women experienced physical/sexual IPV; 12.2% childhood sexual abuse (16.3% in Male'). WHO multi-country methodology. |
-| 2006 | Family Protection Authority (FPA) established — predating the DVPA by 6 years |
+| 2006 | Family Protection Authority (FPA) established – predating the DVPA by 6 years |
 
 **The 2006 Fulu Study was the defining moment.** It provided the first rigorous evidence that DV was a systemic problem, not individual aberration. Every subsequent piece of gender legislation cited this study.
 
 ---
 
-## Slide 3: 2008-2018 — Legislative Wave
+## Slide 3: 2008-2018 – Legislative Wave
 
 | Year | Legislation/Development | Key Provision |
 |---|---|---|
 | 2008 | New Constitution | Article 36(a): state must "ensure the rights of women and work to achieve equality" |
 | 2008-2012 | Nasheed administration | Single Parent Allowance; 1412 expanded to DV calls; DV legislation drafted |
-| 2012 | **Domestic Violence Prevention Act (DVPA)** | First DV-specific law. Created protection orders, FPA mandate, survivor support obligation. **Did NOT criminalise DV** — established civil framework. Criminal acts prosecuted under Penal Code separately |
+| 2012 | **Domestic Violence Prevention Act (DVPA)** | First DV-specific law. Created protection orders, FPA mandate, survivor support obligation. **Did NOT criminalise DV** – established civil framework. Criminal acts prosecuted under Penal Code separately |
 | 2014 | **Sexual Offences Act (SOA)** | Modern definitions of rape (penetration without consent), sexual assault, CSA. **Marital rape exception:** Section 130(b) excluded marital intercourse from rape definition |
 | 2016 | **Gender Equality Act (GEA)** | Gender mainstreaming mandate; Women's Development Committees (WDCs) on every island; gender-responsive budgeting requirement; Gender Equality Action Plans |
 
@@ -52,18 +52,18 @@ The Maldives presents a paradox: women's educational attainment now exceeds men'
 
 ---
 
-## Slide 4: 2018-Present — Marital Rape Criminalised, Quota Enacted
+## Slide 4: 2018-Present – Marital Rape Criminalised, Quota Enacted
 
 **Solih administration (2018-2023):**
-- **2021 Penal Code amendment:** Marital rape criminalised — removed the presumption of consent within marriage. First time in Maldivian legal history that forced sex within marriage was explicitly actionable as rape.
-- **2021 Local council gender quota:** 33% reserved seats for women in local councils. Resulted in 39.7% women in local councils after 2021 election — highest female representation at any level of Maldivian government.
+- **2021 Penal Code amendment:** Marital rape criminalised – removed the presumption of consent within marriage. First time in Maldivian legal history that forced sex within marriage was explicitly actionable as rape.
+- **2021 Local council gender quota:** 33% reserved seats for women in local councils. Resulted in 39.7% women in local councils after 2021 election – highest female representation at any level of Maldivian government.
 - CEDAW 6th Periodic Report submitted (2021)
 - Gender Equality Action Plan 2022-2026 developed
 
 **Muizzu administration (2023-present):**
 - Ministry renamed MoSFD (from MoGFSS)
 - Gender ministry portfolio restructured
-- Policy direction under observation — early signals of reduced emphasis on gender mainstreaming as a standalone priority
+- Policy direction under observation – early signals of reduced emphasis on gender mainstreaming as a standalone priority
 
 ---
 
@@ -96,7 +96,7 @@ The Maldives presents a paradox: women's educational attainment now exceeds men'
 
 3. **The Male'-atoll gap:** Services, courts, shelters, legal aid concentrate in Male'. Atoll women have less access to DV response, fewer economic alternatives, and stronger community surveillance suppressing disclosure
 
-4. **Gendered economic dependency:** 42.7% female NEET rate in atolls; 4 daycare centres nationally; 92% of women outside the labour force cite family responsibilities; women's informal sector work (manufacturing, handicrafts) does not contribute to MRPS pension — creating lifelong economic vulnerability
+4. **Gendered economic dependency:** 42.7% female NEET rate in atolls; 4 daycare centres nationally; 92% of women outside the labour force cite family responsibilities; women's informal sector work (manufacturing, handicrafts) does not contribute to MRPS pension – creating lifelong economic vulnerability
 
 5. **Cultural normalisation of violence:** Honour ideology, satr norms, and community pressure to reconcile rather than separate sustain tolerance of DV as a private family matter
 
@@ -117,7 +117,7 @@ The Maldives presents a paradox: women's educational attainment now exceeds men'
 | Article | Provision | Operational Significance |
 |---|---|---|
 | Article 17 | Prohibition of discrimination | General non-discrimination |
-| Article 36(a) | State must "ensure the rights of women and work to achieve equality" | Positive obligation — not just prohibiting discrimination but requiring action |
+| Article 36(a) | State must "ensure the rights of women and work to achieve equality" | Positive obligation – not just prohibiting discrimination but requiring action |
 | Article 10 | No law contrary to Islam | Creates tension with CEDAW on family law, corporal punishment, marriage |
 | Article 35 | Right to social security | Basis for single parent allowance |
 
@@ -129,7 +129,7 @@ The Maldives presents a paradox: women's educational attainment now exceeds men'
 
 **Key provisions:** First DV-specific law. Protection orders (exclusion, no-contact). FPA mandate. Survivor support obligation.
 
-**What the DVPA did NOT do:** Did not criminalise DV as a standalone offence — civil framework only. Criminal acts prosecuted under Penal Code separately. Did not mandate DV training for police/judiciary. Did not establish minimum police response standards.
+**What the DVPA did NOT do:** Did not criminalise DV as a standalone offence – civil framework only. Criminal acts prosecuted under Penal Code separately. Did not mandate DV training for police/judiciary. Did not establish minimum police response standards.
 
 **Implementation:** FPA attended 642 cases at peak (2016). Women ~82% of reporters. 3% DV prosecution rate. 4 shelters nominally; HRCM (2021) found none fully functional. 1 operational longer-term shelter (Gaafu Dhaalu).
 
@@ -139,7 +139,7 @@ The Maldives presents a paradox: women's educational attainment now exceeds men'
 
 **SOA 2014:** Modern definitions of rape (penetration without consent), sexual assault, CSA. Higher penalties.
 
-**Critical gap (2014-2021):** Penal Code Section 130(b) — rebuttable presumption of consent within marriage. Marital rape not actionable as rape for 7 years.
+**Critical gap (2014-2021):** Penal Code Section 130(b) – rebuttable presumption of consent within marriage. Marital rape not actionable as rape for 7 years.
 
 **2021 amendment:** Presumption of consent removed. Marital rape criminalised for the first time in Maldivian legal history.
 
@@ -185,7 +185,7 @@ The Maldives presents a paradox: women's educational attainment now exceeds men'
 | Shelters | 4 nominal; none fully functional (HRCM 2021) |
 | Flogging | ~85% of persons sentenced are women/girls (zina) |
 
-The criminal justice system disproportionately fails women who seek justice and disproportionately punishes women (flogging for zina). This combination — impunity for perpetrators, punishment for victims — defines the operational environment.
+The criminal justice system disproportionately fails women who seek justice and disproportionately punishes women (flogging for zina). This combination – impunity for perpetrators, punishment for victims – defines the operational environment.
 
 ---
 
@@ -227,7 +227,7 @@ The criminal justice system disproportionately fails women who seek justice and 
 
 ---
 
-## Slide 2: The Family Protection Authority — Operations
+## Slide 2: The Family Protection Authority – Operations
 
 **Established 2006** (6 years before the DVPA gave it a legal mandate). Independent regulatory body under DVPA 2012.
 
@@ -243,7 +243,7 @@ The criminal justice system disproportionately fails women who seek justice and 
 | 2015 | 438 | Awareness growing |
 | 2016 | 642 | Near-peak |
 | 2019 | 696 | New record |
-| 2020 | 537 | COVID — access barriers, not reduced violence |
+| 2020 | 537 | COVID – access barriers, not reduced violence |
 | 2021 | 696 | Post-COVID peak |
 | 2024 | 537 | |
 
@@ -259,15 +259,15 @@ The increase from 19 to 696 reflects growing awareness and willingness to report
 |---|---|
 | FPA transitional house (Male') | Operational; limited capacity; short-term emergency |
 | Hope for Women shelter (Male') | Operational; very limited capacity |
-| ADB shelter — Addu City (Hithadhoo) | Under development (ADB Project 54373-001) |
-| ADB shelter — Hulhumale' | Under development |
-| ADB shelter — Raa Atoll | Under development |
+| ADB shelter – Addu City (Hithadhoo) | Under development (ADB Project 54373-001) |
+| ADB shelter – Hulhumale' | Under development |
+| ADB shelter – Raa Atoll | Under development |
 
-**The shelter gap:** 3 facilities serve 188 inhabited islands. No purpose-built DV shelter existed in Male' before these developments. Shelter stays are time-limited — exit often means returning to dangerous situations or to family whose support may be conditional. The absence of safe emergency housing is the most critical GBV service failure.
+**The shelter gap:** 3 facilities serve 188 inhabited islands. No purpose-built DV shelter existed in Male' before these developments. Shelter stays are time-limited – exit often means returning to dangerous situations or to family whose support may be conditional. The absence of safe emergency housing is a primary gap in the GBV service system.
 
 ---
 
-## Slide 4: Police Response — Documented Failures
+## Slide 4: Police Response – Documented Failures
 
 The MPS FCPW is the specialist unit for DV/child abuse investigation. The MPS Strategic Plan 2024-2028 identifies DV as a strategic priority. The operational reality documented by multiple sources:
 
@@ -281,23 +281,23 @@ The MPS FCPW is the specialist unit for DV/child abuse investigation. The MPS St
 
 ---
 
-## Slide 5: Women's Development Committees — Theory vs Reality
+## Slide 5: Women's Development Committees – Theory vs Reality
 
 **On every inhabited island** (~270). Elected volunteers. GEA-mandated governance bodies.
 
 **Transparency Maldives 2015 Assessment findings (confirmed by UNDP/MoSFD 2022 Capacity Assessment):**
-- Difficult relationships with island councils — WDCs excluded from meetings, concerns dismissed
-- No independent budget — depend entirely on council goodwill
-- Advisory only — no authority to compel action by any agency
-- Double burden — volunteers combining WDC with domestic, employment, and other community roles
-- Training gap — fewer than 40% received any formal MoSFD training in 2 years
+- Difficult relationships with island councils – WDCs excluded from meetings, concerns dismissed
+- No independent budget – depend entirely on council goodwill
+- Advisory only – no authority to compel action by any agency
+- Double burden – volunteers combining WDC with domestic, employment, and other community roles
+- Training gap – fewer than 40% received any formal MoSFD training in 2 years
 - Most WDC members could not describe the DV referral pathway or identify which agency to contact first
 
 **The consequence:** The system's design relies on WDCs as the outer island first-response mechanism for DV. In practice, most WDCs lack the training, authority, and resources to fulfil this function.
 
 ---
 
-## Slide 6: The AIM Project — Targeting the Justice Pathway
+## Slide 6: The AIM Project – Targeting the Justice Pathway
 
 **Joint EU-UNDP-MoSFD initiative (2022-2025)** specifically targeting the 3% DV prosecution rate.
 
@@ -309,7 +309,7 @@ The MPS FCPW is the specialist unit for DV/child abuse investigation. The MPS St
 - Psychosocial support for survivors participating in justice processes
 - Justice sector case management reform
 
-**The fragmentation problem AIM addresses:** A DV case on an outer island may involve the island council, police FCPW, FPA caseworkers in Male', Family Court, prosecution service, NSPA welfare support, and HRCM monitoring — each with separate protocols, separate case management systems, and geographic constraints. No integrated case management system exists. The survivor's experience is fragmented across agencies with no single point of accountability.
+**The fragmentation problem AIM addresses:** A DV case on an outer island may involve the island council, police FCPW, FPA caseworkers in Male', Family Court, prosecution service, NSPA welfare support, and HRCM monitoring – each with separate protocols, separate case management systems, and geographic constraints. No integrated case management system exists. The survivor's experience is fragmented across agencies with no single point of accountability.
 
 ---
 
@@ -341,7 +341,7 @@ The MPS FCPW is the specialist unit for DV/child abuse investigation. The MPS St
 
 ---
 
-## Slide 9: The Coordination Problem
+## Slide 9: Coordination Across Agencies
 
 No single agency has authority over all GBV response actors. MoSFD sets policy but cannot direct police, prosecution, courts, or health services. Coordination depends on MoUs, personal relationships, and goodwill.
 
@@ -349,7 +349,7 @@ No single agency has authority over all GBV response actors. MoSFD sets policy b
 - FPA-CFPS: Cases involving both DV and children need joint response; no systematic joint protocol
 - FPA-police: Response quality depends on individual officers' attitudes, not enforceable standards
 - Health sector: No standardised DV screening in clinical settings despite 2024 UNFPA guidelines
-- FCSCs: Generalist staff handle GBV alongside child protection, elderly, disability — GBV is one of many competing priorities
+- FCSCs: Generalist staff handle GBV alongside child protection, elderly, disability – GBV is one of many competing priorities
 - WDC-FPA: No formal referral pathway in most islands despite WDCs' designated first-response role
 - Court-police-correctional: Protection orders not systematically shared across agencies
 
@@ -358,14 +358,14 @@ No single agency has authority over all GBV response actors. MoSFD sets policy b
 ## Slide 10: Discussion
 
 - What coordination gaps between institutions most affect GBV case outcomes in your experience?
-- How effective are the WDCs in your atoll — and what would make them more effective?
+- How effective are the WDCs in your atoll – and what would make them more effective?
 
 ## Module 4: Demographics and Data
 
 
 ---
 
-## Slide 1: GBV Prevalence — National Studies
+## Slide 1: GBV Prevalence – National Studies
 
 | Study | Year | Methodology | Key Finding |
 |---|---|---|---|
@@ -374,7 +374,7 @@ No single agency has authority over all GBV response actors. MoSFD sets policy b
 
 **Childhood sexual abuse (Fulu 2006-07):**
 - 12.2% of women (15-49) nationally
-- 16.3% of women in Male' (higher urban rate — may reflect higher prevalence or higher disclosure)
+- 16.3% of women in Male' (higher urban rate – may reflect higher prevalence or higher disclosure)
 - Approximately 1 in 8 Maldivian women experienced childhood sexual abuse
 
 **Controlling behaviours (Fulu 2006-07):**
@@ -397,7 +397,7 @@ No single agency has authority over all GBV response actors. MoSFD sets policy b
 | Women 45-49 | 38% | DHS 2016-17 |
 | Women 15-19 | 1% | DHS 2016-17 |
 
-The generational decline (38% among older women to 1% among youngest) indicates the practice is disappearing but not eliminated. No dedicated FGM/C legislation exists — it falls under general criminal provisions. Predominantly Type I or IV. Both CRC and CEDAW Committees have flagged the need for explicit legislation and continued monitoring.
+The generational decline (38% among older women to 1% among youngest) indicates the practice is disappearing but not eliminated. No dedicated FGM/C legislation exists – it falls under general criminal provisions. Predominantly Type I or IV. Both CRC and CEDAW Committees have flagged the need for explicit legislation and continued monitoring.
 
 ---
 
@@ -455,7 +455,7 @@ The cumulative probability from experiencing violence to perpetrator conviction 
 | Supreme Court | 0 women | 2024 |
 | Lawyers sworn in (2016 cohort) | 60% women | 2016 |
 
-The 33% local council quota (2021) produced the only significant female representation at any governance level. Without quotas, women's representation has been negligible — pre-quota local council women were ~4%. The April 2024 parliamentary election produced the lowest female parliamentary representation in democratic history (3.2%). No parliamentary quota has been enacted.
+The 33% local council quota (2021) produced the only significant female representation at any governance level. Without quotas, women's representation has been negligible – pre-quota local council women were ~4%. The April 2024 parliamentary election produced the lowest female parliamentary representation in democratic history (3.2%). No parliamentary quota has been enacted.
 
 ---
 
@@ -469,7 +469,7 @@ The 33% local council quota (2021) produced the only significant female represen
 | Elderly widowed | 47.4% | 11.1% |
 | Elderly in labour force | 9% | 22% |
 | Retirement pension beneficiaries (2023) | 411 (22%) | 1,458 (78%) |
-| Divorced women exceeds divorced men by | 42.86% | — |
+| Divorced women exceeds divorced men by | 42.86% | – |
 
 **The retirement pension gender gap (78% male, 22% female)** reflects historical exclusion from formal employment. Most elderly women rely entirely on the basic pension (MVR 5,000/month). Women's concentration in informal/part-time work throughout their lives means no MRPS pension accumulation.
 
@@ -484,9 +484,9 @@ The 33% local council quota (2021) produced the only significant female represen
 | Legal access | Family Court, Family Legal Clinic | Magistrate courts only; no legal aid |
 | Childcare | 4 daycare centres (all in Male' area) | None |
 | Confidentiality | Possible (urban anonymity) | Impossible (islands of 300-500 people) |
-| Social surveillance | Reduced | Intense — everyone knows everyone |
+| Social surveillance | Reduced | Intense – everyone knows everyone |
 
-Poverty concentrates in atolls (9.5% vs 0.9% Male'). GBV services concentrate in Male'. The populations most in need are least served — a pattern consistent across all social policy domains.
+Poverty concentrates in atolls (9.5% vs 0.9% Male'). GBV services concentrate in Male'. The populations most in need are least served – a pattern consistent across all social policy domains.
 
 ---
 
@@ -554,11 +554,11 @@ Poverty concentrates in atolls (9.5% vs 0.9% Male'). GBV services concentrate in
 | Risk assessment | Not consistently conducted in atoll cases |
 | Safety planning | Caseworker caseloads may limit quality |
 | Protection order | FPA geographic concentration in Male' limits facilitation for atoll women |
-| Criminal referral | Not made in most DV cases — police treat as family matter |
+| Criminal referral | Not made in most DV cases – police treat as family matter |
 | Police → prosecution | 97% of cases drop out at this stage |
 | Court | 16.7% conviction of cases that reach trial |
 
-**The outer atoll gap:** For a woman on a small island, the formal pathway is largely inaccessible. FPA caseworkers are in Male'. The Family Court is in Male'. Police FCPW is Male'-based. Legal aid is Male'-based. In practice, outer atoll DV response depends on whatever local capacity exists — island council members, local police, WDC volunteers, atoll hospital staff — few of whom have specialised DV training.
+**The outer atoll gap:** For a woman on a small island, the formal pathway is largely inaccessible. FPA caseworkers are in Male'. The Family Court is in Male'. Police FCPW is Male'-based. Legal aid is Male'-based. In practice, outer atoll DV response depends on whatever local capacity exists – island council members, local police, WDC volunteers, atoll hospital staff – few of whom have specialised DV training.
 
 ---
 
@@ -577,7 +577,7 @@ Poverty concentrates in atolls (9.5% vs 0.9% Male'). GBV services concentrate in
 The ADB shelters (Project 54373-001) will be the first expansion of DV shelter infrastructure beyond Male'. They are climate-resilient design. Even when complete, 5 facilities for 188 inhabited islands represents minimal geographic coverage.
 
 **Shelter limitations:**
-- Time-limited stays — exit without safe long-term housing often means returning to danger or conditional family support
+- Time-limited stays – exit without safe long-term housing often means returning to danger or conditional family support
 - No long-term transitional housing programme for DV survivors
 - No childcare within shelters (women flee with children)
 - Transportation to reach a shelter from a remote island is itself a barrier
@@ -592,7 +592,7 @@ The ADB shelters (Project 54373-001) will be the first expansion of DV shelter i
 | Legal Aid Commission | Male' primarily | Insufficient staff and budget; atoll access minimal |
 | Employment Tribunal | Male' | Handles workplace discrimination/harassment under GEA |
 
-**The 3.7% figure:** Only 3.7% of women who experience violence receive any legal assistance. For the 96.3% who don't, navigating the legal system (protection orders, divorce, custody, maintenance) happens without representation — a significant disadvantage in proceedings where the law is complex and cultural pressures to withdraw are strong.
+**The 3.7% figure:** Only 3.7% of women who experience violence receive any legal assistance. For the 96.3% who don't, navigating the legal system (protection orders, divorce, custody, maintenance) happens without representation – a significant disadvantage in proceedings where the law is complex and cultural pressures to withdraw are strong.
 
 ---
 
@@ -608,7 +608,7 @@ The ADB shelters (Project 54373-001) will be the first expansion of DV shelter i
 | Hope for Women advocacy | Hope for Women | Public campaigns, media engagement, survivor voices |
 | Moms Aid community education | Moms Aid | Violence awareness; community-level understanding of risks and support |
 
-**Religious engagement:** MoSFD's DV Prevention Communication Strategy (2023) includes a component on working with the Ministry of Islamic Affairs to develop gender-sensitive religious messaging — recognising that transforming the religious framing of DV requires engagement with religious institutions.
+**Religious engagement:** MoSFD's DV Prevention Communication Strategy (2023) includes a component on working with the Ministry of Islamic Affairs to develop gender-sensitive religious messaging – recognising that transforming the religious framing of DV requires engagement with religious institutions.
 
 ---
 
@@ -622,7 +622,7 @@ The ADB shelters (Project 54373-001) will be the first expansion of DV shelter i
 | ADB GESI Project | ADB | GESI data; GRB implementation; social service capacity |
 | Guesthouse sector development | Tourism sector | Island-based tourism employment accessible to women (unlike resort model) |
 
-**The childcare gap:** No programme addresses the 4-daycare-centre reality. Without childcare infrastructure, economic empowerment programmes reach only women who have already solved the childcare problem through family arrangements — excluding those most in need.
+**The childcare gap:** No programme addresses the 4-daycare-centre reality. Without childcare infrastructure, economic empowerment programmes reach only women who have already solved the childcare problem through family arrangements – excluding those most in need.
 
 ---
 
@@ -638,9 +638,9 @@ WDCs exist on every inhabited island (~270) and are the only gender-focused gove
 - Connect women with services and opportunities
 
 **What WDCs actually do (on average):**
-- Varies dramatically by island — from active governance participants to dormant paper entities
+- Varies dramatically by island – from active governance participants to dormant paper entities
 - Most lack the training to identify DV or navigate referral pathways
-- No budget for activities — dependent on council goodwill
+- No budget for activities – dependent on council goodwill
 - No authority to compel action by any agency
 - Members face social consequences for facilitating DV disclosures on small islands
 
@@ -711,13 +711,13 @@ WDCs exist on every inhabited island (~270) and are the only gender-focused gove
 
 ---
 
-## Slide 2: The Fulu Study — What Practitioners Need to Know
+## Slide 2: The Fulu Study – What Practitioners Need to Know
 
 **Methodology:** WHO multi-country methodology; ~1,500 women; nationally representative; face-to-face interviews with trained female interviewers; strict privacy and safety protocols.
 
 **Core findings relevant to casework:**
 - ~1 in 3 women experienced physical/sexual IPV (higher end of international range; comparable to Bangladesh)
-- Severe violence (broken bones, burns, beaten unconscious) documented — not just "conflict" but violence at the severity spectrum's upper end
+- Severe violence (broken bones, burns, beaten unconscious) documented – not just "conflict" but violence at the severity spectrum's upper end
 - Controlling behaviour prevalent: 57% partner insists on knowing location; 50% jealousy if she speaks to another man
 - 12.2% CSA nationally (16.3% Male')
 - Majority of abused women never sought help: shame, fear of not being believed, normalisation, concern for children
@@ -726,20 +726,20 @@ WDCs exist on every inhabited island (~270) and are the only gender-focused gove
 - Whether prevalence has changed since the DVPA, GEA, marital rape criminalisation, council quota, and COVID-19
 - Whether the nature of violence has changed (digital GBV, economic abuse patterns)
 - Whether help-seeking behaviour has improved
-- Updated data is urgently needed — the CEDAW Committee has specifically called for a new prevalence study
+- Updated data is urgently needed – the CEDAW Committee has specifically called for a new prevalence study
 
 ---
 
-## Slide 3: The UNFPA Legal Review (McCabe 2023) — Structural Barriers
+## Slide 3: The UNFPA Legal Review (McCabe 2023) – Structural Barriers
 
 The most comprehensive review of GBV-related laws identified structural barriers embedded in the legal framework itself:
 
-**SOA Section 52 — the evidence burden:**
+**SOA Section 52 – the evidence burden:**
 - Requires 5 types of specified evidence for rape prosecution
 - Identified by civil society, UNFPA, and the UN Working Group as "extremely burdensome and a major barrier to justice"
-- Most sexual offences occur without independent witnesses or physical evidence — the evidence requirements structurally filter out most cases before trial
+- Most sexual offences occur without independent witnesses or physical evidence – the evidence requirements structurally filter out most cases before trial
 
-**Penal Code Section 130(b) — the surviving marital loophole:**
+**Penal Code Section 130(b) – the surviving marital loophole:**
 - Even after the 2021 SOA amendment removing the marital rape exception, the Penal Code maintains a rebuttable presumption of consent within marriage
 - A husband accused of marital rape can invoke this presumption
 - The burden falls on the victim to rebut the legal presumption AND meet the Section 52 evidence requirements
@@ -752,7 +752,7 @@ The most comprehensive review of GBV-related laws identified structural barriers
 
 ---
 
-## Slide 4: The Musawah Research (2018) — Islamic Feminist Analysis
+## Slide 4: The Musawah Research (2018) – Islamic Feminist Analysis
 
 **What the Musawah framework found:**
 - Islamic law as practised in the Maldives creates specific structural gender inequalities (unilateral talaq, custody asymmetry, inheritance differential, polygamy)
@@ -796,7 +796,7 @@ The most comprehensive review of GBV-related laws identified structural barriers
 
 ---
 
-## Slide 7: Policy Incoherence — What the Evidence Reveals
+## Slide 7: Policy Incoherence – What the Evidence Reveals
 
 Research has documented specific instances where policies in different sectors work at cross-purposes:
 
@@ -832,7 +832,7 @@ Policy coherence requires cross-sectoral coordination at senior government level
 | Gender-Responsive Climate Financing Strategy | 2023+ | Early implementation | MoSFD/MoE |
 | NAPVAC | 2024-2028 | Current (GBV components) | MoSFD |
 
-**Pattern:** Frequent plan production with limited implementation continuity — compounded by government changes that disrupt institutional priorities.
+**Pattern:** Frequent plan production with limited implementation continuity – compounded by government changes that disrupt institutional priorities.
 
 ---
 
@@ -859,7 +859,7 @@ SDG monitoring provides a framework but does not drive implementation on its own
 Same challenges that affect child protection action plans apply to gender:
 
 1. **Unfunded mandates:** Plans set targets without secured budget
-2. **No enforcement mechanism:** Non-compliance has no formal consequence — <40% of ministries comply with GRB despite legal requirement
+2. **No enforcement mechanism:** Non-compliance has no formal consequence – <40% of ministries comply with GRB despite legal requirement
 3. **Multi-agency requirements without authority:** MoSFD cannot compel police, prosecution, courts, health, or other ministries
 4. **Plan succession without evaluation:** GBV Response Framework 2020-2024 expired; successor unclear; no published evaluation
 5. **Atoll implementation gap:** Plans designed in Male'; translation to 188 islands depends on FCSC/WDC capacity
@@ -877,7 +877,7 @@ The Gender Equality Act mandates Gender-Responsive Budgeting across all ministri
 | Enforcement mechanism for non-compliance | None |
 | MoSFD authority to compel other ministries | None |
 
-GRB is significant because it creates an institutional mechanism for ensuring that national budget decisions — education subsidies, transportation, health services, childcare — are analysed through their differential gender impact. Its under-implementation means fiscal policy and gender equality commitments operate independently.
+GRB is significant because it creates an institutional mechanism for ensuring that national budget decisions – education subsidies, transportation, health services, childcare – are analysed through their differential gender impact. Its under-implementation means fiscal policy and gender equality commitments operate independently.
 
 ---
 
@@ -911,8 +911,8 @@ GRB is significant because it creates an institutional mechanism for ensuring th
 **Ratified:** 1 July 1993 (not 1984 as sometimes cited)
 
 **Reservations (unresolved as of 2025):**
-- Article 7(a) — women's right to vote and stand for election in certain religious advisory bodies
-- Article 16 — equality in marriage and family relations (Islamic law governs marriage, divorce, inheritance)
+- Article 7(a) – women's right to vote and stand for election in certain religious advisory bodies
+- Article 16 – equality in marriage and family relations (Islamic law governs marriage, divorce, inheritance)
 - Blanket declaration: compliance only insofar as not inconsistent with Islamic Shariah
 
 **Reporting cycle:** Government periodic reports → CSO/HRCM shadow reports → Committee review → Concluding Observations with specific recommendations → Government expected to implement
@@ -921,7 +921,7 @@ GRB is significant because it creates an institutional mechanism for ensuring th
 
 ---
 
-## Slide 2: CEDAW Committee Recommendations — Status Tracker
+## Slide 2: CEDAW Committee Recommendations – Status Tracker
 
 | Recommendation | Status |
 |---|---|
@@ -935,7 +935,7 @@ GRB is significant because it creates an institutional mechanism for ensuring th
 | Local council gender quota | Implemented (33% quota, 39.7% result) |
 | Gender-responsive budgeting | Partially (<40% ministry compliance) |
 | Strengthen shelter system | In progress (ADB 3 shelters under development) |
-| Address gender wage gap | Limited — no systematic measurement exists |
+| Address gender wage gap | Limited – no systematic measurement exists |
 | New GBV prevalence study | Not conducted (last study 2016-17) |
 
 **Overall: 3% of 55 recommendations fully implemented** (CSO/HRCM assessment).
@@ -967,7 +967,7 @@ Shadow reports provide the Committee with an independent check on government cla
 
 ---
 
-## Slide 5: Comparative Context — Maldives Among SIDS and Muslim-Majority States
+## Slide 5: Comparative Context – Maldives Among SIDS and Muslim-Majority States
 
 | Comparator | Relevance |
 |---|---|
@@ -979,7 +979,7 @@ Shadow reports provide the Committee with an independent check on government cla
 | Fiji | Pacific SIDS; Family Law Act 2003; geographic dispersal challenges similar to Maldives |
 | Samoa/Timor-Leste | Parliamentary quotas in comparable SIDS contexts |
 
-The Morocco and Indonesia comparisons are particularly relevant: both demonstrate that Islamic family law reform is possible within Islamic legal traditions using maqasid and maslahah reasoning — the same framework that Mariya Ali's PhD research applied to the Maldivian context.
+The Morocco and Indonesia comparisons are particularly relevant: both demonstrate that Islamic family law reform is possible within Islamic legal traditions using maqasid and maslahah reasoning – the same framework that Mariya Ali's PhD research applied to the Maldivian context.
 
 ---
 
@@ -1022,13 +1022,13 @@ Accurate data collection and case documentation directly supports treaty complia
 
 ---
 
-## Slide 2: Why Women Don't Report — The Full Barrier Landscape
+## Slide 2: Why Women Don't Report – The Full Barrier Landscape
 
 | Category | Specific Barriers |
 |---|---|
 | Social | Family pressure to reconcile; community stigma on small islands; identity exposure; satr norms; victim-blaming attitudes (documented in DHS) |
 | Economic | No income; no housing alternative; no childcare; losing maintenance upon separation; single parent allowance (MVR 3,000/month max) insufficient to live on |
-| Legal | 3% prosecution rate — perception nothing will happen; SOA Section 52 evidence burden; risk of zina prosecution for sexual violence survivors |
+| Legal | 3% prosecution rate – perception nothing will happen; SOA Section 52 evidence burden; risk of zina prosecution for sexual violence survivors |
 | Institutional | FPA in Male' only; 3 caseworkers; WDCs untrained; police "smooth it over" attitude; months-long response delays |
 | Geographic | 188 islands; boat travel hours; weather-dependent; no forensics/court/legal aid outside Male' |
 | Religious | DV framed by some as private marital matter; nushuz (wife disobedience) framing; reconciliation pressure from religious figures |
@@ -1042,14 +1042,14 @@ These barriers operate simultaneously. A woman weighing whether to report faces 
 
 **Male' has:** FPA (3 caseworkers), FCPW, Family Court, IGMH forensics, Family Legal Clinic, transitional housing, Hope for Women shelter, Moms Aid support
 
-**A typical outer island has:** Maybe a health centre nurse, a school teacher, a WDC volunteer, a local police officer — few or none with DV training. No forensic capacity. No court. No shelter. No legal aid. No counselling.
+**A typical outer island has:** Maybe a health centre nurse, a school teacher, a WDC volunteer, a local police officer – few or none with DV training. No forensic capacity. No court. No shelter. No legal aid. No counselling.
 
 **What this means for a woman experiencing DV on an outer island:**
-- She calls 1412 or the FPA — gets phone-based case management from Male'
+- She calls 1412 or the FPA – gets phone-based case management from Male'
 - She may disclose to a WDC member who may or may not know the referral pathway
 - If she wants a protection order, she or the FPA must navigate the court system remotely
 - If she needs forensic examination (sexual violence), she must travel to Male'
-- If she wants to leave, she needs somewhere to go — and the nearest shelter may be hours away by boat
+- If she wants to leave, she needs somewhere to go – and the nearest shelter may be hours away by boat
 - The perpetrator remains on the same island. Everyone knows what happened. Social consequences are immediate and lasting.
 
 ---
@@ -1065,7 +1065,7 @@ The economic dependency that keeps women in abusive situations is structural, no
 | Daycare centres | Fewer than 4 nationally |
 | SDFC loans to women | 20% of total |
 | Resort employment (Maldivian women) | 3% |
-| Single parent allowance | MVR 1,000/child/month (max 3 = MVR 3,000) — insufficient for rent in Male' |
+| Single parent allowance | MVR 1,000/child/month (max 3 = MVR 3,000) – insufficient for rent in Male' |
 | Housing cost burden (renters) | 37% of household expenditure |
 | Maintenance enforcement | ~MVR 2 million accumulated unclaimed at Family Court |
 | Unpaid care work | Women 19 hrs/week vs men 8.1 hrs |
@@ -1075,7 +1075,7 @@ A woman who leaves an abusive husband in Male' needs housing (~MVR 8,000-15,000/
 
 ---
 
-## Slide 5: The Flogging Problem
+## Slide 5: Flogging and Zina Provisions
 
 **Data:** ~85% of persons sentenced to flogging are women and girls, primarily for zina (extramarital sexual activity).
 
@@ -1093,13 +1093,13 @@ A woman who leaves an abusive husband in Male' needs housing (~MVR 8,000-15,000/
 
 GBV caseworkers face:
 - High caseloads with limited colleagues (3 FPA caseworkers in Male')
-- Emotional intensity — working with trauma survivors daily
-- Vicarious trauma — documented but not systematically addressed
+- Emotional intensity – working with trauma survivors daily
+- Vicarious trauma – documented but not systematically addressed
 - Limited clinical supervision
-- Safety risks — threats from perpetrators, particularly on small islands
+- Safety risks – threats from perpetrators, particularly on small islands
 - Community pressure on atoll-based staff who may know both parties
 - Modest remuneration relative to workload demands
-- Professional isolation — small teams, limited peer support
+- Professional isolation – small teams, limited peer support
 
 The FPA's dependence on a tiny number of caseworkers means that individual staff burnout or departure has outsized system impact.
 
@@ -1120,14 +1120,14 @@ The FPA's dependence on a tiny number of caseworkers means that individual staff
 | Dimension | Status |
 |---|---|
 | Legal framework | Strong (DVPA, SOA, GEA, marital rape criminalised). Gaps: marriage age inconsistency, flogging, SOA Section 52 evidence burden, CEDAW reservations |
-| Institutional architecture | Exists (FPA, WDCs, FCPW, Family Court) — but FPA has 3 caseworkers, WDCs undertrained, police response inconsistent |
-| GBV prosecution | Near-failure — 3% prosecution rate, 16.7% conviction, 3.7% legal assistance |
-| Economic participation | Structurally constrained — 44% LFPR, 42.7% NEET in atolls, 4 daycare centres |
+| Institutional architecture | Exists (FPA, WDCs, FCPW, Family Court) – but FPA has 3 caseworkers, WDCs undertrained, police response inconsistent |
+| GBV prosecution | Near-failure – 3% prosecution rate, 16.7% conviction, 3.7% legal assistance |
+| Economic participation | Structurally constrained – 44% LFPR, 42.7% NEET in atolls, 4 daycare centres |
 | Political representation | Local councils 39.7% (quota); Parliament 3.2% (no quota) |
-| Evidence base | Foundational (Fulu 2006-07) but ageing — no updated prevalence study |
-| International compliance | Mixed — 3% of 55 CEDAW recommendations implemented; reservations unresolved |
+| Evidence base | Foundational (Fulu 2006-07) but ageing – no updated prevalence study |
+| International compliance | Mixed – 3% of 55 CEDAW recommendations implemented; reservations unresolved |
 | Geographic coverage | Severe Male'-atoll gap across all services |
-| Shelter infrastructure | Near-absent — 3 ADB shelters under development; none previously functional |
+| Shelter infrastructure | Near-absent – 3 ADB shelters under development; none previously functional |
 | Prevention | Gevein Gulhun campaign operational; social norms change gradual |
 
 ---
@@ -1196,7 +1196,7 @@ The encyclopedia (108,000+ words on gender) is the ongoing reference. This cours
 10 questions drawn from across all modules. Pass threshold: 80% (8/10).
 
 ### FA-1: When was the first national DV prevalence study and what did it find?
-A) 2012 — 10% IPV  B) 2006/07 — ~1 in 3 women experienced physical/sexual IPV  C) 2019 — 50% IPV  D) No study exists
+A) 2012 – 10% IPV  B) 2006/07 – ~1 in 3 women experienced physical/sexual IPV  C) 2019 – 50% IPV  D) No study exists
 **Answer: B**
 
 ### FA-2: What percentage of DV cases reported to police reach prosecution?
