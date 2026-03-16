@@ -750,7 +750,7 @@ Statistics are organised into 15 thematic domains aligned with treaty body repor
 | Year | MMR (per 100,000 live births) |
 |------|-------------------------------|
 | 2006 | 69 |
-| 2012 | 13 |
+| 2012 | 49 |
 | 2019 | 39 |
 | 2020 | 48 |
 | 2021 | 60 |

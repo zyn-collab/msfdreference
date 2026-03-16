@@ -225,7 +225,7 @@ const imr = [
 ]
 
 const mmr = [
-  { year: '2006', rate: 69 }, { year: '2012', rate: 13 }, { year: '2019', rate: 39 },
+  { year: '2006', rate: 69 }, { year: '2012', rate: 49 }, { year: '2019', rate: 39 },
   { year: '2020', rate: 48 }, { year: '2021', rate: 60 }, { year: '2022', rate: 34 },
 ]
 
