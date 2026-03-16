@@ -440,7 +440,7 @@ export default function ChartsLibrary() {
         <Chart title="Population by Locality, Census 2022" source="Source: Census 2022 Results Summary, MBS">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={populationByLocality} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, percent }) => `${name} (${(percent * 100).toFixed(0)}%)`} labelLine={{ stroke: '#94a3b8' }} style={font}>
+              <Pie data={populationByLocality} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, percent }: { name: string; percent: number }) => `${name} (${(percent * 100).toFixed(0)}%)`} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 {populationByLocality.map((_, i) => <Cell key={i} fill={PALETTE[i % PALETTE.length]} />)}
               </Pie>
               <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
@@ -451,7 +451,7 @@ export default function ChartsLibrary() {
         <Chart title="Population Age Structure by Dependency Group, 2022" source="Source: Census 2022, MBS">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={dependencyBreakdown} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, percent }) => `${name} (${(percent * 100).toFixed(1)}%)`} labelLine={{ stroke: '#94a3b8' }} style={font}>
+              <Pie data={dependencyBreakdown} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, percent }: { name: string; percent: number }) => `${name} (${(percent * 100).toFixed(1)}%)`} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 <Cell fill={SKY} />
                 <Cell fill={TEAL} />
                 <Cell fill={CORAL} />
@@ -534,7 +534,7 @@ export default function ChartsLibrary() {
         <Chart title="Children's Living Arrangements, Census 2022" source="Source: Census 2022 Children's Equity Report, MBS">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={childLivingArrangement} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }) => `${name}: ${value}%`} labelLine={{ stroke: '#94a3b8' }} style={font}>
+              <Pie data={childLivingArrangement} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }: { name: string; value: number }) => `${name}: ${value}%`} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 <Cell fill={TEAL} />
                 <Cell fill={BLUE} />
                 <Cell fill={CORAL} />
@@ -547,7 +547,7 @@ export default function ChartsLibrary() {
         <Chart title="Children in Alternative Care by Type, March 2023" source="Source: MoSFD administrative data; CRC State Party Report 2021">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={alternativeCare} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }) => `${name}: ${value}`} labelLine={{ stroke: '#94a3b8' }} style={font}>
+              <Pie data={alternativeCare} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }: { name: string; value: number }) => `${name}: ${value}`} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 <Cell fill={TERRACOTTA} />
                 <Cell fill={TEAL} />
               </Pie>
@@ -669,7 +669,7 @@ export default function ChartsLibrary() {
         <Chart title="NDR Coverage Gap: Registered vs Census (Dec 2024)" source="Source: Census 2022 (WG-SS); NSPA NDR data">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={ndrVsCensus} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }) => `${name.replace('\n', ' ')}: ${value.toLocaleString()}`} labelLine={{ stroke: '#94a3b8' }} style={font}>
+              <Pie data={ndrVsCensus} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }: { name: string; value: number }) => `${name.replace('\n', ' ')}: ${value.toLocaleString()}`} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 <Cell fill={TEAL} />
                 <Cell fill={SLATE} />
               </Pie>
@@ -752,7 +752,7 @@ export default function ChartsLibrary() {
         <Chart title="Drug of First Initiation, RAS 2003" source="Source: UNODC Rapid Assessment Survey 2003">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={drugInitiation2003} dataKey="pct" nameKey="substance" cx="50%" cy="50%" outerRadius={110} label={({ substance, pct }) => `${substance}: ${pct}%`} labelLine={{ stroke: '#94a3b8' }} style={font}>
+              <Pie data={drugInitiation2003} dataKey="pct" nameKey="substance" cx="50%" cy="50%" outerRadius={110} label={({ substance, pct }: { substance: string; pct: number }) => `${substance}: ${pct}%`} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 {drugInitiation2003.map((_, i) => <Cell key={i} fill={PALETTE[i]} />)}
               </Pie>
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
@@ -845,7 +845,7 @@ export default function ChartsLibrary() {
         <Chart title="NCD Burden as Share of DALYs" source="Source: WHO/GBD">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={ncdBurden} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }) => `${name.replace('\n', ' ')}: ${value}%`} labelLine={{ stroke: '#94a3b8' }} style={font}>
+              <Pie data={ncdBurden} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }: { name: string; value: number }) => `${name.replace('\n', ' ')}: ${value}%`} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 <Cell fill={TERRACOTTA} />
                 <Cell fill={SAGE} />
               </Pie>
@@ -963,7 +963,7 @@ export default function ChartsLibrary() {
         <Chart title="Social Protection Expenditure by Component, 2009" source="Source: ADB Social Protection Index 2012 (MVR millions)">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={spExpenditure2009} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }) => `${name}: ${value}M`} labelLine={{ stroke: '#94a3b8' }} style={{ ...font, fontSize: 10 }}>
+              <Pie data={spExpenditure2009} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }: { name: string; value: number }) => `${name}: ${value}M`} labelLine={{ stroke: '#94a3b8' }} style={{ ...font, fontSize: 10 }}>
                 {spExpenditure2009.map((_, i) => <Cell key={i} fill={PALETTE[i % PALETTE.length]} />)}
               </Pie>
               <Tooltip formatter={ttFmtMVR} contentStyle={tooltipStyle} />
