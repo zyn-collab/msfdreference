@@ -33,23 +33,59 @@ const ttFmtMVR = (v: any) => `MVR ${v}M`
 const fmtNum = (v: number) => v >= 1000 ? `${(v / 1000).toFixed(0)}k` : `${v}`
 const fmtPct = (v: number) => `${v}%`
 
-// ── Section wrapper ─────────────────────────────────────
-function Section({ title, children }: { title: string; children: React.ReactNode }) {
+// ── Section names for TOC ─────────────────────────────────
+const SECTIONS = [
+  { id: 'demographics', label: 'Population and Demographics' },
+  { id: 'child-protection', label: 'Child Protection' },
+  { id: 'gender-gbv', label: 'Gender, GBV, Women' },
+  { id: 'disability', label: 'Disability' },
+  { id: 'elderly', label: 'Elderly and Ageing' },
+  { id: 'substance-abuse', label: 'Substance Abuse' },
+  { id: 'mental-health', label: 'Mental Health' },
+  { id: 'health', label: 'Health Systems' },
+  { id: 'poverty', label: 'Poverty and Housing' },
+  { id: 'employment', label: 'Employment' },
+  { id: 'social-protection', label: 'Social Protection' },
+  { id: 'crime', label: 'Crime and Justice' },
+  { id: 'covid', label: 'COVID-19 Impact' },
+]
+
+function ChartsTOC() {
   return (
-    <div className="mb-14">
-      <h2 className="text-lg font-semibold text-slate-800 mb-6 border-b border-slate-100 pb-2" style={{ fontFamily: 'var(--font-heading)' }}>
+    <div className="w-56 shrink-0 hidden xl:block">
+      <div className="sticky top-24 pl-6 border-l border-slate-100">
+        <div className="text-[10px] font-bold uppercase tracking-widest text-slate-400 mb-3">On this page</div>
+        <ul className="space-y-1.5">
+          {SECTIONS.map(s => (
+            <li key={s.id}>
+              <a href={`#${s.id}`} className="text-[12px] text-slate-500 hover:text-sky-700 transition-colors leading-snug block">
+                {s.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  )
+}
+
+// ── Section wrapper ─────────────────────────────────────
+function Section({ id, title, children }: { id: string; title: string; children: React.ReactNode }) {
+  return (
+    <div className="mb-14" id={id}>
+      <h2 className="text-lg font-semibold text-slate-800 mb-6 border-b border-slate-100 pb-2 scroll-mt-20" style={{ fontFamily: 'var(--font-heading)' }}>
         {title}
       </h2>
-      <div className="grid grid-cols-1 xl:grid-cols-2 gap-8">
+      <div className="grid grid-cols-1 gap-8">
         {children}
       </div>
     </div>
   )
 }
 
-function Chart({ title, source, children, wide, tall }: { title: string; source: string; children: React.ReactNode; wide?: boolean; tall?: boolean }) {
+function Chart({ title, source, children, tall }: { title: string; source: string; children: React.ReactNode; tall?: boolean }) {
   return (
-    <div className={`bg-slate-50/70 rounded-xl p-5 border border-slate-100 ${wide ? 'xl:col-span-2' : ''}`}>
+    <div className="bg-slate-50/70 rounded-xl p-5 border border-slate-100">
       <h3 className="text-sm font-semibold text-slate-700 mb-1" style={font}>{title}</h3>
       <p className="text-[10px] text-slate-400 mb-4 leading-relaxed">{source}</p>
       <div className="w-full" style={{ height: tall ? 420 : 320 }}>
@@ -437,11 +473,12 @@ const higherEd = [
 
 export default function ChartsLibrary() {
   return (
-    <div className="pb-20 max-w-[900px]">
+    <div className="flex gap-6 pb-20">
+      <div className="flex-1 min-w-0 max-w-[900px]">
 
       {/* ══════ DEMOGRAPHICS ══════ */}
-      <Section title="Population and Demographics">
-        <Chart title="Maldivian Population Growth, 1911–2022" source="Source: MBS Population and Housing Census 1911–2022" wide>
+      <Section id="demographics" title="Population and Demographics">
+        <Chart title="Maldivian Population Growth, 1911–2022" source="Source: MBS Population and Housing Census 1911–2022">
           <ResponsiveContainer>
             <AreaChart data={populationTimeSeries}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
@@ -518,7 +555,7 @@ export default function ChartsLibrary() {
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="Marriages and Divorces, 2010–2016" source="Source: Statistical Yearbook of Maldives 2023" wide>
+        <Chart title="Marriages and Divorces, 2010–2016" source="Source: Statistical Yearbook of Maldives 2023">
           <ResponsiveContainer>
             <ComposedChart data={marriageDivorce}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
@@ -546,7 +583,7 @@ export default function ChartsLibrary() {
       </Section>
 
       {/* ══════ CHILD PROTECTION ══════ */}
-      <Section title="Child Protection and Child Rights">
+      <Section id="child-protection" title="Child Protection and Child Rights">
         <Chart title="Domestic Violence Cases Reported to FPA, 2013–2024" source="Source: Family Protection Authority annual records; MPS Bureau of Crime Statistics">
           <ResponsiveContainer>
             <BarChart data={dvCases}>
@@ -628,8 +665,8 @@ export default function ChartsLibrary() {
       </Section>
 
       {/* ══════ GENDER / GBV ══════ */}
-      <Section title="Gender, GBV, and Women's Empowerment">
-        <Chart title="GBV Justice Pathway: Cases Lost at Each Stage" source="Sources: Vulnerability Mapping files; AIM Project; UNDP Maldives. For every 100 GBV cases reported to police." wide>
+      <Section id="gender-gbv" title="Gender, GBV, and Women's Empowerment">
+        <Chart title="GBV Justice Pathway: Cases Lost at Each Stage" source="Sources: Vulnerability Mapping files; AIM Project; UNDP Maldives. For every 100 GBV cases reported to police.">
           <ResponsiveContainer>
             <BarChart data={gbvFunnel} layout="vertical" barSize={36}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
@@ -685,7 +722,7 @@ export default function ChartsLibrary() {
       </Section>
 
       {/* ══════ DISABILITY ══════ */}
-      <Section title="Disability">
+      <Section id="disability" title="Disability">
         <Chart title="National Disability Register Growth" source="Source: NSPA; CRPD State Party Report review, August 2025">
           <ResponsiveContainer>
             <BarChart data={ndrGrowth}>
@@ -738,7 +775,7 @@ export default function ChartsLibrary() {
       </Section>
 
       {/* ══════ ELDERLY ══════ */}
-      <Section title="Elderly Care and Population Ageing">
+      <Section id="elderly" title="Elderly Care and Population Ageing">
         <Chart title="Population Aged 60+: Projected Trajectory" source="Sources: Census 2022; UN DESA Population Projections">
           <ResponsiveContainer>
             <AreaChart data={ageingProjections}>
@@ -763,7 +800,7 @@ export default function ChartsLibrary() {
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="Senior Citizen Allowance: Beneficiaries and Monthly Amount" source="Source: NSPA; MPRS annual reports; national budget documents" wide>
+        <Chart title="Senior Citizen Allowance: Beneficiaries and Monthly Amount" source="Source: NSPA; MPRS annual reports; national budget documents">
           <ResponsiveContainer>
             <ComposedChart data={seniorAllowance}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
@@ -780,7 +817,7 @@ export default function ChartsLibrary() {
       </Section>
 
       {/* ══════ SUBSTANCE ABUSE ══════ */}
-      <Section title="Substance Abuse and Drug Policy">
+      <Section id="substance-abuse" title="Substance Abuse and Drug Policy">
         <Chart title="Drug of First Initiation, RAS 2003" source="Source: UNODC Rapid Assessment Survey 2003">
           <ResponsiveContainer>
             <PieChart>
@@ -804,7 +841,7 @@ export default function ChartsLibrary() {
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="Drug Use Situational Analysis 2021: Key Indicators" source="Source: National Situational Analysis of Drug Users 2021" wide>
+        <Chart title="Drug Use Situational Analysis 2021: Key Indicators" source="Source: National Situational Analysis of Drug Users 2021">
           <ResponsiveContainer>
             <BarChart data={drugSituation2021} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
@@ -820,7 +857,7 @@ export default function ChartsLibrary() {
       </Section>
 
       {/* ══════ MENTAL HEALTH ══════ */}
-      <Section title="Mental Health">
+      <Section id="mental-health" title="Mental Health">
         <Chart title="Youth Mental Health Indicators, GSHS 2009/2014" source="Sources: WHO GSHS Maldives 2009, 2014">
           <ResponsiveContainer>
             <BarChart data={youthMentalHealth} layout="vertical">
@@ -849,7 +886,7 @@ export default function ChartsLibrary() {
       </Section>
 
       {/* ══════ HEALTH ══════ */}
-      <Section title="Health Systems and Outcomes">
+      <Section id="health" title="Health Systems and Outcomes">
         <Chart title="Infant Mortality Rate, 1990–2023 (per 1,000 live births)" source="Sources: World Bank WDI; WHO; Statistical Yearbook of Maldives">
           <ResponsiveContainer>
             <AreaChart data={imr}>
@@ -902,7 +939,7 @@ export default function ChartsLibrary() {
       </Section>
 
       {/* ══════ POVERTY ══════ */}
-      <Section title="Poverty, Housing, and Economic Vulnerability">
+      <Section id="poverty" title="Poverty, Housing, and Economic Vulnerability">
         <Chart title="Poverty Headcount Rate by Region, HIES 2019" source="Source: HIES 2019; World Bank Poverty and Inequality in Maldives 2022">
           <ResponsiveContainer>
             <BarChart data={povertyByRegion}>
@@ -929,7 +966,7 @@ export default function ChartsLibrary() {
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="Poverty Rate by Household Head Characteristics" source="Source: World Bank Poverty and Inequality in Maldives 2022" wide>
+        <Chart title="Poverty Rate by Household Head Characteristics" source="Source: World Bank Poverty and Inequality in Maldives 2022">
           <ResponsiveContainer>
             <BarChart data={povertyByHHCharacteristic} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
@@ -945,8 +982,8 @@ export default function ChartsLibrary() {
       </Section>
 
       {/* ══════ EMPLOYMENT ══════ */}
-      <Section title="Employment and Labour Market">
-        <Chart title="Unemployment and Youth Unemployment, 2019–2023" source="Sources: ILO modelled estimates; World Bank WDI; Census 2022" wide>
+      <Section id="employment" title="Employment and Labour Market">
+        <Chart title="Unemployment and Youth Unemployment, 2019–2023" source="Sources: ILO modelled estimates; World Bank WDI; Census 2022">
           <ResponsiveContainer>
             <LineChart data={labourForce}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
@@ -960,7 +997,7 @@ export default function ChartsLibrary() {
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="Higher Education: Enrolments, Graduates, Dropouts, 2019–2022" source="Source: Ministry of Higher Education" wide>
+        <Chart title="Higher Education: Enrolments, Graduates, Dropouts, 2019–2022" source="Source: Ministry of Higher Education">
           <ResponsiveContainer>
             <ComposedChart data={higherEd}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
@@ -977,7 +1014,7 @@ export default function ChartsLibrary() {
       </Section>
 
       {/* ══════ SOCIAL PROTECTION ══════ */}
-      <Section title="Social Protection">
+      <Section id="social-protection" title="Social Protection">
         <Chart title="Social Protection Programs: Beneficiaries" source="Source: NSPA; MoSFD (2023–2024)">
           <ResponsiveContainer>
             <BarChart data={spPrograms} layout="vertical">
@@ -1005,8 +1042,8 @@ export default function ChartsLibrary() {
       </Section>
 
       {/* ══════ CRIME ══════ */}
-      <Section title="Crime and Justice">
-        <Chart title="Major Crime Categories: Year-on-Year Comparison" source="Source: MPS Bureau of Crime Statistics; MV+ 2024" wide>
+      <Section id="crime" title="Crime and Justice">
+        <Chart title="Major Crime Categories: Year-on-Year Comparison" source="Source: MPS Bureau of Crime Statistics; MV+ 2024">
           <ResponsiveContainer>
             <BarChart data={crimeCategories}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
@@ -1024,14 +1061,14 @@ export default function ChartsLibrary() {
 
         <Chart title="Emerging Crime Trends: 2023 vs 2024 (Jan–Sep)" source="Source: MPS Bureau of Crime Statistics">
           <ResponsiveContainer>
-            <BarChart data={emergingCrimes}>
+            <BarChart data={emergingCrimes} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="category" tick={font} />
-              <YAxis tick={font} />
+              <XAxis type="number" tick={font} />
+              <YAxis type="category" dataKey="category" tick={font} width={130} />
               <Tooltip contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
-              <Bar dataKey="y2023" name="2023" fill={BLUE} radius={[3, 3, 0, 0]} />
-              <Bar dataKey="y2024" name="2024 (Jan–Sep)" fill={CORAL} radius={[3, 3, 0, 0]} />
+              <Bar dataKey="y2023" name="2023" fill={BLUE} radius={[0, 3, 3, 0]} />
+              <Bar dataKey="y2024" name="2024 (Jan–Sep)" fill={CORAL} radius={[0, 3, 3, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
@@ -1052,7 +1089,7 @@ export default function ChartsLibrary() {
       </Section>
 
       {/* ══════ COVID ══════ */}
-      <Section title="COVID-19 Socioeconomic Impact">
+      <Section id="covid" title="COVID-19 Socioeconomic Impact">
         <Chart title="COVID-19 Economic Impact Indicators, 2020" source="Sources: Ministry of Finance; World Bank; MMA">
           <ResponsiveContainer>
             <BarChart data={covidEconomicImpact} layout="vertical">
@@ -1082,6 +1119,8 @@ export default function ChartsLibrary() {
         </Chart>
       </Section>
 
+      </div>
+      <ChartsTOC />
     </div>
   )
 }
