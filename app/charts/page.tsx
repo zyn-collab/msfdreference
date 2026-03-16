@@ -26,6 +26,9 @@ export default function ChartsPage() {
           <p className="text-xs leading-relaxed text-slate-400 max-w-[620px]">
             Ready-to-use visualizations drawn from the Statistics Compendium and encyclopedia chapters. Charts can be screenshotted and inserted directly into reports, presentations, or policy documents. Source references and data periods are included on each chart.
           </p>
+          <p className="text-[10px] leading-relaxed text-slate-400 mt-2">
+            Charts resize automatically to fit the browser window. To adjust chart size for screenshots, resize the browser window to the desired width.
+          </p>
         </div>
         <ChartsLibrary />
       </div>

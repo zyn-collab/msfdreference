@@ -7,21 +7,31 @@ import {
 } from 'recharts'
 
 // ── Color palette ─────────────────────────────────────
-const TEAL = '#2d9e9e'
-const BLUE = '#4a7fb5'
-const GREEN = '#5a9e6f'
-const CORAL = '#e07a5f'
-const TERRACOTTA = '#c17858'
-const SLATE = '#7e8c9a'
-const SAND = '#d4a574'
-const PLUM = '#8b6e8e'
-const SKY = '#6ba3c7'
-const SAGE = '#8fae8b'
+const TEAL = '#2fb4a8'
+const BLUE = '#2e7daf'
+const GREEN = '#2a7d46'
+const CORAL = '#d95545'
+const TERRACOTTA = '#bf5a3a'
+const SLATE = '#6b7d8d'
+const SAND = '#c89b6a'
+const PLUM = '#8e5e91'
+const SKY = '#5198c4'
+const SAGE = '#6b9e5e'
 
 const PALETTE = [TEAL, BLUE, CORAL, GREEN, TERRACOTTA, PLUM, SKY, SAND, SAGE, SLATE]
 
 const font = { fontFamily: 'var(--font-body, "Plus Jakarta Sans", sans-serif)', fontSize: 11 }
 const tooltipStyle = { ...font, fontSize: 12 }
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const ttFmtLocale = (v: any) => typeof v === 'number' ? v.toLocaleString() : v
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const ttFmtPct = (v: any) => `${v}%`
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const ttFmtMVR = (v: any) => `MVR ${v}M`
+
+const fmtNum = (v: number) => v >= 1000 ? `${(v / 1000).toFixed(0)}k` : `${v}`
+const fmtPct = (v: number) => `${v}%`
 
 // ── Section wrapper ─────────────────────────────────────
 function Section({ title, children }: { title: string; children: React.ReactNode }) {
@@ -37,15 +47,30 @@ function Section({ title, children }: { title: string; children: React.ReactNode
   )
 }
 
-function Chart({ title, source, children, wide }: { title: string; source: string; children: React.ReactNode; wide?: boolean }) {
+function Chart({ title, source, children, wide, tall }: { title: string; source: string; children: React.ReactNode; wide?: boolean; tall?: boolean }) {
   return (
     <div className={`bg-slate-50/70 rounded-xl p-5 border border-slate-100 ${wide ? 'xl:col-span-2' : ''}`}>
       <h3 className="text-sm font-semibold text-slate-700 mb-1" style={font}>{title}</h3>
       <p className="text-[10px] text-slate-400 mb-4 leading-relaxed">{source}</p>
-      <div className="w-full" style={{ height: 320 }}>
+      <div className="w-full" style={{ height: tall ? 420 : 320 }}>
         {children}
       </div>
     </div>
+  )
+}
+
+// Custom pie label that renders cleanly outside
+function renderPieLabel({ cx, cy, midAngle, outerRadius, name, value, percent }: any) {
+  const RADIAN = Math.PI / 180
+  const radius = outerRadius + 25
+  const x = cx + radius * Math.cos(-midAngle * RADIAN)
+  const y = cy + radius * Math.sin(-midAngle * RADIAN)
+  const pctStr = percent !== undefined ? ` (${(percent * 100).toFixed(0)}%)` : ''
+  const label = value !== undefined && percent === undefined ? `${name}: ${value}` : `${name}${pctStr}`
+  return (
+    <text x={x} y={y} fill="#475569" textAnchor={x > cx ? 'start' : 'end'} dominantBaseline="central" style={{ ...font, fontSize: 10 }}>
+      {label}
+    </text>
   )
 }
 
@@ -69,24 +94,25 @@ const populationByLocality = [
   { name: 'Industrial', value: 14000 },
 ]
 
-const ageStructure = [
-  { age: '0–4', y2014: 31834, y2022: 30621 },
-  { age: '5–9', y2014: 28903, y2022: 33115 },
-  { age: '10–14', y2014: 28482, y2022: 28584 },
-  { age: '15–19', y2014: 29877, y2022: 26697 },
-  { age: '20–24', y2014: 33753, y2022: 28450 },
-  { age: '25–29', y2014: 33268, y2022: 31547 },
-  { age: '30–34', y2014: 27937, y2022: 33253 },
-  { age: '35–39', y2014: 21622, y2022: 29764 },
-  { age: '40–44', y2014: 18004, y2022: 24283 },
-  { age: '45–49', y2014: 16128, y2022: 19203 },
-  { age: '50–54', y2014: 14413, y2022: 16538 },
-  { age: '55–59', y2014: 10832, y2022: 14087 },
-  { age: '60–64', y2014: 8290, y2022: 11289 },
-  { age: '65–69', y2014: 6074, y2022: 8783 },
-  { age: '70–74', y2014: 4958, y2022: 5792 },
-  { age: '75–79', y2014: 2764, y2022: 4330 },
-  { age: '80+', y2014: 4096, y2022: 5068 },
+// Population pyramid: negative values for 2014 (left side), positive for 2022 (right side)
+const agePyramid = [
+  { age: '0–4', left: -31834, right: 30621 },
+  { age: '5–9', left: -28903, right: 33115 },
+  { age: '10–14', left: -28482, right: 28584 },
+  { age: '15–19', left: -29877, right: 26697 },
+  { age: '20–24', left: -33753, right: 28450 },
+  { age: '25–29', left: -33268, right: 31547 },
+  { age: '30–34', left: -27937, right: 33253 },
+  { age: '35–39', left: -21622, right: 29764 },
+  { age: '40–44', left: -18004, right: 24283 },
+  { age: '45–49', left: -16128, right: 19203 },
+  { age: '50–54', left: -14413, right: 16538 },
+  { age: '55–59', left: -10832, right: 14087 },
+  { age: '60–64', left: -8290, right: 11289 },
+  { age: '65–69', left: -6074, right: 8783 },
+  { age: '70–74', left: -4958, right: 5792 },
+  { age: '75–79', left: -2764, right: 4330 },
+  { age: '80+', left: -4096, right: 5068 },
 ]
 
 const tfr = [
@@ -114,6 +140,12 @@ const marriageDivorce = [
   { year: '2016', marriages: 5488, divorces: 3417 },
 ]
 
+const divorceRatio = [
+  { year: '2010', ratio: 45.6 }, { year: '2011', ratio: 50.1 }, { year: '2012', ratio: 52.8 },
+  { year: '2013', ratio: 59.3 }, { year: '2014', ratio: 61.1 }, { year: '2015', ratio: 58.3 },
+  { year: '2016', ratio: 62.3 },
+]
+
 const dependencyBreakdown = [
   { name: 'Children (0–17)', value: 128208 },
   { name: 'Working Age (15–64)', value: 247564 },
@@ -139,7 +171,7 @@ const alternativeCare = [
 ]
 
 const caseloadComparison = [
-  { name: 'Maldives actual', value: 160 },
+  { name: 'Maldives actual caseload', value: 160 },
   { name: 'International standard', value: 27.5 },
 ]
 
@@ -166,8 +198,8 @@ const fgmcByAge = [
 ]
 
 const womenEconParticipation = [
-  { indicator: 'Labour force\nparticipation', female: 44, male: 80 },
-  { indicator: 'Government\nemployment', female: 43, male: 38 },
+  { indicator: 'Labour force participation', female: 44, male: 80 },
+  { indicator: 'Government employment', female: 43, male: 38 },
 ]
 
 const womenPolitical = [
@@ -176,11 +208,12 @@ const womenPolitical = [
   { name: 'Local councils (2021)', women: 39.7, men: 60.3 },
 ]
 
-const criminalJusticeFunnel = [
-  { stage: 'Cases reported\nto police', value: 100 },
-  { stage: 'Submitted for\nprosecution', value: 3 },
-  { stage: 'Reaching court', value: 2 },
-  { stage: 'Convicted', value: 0.5 },
+// GBV funnel - stepped waterfall
+const gbvFunnel = [
+  { stage: '100 cases reported to police', value: 100, fill: CORAL },
+  { stage: '14 investigated as VAW', value: 14, fill: TERRACOTTA },
+  { stage: '3 submitted for prosecution', value: 3, fill: SAND },
+  { stage: '~0.5 convicted', value: 0.5, fill: SLATE },
 ]
 
 // Health
@@ -197,23 +230,23 @@ const mmr = [
 ]
 
 const ncdBurden = [
-  { name: 'NCDs (incl. injuries)', value: 78 },
-  { name: 'Communicable/\nmaternal/child', value: 22 },
+  { name: 'NCDs incl. injuries', value: 78 },
+  { name: 'Communicable / maternal / child', value: 22 },
 ]
 
 const childNutrition = [
-  { indicator: 'Underweight\n(<5 years)', value: 17.3 },
-  { indicator: 'Overweight\n(<5 years)', value: 5.9 },
-  { indicator: 'Exclusive\nbreastfeeding\n(6 months)', value: 48 },
-  { indicator: 'Anaemia\n(children)', value: 26 },
-  { indicator: 'Iron\ndeficiency\n(children)', value: 57 },
-  { indicator: 'Vitamin A\ndeficiency\n(moderate)', value: 50.1 },
+  { indicator: 'Underweight (<5y)', value: 17.3 },
+  { indicator: 'Overweight (<5y)', value: 5.9 },
+  { indicator: 'Exclusive breastfeeding (6m)', value: 48 },
+  { indicator: 'Anaemia (children)', value: 26 },
+  { indicator: 'Iron deficiency (children)', value: 57 },
+  { indicator: 'Vit. A deficiency (moderate)', value: 50.1 },
 ]
 
 const elderlyHealthIndicators = [
   { indicator: 'Hypertension', value: 46 },
   { indicator: 'Diabetes', value: 28 },
-  { indicator: 'Some disability', value: 45 },
+  { indicator: 'Some form of disability', value: 45 },
 ]
 
 // Poverty
@@ -235,14 +268,14 @@ const povertyByAtoll = [
 ]
 
 const povertyByHHCharacteristic = [
-  { characteristic: 'Below-primary\neducation', rate: 12.6 },
-  { characteristic: 'Overcrowded\nhousehold', rate: 10.4 },
+  { characteristic: 'Below-primary education', rate: 12.6 },
+  { characteristic: 'Overcrowded household', rate: 10.4 },
   { characteristic: 'With disability', rate: 9.6 },
   { characteristic: 'Female-headed', rate: 6.0 },
   { characteristic: 'Self-employed', rate: 5.5 },
   { characteristic: 'Male-headed', rate: 5.0 },
   { characteristic: 'Wage-earning', rate: 2.4 },
-  { characteristic: 'Tertiary\neducation', rate: 0.4 },
+  { characteristic: 'Tertiary education', rate: 0.4 },
 ]
 
 // Employment
@@ -262,20 +295,20 @@ const ndrGrowth = [
 ]
 
 const ndrVsCensus = [
-  { name: 'NDR Registered\n(Dec 2024)', value: 13656 },
-  { name: 'Unregistered\n(Census gap)', value: 10745 },
+  { name: 'NDR Registered (Dec 2024)', value: 13656 },
+  { name: 'Unregistered (Census gap)', value: 10745 },
 ]
 
 const disabilityAllowanceTiers = [
-  { tier: 'MVR 3,000\n(base)', pct: 42 },
+  { tier: 'MVR 3,000 (base)', pct: 42 },
   { tier: 'MVR 4,000', pct: 15 },
   { tier: 'MVR 5,000', pct: 25 },
   { tier: 'MVR 6,000+', pct: 15 },
 ]
 
 const disabilityLFPR = [
-  { group: 'Women with\ndisabilities', rate: 28 },
-  { group: 'Men with\ndisabilities', rate: 41 },
+  { group: 'Women with disabilities', rate: 28 },
+  { group: 'Men with disabilities', rate: 41 },
   { group: 'All women', rate: 44 },
   { group: 'All men', rate: 80 },
 ]
@@ -304,46 +337,46 @@ const drugInitiation2003 = [
 ]
 
 const drugTreatmentPathway = [
-  { pathway: 'Court-sentenced\n(2022)', value: 458 },
-  { pathway: 'Detox seekers\n(2022)', value: 433 },
-  { pathway: 'Detox started\n(2022)', value: 371 },
-  { pathway: 'Voluntary\napplications', value: 126 },
-  { pathway: 'Voluntary\nstarted', value: 108 },
+  { pathway: 'Court-sentenced', value: 458 },
+  { pathway: 'Detox seekers', value: 433 },
+  { pathway: 'Detox started', value: 371 },
+  { pathway: 'Voluntary applications', value: 126 },
+  { pathway: 'Voluntary started', value: 108 },
 ]
 
 const drugSituation2021 = [
-  { indicator: 'Began before\nage 18', value: 57.8 },
-  { indicator: 'Peer influence\nas reason', value: 72.2 },
-  { indicator: 'Family also\nusing', value: 41.4 },
-  { indicator: 'Injecting\ndrug use', value: 21.6 },
-  { indicator: 'Completed\ntreatment', value: 41.4 },
+  { indicator: 'Began before age 18', value: 57.8 },
+  { indicator: 'Peer influence', value: 72.2 },
+  { indicator: 'Family also using', value: 41.4 },
+  { indicator: 'Injecting drug use', value: 21.6 },
+  { indicator: 'Completed treatment', value: 41.4 },
   { indicator: 'Relapsed', value: 42.7 },
-  { indicator: 'No community\nsupport', value: 40 },
+  { indicator: 'No community support', value: 40 },
 ]
 
 // Mental health
 const youthMentalHealth = [
-  { indicator: 'Considered\nsuicide', value: 19.9, year: '2009' },
-  { indicator: 'Planned\nsuicide', value: 16.8, year: '2014' },
-  { indicator: 'Attempted\nsuicide', value: 12.0, year: '2014' },
-  { indicator: 'Attempt\nneeding\nmedical tx', value: 5.1, year: '2014' },
-  { indicator: 'Felt lonely\nmost/all time', value: 10.1, year: '2014' },
+  { indicator: 'Considered suicide', value: 19.9 },
+  { indicator: 'Planned suicide', value: 16.8 },
+  { indicator: 'Attempted suicide', value: 12.0 },
+  { indicator: 'Attempt needing medical tx', value: 5.1 },
+  { indicator: 'Felt lonely most/all time', value: 10.1 },
 ]
 
 const parentalConcernByRegion = [
   { region: 'Central', pct: 73 },
   { region: 'North', pct: 69 },
-  { region: "Greater\nMalé", pct: 62 },
+  { region: 'Greater Malé', pct: 62 },
   { region: 'South', pct: 61 },
 ]
 
 // Social protection
 const spPrograms = [
-  { program: 'Senior Citizen\nAllowance', beneficiaries: 20000 },
-  { program: 'Disability\nAllowance', beneficiaries: 11371 },
-  { program: 'Single Parent\nAllowance\n(children)', beneficiaries: 5563 },
-  { program: 'Single Parent\nAllowance\n(parents)', beneficiaries: 3245 },
-  { program: 'Foster Parent\nAllowance\n(children)', beneficiaries: 149 },
+  { program: 'Senior Citizen Allowance', beneficiaries: 20000 },
+  { program: 'Disability Allowance', beneficiaries: 11371 },
+  { program: 'Single Parent (children)', beneficiaries: 5563 },
+  { program: 'Single Parent (parents)', beneficiaries: 3245 },
+  { program: 'Foster Parent (children)', beneficiaries: 149 },
 ]
 
 const spExpenditure2009 = [
@@ -351,7 +384,7 @@ const spExpenditure2009 = [
   { name: 'Pensions', value: 95 },
   { name: 'Health Insurance', value: 78 },
   { name: 'Health Assistance', value: 37 },
-  { name: 'Other Social Ins.', value: 173 },
+  { name: 'Other Social Insurance', value: 173 },
   { name: 'Child Protection', value: 12 },
   { name: 'Other', value: 29 },
   { name: 'Labour Market', value: 7 },
@@ -359,38 +392,38 @@ const spExpenditure2009 = [
 
 // COVID
 const covidEconomicImpact = [
-  { indicator: 'GDP\ncontraction', value: 33.6 },
-  { indicator: 'Revenue\nfall', value: 49 },
-  { indicator: 'Tourism\ndecline', value: 67.4 },
-  { indicator: 'Households\nincome loss', value: 44 },
+  { indicator: 'GDP contraction', value: 33.6 },
+  { indicator: 'Revenue fall', value: 49 },
+  { indicator: 'Tourism decline', value: 67.4 },
+  { indicator: 'Households with income loss', value: 44 },
 ]
 
 const covidGenderImpact = [
-  { indicator: 'Female mfg\nworkers\nstopped', value: 22 },
-  { indicator: 'Male mfg\nworkers\nstopped', value: 8 },
-  { indicator: 'Relief loans\nto women', value: 15 },
-  { indicator: 'Relief loans\nto men', value: 74 },
+  { indicator: 'Female mfg workers stopped', value: 22 },
+  { indicator: 'Male mfg workers stopped', value: 8 },
+  { indicator: 'Relief loans to women', value: 15 },
+  { indicator: 'Relief loans to men', value: 74 },
 ]
 
 // Crime
 const crimeCategories = [
   { category: 'Drug-Related', y2023: 4479, y2024: 3279 },
   { category: 'Assaults', y2021: 1611, y2024: 1436 },
-  { category: 'DV', y2021: 696, y2024: 537 },
-  { category: 'Sexual\nOffences', y2022: 575, y2024: 467 },
+  { category: 'Domestic Violence', y2021: 696, y2024: 537 },
+  { category: 'Sexual Offences', y2022: 575, y2024: 467 },
 ]
 
 const emergingCrimes = [
   { category: 'Bullying', y2023: 4, y2024: 12 },
   { category: 'Blackmail', y2023: 5, y2024: 15 },
   { category: 'Threats', y2023: 18, y2024: 25 },
-  { category: 'Suicide\nattempts', y2023: 7, y2024: 9 },
-  { category: 'Sexual\nharassment', y2023: 4, y2024: 5 },
+  { category: 'Suicide attempts', y2023: 7, y2024: 9 },
+  { category: 'Sexual harassment', y2023: 4, y2024: 5 },
 ]
 
 const prisonProfile = [
-  { characteristic: 'Drug\noffenders', value: 65 },
-  { characteristic: 'Poor/working\nclass', value: 64.7 },
+  { characteristic: 'Drug offenders', value: 65 },
+  { characteristic: 'Poor/working class', value: 64.7 },
   { characteristic: 'Divorced', value: 47.1 },
 ]
 
@@ -401,23 +434,6 @@ const higherEd = [
   { year: '2021', enrolments: 26733, graduates: 12837, dropouts: 4066 },
   { year: '2022', enrolments: 29016, graduates: 6093, dropouts: 2897 },
 ]
-
-// Aasandha
-const aasandhaTimeline = [
-  { year: '2012', expenditure: 500 },
-  { year: '2024', expenditure: 1900 },
-]
-
-// ── Formatters ─────────────────────────────────────────
-const fmtNum = (v: number) => v >= 1000 ? `${(v / 1000).toFixed(0)}k` : `${v}`
-const fmtPct = (v: number) => `${v}%`
-
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-const ttFmtLocale = (v: any) => typeof v === 'number' ? v.toLocaleString() : v
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-const ttFmtPct = (v: any) => `${v}%`
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-const ttFmtMVR = (v: any) => `MVR ${v}M`
 
 export default function ChartsLibrary() {
   return (
@@ -432,7 +448,7 @@ export default function ChartsLibrary() {
               <XAxis dataKey="year" tick={font} />
               <YAxis tickFormatter={fmtNum} tick={font} />
               <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
-              <Area type="monotone" dataKey="pop" name="Population" stroke={TEAL} fill={TEAL} fillOpacity={0.15} strokeWidth={2} />
+              <Area type="monotone" dataKey="pop" name="Population" stroke={TEAL} fill={TEAL} fillOpacity={0.12} strokeWidth={2.5} />
             </AreaChart>
           </ResponsiveContainer>
         </Chart>
@@ -440,7 +456,7 @@ export default function ChartsLibrary() {
         <Chart title="Population by Locality, Census 2022" source="Source: Census 2022 Results Summary, MBS">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={populationByLocality} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, percent }: any) => `${name} (${(percent * 100).toFixed(0)}%)`} labelLine={{ stroke: '#94a3b8' }} style={font}>
+              <Pie data={populationByLocality} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={95} label={renderPieLabel} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 {populationByLocality.map((_, i) => <Cell key={i} fill={PALETTE[i % PALETTE.length]} />)}
               </Pie>
               <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
@@ -448,10 +464,10 @@ export default function ChartsLibrary() {
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="Population Age Structure by Dependency Group, 2022" source="Source: Census 2022, MBS">
+        <Chart title="Population by Dependency Group, 2022" source="Source: Census 2022, MBS">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={dependencyBreakdown} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, percent }: any) => `${name} (${(percent * 100).toFixed(1)}%)`} labelLine={{ stroke: '#94a3b8' }} style={font}>
+              <Pie data={dependencyBreakdown} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={95} label={renderPieLabel} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 <Cell fill={SKY} />
                 <Cell fill={TEAL} />
                 <Cell fill={CORAL} />
@@ -461,16 +477,16 @@ export default function ChartsLibrary() {
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="Age Structure Comparison: Census 2014 vs 2022" source="Source: Population and Housing Census 2014 and 2022, MBS" wide>
+        <Chart title="Population Pyramid: Census 2014 vs 2022" source="Source: Population and Housing Census 2014 and 2022, MBS" wide tall>
           <ResponsiveContainer>
-            <BarChart data={ageStructure} layout="vertical">
+            <BarChart data={agePyramid} layout="vertical" stackOffset="sign" barCategoryGap="12%">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis type="number" tickFormatter={fmtNum} tick={font} />
-              <YAxis type="category" dataKey="age" tick={font} width={45} />
-              <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
+              <XAxis type="number" tickFormatter={(v: number) => fmtNum(Math.abs(v))} tick={font} />
+              <YAxis type="category" dataKey="age" tick={font} width={42} />
+              <Tooltip formatter={(v: any) => Math.abs(v).toLocaleString()} contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
-              <Bar dataKey="y2014" name="Census 2014" fill={BLUE} opacity={0.6} />
-              <Bar dataKey="y2022" name="Census 2022" fill={TEAL} />
+              <Bar dataKey="left" name="Census 2014" fill={BLUE} stackId="stack" />
+              <Bar dataKey="right" name="Census 2022" fill={TEAL} stackId="stack" />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
@@ -496,8 +512,8 @@ export default function ChartsLibrary() {
               <Tooltip contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
               <Line type="monotone" dataKey="total" name="Total" stroke={TEAL} strokeWidth={2.5} dot={{ r: 3 }} />
-              <Line type="monotone" dataKey="male" name="Male" stroke={BLUE} strokeWidth={1.5} strokeDasharray="5 5" dot={{ r: 2 }} />
-              <Line type="monotone" dataKey="female" name="Female" stroke={CORAL} strokeWidth={1.5} strokeDasharray="5 5" dot={{ r: 2 }} />
+              <Line type="monotone" dataKey="male" name="Male" stroke={BLUE} strokeWidth={1.5} strokeDasharray="5 5" dot={{ r: 2 }} connectNulls />
+              <Line type="monotone" dataKey="female" name="Female" stroke={CORAL} strokeWidth={1.5} strokeDasharray="5 5" dot={{ r: 2 }} connectNulls />
             </LineChart>
           </ResponsiveContainer>
         </Chart>
@@ -510,9 +526,21 @@ export default function ChartsLibrary() {
               <YAxis tick={font} />
               <Tooltip contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
-              <Bar dataKey="marriages" name="Marriages" fill={TEAL} opacity={0.7} />
-              <Bar dataKey="divorces" name="Divorces" fill={CORAL} opacity={0.7} />
+              <Bar dataKey="marriages" name="Marriages" fill={TEAL} opacity={0.75} />
+              <Bar dataKey="divorces" name="Divorces" fill={CORAL} opacity={0.75} />
             </ComposedChart>
+          </ResponsiveContainer>
+        </Chart>
+
+        <Chart title="Divorce-to-Marriage Ratio, 2010–2016" source="Source: Statistical Yearbook of Maldives 2023">
+          <ResponsiveContainer>
+            <LineChart data={divorceRatio}>
+              <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+              <XAxis dataKey="year" tick={font} />
+              <YAxis tickFormatter={fmtPct} domain={[40, 65]} tick={font} />
+              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
+              <Line type="monotone" dataKey="ratio" name="Divorces per 100 marriages" stroke={TERRACOTTA} strokeWidth={2.5} dot={{ r: 4, fill: TERRACOTTA }} />
+            </LineChart>
           </ResponsiveContainer>
         </Chart>
       </Section>
@@ -526,7 +554,7 @@ export default function ChartsLibrary() {
               <XAxis dataKey="year" tick={font} />
               <YAxis tick={font} />
               <Tooltip contentStyle={tooltipStyle} />
-              <Bar dataKey="cases" name="DV cases reported" fill={CORAL} />
+              <Bar dataKey="cases" name="DV cases reported" fill={CORAL} radius={[3, 3, 0, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
@@ -534,7 +562,7 @@ export default function ChartsLibrary() {
         <Chart title="Children's Living Arrangements, Census 2022" source="Source: Census 2022 Children's Equity Report, MBS">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={childLivingArrangement} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }: any) => `${name}: ${value}%`} labelLine={{ stroke: '#94a3b8' }} style={font}>
+              <Pie data={childLivingArrangement} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={95} label={({ name, value }: any) => `${name}: ${value}%`} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 <Cell fill={TEAL} />
                 <Cell fill={BLUE} />
                 <Cell fill={CORAL} />
@@ -546,25 +574,29 @@ export default function ChartsLibrary() {
 
         <Chart title="Children in Alternative Care by Type, March 2023" source="Source: MoSFD administrative data; CRC State Party Report 2021">
           <ResponsiveContainer>
-            <PieChart>
-              <Pie data={alternativeCare} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }: any) => `${name}: ${value}`} labelLine={{ stroke: '#94a3b8' }} style={font}>
-                <Cell fill={TERRACOTTA} />
-                <Cell fill={TEAL} />
-              </Pie>
-              <Tooltip contentStyle={tooltipStyle} />
-            </PieChart>
-          </ResponsiveContainer>
-        </Chart>
-
-        <Chart title="Child Protection Caseload vs International Standard" source="Source: Rogers, Ali & Naeem (2025); MoSFD staffing data">
-          <ResponsiveContainer>
-            <BarChart data={caseloadComparison} layout="vertical">
+            <BarChart data={alternativeCare} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis type="number" tick={font} />
               <YAxis type="category" dataKey="name" tick={font} width={120} />
               <Tooltip contentStyle={tooltipStyle} />
-              <Bar dataKey="value" name="Cases per worker" fill={CORAL}>
-                {caseloadComparison.map((entry, i) => <Cell key={i} fill={i === 0 ? CORAL : TEAL} />)}
+              <Bar dataKey="value" name="Children" radius={[0, 3, 3, 0]}>
+                <Cell fill={TERRACOTTA} />
+                <Cell fill={TEAL} />
+              </Bar>
+            </BarChart>
+          </ResponsiveContainer>
+        </Chart>
+
+        <Chart title="Child Protection Caseload: Maldives vs International Standard" source="Source: Rogers, Ali & Naeem (2025); MoSFD staffing data">
+          <ResponsiveContainer>
+            <BarChart data={caseloadComparison} layout="vertical">
+              <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+              <XAxis type="number" tick={font} />
+              <YAxis type="category" dataKey="name" tick={font} width={160} />
+              <Tooltip contentStyle={tooltipStyle} />
+              <Bar dataKey="value" name="Cases per worker" radius={[0, 3, 3, 0]}>
+                <Cell fill={CORAL} />
+                <Cell fill={TEAL} />
               </Bar>
             </BarChart>
           </ResponsiveContainer>
@@ -577,7 +609,7 @@ export default function ChartsLibrary() {
               <XAxis dataKey="year" tick={font} />
               <YAxis tick={font} />
               <Tooltip contentStyle={tooltipStyle} />
-              <Bar dataKey="arrests" name="Juvenile drug arrests" fill={TERRACOTTA} />
+              <Bar dataKey="arrests" name="Juvenile drug arrests" fill={TERRACOTTA} radius={[3, 3, 0, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
@@ -589,7 +621,7 @@ export default function ChartsLibrary() {
               <XAxis dataKey="year" tick={font} />
               <YAxis tick={font} />
               <Tooltip contentStyle={tooltipStyle} />
-              <Bar dataKey="cases" name="Cases investigated" fill={BLUE} />
+              <Bar dataKey="cases" name="Cases investigated" fill={BLUE} radius={[3, 3, 0, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
@@ -597,15 +629,15 @@ export default function ChartsLibrary() {
 
       {/* ══════ GENDER / GBV ══════ */}
       <Section title="Gender, GBV, and Women's Empowerment">
-        <Chart title="GBV Criminal Justice Funnel" source="Sources: Vulnerability Mapping files; AIM Project; UNDP Maldives" wide>
+        <Chart title="GBV Justice Pathway: Cases Lost at Each Stage" source="Sources: Vulnerability Mapping files; AIM Project; UNDP Maldives. For every 100 GBV cases reported to police." wide>
           <ResponsiveContainer>
-            <BarChart data={criminalJusticeFunnel}>
+            <BarChart data={gbvFunnel} layout="vertical" barSize={36}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="stage" tick={font} interval={0} height={60} />
-              <YAxis tickFormatter={fmtPct} tick={font} />
-              <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="value" name="% of cases" fill={CORAL}>
-                {criminalJusticeFunnel.map((_, i) => <Cell key={i} fill={[CORAL, TERRACOTTA, SAND, SLATE][i]} />)}
+              <XAxis type="number" tick={font} domain={[0, 100]} />
+              <YAxis type="category" dataKey="stage" tick={font} width={200} />
+              <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
+              <Bar dataKey="value" name="Cases remaining" radius={[0, 4, 4, 0]}>
+                {gbvFunnel.map((entry, i) => <Cell key={i} fill={entry.fill} />)}
               </Bar>
             </BarChart>
           </ResponsiveContainer>
@@ -618,7 +650,7 @@ export default function ChartsLibrary() {
               <XAxis dataKey="age" tick={font} />
               <YAxis tickFormatter={fmtPct} tick={font} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="prevalence" name="FGM/C prevalence" fill={PLUM} />
+              <Bar dataKey="prevalence" name="FGM/C prevalence" fill={PLUM} radius={[3, 3, 0, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
@@ -627,26 +659,26 @@ export default function ChartsLibrary() {
           <ResponsiveContainer>
             <BarChart data={womenEconParticipation}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="indicator" tick={font} interval={0} height={55} />
+              <XAxis dataKey="indicator" tick={font} />
               <YAxis tickFormatter={fmtPct} domain={[0, 100]} tick={font} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
-              <Bar dataKey="female" name="Female" fill={CORAL} />
-              <Bar dataKey="male" name="Male" fill={BLUE} />
+              <Bar dataKey="female" name="Female" fill={CORAL} radius={[3, 3, 0, 0]} />
+              <Bar dataKey="male" name="Male" fill={BLUE} radius={[3, 3, 0, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="Women's Political Representation" source="Sources: People's Majlis records; Elections Commission; CEDAW/C/MDV/CO/6" wide>
+        <Chart title="Women's Political Representation" source="Sources: People's Majlis records; Elections Commission; CEDAW/C/MDV/CO/6">
           <ResponsiveContainer>
             <BarChart data={womenPolitical} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis type="number" tickFormatter={fmtPct} domain={[0, 100]} tick={font} />
-              <YAxis type="category" dataKey="name" tick={font} width={130} />
+              <YAxis type="category" dataKey="name" tick={font} width={140} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
               <Bar dataKey="women" name="Women" fill={CORAL} stackId="a" />
-              <Bar dataKey="men" name="Men" fill={SLATE} stackId="a" opacity={0.4} />
+              <Bar dataKey="men" name="Men" fill={SLATE} stackId="a" opacity={0.3} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
@@ -661,15 +693,15 @@ export default function ChartsLibrary() {
               <XAxis dataKey="date" tick={font} />
               <YAxis tickFormatter={fmtNum} tick={font} />
               <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
-              <Bar dataKey="registered" name="Registered persons" fill={TEAL} />
+              <Bar dataKey="registered" name="Registered persons" fill={TEAL} radius={[3, 3, 0, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="NDR Coverage Gap: Registered vs Census (Dec 2024)" source="Source: Census 2022 (WG-SS); NSPA NDR data">
+        <Chart title="NDR Coverage: Registered vs Census (Dec 2024)" source="Source: Census 2022 (WG-SS); NSPA NDR data">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={ndrVsCensus} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }: any) => `${name.replace('\n', ' ')}: ${value.toLocaleString()}`} labelLine={{ stroke: '#94a3b8' }} style={font}>
+              <Pie data={ndrVsCensus} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={95} label={renderPieLabel} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 <Cell fill={TEAL} />
                 <Cell fill={SLATE} />
               </Pie>
@@ -682,23 +714,23 @@ export default function ChartsLibrary() {
           <ResponsiveContainer>
             <BarChart data={disabilityAllowanceTiers}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="tier" tick={font} interval={0} height={55} />
+              <XAxis dataKey="tier" tick={font} />
               <YAxis tickFormatter={fmtPct} tick={font} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="pct" name="% of recipients" fill={GREEN} />
+              <Bar dataKey="pct" name="% of recipients" fill={GREEN} radius={[3, 3, 0, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="Labour Force Participation: Disability Status by Gender" source="Source: Census 2022">
+        <Chart title="Labour Force Participation by Disability Status and Gender" source="Source: Census 2022">
           <ResponsiveContainer>
-            <BarChart data={disabilityLFPR}>
+            <BarChart data={disabilityLFPR} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="group" tick={font} interval={0} height={55} />
-              <YAxis tickFormatter={fmtPct} domain={[0, 100]} tick={font} />
+              <XAxis type="number" tickFormatter={fmtPct} domain={[0, 100]} tick={font} />
+              <YAxis type="category" dataKey="group" tick={font} width={160} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="rate" name="LFPR">
-                {disabilityLFPR.map((_, i) => <Cell key={i} fill={[CORAL, BLUE, CORAL, BLUE][i]} opacity={i < 2 ? 1 : 0.4} />)}
+              <Bar dataKey="rate" name="LFPR" radius={[0, 3, 3, 0]}>
+                {disabilityLFPR.map((_, i) => <Cell key={i} fill={[CORAL, BLUE, CORAL, BLUE][i]} opacity={i < 2 ? 1 : 0.45} />)}
               </Bar>
             </BarChart>
           </ResponsiveContainer>
@@ -714,7 +746,7 @@ export default function ChartsLibrary() {
               <XAxis dataKey="year" tick={font} />
               <YAxis tickFormatter={fmtPct} domain={[0, 40]} tick={font} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Area type="monotone" dataKey="pct" name="% aged 60+" stroke={TERRACOTTA} fill={TERRACOTTA} fillOpacity={0.15} strokeWidth={2.5} />
+              <Area type="monotone" dataKey="pct" name="% aged 60+" stroke={TERRACOTTA} fill={TERRACOTTA} fillOpacity={0.12} strokeWidth={2.5} />
             </AreaChart>
           </ResponsiveContainer>
         </Chart>
@@ -724,14 +756,14 @@ export default function ChartsLibrary() {
             <BarChart data={elderlyHealthIndicators} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis type="number" tickFormatter={fmtPct} domain={[0, 50]} tick={font} />
-              <YAxis type="category" dataKey="indicator" tick={font} width={100} />
+              <YAxis type="category" dataKey="indicator" tick={font} width={130} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="value" name="Prevalence" fill={TERRACOTTA} />
+              <Bar dataKey="value" name="Prevalence" fill={TERRACOTTA} radius={[0, 3, 3, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="Senior Citizen Allowance: Beneficiaries Over Time" source="Source: NSPA; MPRS annual reports; national budget documents" wide>
+        <Chart title="Senior Citizen Allowance: Beneficiaries and Monthly Amount" source="Source: NSPA; MPRS annual reports; national budget documents" wide>
           <ResponsiveContainer>
             <ComposedChart data={seniorAllowance}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
@@ -740,8 +772,8 @@ export default function ChartsLibrary() {
               <YAxis yAxisId="right" orientation="right" tick={font} tickFormatter={(v: number) => `MVR ${v.toLocaleString()}`} />
               <Tooltip contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
-              <Bar yAxisId="left" dataKey="beneficiaries" name="Beneficiaries" fill={TEAL} opacity={0.7} />
-              <Line yAxisId="right" type="monotone" dataKey="amount" name="Monthly amount (MVR)" stroke={CORAL} strokeWidth={2} dot={{ r: 4 }} />
+              <Bar yAxisId="left" dataKey="beneficiaries" name="Beneficiaries" fill={TEAL} opacity={0.75} radius={[3, 3, 0, 0]} />
+              <Line yAxisId="right" type="stepAfter" dataKey="amount" name="Monthly amount (MVR)" stroke={CORAL} strokeWidth={2.5} dot={{ r: 4 }} />
             </ComposedChart>
           </ResponsiveContainer>
         </Chart>
@@ -752,7 +784,7 @@ export default function ChartsLibrary() {
         <Chart title="Drug of First Initiation, RAS 2003" source="Source: UNODC Rapid Assessment Survey 2003">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={drugInitiation2003} dataKey="pct" nameKey="substance" cx="50%" cy="50%" outerRadius={110} label={({ substance, pct }: any) => `${substance}: ${pct}%`} labelLine={{ stroke: '#94a3b8' }} style={font}>
+              <Pie data={drugInitiation2003} dataKey="pct" nameKey="substance" cx="50%" cy="50%" outerRadius={95} label={({ substance, pct }: any) => `${substance}: ${pct}%`} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 {drugInitiation2003.map((_, i) => <Cell key={i} fill={PALETTE[i]} />)}
               </Pie>
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
@@ -762,24 +794,24 @@ export default function ChartsLibrary() {
 
         <Chart title="Drug Treatment Pathways, 2022" source="Source: NDA annual reports; UNODC Maldives">
           <ResponsiveContainer>
-            <BarChart data={drugTreatmentPathway}>
+            <BarChart data={drugTreatmentPathway} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="pathway" tick={font} interval={0} height={60} />
-              <YAxis tick={font} />
+              <XAxis type="number" tick={font} />
+              <YAxis type="category" dataKey="pathway" tick={font} width={150} />
               <Tooltip contentStyle={tooltipStyle} />
-              <Bar dataKey="value" name="Persons" fill={BLUE} />
+              <Bar dataKey="value" name="Persons" fill={BLUE} radius={[0, 3, 3, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
 
         <Chart title="Drug Use Situational Analysis 2021: Key Indicators" source="Source: National Situational Analysis of Drug Users 2021" wide>
           <ResponsiveContainer>
-            <BarChart data={drugSituation2021}>
+            <BarChart data={drugSituation2021} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="indicator" tick={font} interval={0} height={60} />
-              <YAxis tickFormatter={fmtPct} tick={font} />
+              <XAxis type="number" tickFormatter={fmtPct} tick={font} />
+              <YAxis type="category" dataKey="indicator" tick={font} width={150} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="value" name="% of respondents">
+              <Bar dataKey="value" name="% of respondents" radius={[0, 3, 3, 0]}>
                 {drugSituation2021.map((_, i) => <Cell key={i} fill={PALETTE[i % PALETTE.length]} />)}
               </Bar>
             </BarChart>
@@ -791,12 +823,12 @@ export default function ChartsLibrary() {
       <Section title="Mental Health">
         <Chart title="Youth Mental Health Indicators, GSHS 2009/2014" source="Sources: WHO GSHS Maldives 2009, 2014">
           <ResponsiveContainer>
-            <BarChart data={youthMentalHealth}>
+            <BarChart data={youthMentalHealth} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="indicator" tick={font} interval={0} height={60} />
-              <YAxis tickFormatter={fmtPct} tick={font} />
+              <XAxis type="number" tickFormatter={fmtPct} tick={font} />
+              <YAxis type="category" dataKey="indicator" tick={font} width={170} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="value" name="Prevalence (%)">
+              <Bar dataKey="value" name="Prevalence (%)" radius={[0, 3, 3, 0]}>
                 {youthMentalHealth.map((_, i) => <Cell key={i} fill={[CORAL, TERRACOTTA, PLUM, SLATE, BLUE][i]} />)}
               </Bar>
             </BarChart>
@@ -807,10 +839,10 @@ export default function ChartsLibrary() {
           <ResponsiveContainer>
             <BarChart data={parentalConcernByRegion}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="region" tick={font} interval={0} height={50} />
+              <XAxis dataKey="region" tick={font} />
               <YAxis tickFormatter={fmtPct} domain={[0, 100]} tick={font} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="pct" name="% worried" fill={SKY} />
+              <Bar dataKey="pct" name="% parents worried" fill={SKY} radius={[3, 3, 0, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
@@ -825,7 +857,7 @@ export default function ChartsLibrary() {
               <XAxis dataKey="year" tick={font} />
               <YAxis tick={font} />
               <Tooltip contentStyle={tooltipStyle} />
-              <Area type="monotone" dataKey="rate" name="IMR" stroke={TEAL} fill={TEAL} fillOpacity={0.12} strokeWidth={2.5} />
+              <Area type="monotone" dataKey="rate" name="IMR" stroke={TEAL} fill={TEAL} fillOpacity={0.1} strokeWidth={2.5} />
             </AreaChart>
           </ResponsiveContainer>
         </Chart>
@@ -842,10 +874,10 @@ export default function ChartsLibrary() {
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="NCD Burden as Share of DALYs" source="Source: WHO/GBD">
+        <Chart title="Disease Burden: NCDs vs Communicable (% of DALYs)" source="Source: WHO/Global Burden of Disease">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={ncdBurden} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }: any) => `${name.replace('\n', ' ')}: ${value}%`} labelLine={{ stroke: '#94a3b8' }} style={font}>
+              <Pie data={ncdBurden} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={95} label={({ name, value }: any) => `${name}: ${value}%`} labelLine={{ stroke: '#94a3b8' }} style={font}>
                 <Cell fill={TERRACOTTA} />
                 <Cell fill={SAGE} />
               </Pie>
@@ -856,12 +888,12 @@ export default function ChartsLibrary() {
 
         <Chart title="Child and Maternal Nutrition Indicators" source="Sources: DHS 2009; National Micronutrient Survey 2007">
           <ResponsiveContainer>
-            <BarChart data={childNutrition}>
+            <BarChart data={childNutrition} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="indicator" tick={font} interval={0} height={65} />
-              <YAxis tickFormatter={fmtPct} tick={font} />
+              <XAxis type="number" tickFormatter={fmtPct} tick={font} />
+              <YAxis type="category" dataKey="indicator" tick={font} width={170} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="value" name="Prevalence (%)">
+              <Bar dataKey="value" name="Prevalence (%)" radius={[0, 3, 3, 0]}>
                 {childNutrition.map((_, i) => <Cell key={i} fill={PALETTE[i % PALETTE.length]} />)}
               </Bar>
             </BarChart>
@@ -878,7 +910,7 @@ export default function ChartsLibrary() {
               <XAxis dataKey="region" tick={font} />
               <YAxis tickFormatter={fmtPct} tick={font} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="rate" name="Poverty rate">
+              <Bar dataKey="rate" name="Poverty rate" radius={[3, 3, 0, 0]}>
                 {povertyByRegion.map((_, i) => <Cell key={i} fill={[CORAL, TEAL, TERRACOTTA][i]} />)}
               </Bar>
             </BarChart>
@@ -892,7 +924,7 @@ export default function ChartsLibrary() {
               <XAxis type="number" tickFormatter={fmtPct} tick={font} />
               <YAxis type="category" dataKey="atoll" tick={font} width={80} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="rate" name="Poverty rate" fill={TERRACOTTA} />
+              <Bar dataKey="rate" name="Poverty rate" fill={TERRACOTTA} radius={[0, 3, 3, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
@@ -902,9 +934,9 @@ export default function ChartsLibrary() {
             <BarChart data={povertyByHHCharacteristic} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis type="number" tickFormatter={fmtPct} tick={font} />
-              <YAxis type="category" dataKey="characteristic" tick={font} width={100} />
+              <YAxis type="category" dataKey="characteristic" tick={font} width={160} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="rate" name="Poverty rate">
+              <Bar dataKey="rate" name="Poverty rate" radius={[0, 3, 3, 0]}>
                 {povertyByHHCharacteristic.map((_, i) => <Cell key={i} fill={PALETTE[i % PALETTE.length]} />)}
               </Bar>
             </BarChart>
@@ -936,9 +968,9 @@ export default function ChartsLibrary() {
               <YAxis tickFormatter={fmtNum} tick={font} />
               <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
-              <Bar dataKey="enrolments" name="Enrolments" fill={TEAL} opacity={0.6} />
-              <Bar dataKey="graduates" name="Graduates" fill={GREEN} opacity={0.6} />
-              <Bar dataKey="dropouts" name="Dropouts" fill={CORAL} opacity={0.6} />
+              <Bar dataKey="enrolments" name="Enrolments" fill={TEAL} opacity={0.7} radius={[3, 3, 0, 0]} />
+              <Bar dataKey="graduates" name="Graduates" fill={GREEN} opacity={0.7} radius={[3, 3, 0, 0]} />
+              <Bar dataKey="dropouts" name="Dropouts" fill={CORAL} opacity={0.7} radius={[3, 3, 0, 0]} />
             </ComposedChart>
           </ResponsiveContainer>
         </Chart>
@@ -951,19 +983,19 @@ export default function ChartsLibrary() {
             <BarChart data={spPrograms} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis type="number" tickFormatter={fmtNum} tick={font} />
-              <YAxis type="category" dataKey="program" tick={font} width={110} />
+              <YAxis type="category" dataKey="program" tick={font} width={160} />
               <Tooltip formatter={ttFmtLocale} contentStyle={tooltipStyle} />
-              <Bar dataKey="beneficiaries" name="Beneficiaries">
+              <Bar dataKey="beneficiaries" name="Beneficiaries" radius={[0, 3, 3, 0]}>
                 {spPrograms.map((_, i) => <Cell key={i} fill={PALETTE[i]} />)}
               </Bar>
             </BarChart>
           </ResponsiveContainer>
         </Chart>
 
-        <Chart title="Social Protection Expenditure by Component, 2009" source="Source: ADB Social Protection Index 2012 (MVR millions)">
+        <Chart title="Social Protection Expenditure by Component, 2009 (MVR millions)" source="Source: ADB Social Protection Index 2012">
           <ResponsiveContainer>
             <PieChart>
-              <Pie data={spExpenditure2009} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={110} label={({ name, value }: any) => `${name}: ${value}M`} labelLine={{ stroke: '#94a3b8' }} style={{ ...font, fontSize: 10 }}>
+              <Pie data={spExpenditure2009} dataKey="value" nameKey="name" cx="50%" cy="50%" outerRadius={85} label={renderPieLabel} labelLine={{ stroke: '#94a3b8' }} style={{ ...font, fontSize: 10 }}>
                 {spExpenditure2009.map((_, i) => <Cell key={i} fill={PALETTE[i % PALETTE.length]} />)}
               </Pie>
               <Tooltip formatter={ttFmtMVR} contentStyle={tooltipStyle} />
@@ -978,14 +1010,14 @@ export default function ChartsLibrary() {
           <ResponsiveContainer>
             <BarChart data={crimeCategories}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="category" tick={font} interval={0} height={50} />
+              <XAxis dataKey="category" tick={font} />
               <YAxis tickFormatter={fmtNum} tick={font} />
               <Tooltip contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
-              <Bar dataKey="y2021" name="2021" fill={SLATE} opacity={0.5} />
-              <Bar dataKey="y2022" name="2022" fill={BLUE} opacity={0.5} />
-              <Bar dataKey="y2023" name="2023" fill={TEAL} opacity={0.7} />
-              <Bar dataKey="y2024" name="2024" fill={CORAL} />
+              <Bar dataKey="y2021" name="2021" fill={SLATE} opacity={0.4} radius={[3, 3, 0, 0]} />
+              <Bar dataKey="y2022" name="2022" fill={BLUE} opacity={0.5} radius={[3, 3, 0, 0]} />
+              <Bar dataKey="y2023" name="2023" fill={TEAL} opacity={0.7} radius={[3, 3, 0, 0]} />
+              <Bar dataKey="y2024" name="2024" fill={CORAL} radius={[3, 3, 0, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
@@ -994,12 +1026,12 @@ export default function ChartsLibrary() {
           <ResponsiveContainer>
             <BarChart data={emergingCrimes}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="category" tick={font} interval={0} height={55} />
+              <XAxis dataKey="category" tick={font} />
               <YAxis tick={font} />
               <Tooltip contentStyle={tooltipStyle} />
               <Legend wrapperStyle={font} />
-              <Bar dataKey="y2023" name="2023" fill={BLUE} />
-              <Bar dataKey="y2024" name="2024 (Jan–Sep)" fill={CORAL} />
+              <Bar dataKey="y2023" name="2023" fill={BLUE} radius={[3, 3, 0, 0]} />
+              <Bar dataKey="y2024" name="2024 (Jan–Sep)" fill={CORAL} radius={[3, 3, 0, 0]} />
             </BarChart>
           </ResponsiveContainer>
         </Chart>
@@ -1009,9 +1041,9 @@ export default function ChartsLibrary() {
             <BarChart data={prisonProfile} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
               <XAxis type="number" tickFormatter={fmtPct} domain={[0, 80]} tick={font} />
-              <YAxis type="category" dataKey="characteristic" tick={font} width={90} />
+              <YAxis type="category" dataKey="characteristic" tick={font} width={130} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="value" name="% of prisoners">
+              <Bar dataKey="value" name="% of prisoners" radius={[0, 3, 3, 0]}>
                 {prisonProfile.map((_, i) => <Cell key={i} fill={[TERRACOTTA, SLATE, PLUM][i]} />)}
               </Bar>
             </BarChart>
@@ -1023,12 +1055,12 @@ export default function ChartsLibrary() {
       <Section title="COVID-19 Socioeconomic Impact">
         <Chart title="COVID-19 Economic Impact Indicators, 2020" source="Sources: Ministry of Finance; World Bank; MMA">
           <ResponsiveContainer>
-            <BarChart data={covidEconomicImpact}>
+            <BarChart data={covidEconomicImpact} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="indicator" tick={font} interval={0} height={55} />
-              <YAxis tickFormatter={fmtPct} tick={font} />
+              <XAxis type="number" tickFormatter={fmtPct} tick={font} />
+              <YAxis type="category" dataKey="indicator" tick={font} width={170} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="value" name="% decline/impact">
+              <Bar dataKey="value" name="% decline/impact" radius={[0, 3, 3, 0]}>
                 {covidEconomicImpact.map((_, i) => <Cell key={i} fill={[CORAL, TERRACOTTA, PLUM, SLATE][i]} />)}
               </Bar>
             </BarChart>
@@ -1037,12 +1069,12 @@ export default function ChartsLibrary() {
 
         <Chart title="COVID-19 Gender Impact" source="Sources: World Bank Livelihood Impact Assessment; UNDP rapid assessment">
           <ResponsiveContainer>
-            <BarChart data={covidGenderImpact}>
+            <BarChart data={covidGenderImpact} layout="vertical">
               <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="indicator" tick={font} interval={0} height={60} />
-              <YAxis tickFormatter={fmtPct} tick={font} />
+              <XAxis type="number" tickFormatter={fmtPct} tick={font} />
+              <YAxis type="category" dataKey="indicator" tick={font} width={190} />
               <Tooltip formatter={ttFmtPct} contentStyle={tooltipStyle} />
-              <Bar dataKey="value" name="%">
+              <Bar dataKey="value" name="%" radius={[0, 3, 3, 0]}>
                 {covidGenderImpact.map((_, i) => <Cell key={i} fill={[CORAL, BLUE, CORAL, BLUE][i]} />)}
               </Bar>
             </BarChart>
