@@ -51,8 +51,11 @@ export default function Home() {
           >
             MSFD Knowledge Repository
           </h1>
-          <p className="text-[15px] leading-relaxed text-slate-500 max-w-[560px]">
-            A reference covering the legal frameworks, institutional architecture, service delivery systems, and evidence base across all domains of Maldivian social policy. {allChapters.length} chapters spanning child protection, gender, disability, elderly care, substance abuse, mental health, education, housing, climate vulnerability, and more.
+          <p className="text-[15px] leading-relaxed text-slate-500 max-w-[620px]">
+            This repository is a centralized, searchable collection of information, documentation, research, reviews, and reference materials relevant to social policy in the Maldives. It compiles knowledge relevant to social policy from government publications, international assessments, academic literature, policy timelines, literature reviews, news archives, contact directories, service provider maps, workplans, and other resources that would otherwise remain scattered across agencies, servers, and institutions. It is updated on an ongoing basis as new materials are produced and more documents are incorporated.
+          </p>
+          <p className="text-[15px] leading-relaxed text-slate-500 max-w-[620px] mt-4">
+            The purpose of MSFD Knowledge Repository is to ensure that the collective knowledge produced across the social sector is preserved, organized, and easily accessible. This will ensure that new research, policy development, and program design can easily keep track of the field to support evidence-based policymaking, reduce time spent on information-gathering, learn from the successes or mistakes of past programs, and update with Ministry&apos;s ongoing work to preserve institutional knowledge in a permanent place safe for the long-term even through staff turnover, administrative changes, etc. It is also a reference for new staff to use, making it easy for new employees to immediately be fully up-to-speed on the sector and Ministry activities.
           </p>
         </div>
 
