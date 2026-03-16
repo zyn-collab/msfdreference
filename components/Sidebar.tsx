@@ -144,6 +144,23 @@ export default function Sidebar({ chapters, onSearchOpen }: SidebarProps) {
         {groups.map(group => (
           <NavGroupComponent key={group.category} group={group} currentSlug={currentSlug} />
         ))}
+
+        {/* Standalone pages */}
+        <div className="mt-2 pt-2 border-t border-slate-100">
+          <Link
+            href="/charts"
+            className={`
+              flex items-center gap-2 px-3 py-2 rounded-md text-[13px] leading-snug transition-all
+              ${currentSlug === 'charts'
+                ? 'bg-sky-50 text-sky-700 font-medium border-l-2 border-sky-600 pl-[10px]'
+                : 'text-slate-600 hover:bg-slate-100 hover:text-slate-900'
+              }
+            `}
+          >
+            <BarChart3 size={13} className={currentSlug === 'charts' ? 'text-sky-500' : 'text-slate-300'} />
+            <span>Graphs &amp; Charts Library</span>
+          </Link>
+        </div>
       </nav>
 
       {/* Footer */}
