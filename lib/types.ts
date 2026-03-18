@@ -38,6 +38,7 @@ export interface SearchItem {
   sectionTitle: string
   sectionId: string
   excerpt: string
+  fullText: string
 }
 
 // Words that stay lowercase in title case (articles, prepositions, conjunctions)

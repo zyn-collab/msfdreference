@@ -2,9 +2,9 @@
 
 import { useEffect, useState, useRef, useCallback } from 'react'
 import { useRouter } from 'next/navigation'
-import { Search, X, FileText, Hash } from 'lucide-react'
+import { Search, X, FileText, Hash, ExternalLink } from 'lucide-react'
 import Fuse from 'fuse.js'
-import type { SearchItem } from '@/lib/content'
+import type { SearchItem } from '@/lib/types'
 
 interface SearchModalProps {
   open: boolean
@@ -29,11 +29,11 @@ export default function SearchModal({ open, onClose }: SearchModalProps) {
       .then((data: SearchItem[]) => {
         const fuse = new Fuse(data, {
           keys: [
-            { name: 'sectionTitle', weight: 0.4 },
-            { name: 'excerpt', weight: 0.4 },
+            { name: 'sectionTitle', weight: 0.3 },
+            { name: 'fullText', weight: 0.5 },
             { name: 'chapterTitle', weight: 0.2 },
           ],
-          threshold: 0.35,
+          threshold: 0.3,
           minMatchCharLength: 2,
           includeScore: true,
         })
@@ -84,6 +84,11 @@ export default function SearchModal({ open, onClose }: SearchModalProps) {
     router.push(`/${item.slug}#${item.sectionId}`)
   }
 
+  function openFullResults() {
+    onClose()
+    router.push(`/search?q=${encodeURIComponent(query)}`)
+  }
+
   if (!open) return null
 
   return (
@@ -129,7 +134,7 @@ export default function SearchModal({ open, onClose }: SearchModalProps) {
 
           {!loading && !query && (
             <div className="px-4 py-6 text-center text-sm text-slate-400">
-              Type to search across all 367,573 words
+              Type to search across all chapters
             </div>
           )}
 
@@ -172,11 +177,19 @@ export default function SearchModal({ open, onClose }: SearchModalProps) {
           )}
         </div>
 
-        {/* Footer hint */}
+        {/* Footer */}
         <div className="px-4 py-2 border-t border-slate-100 bg-slate-50 flex items-center gap-4 text-[10px] text-slate-400">
           <span><kbd className="bg-white border border-slate-200 rounded px-1 py-0.5 font-mono">↑↓</kbd> navigate</span>
           <span><kbd className="bg-white border border-slate-200 rounded px-1 py-0.5 font-mono">↵</kbd> open</span>
           <span><kbd className="bg-white border border-slate-200 rounded px-1 py-0.5 font-mono">esc</kbd> close</span>
+          {query && results.length > 0 && (
+            <button
+              onClick={openFullResults}
+              className="ml-auto flex items-center gap-1 text-sky-600 hover:text-sky-800 transition-colors text-[11px] font-medium"
+            >
+              View all results <ExternalLink size={10} />
+            </button>
+          )}
         </div>
       </div>
     </div>
