@@ -162,7 +162,7 @@ export default function Sidebar({ chapters, onSearchOpen }: SidebarProps) {
               <BookOpen size={14} className="text-white" />
             </div>
             <div>
-              <div className="text-base font-extrabold text-slate-800" style={{ fontFamily: "'Plus Jakarta Sans', sans-serif" }}>
+              <div className="text-lg font-extrabold text-slate-800" style={{ fontFamily: "'Plus Jakarta Sans', sans-serif" }}>
                 KnowHow
               </div>
             </div>
