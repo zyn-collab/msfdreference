@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const chapter = await getChapterBySlug(slug)
   if (!chapter) return {}
   return {
-    title: `${getShortTitle(chapter.title)} — MSFD Knowledge Repository`,
+    title: `${getShortTitle(chapter.title)} — KnowHow`,
   }
 }
 

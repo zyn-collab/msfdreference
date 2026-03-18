@@ -4,7 +4,7 @@ import { getAllChapters } from '@/lib/content'
 import ChartsLibrary from './ChartsLibrary'
 
 export const metadata: Metadata = {
-  title: 'Graphs & Charts Library — MSFD Knowledge Repository',
+  title: 'Graphs & Charts Library — KnowHow',
 }
 
 export default function ChartsPage() {

@@ -40,7 +40,7 @@ export default function LoginForm() {
           <div className="inline-flex items-center justify-center w-12 h-12 bg-sky-700 rounded-xl mb-4 shadow">
             <Lock size={22} className="text-white" />
           </div>
-          <h1 className="text-xl font-bold text-slate-900">MSFD Knowledge Repository</h1>
+          <h1 className="text-xl font-bold text-slate-900">KnowHow</h1>
           <p className="text-sm text-slate-500 mt-1">Ministry of Social Families &amp; Development</p>
         </div>
 
@@ -92,7 +92,7 @@ export default function LoginForm() {
         </div>
 
         <p className="text-center text-xs text-slate-400 mt-6">
-          MSFD Knowledge Repository · 2026
+          KnowHow · 2026
         </p>
       </div>
     </div>

@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'MSFD Knowledge Repository',
+  title: 'KnowHow',
   description: 'A comprehensive reference on Maldivian social policy — Ministry of Social and Family Development',
 }
 
