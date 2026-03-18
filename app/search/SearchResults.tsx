@@ -17,7 +17,7 @@ function highlightTerm(text: string, term: string): React.ReactNode[] {
   )
 }
 
-function getContextExcerpt(fullText: string, term: string, radius: number = 120): string[] {
+function getContextExcerpt(fullText: string, term: string, radius: number = 300): string[] {
   if (!term || !fullText) return []
   const lower = fullText.toLowerCase()
   const termLower = term.toLowerCase()

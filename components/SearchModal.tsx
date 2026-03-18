@@ -11,6 +11,21 @@ interface SearchModalProps {
   onClose: () => void
 }
 
+// Get a context-aware excerpt around the search term
+function getContextSnippet(item: SearchItem, term: string): string {
+  if (!term || !item.fullText) return item.excerpt
+  const lower = item.fullText.toLowerCase()
+  const termLower = term.toLowerCase()
+  const idx = lower.indexOf(termLower)
+  if (idx === -1) return item.excerpt
+  const start = Math.max(0, idx - 80)
+  const end = Math.min(item.fullText.length, idx + term.length + 120)
+  let snippet = item.fullText.slice(start, end).trim()
+  if (start > 0) snippet = '…' + snippet
+  if (end < item.fullText.length) snippet = snippet + '…'
+  return snippet
+}
+
 export default function SearchModal({ open, onClose }: SearchModalProps) {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<SearchItem[]>([])
@@ -163,11 +178,9 @@ export default function SearchModal({ open, onClose }: SearchModalProps) {
                         <div className="text-sm font-medium text-slate-900 truncate">
                           {item.sectionTitle}
                         </div>
-                        {item.excerpt && (
-                          <div className="text-xs text-slate-500 mt-0.5 line-clamp-1">
-                            {item.excerpt}
-                          </div>
-                        )}
+                        <div className="text-xs text-slate-500 mt-0.5 line-clamp-2">
+                          {getContextSnippet(item, query)}
+                        </div>
                       </div>
                     </div>
                   </button>
