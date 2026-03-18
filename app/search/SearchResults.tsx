@@ -17,27 +17,21 @@ function highlightTerm(text: string, term: string): React.ReactNode[] {
   )
 }
 
-function getContextExcerpt(fullText: string, term: string, radius: number = 300): string[] {
+function getContextExcerpt(fullText: string, term: string): string[] {
   if (!term || !fullText) return []
-  const lower = fullText.toLowerCase()
   const termLower = term.toLowerCase()
+
+  // Split on paragraph breaks (preserved as \n\n in the index)
+  const paragraphs = fullText.split(/\n\n+/).filter(p => p.trim().length > 10)
+
   const excerpts: string[] = []
-  let startFrom = 0
-
-  while (startFrom < lower.length) {
-    const idx = lower.indexOf(termLower, startFrom)
-    if (idx === -1) break
-
-    const start = Math.max(0, idx - radius)
-    const end = Math.min(fullText.length, idx + term.length + radius)
-    let snippet = fullText.slice(start, end).trim()
-    if (start > 0) snippet = '…' + snippet
-    if (end < fullText.length) snippet = snippet + '…'
-    excerpts.push(snippet)
-    startFrom = idx + term.length
+  for (const para of paragraphs) {
+    if (para.toLowerCase().includes(termLower)) {
+      excerpts.push(para.replace(/\n/g, ' ').trim())
+    }
   }
 
-  return excerpts
+  return excerpts.slice(0, 8)
 }
 
 interface MatchResult {

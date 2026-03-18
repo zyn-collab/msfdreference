@@ -11,19 +11,17 @@ interface SearchModalProps {
   onClose: () => void
 }
 
-// Get a context-aware excerpt around the search term
+// Get the paragraph containing the search term
 function getContextSnippet(item: SearchItem, term: string): string {
   if (!term || !item.fullText) return item.excerpt
-  const lower = item.fullText.toLowerCase()
   const termLower = term.toLowerCase()
-  const idx = lower.indexOf(termLower)
-  if (idx === -1) return item.excerpt
-  const start = Math.max(0, idx - 80)
-  const end = Math.min(item.fullText.length, idx + term.length + 120)
-  let snippet = item.fullText.slice(start, end).trim()
-  if (start > 0) snippet = '…' + snippet
-  if (end < item.fullText.length) snippet = snippet + '…'
-  return snippet
+  const paragraphs = item.fullText.split(/\n\n+/)
+  for (const para of paragraphs) {
+    if (para.toLowerCase().includes(termLower)) {
+      return para.replace(/\n/g, ' ').trim()
+    }
+  }
+  return item.excerpt
 }
 
 export default function SearchModal({ open, onClose }: SearchModalProps) {

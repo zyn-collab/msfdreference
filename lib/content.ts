@@ -259,8 +259,10 @@ export async function buildSearchIndex(): Promise<SearchItem[]> {
     for (const section of sections.slice(1)) {
       const lines = section.split('\n')
       const sectionTitle = lines[0].trim()
-      const sectionText = lines.slice(1).join(' ').replace(/[#*_`[\]]/g, '').replace(/\s+/g, ' ').trim()
-      const excerpt = sectionText.slice(0, 200).trim()
+      // fullText preserves paragraph breaks for context-aware excerpts
+      const sectionRaw = lines.slice(1).join('\n').replace(/[#*_`[\]]/g, '')
+      const sectionText = sectionRaw.replace(/\n{2,}/g, '\n\n').replace(/[ \t]+/g, ' ').trim()
+      const excerpt = sectionText.replace(/\n+/g, ' ').slice(0, 200).trim()
       const sectionId = sectionTitle.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')
 
       items.push({
