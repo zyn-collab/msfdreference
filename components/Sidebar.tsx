@@ -29,6 +29,7 @@ const GROUP_CONFIG: { category: Category; label: string; icon: React.ReactNode }
   { category: 'workplans', label: 'Projects, Programs & Workplans', icon: <ClipboardList size={14} /> },
   { category: 'evidence', label: 'Literature, Stats & Evidence Base', icon: <BarChart3 size={14} /> },
   { category: 'institutional', label: 'Institutional Knowledge', icon: <Building2 size={14} /> },
+  { category: 'templates', label: 'Templates', icon: <FileText size={14} /> },
   { category: 'obligations', label: 'International Obligations', icon: <Globe size={14} /> },
   { category: 'news', label: 'News Archives', icon: <Newspaper size={14} /> },
 ]
@@ -51,9 +52,10 @@ function getChapterNum(chapter: Chapter): string | null {
 }
 
 // Special non-markdown pages that belong in a category group
-const EXTRA_GROUP_LINKS: Partial<Record<Category, { slug: string; title: string }[]>> = {
+const EXTRA_GROUP_LINKS: Partial<Record<Category, { slug: string; title: string; external?: boolean }[]>> = {
   evidence: [
     { slug: 'charts', title: 'Graphs & Charts Library' },
+    { slug: 'https://msfd-repository.vercel.app/', title: 'Publications Library', external: true },
   ],
 }
 
@@ -105,6 +107,22 @@ function NavGroupComponent({ group, currentSlug }: { group: NavGroup; currentSlu
           })}
           {extraLinks.map(link => {
             const isActive = link.slug === currentSlug
+            if (link.external) {
+              return (
+                <li key={link.slug}>
+                  <a
+                    href={link.slug}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex items-start gap-2 px-3 py-2 rounded-md text-[13px] leading-snug transition-all text-slate-600 hover:bg-slate-100 hover:text-slate-900"
+                  >
+                    <Library size={13} className="mt-0.5 shrink-0 text-slate-300" />
+                    <span className="flex-1">{link.title}</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="mt-1 opacity-30 shrink-0"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+                  </a>
+                </li>
+              )
+            }
             return (
               <li key={link.slug}>
                 <Link

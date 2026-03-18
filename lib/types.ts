@@ -6,6 +6,7 @@ export type Category =
   | 'workplans'
   | 'evidence'
   | 'institutional'
+  | 'templates'
   | 'obligations'
   | 'news'
 
@@ -80,6 +81,7 @@ export const CATEGORY_LABELS: Record<Category, string> = {
   workplans: 'Projects, Programs & Workplans',
   evidence: 'Literature, Stats & Evidence Base',
   institutional: 'Institutional Knowledge',
+  templates: 'Templates',
   obligations: 'International Obligations',
   news: 'News Archive',
 }

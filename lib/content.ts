@@ -37,6 +37,9 @@ function getCategory(filename: string): Category {
   // News archives
   if (name.startsWith('News_Archive_')) return 'news'
 
+  // Templates
+  if (name.startsWith('Template_')) return 'templates'
+
   // International obligations
   if (['CRPD_Obligations', 'CRC_Obligations', 'CEDAW_Obligations'].includes(name)) return 'obligations'
 
@@ -70,8 +73,9 @@ const GROUP_ORDER: Record<Category, number> = {
   workplans: 2,
   evidence: 3,
   institutional: 4,
-  obligations: 5,
-  news: 6,
+  templates: 5,
+  obligations: 6,
+  news: 7,
 }
 
 // Within-group sort: known filenames get explicit order, rest alphabetical
@@ -116,6 +120,13 @@ const EXPLICIT_ORDER: Record<string, number> = {
   'Legislation_Timeline': 6,
   'Glossary': 7,
   'Expert_Roster': 8,
+  // Templates
+  'Template_Cabinet_Social_Council_Paper': 1,
+  'Template_Concept_Note': 2,
+  'Template_SOP': 3,
+  'Template_Email': 4,
+  'Template_Social_Media': 5,
+  'Template_Research_Paper': 6,
   // Obligations
   'CRC_Obligations': 1,
   'CEDAW_Obligations': 2,

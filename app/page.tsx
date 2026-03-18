@@ -10,6 +10,7 @@ const CATEGORY_ICONS: Record<string, React.ReactNode> = {
   workplans: <FileText size={18} />,
   evidence: <BarChart3 size={18} />,
   institutional: <Building2 size={18} />,
+  templates: <FileText size={18} />,
   obligations: <Scale size={18} />,
   news: <Newspaper size={18} />,
 }
@@ -20,6 +21,7 @@ const CATEGORY_DESCRIPTIONS: Record<string, string> = {
   workplans: 'Action plan analysis, ministry projects, development partner programmes, and annual workplans.',
   evidence: 'Literature review, statistics compendium, and source tracking across all domains.',
   institutional: 'Service directories, CSO listings, legislation timelines, contact lists, and the glossary.',
+  templates: 'Standardized templates for common Ministry documents.',
   obligations: 'Mapping of Maldivian social policy to CRC, CEDAW, and CRPD treaty obligations.',
   news: 'Indexed Dhivehi-language news coverage from archive.mv across policy domains.',
 }
@@ -34,7 +36,7 @@ export default function Home() {
     return acc
   }, {} as Record<string, typeof allChapters>)
 
-  const categoryOrder = ['core', 'summary', 'workplans', 'evidence', 'institutional', 'obligations', 'news']
+  const categoryOrder = ['core', 'summary', 'workplans', 'evidence', 'institutional', 'templates', 'obligations', 'news']
 
   return (
     <EncyclopediaShell chapters={allChapters}>
@@ -93,12 +95,23 @@ export default function Home() {
                     )
                   })}
                   {cat === 'evidence' && (
-                    <Link
-                      href="/charts"
-                      className="text-[13px] text-slate-600 hover:text-sky-700 hover:bg-slate-50 rounded-md px-2 py-1.5 -mx-2 transition-colors leading-snug"
-                    >
-                      Graphs &amp; Charts Library
-                    </Link>
+                    <>
+                      <Link
+                        href="/charts"
+                        className="text-[13px] text-slate-600 hover:text-sky-700 hover:bg-slate-50 rounded-md px-2 py-1.5 -mx-2 transition-colors leading-snug"
+                      >
+                        Graphs &amp; Charts Library
+                      </Link>
+                      <a
+                        href="https://msfd-repository.vercel.app/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-[13px] text-slate-600 hover:text-sky-700 hover:bg-slate-50 rounded-md px-2 py-1.5 -mx-2 transition-colors leading-snug flex items-center gap-1"
+                      >
+                        Publications Library
+                        <svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="opacity-40"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+                      </a>
+                    </>
                   )}
                 </div>
               </div>
