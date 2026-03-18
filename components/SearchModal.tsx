@@ -3,7 +3,6 @@
 import { useEffect, useState, useRef, useCallback } from 'react'
 import { useRouter } from 'next/navigation'
 import { Search, X, FileText, Hash, ExternalLink } from 'lucide-react'
-import Fuse from 'fuse.js'
 import type { SearchItem } from '@/lib/types'
 
 interface SearchModalProps {
@@ -11,23 +10,47 @@ interface SearchModalProps {
   onClose: () => void
 }
 
+interface SearchResult {
+  item: SearchItem
+  matchCount: number
+  snippet: string
+}
+
 // Get the paragraph containing the search term
-function getContextSnippet(item: SearchItem, term: string): string {
-  if (!term || !item.fullText) return item.excerpt
+function getContextSnippet(fullText: string, term: string): string {
+  if (!term || !fullText) return ''
   const termLower = term.toLowerCase()
-  const paragraphs = item.fullText.split(/\n\n+/)
+  const paragraphs = fullText.split(/\n\n+/)
   for (const para of paragraphs) {
     if (para.toLowerCase().includes(termLower)) {
       return para.replace(/\n/g, ' ').trim()
     }
   }
-  return item.excerpt
+  return ''
+}
+
+// Exact substring search — reliable for any term length
+function exactSearch(data: SearchItem[], query: string, limit: number): SearchResult[] {
+  const termLower = query.toLowerCase()
+  const results: SearchResult[] = []
+
+  for (const item of data) {
+    const searchable = `${item.sectionTitle} ${item.fullText}`.toLowerCase()
+    const count = searchable.split(termLower).length - 1
+    if (count > 0) {
+      const snippet = getContextSnippet(item.fullText, query) || item.excerpt
+      results.push({ item, matchCount: count, snippet })
+    }
+  }
+
+  results.sort((a, b) => b.matchCount - a.matchCount)
+  return results.slice(0, limit)
 }
 
 export default function SearchModal({ open, onClose }: SearchModalProps) {
   const [query, setQuery] = useState('')
-  const [results, setResults] = useState<SearchItem[]>([])
-  const [index, setIndex] = useState<Fuse<SearchItem> | null>(null)
+  const [results, setResults] = useState<SearchResult[]>([])
+  const [data, setData] = useState<SearchItem[] | null>(null)
   const [loading, setLoading] = useState(false)
   const [selectedIndex, setSelectedIndex] = useState(0)
   const inputRef = useRef<HTMLInputElement>(null)
@@ -35,25 +58,15 @@ export default function SearchModal({ open, onClose }: SearchModalProps) {
 
   // Load search index on first open
   useEffect(() => {
-    if (!open || index) return
+    if (!open || data) return
     setLoading(true)
     fetch('/api/search-index')
       .then(r => r.json())
-      .then((data: SearchItem[]) => {
-        const fuse = new Fuse(data, {
-          keys: [
-            { name: 'sectionTitle', weight: 0.3 },
-            { name: 'fullText', weight: 0.5 },
-            { name: 'chapterTitle', weight: 0.2 },
-          ],
-          threshold: 0.3,
-          minMatchCharLength: 2,
-          includeScore: true,
-        })
-        setIndex(fuse)
+      .then((items: SearchItem[]) => {
+        setData(items)
         setLoading(false)
       })
-  }, [open, index])
+  }, [open, data])
 
   // Focus input when opened
   useEffect(() => {
@@ -67,14 +80,14 @@ export default function SearchModal({ open, onClose }: SearchModalProps) {
 
   // Search on query change
   useEffect(() => {
-    if (!index || !query.trim()) {
+    if (!data || !query.trim()) {
       setResults([])
       return
     }
-    const hits = index.search(query, { limit: 12 })
-    setResults(hits.map(h => h.item))
+    const hits = exactSearch(data, query.trim(), 12)
+    setResults(hits)
     setSelectedIndex(0)
-  }, [query, index])
+  }, [query, data])
 
   // Keyboard navigation
   const handleKeyDown = useCallback((e: React.KeyboardEvent) => {
@@ -85,8 +98,7 @@ export default function SearchModal({ open, onClose }: SearchModalProps) {
       e.preventDefault()
       setSelectedIndex(i => Math.max(i - 1, 0))
     } else if (e.key === 'Enter' && results[selectedIndex]) {
-      const r = results[selectedIndex]
-      navigateTo(r)
+      navigateTo(results[selectedIndex].item)
     } else if (e.key === 'Escape') {
       onClose()
     }
@@ -153,10 +165,10 @@ export default function SearchModal({ open, onClose }: SearchModalProps) {
 
           {results.length > 0 && (
             <ul>
-              {results.map((item, i) => (
-                <li key={`${item.slug}-${item.sectionId}`}>
+              {results.map((r, i) => (
+                <li key={`${r.item.slug}-${r.item.sectionId}`}>
                   <button
-                    onClick={() => navigateTo(item)}
+                    onClick={() => navigateTo(r.item)}
                     className={`
                       w-full text-left px-4 py-3 transition-colors border-b border-slate-50 last:border-0
                       ${i === selectedIndex ? 'bg-sky-50' : 'hover:bg-slate-50'}
@@ -170,14 +182,19 @@ export default function SearchModal({ open, onClose }: SearchModalProps) {
                         }
                       </div>
                       <div className="flex-1 min-w-0">
-                        <div className="text-[11px] text-slate-400 mb-0.5 truncate">
-                          {item.chapterTitle.replace(/^PART\s+[IVXLC]+:\s*/i, '')}
+                        <div className="flex items-center gap-2 mb-0.5">
+                          <span className="text-[11px] text-slate-400 truncate flex-1">
+                            {r.item.chapterTitle.replace(/^PART\s+[IVXLC]+:\s*/i, '')}
+                          </span>
+                          <span className="text-[10px] text-slate-400 bg-slate-100 rounded-full px-1.5 py-0.5 shrink-0">
+                            {r.matchCount}
+                          </span>
                         </div>
                         <div className="text-sm font-medium text-slate-900 truncate">
-                          {item.sectionTitle}
+                          {r.item.sectionTitle}
                         </div>
                         <div className="text-xs text-slate-500 mt-0.5 line-clamp-2">
-                          {getContextSnippet(item, query)}
+                          {r.snippet}
                         </div>
                       </div>
                     </div>
@@ -193,7 +210,7 @@ export default function SearchModal({ open, onClose }: SearchModalProps) {
           <span><kbd className="bg-white border border-slate-200 rounded px-1 py-0.5 font-mono">↑↓</kbd> navigate</span>
           <span><kbd className="bg-white border border-slate-200 rounded px-1 py-0.5 font-mono">↵</kbd> open</span>
           <span><kbd className="bg-white border border-slate-200 rounded px-1 py-0.5 font-mono">esc</kbd> close</span>
-          {query && results.length > 0 && (
+          {query.trim() && (
             <button
               onClick={openFullResults}
               className="ml-auto flex items-center gap-1 text-sky-600 hover:text-sky-800 transition-colors text-[11px] font-medium"
