@@ -2129,7 +2129,7 @@ This new category catalogues the primary statistical sources and clean datasets 
 
 ---
 
-*This annotated bibliography (Part 2) was compiled as part of the Maldives Social Policy Encyclopedia project. Every effort has been made to extract actual findings, statistics, and conclusions from each source rather than merely describing what documents contain. Sources are current as of March 2026.*
+*This annotated bibliography (Part 2) was compiled as part of KnowHow. Every effort has been made to extract actual findings, statistics, and conclusions from each source rather than merely describing what documents contain. Sources are current as of March 2026.*
 
 ---
 

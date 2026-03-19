@@ -1,6 +1,6 @@
 # Service Providers by Island
 
-## Maldives Social Policy Encyclopedia – Definitive Atoll-by-Atoll Reference
+## KnowHow – Definitive Atoll-by-Atoll Reference
 
 ---
 

@@ -1,8 +1,8 @@
-# THE MALDIVES SOCIAL POLICY ENCYCLOPEDIA
-## A Definitive Reference for the Ministry of Social and Family Development
+# KNOWHOW
+## Knowledge Management System and Institutional Memory
 
-**Compiled for the Social Ministry Policy Department, Research Division, and Case Management Teams**
-**Version 1.0 – March 2026**
+**Built for the Ministry of Social and Family Development by Public Policy Lab Maldives**
+**Beta Version 0.1 – March 2026**
 
 ---
 

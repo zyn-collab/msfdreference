@@ -6722,7 +6722,7 @@ The Ministry of Islamic Affairs, mosques, and Islamic scholars represent an enor
 
 ---
 
-*Part IV compiled for the Maldives Social Policy Encyclopedia, Version 1.0, March 2026. This chapter draws extensively on Rogers, M., Ali, S. & Naeem, M. (2025), the UNICEF Situation Analysis series (2021, 2025), CRC periodic reports and shadow reports, and primary legislation of the Republic of Maldives.*
+*Part IV compiled for KnowHow, Beta Version 0.1, March 2026. This chapter draws extensively on Rogers, M., Ali, S. & Naeem, M. (2025), the UNICEF Situation Analysis series (2021, 2025), CRC periodic reports and shadow reports, and primary legislation of the Republic of Maldives.*
 
 ---
 

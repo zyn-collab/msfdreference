@@ -175,4 +175,4 @@ This appendix provides a comprehensive timeline of legislation, policies, treaty
 
 ---
 
-*This appendix is part of The Maldives Social Policy Encyclopedia, compiled for the Social Ministry Policy Department, Research Division, and Case Management Teams, Version 1.0 -- March 2026.*
+*KnowHow is part of the Knowledge Management System and Institutional Memory Projects built for the Ministry of Social and Family Development by Public Policy Lab Maldives, Beta Version 0.1 -- March 2026.*

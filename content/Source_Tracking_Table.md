@@ -3,7 +3,7 @@
 **Final Audit Deliverable (Rebuilt)**
 **Date:** 13 March 2026
 
-This table catalogues every source consulted in the preparation of the Maldives Social Policy Encyclopedia. Each entry records source information, formal citation, file location or URL, and every Part/section where the source is cited. Sources are grouped by the same 20 thematic categories used in Appendix A.
+This table catalogues every source consulted in the preparation of the KnowHow. Each entry records source information, formal citation, file location or URL, and every Part/section where the source is cited. Sources are grouped by the same 20 thematic categories used in Appendix A.
 
 ---
 
@@ -559,4 +559,4 @@ These sources were referenced in the encyclopedia parts and new chapters via URL
 
 ---
 
-*Rebuilt as an updated audit deliverable for the Maldives Social Policy Encyclopedia, 13 March 2026.*
+*Rebuilt as an updated audit deliverable for the KnowHow, 13 March 2026.*

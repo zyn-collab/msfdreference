@@ -1735,4 +1735,4 @@ The overwhelming majority of national-level social CSOs are headquartered in Mal
 
 ---
 
-*This CSO/NGO Directory is a supplementary reference for the Maldives Social Policy Encyclopedia Service Provider Directory (Part 21). Data sourced from the CSO Registry, organizational websites, and policy documentation. Last updated March 2026.*
+*This CSO/NGO Directory is a supplementary reference for the KnowHow Service Provider Directory. Data sourced from the CSO Registry, organizational websites, and policy documentation. Last updated March 2026.*

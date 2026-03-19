@@ -6133,7 +6133,7 @@ The following composite summary integrates the key findings from across the 100 
 
 ---
 
-*This concludes the Gender, Gender-Based Violence, and Women's Empowerment chapter of the Maldives Social Policy Encyclopedia. A comprehensive reference of this scope – covering 100 thematic sections across the full spectrum of gender policy in the Maldives – represents the most complete encyclopedic treatment of this subject available. It should be updated with each new major data release (particularly a new national GBV prevalence study when commissioned, new DHS data, and CEDAW Concluding Observations following the Seventh Periodic Report review).*
+*This concludes the Gender, Gender-Based Violence, and Women's Empowerment chapter of the KnowHow. A comprehensive reference of this scope – covering 100 thematic sections across the full spectrum of gender policy in the Maldives – represents the most complete encyclopedic treatment of this subject available. It should be updated with each new major data release (particularly a new national GBV prevalence study when commissioned, new DHS data, and CEDAW Concluding Observations following the Seventh Periodic Report review).*
 
 ---
 

@@ -673,4 +673,4 @@ The State Party acknowledges that OPD capacity in Maldives requires significant 
 
 *End of CRPD Combined Initial and Second Periodic Report – Republic of Maldives (Draft)*
 
-*Prepared for the Maldives Social Policy Encyclopedia, Social Ministry Policy Department, March 2026.*
+*Prepared for KnowHow, Ministry of Social and Family Development, March 2026.*
