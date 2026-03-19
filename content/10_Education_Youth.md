@@ -126,7 +126,7 @@ The teacher workforce is central to the education system and faces several persi
 
 ## 10.4 Higher Education -- MNU, IUM, and Private Institutions
 
-### Institutional Landscape
+### Institutional Overview
 
 Higher education in the Maldives has expanded dramatically since the establishment of the first local university in 2011. As of September 2023, the country's registered Higher Education Institutions (HEIs) comprised two public universities, two public colleges (College of Defence and Security Studies; National College of Policing and Law Enforcement), and twelve private colleges.[^20]
 

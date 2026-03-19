@@ -78,7 +78,7 @@ export function getPartLabel(title: string): string | null {
 // Category display labels for the chapter page header
 export const CATEGORY_LABELS: Record<Category, string> = {
   core: 'Encyclopedia',
-  summary: 'Summary',
+  summary: 'Sector Trainings',
   workplans: 'Projects, Programs & Workplans',
   evidence: 'Literature, Stats & Evidence Base',
   institutional: 'Institutional Knowledge',

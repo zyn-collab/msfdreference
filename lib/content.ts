@@ -51,75 +51,16 @@ function getCategory(filename: string): Category {
 
   // Institutional Knowledge
   if ([
-    'Service_Referral_Guide', 'CSO_NGO_Directory',
-    'Service_Providers_by_Island', 'Full_Contact_List', 'Expert_Roster',
-    'Key_Institutions_Directory', 'Legislation_Timeline', 'Glossary',
-  ].includes(name)) return 'institutional'
-
-  // Core chapters: numbered 01-15 + Development Partners
-  const num = parseInt(filename)
-  if (!isNaN(num) && num >= 1 && num <= 15) return 'core'
-  if (name === 'Development_Partners') return 'core'
-
-  // Fallback
-  return 'institutional'
-}
-
-// ── Sort order ──────────────────────────────────────────
-// Groups are ordered: core → summary → workplans → evidence → institutional → obligations → news
-const GROUP_ORDER: Record<Category, number> = {
-  core: 0,
-  summary: 1,
-  workplans: 2,
-  evidence: 3,
-  institutional: 4,
-  templates: 5,
-  obligations: 6,
-  news: 7,
-}
-
-// Within-group sort: known filenames get explicit order, rest alphabetical
-const EXPLICIT_ORDER: Record<string, number> = {
-  // Core chapters by number
-  '01_Historical_Evolution': 1,
-  '02_Legal_Framework': 2,
-  '03_Institutional_Architecture': 3,
-  '04_Child_Protection': 4,
-  '05_Gender_GBV_Women': 5,
-  '06_Disability': 6,
-  '07_Elderly_Ageing': 7,
-  '08_Substance_Abuse': 8,
-  '09_Mental_Health': 9,
-  '10_Education_Youth': 10,
-  '11_Health_Systems': 11,
-  '12_Housing_Poverty': 12,
-  '13_Social_Protection': 13,
-  '14_Climate_Vulnerability': 14,
-  '15_Cross_Cutting_Issues': 15,
-  'Development_Partners': 16,
-  // Projects, programs & workplans
-  'Action_Plans_Analysis': 1,
-  'Ministry_Projects_2025_2028': 2,
-  'Development_Partner_Projects': 3,
-  'Workplan_2026': 4,
-  // Summaries follow their parent chapter order
-  'Summary_Child_Protection': 1,
-  'Summary_Gender': 2,
-  'Summary_Disability': 3,
-  'Summary_Elderly': 4,
-  // Evidence
-  'Literature_Review': 1,
-  'Statistics_Compendium': 2,
-  'Source_Tracking_Table': 3,
-  // Institutional
-  'Service_Referral_Guide': 1,
-  'Service_Providers_by_Island': 2,
-  'CSO_NGO_Directory': 3,
-  'Full_Contact_List': 4,
-  'Key_Institutions_Directory': 5,
-  'Legislation_Timeline': 6,
-  'Glossary': 7,
-  'Expert_Roster': 8,
+  'Social_Sector_Capacity_Assessment': 1,
+  'Internal_Datasets': 2,
+  'Service_Referral_Guide': 3,
+  'Service_Providers_by_Island': 4,
+  'CSO_NGO_Directory': 5,
+  'Full_Contact_List': 6,
+  'Key_Institutions_Directory': 7,
+  'Legislation_Timeline': 8,
+  'Glossary': 9,
+  'Expert_Roster': 10,
   // Templates
   'Template_Cabinet_Social_Council_Paper': 1,
   'Template_Concept_Note': 2,

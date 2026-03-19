@@ -2,7 +2,7 @@
 
 ---
 
-## Section 1: Overview of the Development Partner Landscape
+## Section 1: Overview of Development Partner Engagement
 
 ### 1.1 The Architecture of International Engagement
 
@@ -899,7 +899,7 @@ WHO's collaboration with the Maldives operates through the WHO Country Cooperati
 |---|---|---|---|
 | Country Cooperation Strategy | 2024--2029 | Strategic priorities for health system strengthening; technical support | Ministry of Health |
 | Faafu Atoll PHC Demonstration Site (FADS) | 2022--ongoing | Integration of NCD and mental health services into primary healthcare in Faafu Atoll | Ministry of Health |
-| NDA/WHO Situational Analysis of Drugs | 2021 | Comprehensive assessment of the drug landscape using data from police, customs, courts, health agencies | NDA / Ministry of Health |
+| NDA/WHO Situational Analysis of Drugs | 2021 | Comprehensive assessment of the drug situation using data from police, customs, courts, health agencies | NDA / Ministry of Health |
 | NCD Prevention and Control | Ongoing | STEPS Survey 2020--21; tobacco control (GYTS 2019); physical activity guidelines (2022); NCD integration into PHC | HPA / Ministry of Health |
 | National Mental Health Strategic Plan Development | 2024--ongoing | Consultancy to develop the National Mental Health Strategic Plan | Ministry of Health |
 | RMNCAH Strategy | 2020--2025 | Joint support (with UNICEF and UNFPA) for the National RMNCAH Strategy and Action Plan | Ministry of Health |
@@ -914,7 +914,7 @@ WHO's collaboration with the Maldives operates through the WHO Country Cooperati
 
 WHO's most innovative contribution has been the Faafu Atoll Primary Health Care Demonstration Site (FADS), which piloted the integration of NCD and mental health services into primary healthcare on a remote atoll. This demonstration project addressed the critical gap identified in Part XI of this encyclopedia: the health system's curative bias, where only US$11 per capita was spent on public health programmes compared to US$130 on inpatient curative services.[^48] By integrating targeted NCD screenings, lifestyle counselling, and identification and referral for common cancers and selected mental health conditions into the existing PHC framework, the FADS model offers a potential template for scaling across all 20 atolls -- though replication requires staffing and equipment investments that have not yet been committed.
 
-The NDA/WHO Situational Analysis of Drugs (2021) provided the most comprehensive recent assessment of the drug landscape in the Maldives, addressing a social issue that intersects deeply with child protection, domestic violence, and criminal justice systems.[^49]
+The NDA/WHO Situational Analysis of Drugs (2021) provided the most comprehensive recent assessment of the drug situation in the Maldives, addressing a social issue that intersects deeply with child protection, domestic violence, and criminal justice systems.[^49]
 
 WHO's consultancy for the National Mental Health Strategic Plan, initiated in 2024, addresses a gap flagged throughout this encyclopedia: the absence of a Mental Health Act and the lack of a comprehensive strategic framework for mental health services.[^50]
 
@@ -1361,9 +1361,9 @@ All UN agency programmes in the Maldives operate under the United Nations Sustai
 - The UNFPA census support generates the population data that all agencies use for programme targeting and planning.
 - UNDP's governance programming supports the institutional capacity of the ministries that implement UNICEF and UNFPA social sector programmes.
 
-However, coordination between UN agencies and the Bretton Woods institutions (World Bank, ADB) is more limited. The World Bank and ADB operate under their own country partnership frameworks with separate results frameworks, reporting requirements, and implementation modalities. This creates a fragmented landscape where, for instance, the World Bank's SAILS project is designing an unemployment insurance scheme while UNICEF is advocating for child-sensitive social protection, and UNFPA is generating population data that could inform targeting for both -- but there is no single coordination mechanism ensuring these parallel efforts are mutually reinforcing.
+However, coordination between UN agencies and the Bretton Woods institutions (World Bank, ADB) is more limited. The World Bank and ADB operate under their own country partnership frameworks with separate results frameworks, reporting requirements, and implementation modalities. This creates a fragmented environment where, for instance, the World Bank's SAILS project is designing an unemployment insurance scheme while UNICEF is advocating for child-sensitive social protection, and UNFPA is generating population data that could inform targeting for both -- but there is no single coordination mechanism ensuring these parallel efforts are mutually reinforcing.
 
-The Government of Maldives, particularly the Ministry of Finance (for development partner coordination) and the Ministry of Social and Family Development (for social sector coordination), must navigate these overlapping frameworks. The capacity constraints documented throughout this encyclopedia -- limited staff, high turnover, thin technical expertise -- make effective donor coordination an additional burden on already-stretched government institutions.
+The Government of Maldives, particularly the Ministry of Finance (for development partner coordination) and the Ministry of Social and Family Development (for social sector coordination), must navigate these overlapping frameworks. The capacity constraints documented throughout this encyclopedia -- limited staff, high turnover, thin technical expertise -- mean that effective donor coordination itself requires investment in dedicated coordination capacity within government institutions.
 
 #### 4.7.3 The AIM Project – A Joint EU-UNDP-MoSFD Initiative
 

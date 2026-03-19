@@ -184,7 +184,7 @@ This appendix provides a comprehensive annotated bibliography of every source do
 
 **Context:** The persistence of lawful corporal punishment in the home reflects the tension between international child rights norms and cultural/religious practices around family discipline – a tension unresolved by the CRPA 2019.
 
-**Relevance:** Highlights a critical gap in child protection that intersects with cultural norms and religious law, providing the legal landscape against which subsequent reforms can be evaluated.
+**Relevance:** Highlights a critical gap in child protection that intersects with cultural norms and religious law, providing the legal context against which subsequent reforms can be evaluated.
 
 ---
 
@@ -610,7 +610,7 @@ This appendix provides a comprehensive annotated bibliography of every source do
 
 **Context:** The regional comparative framework that situates the Maldives' demographic transition within the broader South Asian pattern.
 
-**Relevance:** Underscores the urgency of ageing policy preparation – the Maldives has far less time than developed nations had to build elderly care infrastructure, pension sustainability, and health system readiness.
+**Relevance:** Highlights the urgency of ageing policy preparation – the Maldives has far less time than developed nations had to build elderly care infrastructure, pension sustainability, and health system readiness.
 
 ---
 
@@ -626,7 +626,7 @@ This appendix provides a comprehensive annotated bibliography of every source do
 
 **Context:** Conducted after a gap of nearly ten years since the 2011/12 National Drug Use Survey – the absence of regular monitoring itself being a significant finding.
 
-**Relevance:** The most current comprehensive assessment of the drug situation, integrating data from enforcement, judicial, and health perspectives. The ten-year data gap underscores the challenge of evidence-based drug policy in the Maldives.
+**Relevance:** The most current comprehensive assessment of the drug situation, integrating data from enforcement, judicial, and health perspectives. The ten-year data gap illustrates the challenge of evidence-based drug policy in the Maldives.
 
 ---
 
@@ -1214,7 +1214,7 @@ This second part of Appendix A continues the annotated bibliography with categor
 
 **Context:** Covers a period of acute political instability – the aftermath of the 2012 transfer of power from President Nasheed to President Waheed, followed by the contested 2013 election that brought President Yameen to power.
 
-**Relevance:** Provides an external benchmark for assessing the human rights context within which social policy operates. The finding that 47% of prisoners were drug offenders underscores the intersection of the criminal justice and substance abuse systems documented in Part VIII of this encyclopedia.
+**Relevance:** Provides an external benchmark for assessing the human rights context within which social policy operates. The finding that 47% of prisoners were drug offenders highlights the intersection of the criminal justice and substance abuse systems documented in Part VIII of this encyclopedia.
 
 **Link:** U.S. State Department country reports on human rights practices.
 
@@ -1310,7 +1310,7 @@ This second part of Appendix A continues the annotated bibliography with categor
 
 **Context:** Provides the deep historical context for understanding how traditional governance structures and legal traditions have shaped the institutional architecture within which contemporary social policy operates.
 
-**Relevance:** Essential for understanding why centralisation in Male, the tension between customary and statutory law, and the role of Islamic jurisprudence in family and social matters persist as defining features of the social policy landscape.
+**Relevance:** Essential for understanding why centralisation in Male, the tension between customary and statutory law, and the role of Islamic jurisprudence in family and social matters persist as defining features of the social policy environment.
 
 **Link:** Maldives Law Institute publications.
 
@@ -1730,13 +1730,13 @@ The following sources were produced as part of the Vulnerability Mapping Researc
 
 **Citation:** Literature Review Team. (n.d.). *Social Policies in the Maldives* [old report]. Social Ministry.
 
-**Key Findings:** Provides an earlier-generation assessment of social policy, documenting baseline conditions before the major reforms of 2008–2019. The report captures the pre-democratic-transition social policy landscape, including the absence of formal social protection beyond family networks, the nascent state of the child protection system, and the limited reach of health and education services to outer atolls.
+**Key Findings:** Provides an earlier-generation assessment of social policy, documenting baseline conditions before the major reforms of 2008–2019. The report captures the pre-democratic-transition social policy environment, including the absence of formal social protection beyond family networks, the nascent state of the child protection system, and the limited reach of health and education services to outer atolls.
 
 **Methodology:** Policy assessment report using available government data and institutional analysis.
 
 **Context:** Historical reference showing how social policy analysis has evolved from descriptive institutional accounts to the evidence-based, outcome-oriented approach represented by more recent documents.
 
-**Relevance:** Valuable as a baseline reference against which the transformation of the social policy landscape – from near-zero formal social protection to the current multi-billion-MVR system – can be measured.
+**Relevance:** Valuable as a baseline reference against which the transformation of social policy – from near-zero formal social protection to the current multi-billion-MVR system – can be measured.
 
 **Link:** Internal Social Ministry document (docx format).
 
@@ -1766,7 +1766,7 @@ The following sources were produced as part of the Vulnerability Mapping Researc
 
 **Methodology:** Updated research sections incorporating new evidence and institutional developments since the February 2026 drafts.
 
-**Context:** The most current iteration of the CFW research, reflecting the evolving policy and institutional landscape.
+**Context:** The most current iteration of the CFW research, reflecting the evolving policy and institutional context.
 
 **Relevance:** Ensures that the policy recommendations emerging from the vulnerability mapping and CFW research process are based on the most up-to-date evidence available.
 
@@ -1901,13 +1901,13 @@ This new category catalogues the action plans, national strategies, and core man
 
 **Citation:** Government of Maldives. (2024). *Ministry of Social and Family Development – Core Mandate*. Government of Maldives.
 
-**Key Findings:** Lists **39 core responsibilities** spanning: policy for women, children, elderly, persons with disabilities, and individuals requiring state care; gender mainstreaming; child protection systems; social protection programmes; psychosocial support; emergency preparedness; family strengthening; licensing of social service providers; research; human resource development; international treaty implementation; and management of the Children's Rights Protection Council and Disability Council. The Ministry operates through subordinate institutions including **NSPA, 19 FCSCs, CFPS, Fiyavathi** (residential care, restructured post-COVID into 9 smaller units), **Amaanveshi** (safe shelter for GBV/DV survivors), **Special Care Centre, Amaan Hiyaa** (residential facility for girls aged 9–18), **Vilingili Social Service Centre**, and **Social Centres for Elderly**. The breadth of this mandate – 39 responsibilities spanning five vulnerable population groups – assigned to a single ministry with limited staff and fiscal resources illustrates the structural overstretch.
+**Key Findings:** Lists **39 core responsibilities** spanning: policy for women, children, elderly, persons with disabilities, and individuals requiring state care; gender mainstreaming; child protection systems; social protection programmes; psychosocial support; emergency preparedness; family strengthening; licensing of social service providers; research; human resource development; international treaty implementation; and management of the Children's Rights Protection Council and Disability Council. The Ministry operates through subordinate institutions including **NSPA, 19 FCSCs, CFPS, Fiyavathi** (residential care, restructured post-COVID into 9 smaller units), **Amaanveshi** (safe shelter for GBV/DV survivors), **Special Care Centre, Amaan Hiyaa** (residential facility for girls aged 9–18), **Vilingili Social Service Centre**, and **Social Centres for Elderly**. The breadth of this mandate – 39 responsibilities spanning five vulnerable population groups – assigned to a single ministry with limited staff and fiscal resources illustrates the breadth of mandate relative to available resources.
 
 **Methodology:** Administrative mandate document listing ministerial functions and subordinate organisations.
 
 **Context:** The current (January 2024) mandate document for the ministry under the Muizzu administration.
 
-**Relevance:** The 39-responsibility mandate, covering five distinct vulnerable population groups plus cross-cutting functions, makes MoSFD one of the most overstretched social ministries in the region relative to its institutional capacity.
+**Relevance:** The 39-responsibility mandate, covering five distinct vulnerable population groups plus cross-cutting functions, means the ministry's ability to deliver across all mandate areas depends on continued investment in staffing, systems, and fiscal resources.
 
 **Link:** Government of Maldives official gazette.
 
@@ -1975,7 +1975,7 @@ This new category catalogues the project documents referenced in the Development
 
 **Context:** UNICEF has maintained a continuous presence since the 1970s and is the primary technical partner for child protection system development in the Maldives. The child protection legal framework (CRPA 2019), case management system (MCPD), and community service model (IBAMA) were all developed with UNICEF support.
 
-**Relevance:** UNICEF's foundational role in shaping the child protection system means its frameworks define the operational paradigm – but the persistent gap between promoted models and implementation capacity is the central tension in child protection delivery.
+**Relevance:** UNICEF's foundational role in shaping the child protection system means its frameworks define the operational model – but the persistent gap between promoted models and implementation capacity is the central tension in child protection delivery.
 
 **Link:** UNICEF Maldives website and country programme documents.
 

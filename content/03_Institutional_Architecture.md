@@ -92,7 +92,7 @@ Orders must be applied for within five days of taking a child into state care. W
 
 ### Caseload pressures
 
-CFPS workers carry caseloads that far exceed safe levels. UNICEF (2022) documented average caseloads of over 160 cases per worker, a figure that makes meaningful engagement with individual families effectively impossible and drives a reactive rather than preventive approach to child protection.[^21] The scrutiny of oversight bodies such as HRCM and the Children's Ombudsperson's Office compounds the pressure: these organisations impose ambitious monitoring objectives that are challenging to fulfil given staff capacity, leaving social workers in a permanent state of anxiety about accusations of negligence.[^22]
+CFPS workers carry caseloads that far exceed safe levels. UNICEF (2022) documented average caseloads of over 160 cases per worker, a figure that makes meaningful engagement with individual families effectively impossible and drives a reactive rather than preventive approach to child protection.[^21] One frontline worker told the UNICEF assessment: "Case workers already have a huge case workload with between 150 and 200 cases. All those cases are urgent cases which require long-term monitoring… We cannot tend to them properly, we find it very difficult to call every client, carry out the assessments… within a specific time period we have to finish many documents and we often miss the deadlines."[^21a] The scrutiny of oversight bodies such as HRCM and the Children's Ombudsperson's Office compounds the pressure: these organisations set monitoring requirements that current staff capacity cannot fulfil, leaving social workers caught between urgent casework and documentation obligations.[^22]
 
 ### The 1412 helpline
 
@@ -114,7 +114,9 @@ FCSCs are the frontline social service delivery points across the Maldives, with
 
 ### Staffing and capacity
 
-Each FCSC is staffed by a small team of social workers and support staff -- typically ranging from two to five social workers depending on the atoll's population. These workers are generalists who handle child protection cases, domestic violence reports, elderly welfare, disability services, and family disputes. The workers who initially staffed FCSCs were school leavers who completed a one-year Advanced Certificate course, followed by deployment to islands as social work managers.[^27] Over time, the educational pipeline has improved with the availability of the four-year Social Work degree at MNU, but recruitment and retention remain difficult because many graduates prefer to work in Male rather than accept postings to remote atolls.
+Each FCSC is staffed by a small team of social workers and support staff -- typically ranging from two to five social workers depending on the atoll's population. These workers are generalists who handle child protection cases, domestic violence reports, elderly welfare, disability services, and family disputes. The workers who initially staffed FCSCs were school leavers who completed a one-year Advanced Certificate course, followed by deployment to islands as social work managers.[^27] Over time, the educational pipeline has improved with the availability of the four-year Social Work degree at MNU, but recruitment and retention remain difficult because many graduates prefer to work in Male' rather than accept postings to remote atolls.
+
+The UNICEF Social Sector Assessment (2022) found that most FCSCs operate with two to three social workers covering all the islands in their atoll, and at least one FCSC was operating without any social workers at all. The ministry had been unable to fill vacancies despite advertising them during 2021. Social workers at the FCSC level reported managing upwards of 70 cases each, with some carrying caseloads of 150 to 200.[^27a] FCSCs also lack their own transport, so social workers depend on police vessels or public inter-island ferries to reach cases on other islands -- adding days of delay to response times and compounding the caseload pressure.[^27b]
 
 ### Operational challenges
 
@@ -142,7 +144,7 @@ The drug problem in the Maldives is severe and disproportionately affects youth.
 
 NDA oversees both compulsory and voluntary drug treatment and rehabilitation systems. A World Bank-supported evaluation (2010) assessed the performance of these systems and found significant deficiencies: a lack of clinical staff involvement in policy formation, inadequate professional monitoring and training, and ethical issues in service delivery.[^35] Research by Ageel (2006) identified tensions between the formal policies of the national narcotics control system and actual clinical practice, with rehabilitation services constrained by legal frameworks that prioritised criminalisation over public health approaches.[^36]
 
-The NDA/WHO Situational Analysis of Drugs (2021) provided the most comprehensive recent assessment of the drug landscape, drawing on data from police, customs, courts, correctional services, and health agencies to inform intervention strategies.[^37] However, services remain predominantly concentrated in the Male region, with limited treatment and rehabilitation capacity available in atolls.
+The NDA/WHO Situational Analysis of Drugs (2021) provided the most comprehensive recent assessment of the drug situation, drawing on data from police, customs, courts, correctional services, and health agencies to inform intervention strategies.[^37] However, services remain predominantly concentrated in the Male region, with limited treatment and rehabilitation capacity available in atolls.
 
 ### Intersection with child and family protection
 
@@ -276,7 +278,7 @@ Women's Development Committees (WDCs) are established at the island level across
 
 ### Role in social protection
 
-WDCs serve several functions in the social policy landscape:
+WDCs serve several functions in social policy delivery:
 
 - **Community welfare**: WDCs organise food packages, school supplies, and other material support for vulnerable families on their islands. In the absence of formal social protection mechanisms reaching every household, WDCs serve as an informal safety net, leveraging community solidarity.[^69]
 - **Awareness-raising**: WDCs conduct awareness programmes on gender equality, domestic violence prevention, and children's rights.
@@ -378,7 +380,7 @@ Additional international engagement includes the European Union (Multi-annual In
 
 ### Structural characteristics
 
-Civil society in the Maldives is relatively underdeveloped compared to the state's role in social service delivery. Rogers, Ali and Naeem (2025) observe that "NGOs and civil society are largely absent in the provision of services; hence child protection activities are dominated by the state."[^86] This creates a landscape where a small number of organisations play outsized roles in filling specific gaps that the state has not yet addressed.
+Civil society in the Maldives is relatively underdeveloped compared to the state's role in social service delivery. Rogers, Ali and Naeem (2025) observe that "NGOs and civil society are largely absent in the provision of services; hence child protection activities are dominated by the state."[^86] This creates a situation where a small number of organisations play outsized roles in filling specific gaps that the state has not yet addressed.
 
 ### Key organisations
 
@@ -473,6 +475,7 @@ Despite these challenges, the trajectory is broadly positive. The system demonst
 [^20]: Rogers, Ali & Naeem (2025). Orders must be applied within 5 days; court-ordered assessments are added to workers' existing caseloads.
 
 [^21]: Rogers, Ali & Naeem (2025), citing UNICEF (2022). Average caseloads over 160 cases per worker.
+[^21a]: UNICEF Maldives Social Sector Assessment (2022), Ch.5, p.93. KI quote on caseload pressure.
 
 [^22]: Rogers, Ali & Naeem (2025). Workers are "constantly afraid of being accused of negligence."
 
@@ -485,6 +488,8 @@ Despite these challenges, the trajectory is broadly positive. The system demonst
 [^26]: Rogers, Ali & Naeem (2025). The Decentralisation Act 2010 replaced atoll and island chiefs with elected councillors.
 
 [^27]: Rogers, Ali & Naeem (2025). School leavers received a 1-year Advanced Certificate course before deployment.
+[^27a]: UNICEF Maldives Social Sector Assessment (2022), Ch.5, pp.92-93. FCSC staffing levels and caseload data.
+[^27b]: UNICEF Maldives Social Sector Assessment (2022), Ch.5, pp.88-89. FCSC transport constraints and response time delays.
 
 [^28]: Rogers, Ali & Naeem (2025). Geographic dispersion strains financial resources and the social services workforce.
 

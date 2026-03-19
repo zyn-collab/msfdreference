@@ -12,7 +12,7 @@ The Government of Maldives adopted a "minimum social protection floor" concept i
 
 Within this architecture, the Asian Development Bank's 2012 Social Protection Index (SPI) study identified 20 distinct social protection programs in the Maldives, classified into three categories: (i) social assistance (13 programs), (ii) social insurance (6 programs), and (iii) labor market programs (1 program).[^2] The total social protection expenditure for the 2009 reference year was MVR 782 million, amounting to 3.5% of GDP. Social assistance constituted 52% of total spending, social insurance 47%, and labor market programs barely 1%.[^3]
 
-### Institutional Landscape
+### Institutional Structure
 
 The primary institutions administering social protection are:
 
@@ -148,6 +148,8 @@ The scheme reaches several thousand single-parent households nationwide, with th
 ### Operational Challenges
 
 The heavy documentation requirements can be burdensome for illiterate or very poor parents, though island councils typically assist with form completion. The means test creates cliff effects where a small increase in income can result in total loss of benefits. And the system's reliance on self-reporting of status changes (particularly remarriage) creates opportunities for leakage that NSPA has limited capacity to monitor in real time.[^32]
+
+The UNICEF Social Sector Assessment (2022) found that the SPA reaches approximately 10 per cent of children living in single-parent households -- roughly 4,500 to 5,000 children out of an estimated 48,000 eligible. The assessment attributed the low coverage to several factors: the public and potential beneficiaries are "not well informed about either of the schemes and find it difficult to judge whether they would be eligible"; application forms and procedures are complex and time-consuming; proxy means tests are poorly understood by applicants; and Island Councils have no legal role in the process and play no active part in connecting eligible families to the scheme.[^32a] The Auditor General's Performance Audit (2025) confirmed that only 5 per cent of children are covered by the SPA and Foster Parent Allowance combined -- less than the 7 per cent national childhood poverty rate -- and noted that the SPA's eligibility criteria exclude two-parent families regardless of their financial situation, leaving children in poor but intact families without support.[^32b]
 
 > *→ **Extended Coverage:** For comprehensive analysis of children in poverty and the social protection interface – including single parent allowance gaps for vulnerable children and child-specific protection measures – see **Part IV: Child Protection and Child Rights, §4.96** of this encyclopedia. For the gender dimensions of the allowance as a lifeline for divorced mothers, see **Part V: Gender, GBV, and Women's Empowerment, §5.44–§5.57**.*
 
@@ -303,7 +305,7 @@ Eligible households receive cash transfers calculated per household member – i
 
 The government maintains subsidies on electricity tariffs, particularly benefiting atoll communities where generation costs are higher. These subsidies are not administered through NSPA but through the utility companies and the Ministry of Environment, with the government absorbing the difference between cost-recovery tariffs and the subsidized rates charged to consumers. During the 2009 fiscal reform period, the government began transitioning from blanket to targeted electricity subsidies as part of broader fiscal consolidation, though the degree of targeting achieved remains limited.[^63]
 
-### Broader Subsidy Landscape
+### Broader Subsidy Context
 
 Historically, the Maldives maintained extensive subsidies on food and fuel that benefited all citizens regardless of income. The ADB's 2012 SPI study noted that these general subsidies, while costly, were excluded from the social protection expenditure calculation because they were not targeted at particular vulnerable groups. The tension between universal subsidies (politically popular but fiscally costly and regressive) and targeted transfers (more efficient but administratively complex and politically difficult) remains a central theme in Maldivian social protection reform debates.[^64]
 
@@ -500,7 +502,7 @@ The ADB's 2012 SPI study provides the most complete historical baseline for prog
 - **Institutional Care (Mentally Ill and Elderly):** MVR 21.8 million (2008) to MVR 19.5 million (2010), covering approximately 150–160 persons at the Home for People with Special Needs in K. Guraidhoo.[^84f]
 - **Mental Health Medication Assistance:** Approximately MVR 1.2 million annually for about 1,000 psychiatric and epileptic patients receiving free medication through a national-level registration and supply chain.[^84g]
 
-These historical figures underscore a crucial point: the social protection system that existed in 2010 – already considered extensive by regional standards – was spending less than MVR 800 million total. By 2024, Aasandha alone was budgeted at MVR 1.9 billion, nearly 2.5 times the entire 2009 social protection budget.[^84h]
+These historical figures illustrate a key point: the social protection system that existed in 2010 – already considered extensive by regional standards – was spending less than MVR 800 million total. By 2024, Aasandha alone was budgeted at MVR 1.9 billion, nearly 2.5 times the entire 2009 social protection budget.[^84h]
 
 ---
 
@@ -608,11 +610,55 @@ International evidence suggests several directions for the Maldives:
 
 ### The Maldivian Challenge
 
-The fundamental challenge for the Maldives is sustaining a generous social protection system – designed for a high-income aspiration – on the fiscal base of a middle-income small island state. The country's social protection architecture is, in many respects, ahead of its economic capacity. The task of the coming decade is not to dismantle that architecture but to strengthen its foundations: building the data systems, institutional capacity, and fiscal mechanisms that can sustain these commitments through economic shocks, demographic transitions, and the mounting pressures of climate change.
+The fundamental challenge for the Maldives is sustaining a generous social protection system – designed for a high-income aspiration – on the fiscal base of a middle-income small island state. The country's social protection architecture is, in many respects, ahead of its economic capacity. The task of the coming decade is to strengthen its foundations: building the data systems, institutional capacity, and fiscal mechanisms that can sustain these commitments through economic shocks, demographic transitions, and the mounting pressures of climate change.
+
+---
+
+## 13.17 System-Wide Assessment: The 2025 Auditor General Audit
+
+The Auditor General's Office published a Performance Audit on the Effectiveness of Government Initiatives to Alleviate Poverty in September 2025 (Report PER-2025-115(E)), conducted under the INTOSAI Development Initiative's Equal Futures Audit framework. Its findings provide the most recent independent assessment of the social protection system's capacity to reach the populations it is designed for.
+
+### ILO Social Protection Floors Mapping
+
+The audit mapped the Maldivian system against the four guarantees required under ILO Social Protection Floors Recommendation No. 202:
+
+| Guarantee | Maldives Coverage | Assessment |
+|-----------|-------------------|------------|
+| Essential health care | Aasandha (universal) + Medical Welfare + Zakat medical assistance | Universal — adequately met |
+| Income security for children | Single Parent Allowance + Foster Parent Allowance | Low — covers only 5% of children; less than the 7% national childhood poverty rate |
+| Income security for working-age population | Subsidies (indirect, regressive) + limited employment-specific benefits + Zakat | Low — "the largest gap identified"; no existing schemes targeted to this group |
+| Income security for older persons | Old-Age Basic Pension (universal) + MRPS | Universal — adequately met |
+
+The audit concluded that the system adequately meets two of four guarantees (health care and elderly pensions) but falls short on children and working-age adults. The relatively low poverty rate among the elderly — attributed to universal pension coverage — suggests that extending similar coverage to children and working-age adults could produce comparable poverty reduction in those groups.[^95a]
+
+### Stalled Reform Initiatives
+
+Three initiatives designed to address these gaps have stalled:
+
+**National Social Protection Framework (NSPF).** Developed in 2022 under the World Bank-funded COVID-19 Emergency Income Support Project at a direct cost of MVR 1,211,486, endorsed by Cabinet in October 2022, and supported by a January 2023 MoU between NSPA, MEDT, MPAO, and LGA. As of May 2025, no evidence exists that the next steps — revising legislation, establishing institutional arrangements — have been undertaken. The NSPF's status and role remain unclear.[^95b]
+
+**Subsidy reform.** The NSPF identified the current indirect subsidy system as regressive: 43 per cent of total subsidies benefit the top 40 per cent of households, and the system consumes approximately 2 per cent of GDP. A reform plan to replace indirect subsidies with direct cash transfers using a Proxy Means Testing model, planned for April 2025, was reversed.[^95c]
+
+**Unemployment insurance.** The SAILS project originally included components for drafting and passing an Unemployment Insurance Bill and establishing a National Job Centre. In January 2024 the Government requested the World Bank to restructure the project by removing all UI components, withdrawing the Bill from Parliament, and reallocating USD 16 million. The restructuring reflected a shift in policy priorities.[^95d]
+
+### Fragmented Governance
+
+The audit confirmed, independently of the NSPF's own diagnosis, that the social protection system lacks unified leadership. MoSFD holds the mandate for social protection but responsibilities are fragmented across MoSFD, NSPA, and MPAO with no single body overseeing the full system. Frequent mandate shifts and limited institutional capacity contribute to gaps, overlaps, and weak coordination. The absence of a single law defining social protection, its scope, and its governance structures compounds the fragmentation: individual laws (Pension Act, Disability Act, Social Health Insurance Act, Social Protection Act) are internally consistent but do not integrate into a unified system.[^95e]
+
+### Poverty as a Policy Gap
+
+The audit's most direct finding was the absence of poverty reduction as an explicit policy objective. There are no benchmarks targeting poverty reduction or eradication, no dedicated policy addressing the 5.4 per cent below the national poverty line, and no research has been conducted to identify the drivers and causes of poverty in the Maldives. The various programmes examined — social protection, Zakat, MoSFD services — each pursue their own objectives but are not linked to a unified national goal, leading to fragmented and short-term policy objectives and administrative duplication.[^95f]
 
 ---
 
 ## Notes
+
+[^95a]: Auditor General Performance Audit PER-2025-115(E) (September 2025), Ch.3, pp.12-14. ILO floors mapping and poverty rate comparison by age group.
+[^95b]: Ibid., Ch.3, pp.16-17. NSPF development, endorsement, and stalled implementation.
+[^95c]: Ibid., Ch.3, pp.17-18, 21-22. Subsidy regressivity data and reform reversal.
+[^95d]: Ibid., Ch.3, p.19. SAILS restructuring and UI withdrawal timeline.
+[^95e]: Ibid., Ch.3, p.15, citing NSPF. Fragmented governance and legal framework.
+[^95f]: Ibid., Executive Summary p.4 and Ch.1 p.5. Absence of poverty reduction targets and research.
 
 [^1]: Government of Maldives, Ministry of Health and Family, "Minimum Social Protection Floor of the Maldives," Strategic Action Plan 2009–2013 (Male: 2009); Asian Development Bank, *Republic of the Maldives: Updating and Improving the Social Protection Index*, Technical Assistance Consultant's Report, Project No. 44152 (Manila: ADB, August 2012), p. 3.
 
@@ -677,6 +723,8 @@ The fundamental challenge for the Maldives is sustaining a generous social prote
 [^31]: Ibid., citing 2020 evaluation findings on benefit adequacy.
 
 [^32]: Ibid., discussing documentation burden and monitoring challenges.
+[^32a]: UNICEF Maldives Social Sector Assessment (2022), Ch.3, pp.60-61. SPA coverage rate and access barriers.
+[^32b]: Auditor General Performance Audit PER-2025-115(E) (September 2025), Ch.3, pp.12-13. Children's social protection coverage at 5%; eligibility gap for two-parent families.
 
 [^33]: Social Protection Act (Act 2/2014); Vulnerability Mapping Report, Section 4.2.7.
 

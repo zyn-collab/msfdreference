@@ -208,7 +208,7 @@ The following plans are referenced across the encyclopedia but were not availabl
 
 ### 1.2 Lapsed Action Plans
 
-The following plans have expired or been superseded, but their legacy – both achievements and unfinished business – shapes the current landscape.
+The following plans have expired or been superseded, but their legacy – both achievements and unfinished business – shapes the current policy environment.
 
 #### National Plan of Action on Older Persons, 2019–2023
 
@@ -270,7 +270,7 @@ The Ministry operates through the following subordinate institutions:[^38]
 | **Vilingili Social Service Centre** | Island-level social service delivery |
 | **Social Centres for Elderly** | Community-based elderly care |
 
-The breadth of the mandate – 39 responsibilities spanning five vulnerable population groups, gender mainstreaming, family strengthening, emergency preparedness, licensing, research, and international treaty reporting – assigned to a single ministry with limited staff and fiscal resources, illustrates the structural overstretch that characterises the Maldivian social policy architecture.
+The breadth of the mandate – 39 responsibilities spanning five vulnerable population groups, gender mainstreaming, family strengthening, emergency preparedness, licensing, research, and international treaty reporting – assigned to a single ministry with limited staff and fiscal resources, illustrates the breadth of mandate relative to available institutional capacity.
 
 ---
 
@@ -454,7 +454,7 @@ The matrix reveals several populations that fall outside or between the coverage
 
 3. **Migrants and foreign workers:** No plan addresses the social protection or vulnerability of the significant foreign worker population in the Maldives, despite documented concerns about exploitation in construction and domestic work sectors.
 
-4. **Families in crisis (holistic):** Individual plans target specific vulnerabilities within families – child abuse, DV, disability, elderly care – but no plan provides an integrated family support framework that addresses the documented reality of compounding, intersecting vulnerabilities within the same household.
+4. **Families in crisis (integrated):** Individual plans target specific vulnerabilities within families – child abuse, DV, disability, elderly care – but no plan provides an integrated family support framework that addresses the documented reality of compounding, intersecting vulnerabilities within the same household.
 
 ### 4.3 Mandate Overlap and Duplication
 
@@ -474,7 +474,7 @@ The following agencies carry responsibilities across multiple plans:
 
 | Agency | Plans Assigning Responsibilities | Risk Assessment |
 |---|---|---|
-| **MoSFD** | All active plans (lead agency for NAPDI, NAPVAC, GEAP, Ageing Policy; implementing for all others). Was also designated lead for the now-shelved SAP light. | **Critical overstretch.** A single ministry with 39 mandated responsibilities and limited staff is the lead implementing agency for every social policy action plan. The ministry's capacity to simultaneously drive disability inclusion, child protection, gender equality, elderly care, and social protection reform is structurally constrained. |
+| **MoSFD** | All active plans (lead agency for NAPDI, NAPVAC, GEAP, Ageing Policy; implementing for all others). Was also designated lead for the now-shelved SAP light. | **Broad mandate concentration.** A single ministry with 39 mandated responsibilities is the lead implementing agency for every social policy action plan. The ministry's capacity to simultaneously drive disability inclusion, child protection, gender equality, elderly care, and social protection reform is shaped by the scale of this mandate relative to available staff and fiscal resources. |
 | **NSPA** | NAPDI (disability allowance), Ageing Policy (pension/allowance interface); was also referenced in shelved SAP light (social protection) | **Moderate overlap.** NSPA administers the disability allowance, single parent allowance, and foster parent allowance, creating interaction points with multiple plans. |
 | **FCSCs (19 centres)** | NAPVAC (frontline child protection), DVPNS (DV response), NAPDI (disability services at atoll level) | **High overlap and capacity constraint.** FCSCs are expected to deliver child protection, DV response, and disability services across the atolls with limited staff. The centres serve as the primary access point for multiple vulnerable populations but are resourced for none at the scale required. |
 | **Ministry of Education** | NAPDI (inclusive education), NAPVAC (school safety), GEAP (gender in curriculum) | **Moderate overlap.** Education-related strategies in three plans assign responsibility to the Ministry of Education but without a coordinating mechanism to ensure coherent implementation. |
@@ -830,7 +830,7 @@ A recurring weakness across the Maldives' major action plans is the gap between 
 
 ### 5.7 Drug Policy and NDA Action Plans
 
-**Indicator quality.** Drug policy monitoring suffers from the most fragmented data landscape of any social policy domain. Each institution -- NDA, police, customs, courts, corrections, health -- collects data in its own format for its own purposes. The 2021 NDA/WHO Situational Analysis identified this as a critical barrier to evidence-based policy.[^12]
+**Indicator quality.** Drug policy monitoring suffers from the most fragmented data environment of any social policy domain. Each institution -- NDA, police, customs, courts, corrections, health -- collects data in its own format for its own purposes. The 2021 NDA/WHO Situational Analysis identified this as a critical barrier to evidence-based policy.[^12]
 
 **Available baselines:**
 
@@ -885,7 +885,7 @@ The central finding of this encyclopedia's analysis across all social policy dom
 
 **Coordination mechanisms.** The ministry chairs multiple inter-agency committees, but coordination "relies heavily on informal relationships between individual officers rather than institutionalised protocols, and the effectiveness of inter-agency work varies significantly depending on the personalities in post and the political priorities of any given administration."[^23]
 
-**Readiness verdict: Critically under-resourced.** MoSFD is expected to lead on virtually every social policy action plan while operating with a workforce that cannot safely manage its existing caseload. Delivering on NAPVAC, GEAP, NAPDI, the Ageing Policy, and the CFW recommendations simultaneously would require, at minimum, a tripling of the social work workforce, dedicated budget lines for each mandate area, and integrated data systems. None of these conditions exist.
+**Readiness verdict: Significant resource investment needed.** MoSFD leads on virtually every social policy action plan. Delivering on NAPVAC, GEAP, NAPDI, the Ageing Policy, and the CFW recommendations simultaneously would require, at minimum, a tripling of the social work workforce, dedicated budget lines for each mandate area, and integrated data systems — investments that would enable the ministry to fulfil the breadth of its mandate effectively.
 
 ### 6.3 National Social Protection Agency (NSPA)
 

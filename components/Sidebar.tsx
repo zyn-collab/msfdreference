@@ -25,7 +25,7 @@ interface NavGroup {
 
 const GROUP_CONFIG: { category: Category; label: string; icon: React.ReactNode }[] = [
   { category: 'core', label: 'Encyclopedia', icon: <BookOpen size={14} /> },
-  { category: 'summary', label: 'Summaries', icon: <BookMarked size={14} /> },
+  { category: 'summary', label: 'Sector Trainings', icon: <BookMarked size={14} /> },
   { category: 'workplans', label: 'Projects, Programs & Workplans', icon: <ClipboardList size={14} /> },
   { category: 'evidence', label: 'Literature, Stats & Evidence Base', icon: <BarChart3 size={14} /> },
   { category: 'institutional', label: 'Institutional Knowledge', icon: <Building2 size={14} /> },

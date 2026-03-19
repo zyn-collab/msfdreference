@@ -52,7 +52,7 @@ This appendix provides a comprehensive timeline of legislation, policies, treaty
 | 2004 | CAT ratification | Convention Against Torture ratified (no reservations). | International Law |
 | 2004 | Indian Ocean Tsunami (26 December) | 82 dead, 26 missing; 14 islands permanently evacuated; damage at 62% of GDP. Catalyses expansion of UNICEF child protection programming and international development assistance. | Disaster, Cross-Cutting |
 | 2004 | Housing Development Finance Corporation (HDFC) established | Government entity for housing finance on favourable terms; later partially privatised (49/51 government-private). | Housing |
-| 2004 | Maldives contribution to UN SG study on VAW | First documentation of domestic violence prevalence and legal/policy landscape. | Gender, GBV |
+| 2004 | Maldives contribution to UN SG study on VAW | First documentation of domestic violence prevalence and legal/policy context. | Gender, GBV |
 | 2005 | "Rights Side of Life" baseline survey (first round) | HRCM/UNDP/FPA survey of public attitudes, awareness, and perceptions on human rights. Subsequent rounds in 2011 and 2019. | Human Rights |
 | 2006 | Child Protection Procedure Manual | First systematic child protection guidance, modelled on England's "Working Together" framework. | Child Protection |
 | 2006 | ICCPR ratification | International Covenant on Civil and Political Rights ratified (no reservations). | International Law |
@@ -151,7 +151,7 @@ This appendix provides a comprehensive timeline of legislation, policies, treaty
 | 2020 | Geveshi Gulhun campaign | National campaign to combat domestic violence during COVID-19 lockdowns. | Gender, GBV |
 | 2021 | Sexual Offences Act Amendment (Act No. 25/2021) | Harsher sentences, closed loopholes, limited criminalisation of marital rape in certain circumstances. Marital rape remains "incompletely criminalised" due to Penal Code Section 130(b). | Gender, GBV, Criminal Justice |
 | 2021 | Regulation 2021/R-54 (Disability Registry) | Updated criteria for registration in the National Disability Registry. | Disability |
-| 2021 | NDA/WHO Situational Analysis of Drugs | Most comprehensive recent drug landscape assessment: police, customs, courts, correctional services, and health data. | Substance Abuse |
+| 2021 | NDA/WHO Situational Analysis of Drugs | Most comprehensive recent drug situation assessment: police, customs, courts, correctional services, and health data. | Substance Abuse |
 | 2021 | Mental Health Strategic Plan 2021-2025 | Central and Regional Mental Health Services Development Plan 2022-2025. Establishment of Mental Health Centres at regional hospitals. | Mental Health |
 | 2022 | Minimum wage established (January 2022) | First minimum wage under the Employment Act 2008. | Employment |
 | 2022 | Population and Housing Census 2022 | Total population ~521,000. 24,401 persons with disabilities (7%). TFR 1.7. Foreign workers ~132,493 (26% of residents). 47% of population in Male. | Demographics |

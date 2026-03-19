@@ -17,10 +17,10 @@ const CATEGORY_ICONS: Record<string, React.ReactNode> = {
 
 const CATEGORY_DESCRIPTIONS: Record<string, string> = {
   core: 'Parts I–XV covering history, law, institutions, and ten substantive policy domains.',
-  summary: 'Condensed briefing decks for Ministry staff across child protection, gender, disability, and elderly care.',
+  summary: 'Slides for sector-based trainings (to be adapted to full interactive courses).',
   workplans: 'Action plan analysis, ministry projects, development partner programmes, and annual workplans.',
   evidence: 'Literature review, statistics compendium, and source tracking across all domains.',
-  institutional: 'Service directories, CSO listings, legislation timelines, contact lists, and the glossary.',
+  institutional: 'Capacity assessment, internal datasets, service directories, CSO listings, legislation timelines, contact lists, and the glossary.',
   templates: 'Standardized templates for common Ministry documents.',
   obligations: 'Mapping of Maldivian social policy to CRC, CEDAW, and CRPD treaty obligations.',
   news: 'Indexed Dhivehi-language news coverage from archive.mv across policy domains.',

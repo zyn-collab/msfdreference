@@ -1022,7 +1022,7 @@ Accurate data collection and case documentation directly supports treaty complia
 
 ---
 
-## Slide 2: Why Women Don't Report – The Full Barrier Landscape
+## Slide 2: Why Women Don't Report – The Full Picture
 
 | Category | Specific Barriers |
 |---|---|

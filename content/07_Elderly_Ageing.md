@@ -1,6 +1,6 @@
 # Part VII: Elderly Care and Population Ageing
 
-The Maldives stands at a critical demographic inflection point. A country that only decades ago was defined by high fertility, youthful populations, and short life expectancies is now confronting the realities of rapid population ageing. With a total fertility rate that has plummeted from 6.4 children per woman in 1990 to just 1.7 by 2022 -- well below the replacement level of 2.1 -- and life expectancy at birth rising to 81.1 years, the Maldives is undergoing one of the fastest demographic transitions in the South Asian region.[^1] As of 2023, approximately 43,000 people (8.3% of the population) are aged 60 and above, and 5% are aged 65 and over.[^2] These figures, while modest in absolute terms, are projected to surge dramatically: by 2045, the proportion aged 65 and over is expected to reach 12.7%, and by 2054, projections suggest that 34.1% of the Maldivian population could be aged 60 or older -- a fivefold increase from 2014 levels.[^3]
+The Maldives stands at a critical demographic inflection point. A country that only decades ago was defined by high fertility, youthful populations, and short life expectancies is now confronting the realities of rapid population ageing. With a total fertility rate that has plummeted from 6.4 children per woman in 1990 to just 1.7 by 2022 -- well below the replacement level of 2.1 -- and life expectancy at birth rising to 81.1 years, the Maldives is undergoing one of the fastest demographic transitions in the South Asian region.[^1] As of 2023, approximately 43,000 people (8.3% of the population) are aged 60 and above, and 5% are aged 65 and over.[^2] These figures, while modest in absolute terms, are projected to surge dramatically: by 2045, the proportion aged 65 and over is expected to reach 12.7%, and by 2054, projections suggest that 34.1% of the Maldivian population could be aged 60 or older -- a fivefold increase from 2014 levels.[^3] [Note: The MIPAA Statement (2022) projects 12.7% aged 65+ by 2045; separately, UN estimates project approximately 32% aged 60+ by 2050, and MoSFD/Maldives Financial Review projects 34.1% aged 60+ by 2054. The different age thresholds (60+ vs 65+) account for the apparent discrepancy.]
 
 This chapter examines the full spectrum of elderly care and ageing policy in the Maldives: the demographic drivers, the legal and policy frameworks erected (and their implementation gaps), the pension and allowance architecture, institutional and home-based care realities, health system preparedness, the erosion of traditional family support, climate vulnerability, and the country's engagement with international frameworks such as the Madrid International Plan of Action on Ageing (MIPAA). Throughout, the analysis insists on procedural detail and frontline realities rather than mere recitation of policy documents.
 
@@ -116,7 +116,7 @@ Corporate Maldives (October 2025) identified specific economic impact mechanisms
 
 ### 7.64.1 Updated Demographic Baseline
 
-The Census of Population and Housing 2022, conducted by the Maldives Bureau of Statistics, provides the most current official count of the elderly population: **23,973 persons aged 65 and above**, constituting **6.3% of the total population** (approximately 521,000). The broader elderly category (60+) stands at approximately 43,000 (8.3%). The old-age dependency ratio – persons aged 65+ per 100 working-age persons (15-64) – was **7 per 100 in 2022**, compared to 8 per 100 in 2014. The slight decrease in the old-age dependency ratio between censuses reflects the temporary demographic dividend as the large working-age cohort from the high-fertility era of the 1980s-1990s swells the denominator. This ratio will begin rising sharply from the late 2030s as this cohort ages past 65.[^282]
+The Census of Population and Housing 2022, conducted by the Maldives Bureau of Statistics, provides the most current official count of the elderly population: **23,973 persons aged 65 and above (total resident population including non-Maldivians)**, constituting **6.3% of the total population** (approximately 521,000). The broader elderly category (60+) stands at approximately 43,000 (8.3%). The old-age dependency ratio – persons aged 65+ per 100 working-age persons (15-64) – was **7 per 100 in 2022**, compared to 8 per 100 in 2014. The slight decrease in the old-age dependency ratio between censuses reflects the temporary demographic dividend as the large working-age cohort from the high-fertility era of the 1980s-1990s swells the denominator. This ratio will begin rising sharply from the late 2030s as this cohort ages past 65.[^282]
 
 ---
 
@@ -126,7 +126,7 @@ The Census of Population and Housing 2022, conducted by the Maldives Bureau of S
 
 ### 7.110.1 Total Elderly Population and Age Distribution
 
-The Census 2022, supplemented by the Maldives Bureau of Statistics' International Day of Elderly Persons statistical release (October 2024), provides the most detailed demographic profile of the Maldivian elderly population available. The total resident Maldivian population aged 65 and above was **20,553** – constituting 5% of the total Maldivian population of 382,751. The gender split was nearly equal: 10,530 males (51.2%) and 10,023 females (48.8%).[^422]
+The Census 2022, supplemented by the Maldives Bureau of Statistics' International Day of Elderly Persons statistical release (October 2024), provides the most detailed demographic profile of the Maldivian elderly population available. The total resident Maldivian population aged 65 and above was **20,553 (Maldivian citizens only)** – constituting 5% of the total Maldivian population of 382,751. The gender split was nearly equal: 10,530 males (51.2%) and 10,023 females (48.8%).[^422]
 
 The age distribution within the elderly cohort reveals an important structure:
 
@@ -166,7 +166,7 @@ The Census 2022 data, as presented in the Elderly Persons Day 2024 statistical r
 | Faafu Atoll | 224 |
 | Vaavu Atoll | 111 |
 
-This data reveals critical planning implications. **Male' houses 32.6% of all elderly** (6,699 of 20,553), meaning two-thirds of the elderly population lives outside the capital – dispersed across 20 administrative divisions where health services, social support, and geriatric capacity are minimal or absent. Addu City, with 1,802 elderly, is the second-largest concentration. The atolls with the smallest elderly populations – Vaavu (111), Faafu (224), Dhaalu (302) – face the challenge of providing elderly services to very small populations dispersed across multiple islands. The atolls with the largest elderly populations outside the two cities – Haa Dhaal (1,303), Raa (1,018), Gaaf Dhaal (985) – are in the northern and southern extremities of the archipelago, furthest from Male'-based tertiary healthcare.[^423]
+This data reveals critical planning implications. **Male' houses 32.6% of all elderly** (6,699 of 20,553 Maldivian citizens aged 65+), meaning two-thirds of the elderly Maldivian population lives outside the capital – dispersed across 20 administrative divisions where health services, social support, and geriatric capacity are minimal or absent. Addu City, with 1,802 elderly, is the second-largest concentration. The atolls with the smallest elderly populations – Vaavu (111), Faafu (224), Dhaalu (302) – face the challenge of providing elderly services to very small populations dispersed across multiple islands. The atolls with the largest elderly populations outside the two cities – Haa Dhaal (1,303), Raa (1,018), Gaaf Dhaal (985) – are in the northern and southern extremities of the archipelago, furthest from Male'-based tertiary healthcare.[^423]
 
 ### 7.110.3 Disability Among the Elderly
 
@@ -364,7 +364,7 @@ The original National Elderly Policy (gazetted 2017, formally launched October 2
 
 The 2024 policy draft's situational analysis documented the five key drivers of ageing in the Maldives:
 
-**1. Rapid Pace of Ageing.** The policy cited UN World Population Prospects 2022 data showing 8.3% of the population aged 60+ as of 2023, with projections to 34.1% by 2050 – "one of the fastest ageing societies in the world." Life expectancy had risen from 71 years in 2000 to 79.6 years in 2019, with healthy life expectancy increasing from 62.4 to 70 years over the same period. Women above 80 constituted 48.1% of the older-old population, signalling a feminisation of advanced ageing.[^116]
+**1. Rapid Pace of Ageing.** The policy cited UN World Population Prospects 2022 data showing 8.3% of the population aged 60+ as of 2023, with projections to 34.1% by 2050 – "one of the fastest ageing societies in the world." Life expectancy had risen from 71 years in 2000 to 79.6 years in 2019 (per the 2024 National Ageing Policy citing 2019 data; UN DESA World Population Prospects 2022 reports life expectancy at birth of 81.1 years by 2023), with healthy life expectancy increasing from 62.4 to 70 years over the same period. Women above 80 constituted 48.1% of the older-old population, signalling a feminisation of advanced ageing.[^116]
 
 **2. Rise of Non-Communicable Diseases.** With 46% of elderly having hypertension, 28% diabetes, and 45% some form of disability, NCDs dominated the elderly health profile. The top hospital admission causes across age cohorts (65-74, 75-85, and 85+) were detailed, showing the progressive shift from ischaemic heart disease to cerebrovascular disease and lower respiratory infections with advancing age.[^117]
 
@@ -402,7 +402,7 @@ The revised policy was structured around four policy areas, each with specific g
 
 ### 7.15.5 Implementation Mechanism
 
-The 2024 policy designated the Ministry of Social and Family Development as the coordinating body, using a whole-of-government and community approach. It called for a 5-year Action Plan with defined roles for government agencies, civil society, the private sector, and local communities, supported by dedicated funding and a robust monitoring and evaluation mechanism. International frameworks referenced included MIPAA, the UN Decade of Healthy Ageing (2021-2030), the 2030 Agenda, the Kuala Lumpur Declaration on Ageing (2015), the WHO Active Ageing Policy Framework (2003), and the Dahlgren-Whitehead Rainbow Model of socioecological determinants of health.[^126]
+The 2024 policy designated the Ministry of Social and Family Development as the coordinating body, using a whole-of-government and community approach. It called for a 5-year Action Plan with defined roles for government agencies, civil society, the private sector, and local communities, supported by dedicated funding and a regular monitoring and evaluation mechanism. International frameworks referenced included MIPAA, the UN Decade of Healthy Ageing (2021-2030), the 2030 Agenda, the Kuala Lumpur Declaration on Ageing (2015), the WHO Active Ageing Policy Framework (2003), and the Dahlgren-Whitehead Rainbow Model of socioecological determinants of health.[^126]
 
 ---
 
@@ -422,7 +422,7 @@ The policy document provided several data points that consolidate findings from 
 
 **Labour force participation:** The formal employment rate among the elderly was only 20.9% (male 25.5%, female 16.2%). The informal sector employment rate was a striking 89.9% (male 84%, female 99.1%). The near-total informality of female employment (99.1%) means that virtually all women reaching retirement age will have accumulated negligible MRPS savings and will depend entirely on the MVR 5,000 Basic Pension. The policy explicitly noted that "a policy on ageing would help to regulate conditions for those, especially women working in the informal sector ensuring that sufficient social protection and safety nets are afforded to them."[^233]
 
-**Life expectancy refinement:** The policy cited life expectancy at birth as 79.6 years in 2019 (a more conservative figure than the 81.1 years cited in the 2024 Ministry presentation using UN DESA 2022 data), with healthy life expectancy at 70 years – meaning the average Maldivian lives approximately 9.6 years in poor health before death.[^234]
+**Life expectancy refinement:** The 2024 National Ageing Policy cited life expectancy at birth as 79.6 years in 2019 (i.e., life expectancy was 79.6 in 2019, rising to 81.1 by 2023 per UN DESA World Population Prospects 2022), with healthy life expectancy at 70 years – meaning the average Maldivian lives approximately 9.6 years in poor health before death.[^234]
 
 ### 7.45.3 The Four Policy Areas and Sixteen Goals
 
@@ -472,7 +472,7 @@ The policy articulated nine guiding principles that expanded on the 2018 policy'
 
 ### 7.45.6 Implementation Structure
 
-The Ministry of Social and Family Development was designated as the coordinating body responsible for overseeing implementation, ensuring cross-sectoral alignment, and facilitating communication among stakeholders. The implementation strategy required: defined roles and responsibilities for government agencies, civil society, private sector, and local communities; dedicated funding and resources; ongoing stakeholder engagement and capacity building; and a robust monitoring and evaluation mechanism. The policy called for a 5-year Action Plan – which materialised as the National Action Plan on Ageing 2025-2028, launched in 2025.[^238]
+The Ministry of Social and Family Development was designated as the coordinating body responsible for overseeing implementation, ensuring cross-sectoral alignment, and facilitating communication among stakeholders. The implementation strategy required: defined roles and responsibilities for government agencies, civil society, private sector, and local communities; dedicated funding and resources; ongoing stakeholder engagement and capacity building; and a regular monitoring and evaluation mechanism. The policy called for a 5-year Action Plan – which materialised as the National Action Plan on Ageing 2025-2028, launched in 2025.[^238]
 
 ---
 
@@ -567,7 +567,7 @@ On 17 September 2025, the Ministry of Social and Family Development, with suppor
 
 On 9 December 2025, the government launched the **National Action Plan on Ageing 2025-2028**, translating the policy into concrete actions, timelines, and institutional responsibilities. The Action Plan was aligned with MIPAA objectives and focused on: decent work and lifelong learning; social participation; quality health services including long-term care; enabling environments; strengthened social protection; support for families and caregivers; and the development of age-friendly communities.[^128]
 
-The UN in the Maldives highlighted the demographic urgency: 8% of the population was currently aged 60+, and this was expected to **triple to 32% by 2050**. The Maldives would become an "ageing society" by 2031 (when 14% of the population is aged 65+), an "aged society" by 2044, and – according to some projections – a "super-aged society" by 2052. These thresholds, developed from international demographic classification, underscored that the Maldives had less than a decade before crossing the first critical threshold.[^129]
+The UN in the Maldives highlighted the demographic urgency: 8% of the population was currently aged 60+, and the proportion aged 60 and above was expected to **triple to approximately 32% by 2050** (UN estimate). The Maldives would become an "ageing society" by 2031 (when 14% of the population is aged 65+), an "aged society" by 2044, and – according to some projections – a "super-aged society" by 2052. These thresholds, developed from international demographic classification, highlighted that the Maldives had less than a decade before crossing the first critical threshold.[^129]
 
 ---
 
@@ -626,7 +626,7 @@ The Madrid International Plan of Action on Ageing (MIPAA), adopted at the Second
 
 ### 7.7.2 The 2021 MIPAA Voluntary National Survey
 
-The Maldives completed the Voluntary National Survey on MIPAA Implementation in 2021, coordinated by the Ministry of Gender, Family and Social Services. The survey was completed using "focus group meetings with key stakeholders, bottom-up approach and whole-of-government approach."[^63] The survey provides the most comprehensive official self-assessment of the Maldives' ageing policy landscape.
+The Maldives completed the Voluntary National Survey on MIPAA Implementation in 2021, coordinated by the Ministry of Gender, Family and Social Services. The survey was completed using "focus group meetings with key stakeholders, bottom-up approach and whole-of-government approach."[^63] The survey provides the most comprehensive official self-assessment of the Maldives' ageing policy environment.
 
 The survey reveals both achievements and candid acknowledgments of failure across MIPAA's three priority directions:
 
@@ -757,7 +757,7 @@ Several sub-questions revealed significant gaps in age-specific income support:
 - **Q13.7 (Financial inclusion/literacy):** "Yes" – through the Ranveyla campaign, MPAO provides information "related to the basic pension scheme and financial literacy." This confirms MPAO's active role in the Ranveyla programme as a financial literacy delivery partner.
 - **Q13.8 (Other measures):** "No."
 
-Additionally, the survey noted that **"The government is also working on implementing an unemployment insurance program through Ministry of Economic Development."** This planned programme, while not specifically targeting the elderly, could benefit older workers who face involuntary unemployment before reaching the pension eligibility age of 65. No further details on the programme's design or timeline were provided.[^386]
+The survey also noted that **"The government is also working on implementing an unemployment insurance program through Ministry of Economic Development."** This planned programme, while not specifically targeting the elderly, could benefit older workers who face involuntary unemployment before reaching the pension eligibility age of 65. No further details on the programme's design or timeline were provided.[^386]
 
 ---
 
@@ -915,7 +915,7 @@ The HelpAge case study cited National Transfer Accounts (NTA) analysis showing t
 
 ### 7.70.3 Pre-2009 System Description
 
-The case study documented the pre-2009 pension landscape in detail: before the Pension Act, the only pension-like arrangements were a long-service allowance for government employees and the Government Provident Fund, both of which exhibited **gender bias** – women, who were concentrated in informal and domestic roles, were largely excluded from both schemes. The 2009 Act's introduction of the universal Basic Pension was specifically designed to address this gender inequity by creating a benefit accessible regardless of employment history. The case study confirmed that the Basic Pension had succeeded in this objective, noting the near-equal gender split in expenditure (MVR 638 million for women, MVR 635 million for men in 2024).[^302]
+The case study documented the pre-2009 pension system in detail: before the Pension Act, the only pension-like arrangements were a long-service allowance for government employees and the Government Provident Fund, both of which exhibited **gender bias** – women, who were concentrated in informal and domestic roles, were largely excluded from both schemes. The 2009 Act's introduction of the universal Basic Pension was specifically designed to address this gender inequity by creating a benefit accessible regardless of employment history. The case study confirmed that the Basic Pension had succeeded in this objective, noting the near-equal gender split in expenditure (MVR 638 million for women, MVR 635 million for men in 2024).[^302]
 
 ---
 
@@ -991,7 +991,7 @@ On outer islands, the elderly pension is often the most reliable income source i
 
 ### 7.38.3 Disability Among the Elderly
 
-Census 2022 data analysed in the comprehensive social policy report found that "among elderly (65+) it spikes to over 20% having some disability, while among children (5-17) it's 4%." The 2024 National Ageing Policy cited an even higher figure: 45% of elderly have "some form of disability." These data underscore the intersection of ageing and disability – as the population ages, the demand for disability services, assistive devices, and accessibility accommodations will increase proportionally, creating compounding fiscal pressures on both the pension system and the disability allowance system.[^212]
+Census 2022 data analysed in the comprehensive social policy report found that "among elderly (65+) it spikes to over 20% having some disability, while among children (5-17) it's 4%." The 2024 National Ageing Policy cited an even higher figure: 45% of elderly have "some form of disability." These data illustrate the intersection of ageing and disability – as the population ages, the demand for disability services, assistive devices, and accessibility accommodations will increase proportionally, creating compounding fiscal pressures on both the pension system and the disability allowance system.[^212]
 
 ---
 
@@ -1191,7 +1191,7 @@ The primary state-run residential care facility for the elderly in the Maldives 
 
 The HPSN caters to a mixed population: elderly persons who are abandoned, have no family, or whose families cannot care for them; and persons with severe disabilities requiring institutional care. The facility is managed by the Ministry of Social and Family Development (formerly MoGFSS). As the MIPAA survey response notes, "Home for People with Special Needs (HPSN) caters to the needs of elderly at state care" and "houses elderly patients who are looked after by state care."[^33]
 
-**Conditions and Challenges**: The HPSN faces significant operational challenges. Medical treatment is provided within the facility, but the MIPAA survey acknowledged that "although medical treatment is provided in HPSN, there is lack of structured program and measures to engage elderly in daily activities of living."[^34] This points to a care model focused on basic custodial care (housing, feeding, medical treatment) rather than a holistic approach that addresses the social, psychological, and recreational needs of residents.
+**Conditions and Challenges**: The HPSN faces significant operational challenges. Medical treatment is provided within the facility, but the MIPAA survey acknowledged that "although medical treatment is provided in HPSN, there is lack of structured program and measures to engage elderly in daily activities of living."[^34] This points to a care model focused on basic custodial care (housing, feeding, medical treatment) rather than a comprehensive approach that addresses the social, psychological, and recreational needs of residents.
 
 The facility's location on Guraidhoo, a relatively remote island, means that residents are physically separated from their home communities, families, and the broader social networks that are fundamental to well-being in Maldivian culture. For elderly residents with intact but unable families, the distance makes regular family visits difficult and expensive, compounding the isolation inherent in institutional placement.
 
@@ -1231,7 +1231,7 @@ A significant development was the Memorandum of Understanding signed between the
 
 ### 7.22.4 Persistent Challenges
 
-Despite these upgrades and partnerships, the fundamental challenges of the Guraidhoo facility remain. The MIPAA survey (2021) acknowledged that "although medical treatment is provided in HPSN, there is lack of structured program and measures to engage elderly in daily activities of living." The facility was originally designed for persons with mental illness and was repurposed to house elderly residents – a population whose needs differ significantly. The lack of structured daily activities, therapeutic programming, and social engagement opportunities means that residents receive custodial care (housing, feeding, basic medical treatment) rather than the holistic aged care that promotes dignity, autonomy, and quality of life.[^160]
+Despite these upgrades and partnerships, the fundamental challenges of the Guraidhoo facility remain. The MIPAA survey (2021) acknowledged that "although medical treatment is provided in HPSN, there is lack of structured program and measures to engage elderly in daily activities of living." The facility was originally designed for persons with mental illness and was repurposed to house elderly residents – a population whose needs differ significantly. The lack of structured daily activities, therapeutic programming, and social engagement opportunities means that residents receive custodial care (housing, feeding, basic medical treatment) rather than the comprehensive aged care that promotes dignity, autonomy, and quality of life.[^160]
 
 ---
 
@@ -1330,7 +1330,7 @@ The most significant community-based elderly care initiative in the Maldives is 
 - Patient care education for caregivers (including cleaning, bathing, oral care, wound dressing, and catheter care)
 - Provision of necessary documentation for deployment of special furnishings (hospital beds, wheelchairs, airbeds)
 
-**Scale**: At the time of the 2022 study by Taj and Suzana, Dhamanaveshi catered for 37 registered clients and Hulhumale Hospital for 30 registered clients in the Greater Male' region -- a total of just 67 bedridden patients.[^41] Between 2019 and 2021, the program facilitated 93 home visits/monitoring sessions for elderly bedridden patients nationwide.[^42] These numbers suggest that the program, while valued, operates at a very small scale relative to need.
+**Scale**: At the time of the 2022 study by Taj and Suzana, Dhamanaveshi catered for 37 registered clients and Hulhumale Hospital for 30 registered clients in the Greater Male' region -- a total of just 67 bedridden patients (at the time of the 2022 study).[^41] Between 2019 and 2021, the program facilitated 93 home visits/monitoring sessions for elderly bedridden patients nationwide.[^42] These numbers suggest that the program, while valued, operates at a very small scale relative to need.
 
 ### 7.5.2 Research Evidence on the Home Visit Program
 
@@ -1373,7 +1373,7 @@ The Taj and Suzana (2023) study, published in *The Maldives National Journal of 
 
 ### 7.85.2 Registration and Delivery Architecture
 
-The programme operates through a dual-centre model. **Families must register patients through the Ministry of Gender and Families**, after which the Home Visit Programme is conducted in collaboration with the Ministry of Health. At the time of the study, Dhamanaveshi catered for **37 registered clients** and Hulhumale Hospital for **30 registered clients** – totalling the 67 bedridden patients documented elsewhere in this chapter. The registration process is atoll-level: the MIPAA survey documented that registration occurs through Health Centres and Island Council Offices, with Dhamanaveshi and the Public Health Unit of Hulhumale Hospital serving as the implementing centres in Greater Male'.[^343]
+The programme operates through a dual-centre model. **Families must register patients through the Ministry of Gender and Families**, after which the Home Visit Programme is conducted in collaboration with the Ministry of Health. At the time of the study, Dhamanaveshi catered for **37 registered clients** and Hulhumale Hospital for **30 registered clients** – totalling the 67 bedridden patients (at the time of the 2022 study) documented elsewhere in this chapter. The registration process is atoll-level: the MIPAA survey documented that registration occurs through Health Centres and Island Council Offices, with Dhamanaveshi and the Public Health Unit of Hulhumale Hospital serving as the implementing centres in Greater Male'.[^343]
 
 ### 7.85.3 The Visit Frequency Gap: Design vs. Delivery
 
@@ -1480,7 +1480,7 @@ Taj and Suzana recommended: (a) further exploration of the programme through **i
 
 The MIPAA survey's most significant operational data point is contained in the home visit programme description: **"As of 2021, total 77 patients are receiving regular health checkups through this program in the Male' region. They have identified 1,215 bedridden patients in 8 atolls in the country islands."**
 
-This single sentence transforms the understanding of the home visit programme's coverage. The programme had **identified 1,215 bedridden elderly patients across 8 atolls** – meaning the government knew where these patients were and that they needed care. Yet only **77 patients in the Male' region** were actually receiving the programme's services. This represents a coverage rate of approximately **6.3%** – the programme was reaching fewer than one in fifteen of the identified bedridden elderly. The remaining 1,138 identified patients in the 8 atolls were known to the system but were not receiving any formal home visit services.[^360]
+This single sentence transforms the understanding of the home visit programme's coverage. The programme had **identified 1,215 bedridden elderly patients across 8 atolls** – meaning the government knew where these patients were and that they needed care. Yet only **77 patients in the Male' region (MIPAA Survey 2021)** were actually receiving the programme's services. This represents a coverage rate of approximately **6.3%** – the programme was reaching fewer than one in fifteen of the identified bedridden elderly. The remaining 1,138 identified patients in the 8 atolls were known to the system but were not receiving any formal home visit services.[^360]
 
 ### 7.89.2 Implications of the Coverage Gap
 
@@ -1546,7 +1546,7 @@ The service provider directory documents the formal referral pathway for an elde
 
 **Step 2 – Health Care Access via Aasandha:** The elderly person accesses healthcare through the universal Aasandha scheme at any registered health facility.
 
-**Step 3 – Home-Based Care:** The directory notes: **"No formal home care programme exists."** The bedridden home visit programme (67 patients in Greater Male') is the only approximation.
+**Step 3 – Home-Based Care:** The directory notes: **"No formal home care programme exists."** The bedridden home visit programme (67 patients in Greater Male' at the time of the 2022 study) is the only approximation.
 
 **Step 4 – Residential Care:** **"Only HPSN Guraidhoo available. Not designed for elderly care."**
 
@@ -1669,9 +1669,9 @@ As the Maldives' elderly population grows, the prevalence of dementia will incre
 
 On 19 February 2025, a stakeholder meeting was convened to continue the development of a **National Dementia Strategy**, with support from WHO Maldives and ADI. The ADI's Asia Pacific Regional Director participated in collaborative efforts to develop the plan. The National Dementia Plan was projected to launch later in 2025, which would make the Maldives one of the few small island developing states to have a dedicated national dementia strategy.[^177]
 
-### 7.27.3 Current Service Landscape
+### 7.27.3 Current Service Environment
 
-The current dementia service landscape is characterised by near-total absence. The CRPD Periodic Report draft (Part XVIII-A of this encyclopedia) noted that persons with intellectual disabilities, severe psychosocial disabilities, and older persons with dementia have been "subject to family-controlled guardianship without independent judicial oversight, periodic review, or effective right of appeal" – indicating that dementia is primarily managed through informal family arrangements with no formal support system. The legal framework treats dementia through a guardianship model that may extinguish decision-making rights rather than supporting graduated assistance and supported decision-making as recommended by international best practice.[^178]
+The current dementia service environment is characterised by near-total absence. The CRPD Periodic Report draft (Part XVIII-A of this encyclopedia) noted that persons with intellectual disabilities, severe psychosocial disabilities, and older persons with dementia have been "subject to family-controlled guardianship without independent judicial oversight, periodic review, or effective right of appeal" – indicating that dementia is primarily managed through informal family arrangements with no formal support system. The legal framework treats dementia through a guardianship model that may extinguish decision-making rights rather than supporting graduated assistance and supported decision-making as recommended by international best practice.[^178]
 
 Medica Hospital in Male' reportedly offers geriatric services including individualised treatment plans for dementia and Parkinson's disease, but this is a single private facility serving a disease that will eventually affect thousands. The gap between emerging service capacity and projected future need represents one of the most significant long-term challenges in Maldivian elderly care policy.[^179]
 
@@ -1706,7 +1706,7 @@ The development process involves over **50 stakeholders** from various sectors a
 
 ### 7.56.1 Absence from Mainstream Mental Health Discourse
 
-A striking gap in the broader Maldivian policy landscape is the near-total absence of elderly mental health from the mainstream mental health policy discourse. The mental health policy framework, as documented in Part IX of this encyclopedia, focuses overwhelmingly on youth and adolescent mental health – school-based interventions, youth suicide prevention, adolescent substance abuse, and child psychosocial support. Elderly mental health – including depression (affecting 56.1% of Male's elderly), loneliness (55.4%), dementia, and the psychological dimensions of ageing – receives no substantive treatment in the dedicated mental health chapter. This institutional silence is itself a form of ageism: the mental health needs of nearly 43,000 older Maldivians are invisible in the very policy framework that should address them.[^267]
+A striking gap in the broader Maldivian policy environment is the near-total absence of elderly mental health from the mainstream mental health policy discourse. The mental health policy framework, as documented in Part IX of this encyclopedia, focuses overwhelmingly on youth and adolescent mental health – school-based interventions, youth suicide prevention, adolescent substance abuse, and child psychosocial support. Elderly mental health – including depression (affecting 56.1% of Male's elderly), loneliness (55.4%), dementia, and the psychological dimensions of ageing – receives no substantive treatment in the dedicated mental health chapter. This institutional silence is itself a form of ageism: the mental health needs of nearly 43,000 older Maldivians are invisible in the very policy framework that should address them.[^267]
 
 ### 7.56.2 Implications for Service Delivery
 
@@ -1774,7 +1774,7 @@ During the COVID-19 pandemic lockdowns, the government implemented the **Haalube
 
 ### 7.35.2 Lessons Learned
 
-The Haalubelun programme demonstrated both the feasibility and the limitations of phone-based elderly outreach. It successfully reached 1,500 persons and provided a basic safety net during an emergency. However, it also revealed the absence of pre-existing databases, contact systems, and care pathways for the elderly population. A proactive system – with a national registry of elderly persons, trained community health workers, and established protocols for elderly welfare monitoring – would have enabled a more systematic and comprehensive response. The programme's ad hoc nature underscored the policy gap that the 2025 National Action Plan on Ageing aims to fill.[^204]
+The Haalubelun programme demonstrated both the feasibility and the limitations of phone-based elderly outreach. It successfully reached 1,500 persons and provided a basic safety net during an emergency. However, it also revealed the absence of pre-existing databases, contact systems, and care pathways for the elderly population. A proactive system – with a national registry of elderly persons, trained community health workers, and established protocols for elderly welfare monitoring – would have enabled a more systematic and comprehensive response. The programme's ad hoc nature highlighted the policy gap that the 2025 National Action Plan on Ageing aims to fill.[^204]
 
 ---
 
@@ -1859,7 +1859,7 @@ The monthly case reports published by the Ministry track elderly cases alongside
 
 ### 7.18.4 The US State Department Assessment
 
-The US State Department's 2023 Country Report on Human Rights Practices for the Maldives included assessment of the treatment of vulnerable groups, including the elderly. While not providing detailed data, the inclusion of elderly welfare in international human rights monitoring underscores the growing international attention to elder rights as a human rights issue – and the Maldives' obligation under international frameworks to demonstrate progress.[^141]
+The US State Department's 2023 Country Report on Human Rights Practices for the Maldives included assessment of the treatment of vulnerable groups, including the elderly. While not providing detailed data, the inclusion of elderly welfare in international human rights monitoring reflects the growing international attention to elder rights as a human rights issue – and the Maldives' obligation under international frameworks to demonstrate progress.[^141]
 
 ---
 
@@ -2132,12 +2132,12 @@ Whether these Level 2 and 3 courses received MQA approval and commenced is not d
 ---
 
 
-## 7.81 Civil Society and the Elderly: An Expanded CSO Landscape
+## 7.81 Civil Society and the Elderly: An Expanded CSO Sector
 
 
 ### 7.26.1 The Four Established Organisations
 
-The civil society landscape for elderly issues has expanded modestly since the 2021 MIPAA survey identified three organisations. As of 2025, four NGOs are active:
+The civil society sector for elderly issues has expanded modestly since the 2021 MIPAA survey identified three organisations. As of 2025, four NGOs are active:
 
 **Aged Care Maldives** operates the Manfaa Centre and has partnered with the Atmosphere Foundation for outreach programmes including eye care screenings (via Hulhumale Hospital), health screenings, and awareness activities. The organisation has conducted island outreach in partnership with local councils and health centres. Its MoU with the Ministry for the Guraidhoo facility represents the most significant government-civil society partnership in the elderly space.[^170]
 
@@ -2145,7 +2145,7 @@ The civil society landscape for elderly issues has expanded modestly since the 2
 
 **G-Care Maldives** provided pre-pandemic transportation services for elderly persons in Male' and continues activities promoting elderly rights and well-being, including skills teaching and home-based activities for elderly with limited mobility.[^172]
 
-**Alzheimer's Society of Maldives**, founded in 2019 and a member of Alzheimer's Disease International (ADI) since 2023, represents the newest addition to the elderly CSO landscape. The Society focuses on dementia awareness, prevention, support, advocacy, and research, and has been working since 2021 to develop a National Dementia Plan.[^173]
+**Alzheimer's Society of Maldives**, founded in 2019 and a member of Alzheimer's Disease International (ADI) since 2023, represents the newest addition to the elderly CSO sector. The Society focuses on dementia awareness, prevention, support, advocacy, and research, and has been working since 2021 to develop a National Dementia Plan.[^173]
 
 ### 7.26.2 Private Sector Elderly Services
 
@@ -2164,7 +2164,7 @@ The government's 2021 acknowledgment that it "does not provide any sustainable f
 ---
 
 
-## 7.82 The Civil Society Landscape: Five CSOs for 43,000 Elderly
+## 7.82 The Civil Society Sector: Five CSOs for 43,000 Elderly
 
 
 ### 7.58.1 National CSO Count
@@ -2205,7 +2205,7 @@ Aged Care Maldives operates the **Manfa Centre** – the only identified dedicat
 
 ### 7.57.1 The Absence of Dedicated Elderly Programming
 
-The development partner landscape analysis in Appendix G of this encyclopedia reveals a stark finding: **no development partner maintains a dedicated project for elderly care in the Maldives**. While UNICEF provides extensive support for child protection systems strengthening, UNFPA leads GBV programming, and WHO supports disability and mental health, the elderly population – projected to reach 34.1% aged 60+ by 2054 – has no equivalent dedicated external support. UNFPA and HelpAge International provide regional-level support for ageing data and policy, and ESCAP facilitated the MIPAA survey, but these are regional rather than country-specific programmes. The thematic coverage matrix classifies elderly/ageing as **"significantly under-resourced; no dedicated project"** – the most severe resource gap of any social sector domain documented in the encyclopedia.[^269]
+The development partner analysis in Appendix G of this encyclopedia reveals a stark finding: **no development partner maintains a dedicated project for elderly care in the Maldives**. While UNICEF provides extensive support for child protection systems strengthening, UNFPA leads GBV programming, and WHO supports disability and mental health, the elderly population – projected to reach 34.1% aged 60+ by 2054 – has no equivalent dedicated external support. UNFPA and HelpAge International provide regional-level support for ageing data and policy, and ESCAP facilitated the MIPAA survey, but these are regional rather than country-specific programmes. The thematic coverage matrix classifies elderly/ageing as **"significantly under-resourced; no dedicated project"** – the most severe resource gap of any social sector domain documented in the encyclopedia.[^269]
 
 ### 7.57.2 The ADB Aged Care Components
 
@@ -2379,7 +2379,7 @@ Nazra's study built on the earlier work of Moosa (2016), whose unpublished docto
 
 Aishath Nazra works as a laboratory technologist at Indira Gandhi Memorial Hospital (IGMH), the main tertiary hospital in Male'. Her research interests are community development and public health, and the 2018 paper was based on her master's thesis at Villa College's Institute for Research and Innovation. The study was published in the *International Journal of Social Research and Innovation* (Volume 2, Issue 1, August 2018). Interviews were conducted in Dhivehi and translated to English, which the author acknowledged as a limitation – "fine connotations of meaning may have been lost in translating from Dhivehi to English though caution was taken to ensure socio-linguistic accuracy." This translation limitation applies to all the verbatim quotes cited in this chapter.[^226]
 
-### 7.44.2 Background Data: The Pre-2018 Landscape
+### 7.44.2 Background Data: The Pre-2018 Context
 
 Nazra's background section documented the situation as of 2018 with remarkable clarity. The national population was approximately 344,000, of whom 158,000 lived in Male'. The elderly population (65+) nationally was approximately **17,000**, of whom **4,500 lived in Male'**. This elderly population was expected to "more than double by 2030" based on NBS 2014 projections. Life expectancy had increased from 70 to 79 years in the preceding 15 years, with the healthy life span estimated at 70 years (WHO, 2017). The Maldives Pension Office confirmed the pension amount as MRf 5,000 (approximately US$300 per month) in personal communication with the researcher in June 2018.[^227]
 
@@ -2527,7 +2527,7 @@ The loneliness data was equally structured: 44.6% reported no loneliness (UCLA s
 
 ### 7.43.4 International Comparative Context
 
-The study placed Maldivian elderly depression in a striking international comparative framework. The 56.1% depression prevalence rate was comparable to findings from West Bengal, India (55%, Goud & Nikhade, 2015) and US elderly in independent living retirement communities (60%, Adams et al., 2004), but dramatically higher than Singaporean elderly (13.4%, Tan et al., 2019) and Iranian elderly in nursing homes (10.7%, Nazemi et al., 2013). The similarity between Maldivian depression rates and those of elderly in low-resource settings, and the vast gap compared to Singapore (a high-income Asian comparator), underscores the extent of the mental health crisis among Male's elderly population.[^225]
+The study placed Maldivian elderly depression in a striking international comparative framework. The 56.1% depression prevalence rate was comparable to findings from West Bengal, India (55%, Goud & Nikhade, 2015) and US elderly in independent living retirement communities (60%, Adams et al., 2004), but dramatically higher than Singaporean elderly (13.4%, Tan et al., 2019) and Iranian elderly in nursing homes (10.7%, Nazemi et al., 2013). The similarity between Maldivian depression rates and those of elderly in low-resource settings, and the vast gap compared to Singapore (a high-income Asian comparator), highlights the extent of the mental health crisis among Male's elderly population.[^225]
 
 ---
 
@@ -2630,7 +2630,7 @@ In other words, receiving support from family is experienced positively in the M
 
 Religious social activity made a significant contribution to both wellbeing (r² = 7.8%) and satisfaction with social connectedness (r² = 3.8%). This finding corroborates Nazra's qualitative finding that Islamic faith serves as a coping mechanism and that the mosque provides social infrastructure – particularly for elderly men. However, the contribution was moderate, suggesting that religious activity alone is insufficient to sustain wellbeing without broader social engagement.[^401]
 
-Community engagement, while statistically significant, was **notably low** despite its positive association with wellbeing. Moosa attributed this to the collectivist social structure that prioritises family relationships: "Low social engagement with the wider community can be attributed to the cultural beliefs in the collectivist societies that tend to prioritize family goals and interactions over time is a requisite to develop close relationships." Moreover, in collectivist cultures, interactions are "often segregated and are preferred through established social institutions." A particularly Maldivian finding was the tendency **not to include older people in community-based activities** as doing so "may appear to be disrespectful, as aged persons maintain a high social status in such small island communities." This cultural norm – intended to honour elderly persons – paradoxically excludes them from community engagement opportunities.[^401]
+Community engagement, while statistically significant, was **notably low** despite its positive association with wellbeing. Moosa attributed this to the collectivist social structure that prioritises family relationships: "Low social engagement with the wider community can be attributed to the cultural beliefs in the collectivist societies that tend to prioritize family goals and interactions over time is a requisite to develop close relationships." In collectivist cultures, interactions are "often segregated and are preferred through established social institutions." A particularly Maldivian finding was the tendency **not to include older people in community-based activities** as doing so "may appear to be disrespectful, as aged persons maintain a high social status in such small island communities." This cultural norm – intended to honour elderly persons – paradoxically excludes them from community engagement opportunities.[^401]
 
 ### 7.104.8 The Small Island Context: Why Maldives Is Different
 
@@ -2774,7 +2774,7 @@ The Ranveyla campaign, launched in **August 2016**, was broader in scope than a 
 
 ### 7.42.3 Home Visit Programme Registration Numbers
 
-The 2018 report stated that as of the reporting period, **93 persons were registered** in the Home Visit Programme in the Greater Male' region. This figure is significant because it differs from the 67 patients reported in the 2021 MIPAA survey and the Taj and Suzana (2023) study, which cited 37 patients at Dhamanaveshi and 30 at Hulhumale Hospital. The discrepancy likely reflects different reporting periods and potential attrition – some registered patients may have died, moved, or recovered between the reporting dates. The programme was established at "the end of 2015" at Dhamanaveshi, earlier than some other sources have suggested.[^216]
+The 2018 report stated that as of the reporting period, **93 persons were registered (as of 2018)** in the Home Visit Programme in the Greater Male' region. This figure is significant because it differs from the 67 patients reported in the 2021 MIPAA survey and the Taj and Suzana (2023) study, which cited 37 patients at Dhamanaveshi and 30 at Hulhumale Hospital. The discrepancy likely reflects different reporting periods and potential attrition – some registered patients may have died, moved, or recovered between the reporting dates. The programme was established at "the end of 2015" at Dhamanaveshi, earlier than some other sources have suggested.[^216]
 
 ### 7.42.4 Professional Development Training on Elderly Service Provision
 
@@ -2849,7 +2849,7 @@ The article described the daily reality of many elderly persons in Male' with pa
 
 ### 7.76.3 The COVID-19 and Ageism Observation
 
-The article made a pointed observation about COVID-19 and ageism: **"The COVID-19 pandemic has brought with it its own form of ageism – perhaps reflecting callously that someone over some imaginary line has 'lived a full life.' The nation continues to be immune to the possibilities life will have to offer for someone who is 65 or older – tantamount to systemic myopia given that the life expectancy in the Maldives is currently 87, meaning one is left with no recourse but to spend 27 years, stuck inside increasingly shrinking physical, and mental, space and isolated from the world."** The life expectancy figure of 87 years cited here appears to be an error or projection (other sources cite 79.6-81.1 years), but the rhetorical point remains valid: regardless of the exact figure, a person retiring at 65 faces potentially 15-25 years of life for which no institutional support exists beyond a pension and health insurance. The article concluded: **"The nation owes these senior representatives better, if not for the services that they have provided to society and the nation, for the fact that eventually every young citizen will also need to face this march of time. Everyone deserves to face this march with grace and human dignity."**[^319]
+The article made a pointed observation about COVID-19 and ageism: **"The COVID-19 pandemic has brought with it its own form of ageism – perhaps reflecting callously that someone over some imaginary line has 'lived a full life.' The nation continues to be immune to the possibilities life will have to offer for someone who is 65 or older – tantamount to systemic myopia given that the life expectancy in the Maldives is currently 87, meaning one is left with no recourse but to spend 27 years, stuck inside increasingly shrinking physical, and mental, space and isolated from the world."** The life expectancy figure of 87 years cited here appears to be an error or projection. [Note: The 87-year figure appears to be an error in the original source; UN DESA World Population Prospects 2022 reports life expectancy at birth of 81.1 years.], but the rhetorical point remains valid: regardless of the exact figure, a person retiring at 65 faces potentially 15-25 years of life for which no institutional support exists beyond a pension and health insurance. The article concluded: **"The nation owes these senior representatives better, if not for the services that they have provided to society and the nation, for the fact that eventually every young citizen will also need to face this march of time. Everyone deserves to face this march with grace and human dignity."**[^319]
 
 ### 7.76.4 The WDC Recommendation: Historical Precedent
 
@@ -2902,7 +2902,7 @@ Drawing on the evidence reviewed in this chapter, the following policy recommend
 
 1. **Enact the Elderly Rights and Protection Act**: Complete and pass the dedicated law on elderly rights that has been in draft since at least 2021, establishing specific legal protections, mandatory reporting of elder abuse, and care standards.
 
-2. **Scale Up the Home Visit Program**: Expand the bedridden home visit program beyond its current minimal scale (67 patients in Greater Male') to all inhabited islands, with increased visit frequency and mandatory caregiver training components.
+2. **Scale Up the Home Visit Program**: Expand the bedridden home visit program beyond its current minimal scale (67 patients in Greater Male' as of 2022) to all inhabited islands, with increased visit frequency and mandatory caregiver training components.
 
 3. **Establish a National Registry of Elderly Persons**: Create a comprehensive database of all persons aged 65+, including their health status, living arrangements, care needs, and support networks, to enable targeted service delivery and planning.
 
@@ -3008,7 +3008,7 @@ The Maldives' unique challenge is the geographic dispersion that makes centralis
 
 The Maldives' own MIPAA survey acknowledged that "data specific to older persons are not generated but data available for general public" and that "situational analysis and assessment of elderly is underway and this would give a better perspective into the challenges faced by the elderly."[^80] A nationwide assessment on the situation of the elderly population, commissioned from Villa College of Maldives with WHO funding, was reported to be underway with a final report planned by end of February 2022.[^81]
 
-Across the SAARC region, data on elderly populations is generally limited, but the Maldives faces additional challenges due to its small population (making statistically robust sample surveys more difficult) and geographic dispersion (making data collection expensive). The ADB's 2024 report on elderly poverty in Asia-Pacific highlighted these data gaps as a barrier to evidence-based policy across the region.[^82]
+Across the SAARC region, data on elderly populations is generally limited, but the Maldives faces additional challenges due to its small population (making statistically reliable sample surveys more difficult) and geographic dispersion (making data collection expensive). The ADB's 2024 report on elderly poverty in Asia-Pacific highlighted these data gaps as a barrier to evidence-based policy across the region.[^82]
 
 ---
 
@@ -3034,7 +3034,7 @@ On health care access, the report observed that "countries where no policy was f
 
 ### 7.46.4 From Late Starter to Rapid Developer
 
-The 2015 mapping captures a Maldives with essentially no dedicated elderly policy infrastructure. The contrast with the 2024-2025 landscape – a revised National Ageing Policy with 16 goals, a National Action Plan on Ageing 2025-2028, the Isravvehinge Naadhee senior citizens' centres, the Hattah programme, the N. Kudafari community model, and a developing dementia strategy – represents one of the fastest policy development trajectories on elderly care in the Asia-Pacific region. The Maldives compressed what took most regional comparators a decade or more into approximately seven years (2017-2024), though the implementation gap between policy on paper and services on the ground remains the central challenge.[^244]
+The 2015 mapping captures a Maldives with essentially no dedicated elderly policy infrastructure. The contrast with the 2024-2025 picture – a revised National Ageing Policy with 16 goals, a National Action Plan on Ageing 2025-2028, the Isravvehinge Naadhee senior citizens' centres, the Hattah programme, the N. Kudafari community model, and a developing dementia strategy – represents one of the fastest policy development trajectories on elderly care in the Asia-Pacific region. The Maldives compressed what took most regional comparators a decade or more into approximately seven years (2017-2024), though the implementation gap between policy on paper and services on the ground remains the central challenge.[^244]
 
 ---
 
@@ -3042,13 +3042,13 @@ The 2015 mapping captures a Maldives with essentially no dedicated elderly polic
 ## 7.110 SIDS Comparative Analysis: How Small Island States Address Ageing
 
 
-### 7.108.1 The Global SIDS Ageing Landscape
+### 7.108.1 The Global SIDS Ageing Context
 
 A 2024 UN DESA Policy Brief (No. 180) provided the definitive global assessment of population ageing in small island developing states. The brief found that in **37 of 57 SIDS**, the 65+ population exceeded 7% of the total population in 2023, with an additional 16 SIDS expected to reach this threshold by 2050. Caribbean SIDS are more advanced in ageing: 90% have 65+ populations at 7% or above, versus approximately 40% in Pacific and Atlantic, Indian Ocean and South China Sea (AIS) groupings. The total 65+ population across all SIDS stood at **6.9 million in 2024**, projected to reach 10 million by the mid-2030s and 15 million by the late 2050s. The brief recommended comprehensive social protection systems, community-based initiatives to bridge gaps in remote islands, strengthened health systems with skilled and retained workforces, expanded digital health and telemedicine for NCD prevention, and a focus on primary healthcare, universal health coverage, and long-term care.[^410]
 
 ### 7.108.2 The 2024 Antigua and Barbuda Agenda for SIDS (ABAS)
 
-Adopted unanimously at the SIDS4 Conference in May 2024, the Antigua and Barbuda Agenda for SIDS (ABAS) 2024-2034 identified ageing as a critical challenge for SIDS and called for robust social protection systems for elderly well-being. The ABAS included older persons among vulnerable and marginalised groups whose voices must be heard in policy formulation, alongside persons with disabilities and indigenous peoples. This represents the first SIDS-specific international framework to explicitly name ageing as a priority area.[^411]
+Adopted unanimously at the SIDS4 Conference in May 2024, the Antigua and Barbuda Agenda for SIDS (ABAS) 2024-2034 identified ageing as a critical challenge for SIDS and called for strong social protection systems for elderly well-being. The ABAS included older persons among vulnerable and marginalised groups whose voices must be heard in policy formulation, alongside persons with disabilities and indigenous peoples. This represents the first SIDS-specific international framework to explicitly name ageing as a priority area.[^411]
 
 ### 7.108.3 Country-Level Comparisons
 
@@ -3058,7 +3058,7 @@ Adopted unanimously at the SIDS4 Conference in May 2024, the Antigua and Barbuda
 
 **Fiji:** A 2022 George Institute report on health system responses to population ageing found the 60+ population expected to triple by 2050. The National Council for Older Persons (NCOPS) coordinates multi-sectoral response but is hindered by limited political leadership, lack of context-appropriate models, and inability to mobilise financial resources. Geographic and gender inequities are pronounced: older men use health services more than older women, and rural/maritime elderly have less access. Informal caregivers need better training and referral pathways.[^414]
 
-**Tonga:** Tonga is the **only small developing island state in the Pacific** with a government-funded social welfare scheme for the elderly – T$65 (US$27) per month for citizens aged 75 and above, costing T$1.4 million (US$582,000) annually. An ADB-assisted Integrated Aged Care Project (Project 55254-001) is helping Tonga develop multifaceted aged care services. However, long-term care remains under-developed.[^415]
+**Tonga:** Tonga is the **only small developing island state in the Pacific** with a government-funded social welfare scheme for the elderly – T$65 (US$27) per month for citizens aged 75 and above, costing T$1.4 million (US$582,000) annually. An ADB-assisted Integrated Aged Care Project (Project 55254-001) is helping Tonga develop diversified aged care services. However, long-term care remains under-developed.[^415]
 
 **Samoa:** Samoa provides a universal non-contributory pension of SAT$125/month for all residents over 65, serving as an important additional household income for meeting basic needs and cultural/church obligations.[^415]
 
@@ -3070,7 +3070,7 @@ Anderson and Irava (2017), writing in *Health Systems & Reform*, assessed the im
 
 ### 7.108.5 Maldives in the SIDS Comparative Context
 
-The Maldives' position within the SIDS ageing landscape is distinctive. It shares the Pacific and Caribbean pattern of rapid demographic transition, geographic dispersion, and health system constraints, but differs in several respects: (a) its pension provision (MVR 5,000/month universal basic pension) is more generous in purchasing power terms than most SIDS comparators; (b) its health insurance coverage (Aasandha) is universal, unlike most SIDS; (c) its 2024 National Ageing Policy is relatively recent but comprehensive in scope; and (d) its ageing trajectory is among the fastest in the SIDS grouping, with the 60+ population projected to reach 34.1% by 2054. However, the Maldives lags behind Trinidad and Tobago (which has a dedicated Division of Ageing and Geriatric Society), Mauritius (which has an ICOPE plan), and the Seychelles (which has an adopted National Policy on Ageing since 2016) in institutional development. The Anderson and Irava "strategic window" observation applies directly: the Maldives still has time to build systems before the demographic pressure becomes acute, but this window is closing rapidly.[^418]
+The Maldives' position within the SIDS ageing context is distinctive. It shares the Pacific and Caribbean pattern of rapid demographic transition, geographic dispersion, and health system constraints, but differs in several respects: (a) its pension provision (MVR 5,000/month universal basic pension) is more generous in purchasing power terms than most SIDS comparators; (b) its health insurance coverage (Aasandha) is universal, unlike most SIDS; (c) its 2024 National Ageing Policy is relatively recent but comprehensive in scope; and (d) its ageing trajectory is among the fastest in the SIDS grouping, with the 60+ population projected to reach 34.1% by 2054. However, the Maldives lags behind Trinidad and Tobago (which has a dedicated Division of Ageing and Geriatric Society), Mauritius (which has an ICOPE plan), and the Seychelles (which has an adopted National Policy on Ageing since 2016) in institutional development. The Anderson and Irava "strategic window" observation applies directly: the Maldives still has time to build systems before the demographic pressure becomes acute, but this window is closing rapidly.[^418]
 
 ---
 
@@ -3160,7 +3160,7 @@ The expanded evidence base reviewed in this chapter – drawing on seven primary
 
 **2. Resolve the Pension Sustainability Crisis.** With expenditure at MVR 1.8 billion (2024) and projected to reach MVR 5.13 billion by 2054, the pension system requires urgent actuarial review, elimination of double-pensioning, and long-term fiscal planning. The IMF's direct engagement on pension sustainability signals the severity of the challenge. Delay increases the eventual adjustment cost.
 
-**3. Scale Community-Based Care Infrastructure.** The Isravvehinge Naadhee model and the N. Kudafari example demonstrate viable approaches. These must be scaled to every inhabited island, with adaptation to local contexts. The Hattah programme and Ranveyla campaign provide programmatic frameworks. The Home Visit Program must expand from 67 patients to every bedridden elderly person in the country.
+**3. Scale Community-Based Care Infrastructure.** The Isravvehinge Naadhee model and the N. Kudafari example demonstrate viable approaches. These must be scaled to every inhabited island, with adaptation to local contexts. The Hattah programme and Ranveyla campaign provide programmatic frameworks. The Home Visit Program must expand from 67 patients (as of 2022) to every bedridden elderly person in the country.
 
 **4. Address the Elderly Mental Health Crisis.** With 56.1% depression and 55.4% loneliness among Male' elderly (Azeez et al. 2020), population-level mental health intervention is needed – not optional wellness programming. Screening for depression and loneliness should be integrated into primary healthcare. The National Dementia Strategy must be completed and funded.
 
@@ -3608,7 +3608,7 @@ The Maldives' demographic clock – with the "ageing society" threshold of 2031 
 
 [^215]: MoGFSS (2018) report, Chapter 1: Ranveyla Campaign launched August 2016; health screening and intergenerational sessions; atoll-level deployment map.
 
-[^216]: MoGFSS (2018) report: 93 persons registered in Home Visit Programme in Greater Male'. Cf. Maldives MIPAA Survey (2021) and Taj & Suzana (2023): 67 patients (37 at Dhamanaveshi, 30 at Hulhumale Hospital).
+[^216]: MoGFSS (2018) report: 93 persons registered (as of 2018) in Home Visit Programme in Greater Male'. Cf. Maldives MIPAA Survey (2021): 77 patients in Male'; Taj & Suzana (2023): 67 patients at the time of the 2022 study (37 at Dhamanaveshi, 30 at Hulhumale Hospital).
 
 [^217]: MoGFSS (2018) report, Chapter 5 (Training Programs): PDT on Service Provisions for the Elderly and Victims of Abuse; WHO support; three rounds; 71 total participants across Vaavu/Meemu/Faafu, Alif Alif/Alif Dhaalu, and Addu City.
 
@@ -3740,7 +3740,7 @@ The Maldives' demographic clock – with the "ageing society" threshold of 2031 
 
 [^281]: GEAP 2022-2026: economic empowerment of vulnerable women including elderly. Part XIX, §1.1.3.
 
-[^282]: Census of Population and Housing 2022, MBS: 23,973 aged 65+ (6.3%); 43,000 aged 60+ (8.3%); old-age dependency ratio 7 per 100 (2022) vs 8 (2014). Part XXV, §17.1.3.
+[^282]: Census of Population and Housing 2022, MBS: 23,973 aged 65+ (total resident population including non-Maldivians, 6.3%); 43,000 aged 60+ (8.3%); old-age dependency ratio 7 per 100 (2022) vs 8 (2014). Part XXV, §17.1.3.
 
 [^283]: Part XXV (Statistics Compendium), §17.5.3 and §17.12: Basic Pension time series 2009-2024. Part XIII (Social Protection), §13.7: beneficiary data and expenditure.
 
@@ -3988,7 +3988,7 @@ The Maldives' demographic clock – with the "ageing society" threshold of 2031 
 
 [^405]: WHO/WHPCA, *Global Atlas of Palliative Care*, 2nd Edition (2020). Classification system from Lynch and Connor. Maldives classified as Group 1 (no known hospice-palliative care activity). See also Clark et al., "Mapping Levels of Palliative Care Development in 198 Countries: The Situation in 2017," *Journal of Pain and Symptom Management* (2019), PMC7105817.
 
-[^406]: WHO STEPS Survey Maldives 2020-2021: 16% diabetes, 27% hypertension among 15-69 age group. NCD mortality approximately 84% of all deaths. IAHPC global directory and WHPCA membership records show no Maldivian institutions. National Ageing Policy 2024, Policy Area II, Goal 1, Strategy: "Advocate for special geriatric/palliative care and programmes in health care facilities."
+[^406]: WHO STEPS Survey Maldives 2020-2021: 16% diabetes, 27% hypertension among 15-69 age group. NCD mortality approximately 85% of all deaths. IAHPC global directory and WHPCA membership records show no Maldivian institutions. National Ageing Policy 2024, Policy Area II, Goal 1, Strategy: "Advocate for special geriatric/palliative care and programmes in health care facilities."
 
 [^407]: Maldives health workforce assessment: no board-certified geriatricians identified. MMDC licensed doctors registry at mmdc.gov.mv. IGMH (~300 beds), ADK Hospital, Tree Top Hospital (210 beds, 35+ specialties) – none with dedicated geriatric department.
 

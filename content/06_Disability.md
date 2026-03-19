@@ -81,7 +81,7 @@ The HRCM/UNDP 2010 Baseline Assessment on Activities Addressing Rights of Person
 
 The trajectory reveals a consistent picture of previous undercounting: as measurement methods improved – from simple screening to survey-based assessment to standardised WG-SS methodology – disability prevalence estimates rose from 0.9% to 6.9%. This is not a real increase in disability; it is an improvement in measurement.[^556]
 
-### §6.57.2 The 2010 Service Landscape: How Far the System Has Come
+### §6.57.2 The 2010 Service Baseline: How Far the System Has Come
 
 The 2010 Baseline documented a disability service system that was far more rudimentary than today's:
 
@@ -685,7 +685,7 @@ The NCD-disability intersection requires explicit policy integration: NCD preven
 ---
 
 
-## 6.9 Disability Data Landscape: Washington Group Methodology, NDR Limitations, and the Measurement Gap
+## 6.9 Disability Data Sources: Washington Group Methodology, NDR Limitations, and the Measurement Gap
 
 
 ### §6.25.1 Census 2022 and Washington Group Methodology
@@ -704,7 +704,7 @@ Planning future disability service expansion without resolving the NDR coverage 
 
 ### §6.25.3 Psychosocial Disability: The Data Void
 
-The most significant data gap in the Maldivian disability data landscape concerns psychosocial disability – the category of disability arising from mental health conditions. The 2022 Census WG-SS instrument's limited sensitivity to psychosocial disability, combined with the NDR's historical focus on physical and sensory disabilities, means that the scale of psychosocial disability as a functional category remains unmeasured in Maldives.[^254]
+The most significant data gap in Maldivian disability data concerns psychosocial disability – the category of disability arising from mental health conditions. The 2022 Census WG-SS instrument's limited sensitivity to psychosocial disability, combined with the NDR's historical focus on physical and sensory disabilities, means that the scale of psychosocial disability as a functional category remains unmeasured in Maldives.[^254]
 
 Mental health prevalence data – drawn from WHO estimates and Maldivian mental health sector administrative data – suggests that depression, anxiety disorders, and severe mental health conditions affect a significant proportion of the population. However, no systematic methodology exists for converting mental health prevalence data into disability prevalence data – that is, for estimating what proportion of persons with mental health conditions experience functional limitations that rise to the level of disability as defined by CRPD and WG-SS criteria.[^255]
 
@@ -712,7 +712,7 @@ This data void has practical consequences: persons with psychosocial disabilitie
 
 ### §6.25.4 Disability Outcome Data: The Fundamental Absence
 
-The most consequential gap in the Maldivian disability data landscape is not in prevalence measurement but in outcome measurement. Neither the NDR, the Census, nor any other data system routinely tracks the educational attainment, employment participation, income level, health status, or social participation of persons with disabilities over time.[^257]
+The most consequential gap in Maldivian disability data is not in prevalence measurement but in outcome measurement. Neither the NDR, the Census, nor any other data system routinely tracks the educational attainment, employment participation, income level, health status, or social participation of persons with disabilities over time.[^257]
 
 Without outcome data, it is impossible to answer the fundamental questions that disability policy should be designed to answer: Are the education, employment, and social protection programmes for persons with disabilities making a measurable difference to their lives? Are persons with disabilities doing better over time – more educated, more employed, healthier, more socially included? Where interventions are working, what is causing them to work? Where outcomes are poor, what are the barriers?
 
@@ -1331,7 +1331,7 @@ This legislative architecture is genuine progress. A child in Maldives has a sta
 
 The SEN teacher deployment framework – requiring at least one SEN-trained teacher in every mainstream school – has been operationalised with notable success in coverage terms. As of 2024, the CRPD Periodic Report confirms that every mainstream school in Maldives has at least one SEN-trained teacher. With approximately 213 schools across the country, this represents a substantial deployment achievement.[^290]
 
-SEN teachers are trained through NIE's Special Education Needs programme – a qualification pathway that equips teachers with disability awareness, assessment techniques, learning support strategies, and individual learning plan development skills. The NIE programme has produced graduates serving across all atolls, providing a geographically distributed specialist capacity that is unusual in the Maldivian service landscape (where most specialised human resources concentrate in Malé).[^291]
+SEN teachers are trained through NIE's Special Education Needs programme – a qualification pathway that equips teachers with disability awareness, assessment techniques, learning support strategies, and individual learning plan development skills. The NIE programme has produced graduates serving across all atolls, providing a geographically distributed specialist capacity that is unusual in Maldivian service provision (where most specialised human resources concentrate in Malé).[^291]
 
 However, the "one SEN teacher per school" standard – while a meaningful baseline – is insufficient where children with multiple disabilities or high support needs require intensive individualised support. A single SEN teacher in a school with multiple children with disabilities, including children with complex needs, is stretched beyond the capacity for effective individual support. The SEN teacher-to-student ratio has not been standardised nationally, meaning that schools with high concentrations of children with disabilities are not provided with additional SEN teacher allocation based on need.[^292]
 
@@ -1810,7 +1810,7 @@ The implementation of standardised autism screening tools (such as the M-CHAT fo
 
 Assistive technology – the full range of devices, equipment, and software that enable persons with disabilities to function with greater independence, participate in education and employment, and engage in daily life – is explicitly addressed in CRPD Article 20 (Personal Mobility) and Article 26 (Habilitation and Rehabilitation). Access to appropriate assistive technology is not a luxury but a rights issue: without a wheelchair, a blind person without their cane, a deaf person without a hearing aid or signed communication, many disability-related functional limitations cannot be addressed.[^451]
 
-The assistive technology provision landscape in Maldives is severely inadequate in both scale and quality. ADDA coordinates distribution of basic assistive devices (wheelchairs, crutches, white canes) primarily in Malé. The range of devices available is limited. Provision is demand-driven rather than needs-assessed – persons who know about the service and travel to access it receive devices; persons in outer atolls who do not know about the service or cannot travel do not.[^452]
+Assistive technology provision in the Maldives is severely inadequate in both scale and quality. ADDA coordinates distribution of basic assistive devices (wheelchairs, crutches, white canes) primarily in Malé. The range of devices available is limited. Provision is demand-driven rather than needs-assessed – persons who know about the service and travel to access it receive devices; persons in outer atolls who do not know about the service or cannot travel do not.[^452]
 
 No national assistive technology needs assessment has been conducted. No systematic data exists on the unmet assistive technology need in the population – the number of persons with physical disabilities who need a wheelchair but do not have one; the number of persons with visual impairments who need a white cane; the number of hearing-impaired persons who could benefit from a hearing aid. This data absence makes it impossible to quantify the problem or to plan systematic provision.[^453]
 
@@ -2125,7 +2125,7 @@ The structural drivers of elevated violence risk for persons with disabilities i
 
 ### §6.32.2 Children with Disabilities: The 60% Sexual Violence Statistic
 
-The most concerning violence risk data point for persons with disabilities in Maldives concerns children. The UNPRPD 2025 Situational Analysis (drawing on the UNPRPD SitAn 2024 document, produced by Faisal) reports that children with disabilities account for 60% of child sexual abuse cases in the context of care or institutional settings – a figure that, if robust, indicates a catastrophic failure of child protection for the most vulnerable children.[^342]
+The most concerning violence risk data point for persons with disabilities in Maldives concerns children. The UNPRPD 2025 Situational Analysis (drawing on the UNPRPD SitAn 2024 document, produced by Faisal) reports that children with disabilities account for 60% of child sexual abuse cases in the context of care or institutional settings – a figure that, if accurate, indicates a catastrophic failure of child protection for the most vulnerable children.[^342]
 
 This 60% statistic must be contextualised carefully. The figure likely reflects the particular vulnerability of children in residential or institutional care settings – where oversight is limited, power differentials between children and care providers are acute, and disclosure mechanisms are absent or ineffective – rather than all children with disabilities in all settings. However, even with this contextualisation, the finding demands urgent attention.[^343]
 
@@ -2340,14 +2340,14 @@ Counterintuitively, women with disabilities show slightly higher mobile phone ow
 # Part 14: Civil Society and Organisations of Persons with Disabilities
 
 
-## 6.50 Organisations of Persons with Disabilities: The Civil Society Landscape
+## 6.50 Organisations of Persons with Disabilities: The Civil Society Sector
 
 
 ### §6.23.1 The OPD Ecosystem
 
 The CRPD principle of "nothing about us without us" – the requirement that persons with disabilities be actively involved in all decisions affecting them – is operationalised through organisations of persons with disabilities (OPDs). In Maldives, a small but active OPD ecosystem has developed since the 2000s, providing advocacy, peer support, community services, and policy engagement that partially fills gaps in state provision.[^230]
 
-The key OPDs in the Maldivian disability landscape include:
+The key OPDs in the Maldivian disability sector include:
 
 **Maldives Association of Persons with Disabilities (MAPD)**: The national umbrella OPD, providing cross-disability advocacy and representation at the national policy level. MAPD has engaged with NAPDI consultations, CRPD reporting processes, and domestic policy advocacy. Its capacity is constrained by limited funding and the challenge of representing a diverse disability community spread across a geographically dispersed country.[^231]
 
@@ -2646,7 +2646,7 @@ The South Asian comparative context is relevant for Maldivian disability policy 
 ## 6.57 International Comparison: Small Island State Context
 
 
-### §6.59.1 Maldives Within the Small Island Disability Landscape
+### §6.59.1 Maldives Within the Small Island Disability Context
 
 Disability policy in small island developing states (SIDS) shares structural challenges – geographic dispersion, small populations, limited institutional capacity, high dependence on single-sector economies – that differentiate SIDS from both large developing countries and small high-income states. The Moosa et al. (2024) study provides comparative disability prevalence data:
 
@@ -2913,7 +2913,7 @@ Drawing from the evidence base, the most pressing priorities for disability poli
 
 ### §6.52.1 What the Evidence Shows: A Systems Assessment
 
-The disability policy landscape in Maldives in 2025 can be assessed across four dimensions:
+Disability policy in the Maldives in 2025 can be assessed across four dimensions:
 
 **Legislative Architecture**: Strong. The Disability Act (2010), CRPD ratification (2009), Education Act (2021), Employment Regulation (2024/R-9), and the ongoing Disability Act review create a rights-based legal framework that provides the formal basis for comprehensive disability inclusion. The critical gaps – supported decision-making, binding accessibility standards, OPD participation structures – are identified and targeted for reform.[^506]
 

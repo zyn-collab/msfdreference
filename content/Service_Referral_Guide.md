@@ -1148,7 +1148,7 @@ This section provides a comprehensive listing of services available in each of t
 
 #### CSOs/NGOs
 
-**40 social-sector CSOs identified across 14 islands** – a strong civil society landscape, particularly notable for development organisations.
+**40 social-sector CSOs identified across 14 islands** – a strong civil society presence, particularly notable for development organisations.
 
 **Dhuvaafaru (9 CSOs – strongest concentration):**
 - Dhuvaafaru Women's Jamiyya – Women/Gender (the only women's-specific CSO in the atoll)
@@ -1217,7 +1217,7 @@ This section provides a comprehensive listing of services available in each of t
 #### Referral Notes
 
 - Raa Atoll is well served by the regional hospital for specialist and mental health needs. The Sidhdha mental health wing is a model facility with child-friendly design.
-- **Strengths:** Resident psychiatrist, telepsychiatry, tertiary hospital, CT scan, mammography. Strong pre-school network (11 islands). 40 social-sector CSOs including 2 women's CSOs. Dhuvaafaru's dense CSO landscape (9 organisations) makes it a prime partner hub.
+- **Strengths:** Resident psychiatrist, telepsychiatry, tertiary hospital, CT scan, mammography. Strong pre-school network (11 islands). 40 social-sector CSOs including 2 women's CSOs. Dhuvaafaru's dense CSO presence (9 organisations) makes it a prime partner hub.
 - **Gaps:** No drug treatment facility, no safe house/shelter, no children's residential care (Fiyavathi). No disability therapy services. Drug treatment referral: DRC Himmafushi or HDh. Hanimaadhoo. Children requiring state care must transfer to Manadhoo (N) or Hulhumale'.
 - The split between administrative capital (Ungoofaaru, housing the regional hospital) and FCSC location (Dhuvaafaru) creates coordination challenges for social service delivery.
 
@@ -1552,7 +1552,7 @@ Key organisations:
 
 **Education:** Schools across inhabited islands.
 
-**CSOs:** Limited data in source files. The atoll has a sparse CSO landscape typical of central atolls.
+**CSOs:** Limited data in source files. The atoll has a sparse CSO presence typical of central atolls.
 
 **Referral Notes:**
 - Nearest regional hospital: Gamu RH (L. Gan).
@@ -2154,7 +2154,7 @@ Active civil society. Key national-level organisations with Addu operations:
 
 **Causeway advantage:** The 6 inhabited islands of Addu are connected by causeway, meaning inter-island travel within the atoll does not require boats – a unique advantage for service delivery and referral coordination.
 
-**CSO landscape:** While specific atoll-level CSO data from the registry was limited, key organisations include Addu Women's Association (3365533, info@awa.org), which though registered in Male' has an Addu focus. Journey/Hands Together operates community-based drug rehabilitation and drop-in centres in Addu.
+**CSOs:** While specific atoll-level CSO data from the registry was limited, key organisations include Addu Women's Association (3365533, info@awa.org), which though registered in Male' has an Addu focus. Journey/Hands Together operates community-based drug rehabilitation and drop-in centres in Addu.
 
 **What Addu lacks:** Despite being the best-served outer atoll, Addu has no Fiyavathi children's home. Children requiring state residential care must be transferred to Hulhumale' or Villimale' – a journey of approximately 1.5 hours by domestic flight plus onward transfer, creating significant separation from community and family networks.
 

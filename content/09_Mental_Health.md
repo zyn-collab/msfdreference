@@ -6,7 +6,7 @@ Mental health has been a historically neglected dimension of social policy in th
 
 The Constitution of the Republic of Maldives (2008), in Article 23(c), guarantees every citizen "good standards of health care, physical and mental," placing mental health on equal constitutional footing with physical health.[^1] Yet the gap between this constitutional promise and the operational reality of mental health services remains wide. The Maldives' unique geography -- 1,192 islands scattered across 26 natural atolls, with approximately 187 inhabited islands -- creates service delivery challenges unlike those faced by any other country in South Asia. A person experiencing a psychiatric crisis on a remote island may be days of boat travel away from the nearest psychiatrist. Stigma, deeply rooted in cultural and religious interpretations that attribute mental illness to spiritual causes (*jinni* possession, *sihr* or sorcery), compounds access barriers by discouraging help-seeking behaviour.
 
-This chapter provides a comprehensive analysis of the Maldivian mental health and psychosocial support landscape, tracing the evolution of policy frameworks, mapping the current service delivery architecture, examining prevalence data with particular attention to youth and adolescent populations, and assessing the intersecting crises of substance abuse and self-harm. It documents the significant -- if still insufficient -- reforms undertaken since 2019, including the establishment of the National Centre for Mental Health, the decentralisation of psychiatric services to regional hospitals, and the introduction of telepsychiatry for remote island populations. Throughout, the analysis foregrounds the gap between policy aspiration and implementation reality, drawing on data from the WHO, UNICEF, the National Drug Agency, and government administrative records.
+This chapter provides an analysis of the Maldivian mental health and psychosocial support system, tracing the evolution of policy frameworks, mapping the current service delivery architecture, examining prevalence data with particular attention to youth and adolescent populations, and assessing the intersecting crises of substance abuse and self-harm. It documents the significant -- if still insufficient -- reforms undertaken since 2019, including the establishment of the National Centre for Mental Health, the decentralisation of psychiatric services to regional hospitals, and the introduction of telepsychiatry for remote island populations. Throughout, the analysis foregrounds the gap between policy aspiration and implementation reality, drawing on data from the WHO, UNICEF, the National Drug Agency, and government administrative records.
 
 ---
 
@@ -48,14 +48,14 @@ Recognition of the need for more operational planning instruments led to the dev
 - **Central and Regional Mental Health Services Development Plan 2022-2025**: This operational plan focused specifically on building the institutional infrastructure for mental health service delivery, including the establishment of Mental Health Centres at regional hospitals and the expansion of the National Centre for Mental Health at IGMH.[^7]
 - **Maldives Mental Health Strategic Action Plan 2025-2029**: The most recent strategic framework, this action plan builds on the lessons of the 2015-2025 policy period and sets more specific, time-bound targets for service expansion, workforce development, and integration of mental health into primary care.[^8]
 
-Additionally, mental health features as a cross-cutting concern in several broader health and social policy instruments:
+Mental health also features as a cross-cutting concern in several broader health and social policy instruments:
 
 - The **Health Master Plan 2016-2025** includes Goal 6: "Reduce chronic diseases and improve mental and psychological health," with strategic inputs including "provide access to counselling and peer support services for those with mental health problems and addictions" and "develop and implement strategic action plans...including a mental health strategy."[^9]
 - The **WHO Country Cooperation Strategy 2013-2017** identified "addressing the challenge of noncommunicable diseases and mental health" as its second strategic priority for WHO collaboration with the Maldives, and committed to providing "policy and technical support to prevent and reduce disease, disability and premature death from chronic NCDs, lifestyle risk factors, mental disorders, injuries and visual impairment."[^10]
 
 ### Assessment of the Policy Environment
 
-The Maldives' mental health policy landscape presents a paradox: there is no shortage of policy documents, strategies, and action plans, yet implementation consistently lags behind aspiration. Several structural factors explain this gap:
+The Maldives' mental health policy environment presents a paradox: there is no shortage of policy documents, strategies, and action plans, yet implementation consistently lags behind aspiration. Several structural factors explain this gap:
 
 **Fragmented institutional responsibility.** Mental health governance is split across multiple entities -- the Ministry of Health (policy and regulation), IGMH and regional hospitals (clinical services), the National Drug Agency (substance abuse treatment), the Ministry of Social and Family Development (psychosocial support for vulnerable populations), and the Ministry of Education (school-based mental health). No single coordinating body has authority over the full spectrum of mental health and psychosocial support.
 
@@ -136,7 +136,7 @@ Mental health GAP (mhGAP) trainings have been held for health workers, nurses, a
 
 Any assessment of mental health prevalence in the Maldives must begin with an acknowledgment of the severe limitations of available data. The country has never conducted a dedicated national mental health survey. There is no mental health information system that systematically collects diagnostic data across health facilities. Prevalence estimates must therefore be derived from health surveys that included mental health modules, facility-based administrative data, and extrapolation from regional and global estimates.
 
-The absence of robust epidemiological data has itself been a barrier to policy action: without clear prevalence figures, it has been difficult to make the case for proportionate budget allocations, to plan human resource needs, or to establish baselines against which to measure the impact of interventions.
+The absence of reliable epidemiological data has itself been a barrier to policy action: without clear prevalence figures, it has been difficult to make the case for proportionate budget allocations, to plan human resource needs, or to establish baselines against which to measure the impact of interventions.
 
 ### Depression and Anxiety
 
@@ -227,7 +227,7 @@ Psychosocial support in the Maldives operates at the intersection of the health 
 
 ### Counselling Services: Availability and Quality
 
-The counselling landscape in the Maldives is characterised by high demand and extremely limited supply. Key challenges include:
+Counselling provision in the Maldives is characterised by high demand and extremely limited supply. Key challenges include:
 
 **Qualification and regulation gaps.** There is no standardised accreditation system for counsellors in the Maldives. Individuals providing "counselling" may range from holders of postgraduate clinical psychology degrees to persons with short-course certificates in basic counselling skills. The Health Care Profession Act (No. 13/2015) regulates health professionals, but the boundary between regulated clinical practice and unregulated counselling activity remains unclear.
 
@@ -338,7 +338,7 @@ The 2021 NDA/WHO survey of 403 drug users across all atolls revealed:
 
 ### Treatment Access and Outcomes
 
-The treatment landscape shows significant gaps:
+Treatment access shows significant gaps:
 
 - **34.2% of surveyed drug users had never sought treatment** -- suggesting that over a third of the drug-using population has had no contact with the treatment system
 - **56.1% accessed treatment through the Drug Court** -- indicating that the criminal justice system, not the health system, is the primary gateway to treatment. This raises serious questions about the therapeutic quality of court-mandated treatment and the human rights of persons compelled into treatment
@@ -418,7 +418,7 @@ Prior to the decentralisation reforms, specialist psychiatrists were concentrate
 
 The reliance on expatriate psychiatrists creates several vulnerabilities:
 
-- **Cultural and linguistic barriers**: Expatriate psychiatrists may not speak Dhivehi, requiring consultations to be conducted in English or through interpretation. Psychiatric assessment is highly dependent on nuanced verbal communication, and language barriers can compromise diagnostic accuracy and therapeutic rapport.
+- **Cultural and linguistic barriers**: Expatriate psychiatrists may not speak Dhivehi, requiring consultations to be conducted in English or through interpretation. Psychiatric assessment is highly dependent on precise verbal communication, and language barriers can compromise diagnostic accuracy and therapeutic rapport.
 - **High turnover**: Expatriate contract terms are typically short (1-3 years), creating constant turnover that undermines continuity of care and institutional memory.
 - **Limited training contribution**: Short-term expatriate psychiatrists have limited opportunity or incentive to train local professionals, perpetuating the dependency cycle.
 
@@ -477,7 +477,7 @@ The evidence base for mental health policy and programming in the Maldives is th
 
 1. **National mental health survey.** A dedicated, population-level survey of mental health prevalence across all age groups, geographic regions, and demographic categories is the most pressing research need. The current reliance on modules within broader health surveys, facility-based data, and decade-old school surveys is inadequate for planning purposes.
 
-2. **Updated adolescent mental health data.** The GSHS 2009 data is now over fifteen years old. A repeat survey, or a dedicated adolescent mental health assessment, is essential to understand how the mental health landscape has evolved since the original survey, particularly in the context of social media penetration, COVID-19 impacts, and the expansion of services.
+2. **Updated adolescent mental health data.** The GSHS 2009 data is now over fifteen years old. A repeat survey, or a dedicated adolescent mental health assessment, is essential to understand how the mental health situation has evolved since the original survey, particularly in the context of social media penetration, COVID-19 impacts, and the expansion of services.
 
 3. **Help-seeking behaviour research.** Understanding the pathways through which Maldivians recognise, interpret, and respond to mental health distress -- including the role of traditional and religious healers, family decision-making, and community attitudes -- is essential for designing culturally appropriate interventions.
 
@@ -524,7 +524,7 @@ Based on the analysis presented in this chapter, the following policy recommenda
 
 The period since 2019 has seen measurable progress after decades of limited attention to mental health: the establishment of the National Centre for Mental Health, the decentralisation of psychiatric services to all five regional hospitals, the introduction of telepsychiatry for remote islands, the opening of Mental Health Inpatient Wards, and a 90% reduction in IGMH psychiatry waitlists.
 
-Substantial unmet need remains. Nearly one in five young Maldivians experiences depression. One in five adolescent students has seriously considered suicide. Over half of drug users began substance use before age 18, and a third have never accessed treatment. The mental health workforce remains very limited, with no locally trained psychiatrists and no domestic training pipeline to produce them. Stigma, though beginning to erode, continues to suppress help-seeking across all population groups.
+Substantial unmet need remains. Nearly one in five young Maldivians experiences depression. One in five adolescent students has seriously considered suicide. Over half of drug users began substance use before age 18, and a third have never accessed treatment. The mental health workforce remains very limited, with very few locally trained psychiatrists and continued reliance on expatriate practitioners who may lack Dhivehi language skills and local cultural context. Stigma, though beginning to erode, continues to suppress help-seeking across all population groups.
 
 Realising the constitutional promise of Article 23(c) -- "good standards of health care, physical and mental" -- will require sustained investment, legislative reform, workforce development, and greater prioritisation of mental health within the broader social policy architecture.
 
