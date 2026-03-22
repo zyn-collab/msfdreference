@@ -1945,10 +1945,10 @@ The key limitation of IBAMA, as documented across multiple sources, is its varia
 ---
 
 
-## 4.39 CFW Recommendations for Child Protection
+## 4.39 Priority Recommendations for Child Protection
 
 
-The Community and Family Wellbeing (CFW) vulnerability mapping process (2026) produced 49 cross-sectoral recommendations, of which a substantial portion directly address child protection. The following summarises all CFW recommendations with significant child protection implications, organised thematically.[^760]
+The following recommendations for child protection reform are drawn from multiple sources, including the Community and Family Wellbeing (CFW) vulnerability mapping process (2026), UNICEF situation analyses, CRC concluding observations, the NAPVAC 2024-2028, and other assessments documented throughout this chapter. They are organised thematically.[^760]
 
 ### 4.39.1 Prevention and Early Intervention
 
@@ -6283,8 +6283,8 @@ The child of the Maldives who is in danger today cannot wait for the system to m
 [^757]: Judicial-social work interface: Rogers, Ali & Naeem (2025) §5.4; Family Court practice evidence.
 [^758]: Political interference: Rogers, Ali & Naeem (2025) §4.3.
 [^759]: MDT protocol: CRC Periodic Report Draft §4.2; NAPVAC 2024-2028 CP System pillar.
-[^760]: CFW Recommendations docx (Sections 8); complete 49-recommendation set.
-[^761]: CFW Recommendations R1-R39: CFW Sections 8 Recommendations docx 2026.03.07.
+[^760]: Recommendations compiled from multiple sources including CFW Sections 8 Recommendations docx (2026.03.07), UNICEF SitAn 2025, CRC Concluding Observations, NAPVAC 2024-2028, and Rogers, Ali & Naeem (2025).
+[^761]: See individual recommendation sources in the text and cross-references throughout this chapter.
 [^762]: Extremism-child protection: ICSVE prison study 2022; Cross-Cutting Issues chapter §15.1.
 [^763]: Children in extremist families: ICSVE 2022; Cross-Cutting Issues chapter §15.1.
 [^764]: Radicalisation in state care: ICSVE 2022 §7; Cross-Cutting Issues chapter §15.1.
