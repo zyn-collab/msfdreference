@@ -52,7 +52,7 @@ The 1990s saw the first institutional acknowledgment that gender inequality was 
 
 The period also saw the beginning of **Migration and urbanisation** dynamics that would reshape gender relations over the following decades. As Male' grew from a predominantly elite city to the destination for island-educated youth seeking employment and further education, patterns of social supervision and community control that had constrained women's options in small islands began to give way. Urban women in Male' gained access to employment in government, education, and health services that was unavailable on most islands. This contributed to a slow but important shift in women's economic independence – and eventually, their willingness to report and leave abusive situations – that analysts of Maldivian DV trends have identified as a key structural factor.
 
-### 5.1.4 The 2006 National DV Survey: A Policy-Defining Moment
+### 5.1.4 The 2006 National DV Survey and Its Policy Impact
 
 **2006** marks a key moment in the modern history of gender policy in the Maldives: the publication of the **Maldives Study on Women's Health and Life Experiences**, the first systematic national survey of domestic violence and intimate partner violence. The survey was conducted by the Ministry of Gender and Family with international technical support, using the WHO multi-country study methodology developed by Emma Fulu. The findings were stark: **approximately one in three Maldivian women had experienced physical and/or sexual violence from an intimate partner**. For women in Male', the figure was even higher at 16.3% reporting childhood sexual abuse, with 12.2% nationally.[^7]
 
@@ -102,7 +102,7 @@ Women's political representation reached a **historic low** in the 2024 parliame
 ## 5.2 Women in Maldivian History: Beyond the Sultanas
 
 
-### 5.102.1 Historical Women of Note
+### 5.2.1 Historical Women of Note
 
 The historiography of the Maldives – primarily preserved in the *Radavalhi* (royal chronicle) and oral traditions – records several women beyond the famous sultanas who shaped Maldivian society in ways relevant to understanding the roots of contemporary gender dynamics:
 
@@ -114,7 +114,7 @@ The historiography of the Maldives – primarily preserved in the *Radavalhi* (r
 
 **Early activists:** The women who founded Hope for Women in the 2000s drew on personal experience – as survivors, as practitioners, as observers of systemic failure – that was shaped by the same social conditions documented in the Fulu 2007 study. Their names (Aishath Aniya and others whose public roles are documented in organisational history) belong in any comprehensive history of Maldivian women's rights.
 
-### 5.102.2 The Historiography of Maldivian Women
+### 5.2.2 The Historiography of Maldivian Women
 
 The historical record of Maldivian women's lives – beyond the extraordinary women who appear in royal chronicles or post-independence official records – is sparse. This historiographical gap itself reflects a gender inequality: the lives, work, and experiences of ordinary Maldivian women were not considered worth recording by the men who produced the historical record.
 
@@ -126,7 +126,7 @@ Feminist historiography in the Maldivian context – recovering and recording wo
 ## 5.3 The Women's Rights Movement in the Maldives: Historical Trajectory
 
 
-### 5.68.1 The First Wave: 1970s-1990s
+### 5.3.1 The First Wave: 1970s-1990s
 
 The Maldivian women's rights movement – if it can be characterised as a movement – has been more episodic than sustained, reflecting the constraints of civil society development in a country with a historically limited public sphere for political organisation.
 
@@ -134,7 +134,7 @@ The earliest advocates for women's rights operated within government – women w
 
 The 1990s saw the beginning of a more organised women's advocacy dimension, shaped by: CEDAW ratification in 1993 and the associated reporting obligations; participation in the 1995 Beijing Fourth World Conference on Women and the Beijing Platform for Action; and the emergence of a small number of women professionals in Malé with international exposure to gender equality discourse.
 
-### 5.68.2 The Second Wave: 2000s – The Survey Moment
+### 5.3.2 The Second Wave: 2000s – The Survey Moment
 
 The publication of the Fulu 2007 study was the catalytic moment for the Maldivian women's rights movement. For the first time, concrete, nationally representative data documented that DV was not an individual tragedy but a structural condition affecting one in three women. The survey data transformed the advocacy environment: where previously advocates had argued from anecdote and international evidence, they now had Maldivian data that could not be dismissed.
 
@@ -146,7 +146,7 @@ The period 2006-2012 saw rapid development of civil society gender advocacy:
 
 The DVPA (2012) was the direct product of this advocacy period – the translation of the Fulu 2007 evidence and Hope for Women's service experience into a legislative framework that civil society advocates had been calling for since 2008.[^484]
 
-### 5.68.3 The Third Wave: 2016-2021 – Legislative Acceleration
+### 5.3.3 The Third Wave: 2016-2021 – Legislative Acceleration
 
 The 2016-2021 period was the most legislative productive period in Maldivian gender equality history:
 - GEA (2016)
@@ -158,7 +158,7 @@ Each of these advances represented the outcome of sustained advocacy over multip
 
 The pattern of this period – advocacy organisations (Hope for Women, MDN, HRCM) providing the sustained pressure; development partners (UNFPA, UNDP, EU) providing technical support and international legitimacy; and specific political moments creating the window for legislative passage – is the template for future reform.[^485]
 
-### 5.68.4 Current Phase: Implementation Over Legislation
+### 5.3.4 Current Phase: Implementation Over Legislation
 
 The current phase (2021-present) is characterised by a shift from legislative advocacy to implementation advocacy – pushing for the laws and policies already in place to actually work. Hope for Women's advocacy now focuses as much on FPA resource adequacy as on legislative gaps. MDN's monitoring work tracks not just the number of women in councils but whether women councillors are given genuine authority. HRCM's gender assessments examine implementation failures rather than legislative deficits.
 
@@ -175,7 +175,7 @@ The challenges of implementation advocacy are different from legislative advocac
 ## 5.4 Legal Framework for Gender Equality and GBV: Provisions in Full Detail
 
 
-### 5.2.1 Constitutional Foundations
+### 5.4.1 Constitutional Foundations
 
 The **Constitution of the Republic of Maldives (2008)** contains several provisions directly relevant to gender equality and women's rights.
 
@@ -194,7 +194,7 @@ The **Constitution of the Republic of Maldives (2008)** contains several provisi
 
 **Constitutional tension with Islamic law:** The Constitution also provides in the Preamble and Article 10 that Islam is the state religion and that no law contrary to the principles of Islam may be enacted. This creates a structural tension with the gender equality provisions, particularly in family law. Courts and the government have generally resolved this tension by treating Islamic law provisions as a constraint on the scope of gender equality legislation in matters of marriage, divorce, custody, and inheritance – the areas covered by the reservation to Article 16 of CEDAW.[^15]
 
-### 5.2.2 Domestic Violence Prevention Act 2012 (Act 3/2012) – Full Analysis
+### 5.4.2 Domestic Violence Prevention Act 2012 (Act 3/2012) – Full Analysis
 
 The **Domestic Violence Prevention Act 2012 (DVPA, Act 3/2012)** is the principal legislation governing state response to domestic violence. It was enacted on 28 April 2012 and came into full effect following promulgation of implementing regulations.
 
@@ -210,7 +210,7 @@ The **Domestic Violence Prevention Act 2012 (DVPA, Act 3/2012)** is the principa
 
 **Prevention of Family Violence Act 2020:** This Act expanded and strengthened the 2012 DVPA framework, broadening the definition of family violence to include "coercive control" patterns (not merely discrete acts of violence), extending coverage to relationships outside formal marriage including partners who have cohabited, and clarifying law enforcement duties including mandatory attendance at the scene of DV reports. The 2020 Act represents an important legal development but, as with the DVPA, its effectiveness is constrained by enforcement capacity.
 
-### 5.2.3 Sexual Offences Act 2014 (Act 17/2014) – Provisions, Evidence Requirements, and Gaps
+### 5.4.3 Sexual Offences Act 2014 (Act 17/2014) – Provisions, Evidence Requirements, and Gaps
 
 The **Sexual Offences Act 2014 (Act 17/2014)** is the principal legislation criminalising sexual violence. It replaced earlier provisions that had been spread across the Penal Code and Special Provisions Act, providing more comprehensive and contemporary definitions.
 
@@ -226,7 +226,7 @@ The **Sexual Offences Act 2014 (Act 17/2014)** is the principal legislation crim
 
 **Penalties:** Rape carries a maximum penalty of 25 years' imprisonment and a minimum of 10 years. Sexual assault carries 7–15 years. Child sexual abuse offences carry enhanced penalties. The penalty framework is severe on paper; the problem lies in the prosecution and conviction rates, not the sentencing tariff.
 
-### 5.2.4 Gender Equality Act 2016 (Act 18/2016) – Full Analysis
+### 5.4.4 Gender Equality Act 2016 (Act 18/2016) – Full Analysis
 
 The **Gender Equality Act 2016 (Act 18/2016)**, enacted on 30 June 2016, is the comprehensive framework legislation for gender equality in the Maldives. It is the domestic law instrument most closely aligned with CEDAW's definition of discrimination.
 
@@ -244,11 +244,11 @@ The **Gender Equality Act 2016 (Act 18/2016)**, enacted on 30 June 2016, is the 
 
 **The 43 institutions / zero complaints paradox:** One of the most revealing failures of GEA implementation concerns the workplace harassment complaint mechanism. The Act requires public and private institutions above a certain size to establish internal complaint committees for gender discrimination and harassment. The HRCM monitored compliance in a 2019 assessment. Forty-three institutions established formal complaint mechanisms as required. The number of complaints received by those mechanisms: **zero**. This was not because gender discrimination and harassment did not occur – the qualitative evidence of women's experiences in the workplace (documented in surveys and focus groups) is consistent and substantial – but because formal complaint mechanisms in the Maldivian institutional context are not trusted, not used, and do not provide safety for complainants.[^22]
 
-### 5.2.5 Prevention of Sexual Harassment Act 2014
+### 5.4.5 Prevention of Sexual Harassment Act 2014
 
 The **Prevention of Sexual Harassment Act 2014** requires employers to establish written anti-harassment policies and internal complaint committees. All employers, public and private, above a minimum workforce threshold are covered. Employers are required to post information about the policy and the complaint procedure in the workplace. The HRCM surveys found women consistently reporting sexual harassment in workplaces – particularly in government offices, schools, and tourism-adjacent employment – as a common experience, treated as "just the way things are." The disconnect between the formal requirements of the 2014 Act and the lived experience of Maldivian working women is one of the most striking examples of implementation failure in the gender policy framework.
 
-### 5.2.6 Family Act (Law No. 4/2000) – Marriage, Divorce, Custody, and Maintenance
+### 5.4.6 Family Act (Law No. 4/2000) – Marriage, Divorce, Custody, and Maintenance
 
 The **Family Act (Law No. 4/2000)** governs marriage, divorce, child custody, maintenance, and related family law matters. It was introduced specifically to address the extremely high and socially disruptive divorce rates of the late 1990s by bringing judicial oversight to a process that had previously been largely unilateral.
 
@@ -268,7 +268,7 @@ The **Family Act (Law No. 4/2000)** governs marriage, divorce, child custody, ma
 
 **Maintenance enforcement:** The Family Act requires non-custodial fathers to pay child maintenance. Enforcement, however, is weak. As of the period covered in this encyclopedia, MVR 2 million in child maintenance payments was reported as unclaimed at the Family Court – not because maintenance had been awarded and paid, but because maintenance had been awarded and not collected, reflecting either non-payment by fathers or non-pursuit by mothers for social reasons. Only 8 prenuptial agreements had ever been registered with the Maldivian courts, reflecting both legal unfamiliarity with the instrument and cultural resistance to pre-nuptial financial planning within marriage. The Musawah (2018) jurisprudential review noted that reform of discriminatory family law provisions is jurisprudentially possible within the *mu'amalat* framework of Islamic law – that is, that reform is not inconsistent with Islamic law per se – but that political will for reform has not materialised.[^29]
 
-### 5.2.7 Penal Code Provisions Affecting Women
+### 5.4.7 Penal Code Provisions Affecting Women
 
 **Zina and Flogging:** The Penal Code of Maldives retains criminal penalties for *zina* – extramarital sexual intercourse – as a *hadd* offence under Islamic criminal law. Section 411(d) provides for 100 lashes as the punishment for zina. The application of this provision is heavily gendered: women constitute approximately **85% of those receiving flogging sentences** for zina, as documented by the HRCM in 2022. This disparity reflects the gendered evidence dynamic: pregnancy outside marriage is itself evidence of zina for a woman, meaning that women who become pregnant as a result of rape may be prosecuted for zina on the basis of the pregnancy. Men can only be convicted if there is independent witness or confession evidence, creating an inherently gender-discriminatory enforcement pattern.[^30]
 
@@ -276,13 +276,13 @@ The **Family Act (Law No. 4/2000)** governs marriage, divorce, child custody, ma
 
 **Abortion law:** The current legal position on abortion in Maldives is restrictive. Under the post-2014 Penal Code framework, termination of pregnancy is not permitted under law except in cases of risk to the life of the mother. This represents a more restrictive position than some earlier ministerial health guidelines that had allowed termination on additional grounds (including foetal anomaly and for victims of rape and incest), and creates particular distress for rape survivors who become pregnant. The Thalassaemia Control Act (4/2012) separately provides for access to prenatal diagnosis and – within the 120-day window – for termination in cases of thalassaemia major diagnosis. The tension between these provisions and the Penal Code framework has not been legally resolved and creates uncertainty for medical providers.[^32]
 
-### 5.2.8 Inheritance and Property Law
+### 5.4.8 Inheritance and Property Law
 
 Under Islamic inheritance law as applied in Maldives, daughters receive one-half the share of a son from a parent's estate. This gender-differentiated inheritance structure is explicitly covered by the reservation to Article 16 of CEDAW and reflects the intersection of Maldivian family law with classical Islamic jurisprudence. The practical consequence is that women have structurally lower levels of inherited asset ownership than men, contributing to the documented pattern that land and property in the Maldives is predominantly registered in male names. This property ownership gap has cascading effects: women seeking SDFC business loans face collateral requirements that land in male names cannot satisfy; women leaving abusive marriages have less independent asset base; and women's financial security in old age is structurally lower than men's.
 
 No official tracking exists of gender disaggregation in property and land ownership – the Statistics Compendium identifies this as a major data gap.
 
-### 5.2.9 Employment Act 2008 (Act 2/2008) – Gender Provisions
+### 5.4.9 Employment Act 2008 (Act 2/2008) – Gender Provisions
 
 The **Employment Act (Act 2/2008)** provides foundational labour law protections with several gender-specific provisions:
 
@@ -296,7 +296,7 @@ The **Employment Act (Act 2/2008)** provides foundational labour law protections
 
 **Unpaid care work:** The Employment Act does not address the significant unpaid care economy. DHS 2016-17 data indicates that women spend 19 hours per week on unpaid care and domestic work [Note: DHS 2016-17 reports women's unpaid care work as 19 hours per week; verify unit in original source.], compared to 8.1 hours for men. This 2.3:1 ratio in unpaid labour burden is not recognised, remunerated, or redistributed by any existing policy framework.
 
-### 5.2.10 Anti-Human Trafficking Act 2013 (Act 12/2013)
+### 5.4.10 Anti-Human Trafficking Act 2013 (Act 12/2013)
 
 The **Anti-Human Trafficking Act (Law No. 12/2013)** criminalises all forms of trafficking in persons, establishing penalties of up to 15 years' imprisonment. The law covers forced labour, sexual exploitation, debt bondage, and recruitment, transportation, transfer, harbouring, or receipt of persons through threat, force, or deception for the purpose of exploitation. It provides for victim identification, government-funded victim assistance, and coordination between the Maldives Police Service, immigration authorities, and MoSFD for case management.
 
@@ -308,19 +308,19 @@ The Employment Act separately prohibits forced labour under Article 3, and Maldi
 ## 5.5 Constitutional and Legal Framework for Gender: Detail and Constraints
 
 
-### 5.112.1 Article 36 and the State's Gender Equality Obligation
+### 5.5.1 Article 36 and the State's Gender Equality Obligation
 
 The 2008 Constitution's Article 36(a) provides the foundational constitutional basis for gender equality: **"The state shall ensure the rights of women, and work to achieve equality between men and women."** This is a positive obligation – the state must *actively work* toward equality, not merely refrain from discrimination.
 
 Article 17 complements this by prohibiting discrimination "on the basis of... sex" among other grounds. Read together, Articles 17 and 36(a) create both a negative right (freedom from sex discrimination) and a positive duty (active work toward gender equality). These constitutional provisions are the basis on which the Gender Equality Act 2016 was enacted.
 
-### 5.112.2 Article 10: The Islamic Law Constraint
+### 5.5.2 Article 10: The Islamic Law Constraint
 
 Article 10 of the Constitution declares Islam as the state religion and provides that "no law contrary to any tenet of Islam shall be enacted in the Maldives." This provision is the constitutional basis for the CEDAW Article 16 reservation and creates a structural constraint on any gender equality reform that touches Islamic family law norms.
 
 The intersection of Article 36(a) (equality obligation) and Article 10 (Islamic law supremacy) creates a constitutional tension that the courts have not definitively resolved. The government's consistent position – that the CEDAW Art. 16 reservation is required by Article 10 – treats the tension as resolved in favour of Islamic law. A constitutional challenge that Article 36(a)'s equality obligation requires reinterpretation of Islamic law provisions in light of contemporary Islamic jurisprudence (the approach adopted by Musawah, a global movement for equality within Muslim family laws) has not been tested in the Maldivian courts.[^568]
 
-### 5.112.3 The Family Act's Bride's Guardian Requirement
+### 5.5.3 The Family Act's Bride's Guardian Requirement
 
 The Family Act (Law No. 4/2000) requires, for valid marriage registration, the involvement of the bride's *wali veriyaa* (guardian) – a male relative. No equivalent requirement exists for male parties to marriage. This guardian requirement:
 
@@ -336,7 +336,7 @@ The Family Law Regulation (2016) set 18 as the minimum marriage age but retained
 ## 5.6 The Gender Equality Act 2016: Detailed Legal Analysis
 
 
-### 5.35.1 Overview and Legislative History
+### 5.6.1 Overview and Legislative History
 
 The **Gender Equality Act 18/2016 (GEA)** is the Maldives' primary legislation on gender equality in the public and private spheres. Its enactment in 2016 was the culmination of several years of civil society advocacy, CEDAW Committee pressure (reflected in the 2015 Concluding Observations), and development partner technical support. The GEA moved gender equality from a CEDAW-reporting aspiration to a domestic legal obligation enforceable through Maldivian law.[^373]
 
@@ -344,7 +344,7 @@ The GEA's legislative history reflects the political context of the Solih admini
 
 **Parliamentary passage:** The GEA passed the People's Majlis with significant debate on provisions that some members characterised as inconsistent with Islamic principles – specifically provisions on discrimination in employment and public services that could be interpreted as requiring equal treatment in contexts where Islamic jurisprudence provides differentiated treatment. The compromise result was that the GEA's non-discrimination provisions are qualified by consistency with Islamic law (an approach that mirrors the constitutional rights framework), leaving some interpretive uncertainty about the law's application in Islamic law-governed domains.[^374]
 
-### 5.35.2 Key Provisions in Detail
+### 5.6.2 Key Provisions in Detail
 
 **Section 1 – Definitions:** The GEA defines gender-based discrimination broadly to include direct discrimination (treating someone less favourably because of their gender) and indirect discrimination (applying a rule or condition that appears gender-neutral but disproportionately disadvantages one gender). The inclusion of indirect discrimination is legally significant – it creates a framework for challenging facially neutral policies (such as resort employment practices) that have a gender-disparate impact.[^375]
 
@@ -370,7 +370,7 @@ The employment provisions explicitly cover pregnancy and maternity as non-discri
 
 **Section 9 – Enforcement and remedies:** Persons who experience discrimination contrary to the GEA may file complaints with the GEC, the HRCM (as the national human rights institution), or the Employment Tribunal (for employment discrimination). Remedies include cessation of the discriminatory practice, compensation, and injunctive relief. Criminal penalties for certain provisions have been discussed but are not established in the current GEA.[^378]
 
-### 5.35.3 Implementation Record
+### 5.6.3 Implementation Record
 
 The GEA's implementation record as of 2024-25 illustrates the gap between legislative commitment and operational reality:
 
@@ -382,7 +382,7 @@ The GEA's implementation record as of 2024-25 illustrates the gap between legisl
 
 **HRCM complaint mechanism:** The HRCM is empowered to receive and investigate GEA discrimination complaints. The HRCM's gender-related complaint caseload has increased since the GEA's enactment, but the pattern of gender-discrimination complaints – like DV disclosures – likely represents a small fraction of actual discrimination incidents, reflecting the same barriers of awareness, access, and fear of retaliation that limit disclosure across the gender policy system.[^382]
 
-### 5.35.4 The GEA and CEDAW Alignment
+### 5.6.4 The GEA and CEDAW Alignment
 
 The GEA was designed to be the domestic legal instrument implementing CEDAW commitments. Its provisions align with several CEDAW articles:
 
@@ -401,7 +401,7 @@ The GEA does not, however, address the CEDAW reservations' domains – marriage,
 ## 5.7 The GEA's Gender Responsive Budgeting Requirement: Ministry-by-Ministry Analysis
 
 
-### 5.81.1 Why GRB Matters at Ministry Level
+### 5.7.1 Why GRB Matters at Ministry Level
 
 Gender Responsive Budgeting is not merely a technical compliance exercise; when meaningfully implemented, it transforms how each ministry allocates its resources – ensuring that spending decisions account for gender-differentiated impacts. The Gender Equality Act 18/2016's GRB mandate requires every government ministry and agency to:
 1. Conduct gender analysis of proposed budget allocations – examining how each budget line will affect women and men differently
@@ -410,7 +410,7 @@ Gender Responsive Budgeting is not merely a technical compliance exercise; when 
 
 The CEDAW Seventh Periodic Report (2025) acknowledges that fewer than 40% of ministries comply. Understanding which ministries comply and which do not – and what non-compliance means substantively – requires a ministry-by-ministry consideration.
 
-### 5.81.2 Compliance Analysis by Ministry
+### 5.7.2 Compliance Analysis by Ministry
 
 **Ministry of Health:** Among the better-performing ministries on GRB, reflecting the sector's inherent attention to gender (maternal health, reproductive health, GBV healthcare response). The RMNCAH Strategy's gender components provide a framework for health budget gender analysis. Specific GRB challenges: outer island facility distribution that disadvantages women in accessing specialist reproductive healthcare; mental health budget allocation that underweights the female majority of mental health service users.
 
@@ -434,7 +434,7 @@ The CEDAW Seventh Periodic Report (2025) acknowledges that fewer than 40% of min
 ## 5.8 The Sexual Offences Act in Detail: Legal Analysis and Implementation
 
 
-### 5.44.1 Legislative Background and Structure
+### 5.8.1 Legislative Background and Structure
 
 The **Sexual Offences Act (SOA)** – Act 17/2014, as amended – is the principal legislation governing criminal sexual violence in the Maldives. Its passage in 2014 represented the first comprehensive statutory framework for sexual violence in the country's legal history, replacing a patchwork of Penal Code provisions that had historically handled sexual violence primarily through Islamic criminal law (hadd) standards, with well-documented problems for survivors.[^417]
 
@@ -448,7 +448,7 @@ The SOA's structure covers:
 
 The SOA's consent-based definition of rape was a significant legal advance. Previous provisions focused on penetration by force; the SOA defines consent affirmatively, specifying circumstances under which consent is presumed absent (including where the victim is asleep, intoxicated, or in a state of fear) – provisions that reflect contemporary understanding of sexual violence dynamics rather than historical force-plus-resistance models.[^418]
 
-### 5.44.2 The 2021 Marital Rape Amendment: A Landmark Change
+### 5.8.2 The 2021 Marital Rape Amendment
 
 The single most significant amendment to the SOA was the **2021 amendment explicitly criminalising marital rape**. Prior to 2021, the marital rape exception – derived from Islamic jurisprudence's position that a wife's consent to marriage includes consent to sexual intercourse within the marriage – meant that rape by a husband was not prosecutable as rape under the SOA. The 2021 amendment removed this exception, establishing that consent is required for all sexual acts regardless of marital status, and that non-consensual intercourse within marriage constitutes rape under Section 3.[^419]
 
@@ -464,7 +464,7 @@ The practical impact of the 2021 amendment on prosecution rates is not yet syste
 - Disclosure: The shame barriers to reporting any sexual violence are amplified in the marital context, where disclosure means accusing the husband and potentially triggering divorce proceedings
 - Justice pathway: Police, prosecutors, and courts that are sceptical of rape claims generally may be even more sceptical of marital rape claims given the historically normalised understanding of sexual access within marriage
 
-### 5.44.3 Evidence Requirements: The Forensic Gap
+### 5.8.3 Evidence Requirements: The Forensic Gap
 
 The practical application of the SOA in prosecution depends critically on **forensic medical evidence**. The prosecution of sexual offences typically relies on:
 
@@ -488,7 +488,7 @@ At each stage, barriers to proceeding mount. By the time the survivor arrives at
 
 The UNFPA's National Guidelines for Healthcare Providers on GBV (2024, 2nd edition) specifically address this forensic gap, providing clinical protocols for evidence collection by health post staff in outer islands who are not forensic specialists – a harm-reduction approach that collects the best available evidence given the geographic constraints. The chain of custody requirements for evidence collected in non-forensic settings and transported to Malé for analysis remain a legal challenge.[^422]
 
-### 5.44.4 Consent Standard in Practice
+### 5.8.4 Consent Standard in Practice
 
 The SOA's consent-based standard represents the legal framework; how courts apply the consent standard in practice is a separate and critical question. Key issues:
 
@@ -504,7 +504,7 @@ The SOA's consent-based standard represents the legal framework; how courts appl
 ## 5.9 The Domestic Violence Prevention Act: Detailed Legal Analysis
 
 
-### 5.45.1 Civil Law Framework and Its Rationale
+### 5.9.1 Civil Law Framework and Its Rationale
 
 The choice to make the DVPA a **civil law instrument** – rather than amending the Penal Code to create criminal domestic violence offences – was deliberate and reflects specific policy judgments. The rationale for the civil approach:
 
@@ -518,7 +518,7 @@ These rationales are well-founded, but the civil approach has limitations:
 - **Requires survivor engagement:** Unlike criminal prosecution (which can proceed without the survivor's cooperation), civil protection orders require the survivor to initiate and maintain the application. Survivor withdrawal – possible at any point – terminates the civil process.
 - **Limited scope:** The protection order addresses the specific abusive relationship; it does not address the perpetrator's pattern of behaviour or the broader social norms driving it.[^424]
 
-### 5.45.2 Section-by-Section Analysis
+### 5.9.2 Section-by-Section Analysis
 
 **Section 1 (Definitions):** The DVPA's definitional scope – covering physical, sexual, psychological, and economic violence; covering married, divorced, cohabiting, and dating partners – is one of the most comprehensive in the South Asian region. The definition of psychological violence is particularly broad: threats, humiliation, surveillance, isolation, and control of daily activities all fall within the DVPA framework. The breadth of definition creates opportunity; the challenge is in evidencing these forms of non-physical violence through the civil court process.
 
@@ -532,7 +532,7 @@ These rationales are well-founded, but the civil approach has limitations:
 
 **Section 10 (WDC role):** WDCs are formally integrated into the DVPA framework as the outer island first-response mechanism. The WDC's referral function – connecting island survivors to the FPA – is here given statutory grounding. The gap between this statutory role and WDC's actual capacity (no budget, limited training, no authority) is the central implementation failure of the DVPA's geographic coverage design.[^425]
 
-### 5.45.3 Protection Orders Issued: Available Data
+### 5.9.3 Protection Orders Issued: Available Data
 
 Available data on DVPA protection orders issued is incomplete in public records. The FPA's quarterly statistics track case intake but do not consistently distinguish between:
 - Cases in which a protection order was sought
@@ -548,7 +548,7 @@ The AIM Project Baseline Assessment (2022) provides the most detailed available 
 ## 5.10 The Family Act 2000: Evolution, Amendments, and Ongoing Gaps
 
 
-### 5.51.1 Legislative History
+### 5.10.1 Legislative History
 
 The **Family Act 2000 (Act 4/2000)** consolidated and reformed Maldivian family law – replacing a fragmented collection of Islamic family law applications and judicial custom with a codified statutory framework. Its passage was a significant modernisation of the legal environment for marriage, divorce, custody, and maintenance. The Act has been amended several times since 2000, with key changes documented in the Legal Framework chapter (§2.X) and revisited here with gender-specific focus.[^440]
 
@@ -559,7 +559,7 @@ Key amendments relevant to gender include:
 
 The Family Act's relationship with Islamic family law is constitutionally defined: the Act applies Islamic jurisprudence as the substantive law for marriage, divorce, inheritance, and custody, with statutory regulation of the processes by which these Islamic legal principles are administered. The Act is therefore not a secular family code but a Maldivian-Shafi'i statutory codification.[^441]
 
-### 5.51.2 Marriage Provisions
+### 5.10.2 Marriage Provisions
 
 **Marriage registration:** All marriages must be registered with the Family Court. The registration requirement creates a paper trail for subsequent divorce proceedings and maintenance claims, and ensures that the minimum age requirement is formally documented. In practice, unregistered marriages exist – particularly in outer islands and, historically, in the early years of young people's relationships – though the legal consequences of marriage rights (property, custody, maintenance) depend on registration.
 
@@ -567,7 +567,7 @@ The Family Act's relationship with Islamic family law is constitutionally define
 
 **Mahr determination:** The mahr amount is agreed between the parties at the time of marriage and recorded in the marriage contract. As documented in §5.22, mahr amounts tend to be symbolic rather than substantive. There is no minimum mahr requirement and no mechanism for ensuring that the mahr reflects the economic value to the wife – unlike some Islamic marriage contract reform initiatives in Morocco and other contexts that have developed standard mahr guidance.[^443]
 
-### 5.51.3 Divorce Types and Their Gendered Implications
+### 5.10.3 Divorce Types and Their Gendered Implications
 
 The Family Act provides for three principal forms of divorce, each with different procedural requirements and gendered power implications:
 
@@ -587,13 +587,13 @@ The interaction between these divorce mechanisms creates a gendered asymmetry: m
 ## 5.11 The Family Act: Full Structural Gender Analysis
 
 
-### 5.115.1 The Gender Architecture of Maldivian Family Law
+### 5.11.1 The Gender Architecture of Maldivian Family Law
 
 The **Family Act (Law No. 4/2000)** is the central instrument of Maldivian family law and the primary source of the structural gender asymmetries that shape women's legal position throughout their lives. While §5.112 introduced the constitutional framework and the *wali* requirement, this section provides the full operational analysis of the Family Act's gender dimensions – drawing directly on the Legal Framework chapter of this encyclopedia and the vulnerability mapping literature review (2026).
 
 The Act operates alongside the Family Regulation of 2001, Supreme Court regulations on marriage guardians and minors' marriages, and various judicial practice directives. Its scope covers marriage, divorce, custody, maintenance, and guardianship – the entire life cycle of family formation and dissolution. At every point in this cycle, the Act embeds gender asymmetries that compound across a woman's life.[^574]
 
-### 5.115.2 Divorce: Asymmetric Access and Asymmetric Burden
+### 5.11.2 Divorce: Asymmetric Access and Asymmetric Burden
 
 The Family Act's divorce provisions create fundamentally different legal experiences for men and women:
 
@@ -605,7 +605,7 @@ The Family Act's divorce provisions create fundamentally different legal experie
 
 **The costs of serial divorce on women:** The 2022 Census showed the proportion of divorced women exceeds divorced men by **42.86%**, reflecting the differential impact of serial marriage and divorce patterns on women. Data shows: in 2016, there were 5,488 marriages and 3,417 divorces nationally – approximately 60% of marriages ending in divorce. Divorce rates for women aged 26–40 in Greater Malé are 18.83% higher than comparable women in other atolls (annual totals: 874 in 2021, 927 in 2022, 931 in 2023, 779 in 2024). The higher female divorce rate reflects women's greater exposure to serial divorce: a man who divorces his wife and remarries appears once as "divorced" and then as "married"; his ex-wife remains "divorced" until she remarries.[^575]
 
-### 5.115.3 Custody: The Section 42 Trap
+### 5.11.3 Custody: The Section 42 Trap
 
 The Family Act's custody provisions contain a provision – Section 42 – that functions as a structural trap for women who seek to rebuild their lives after divorce:
 
@@ -622,7 +622,7 @@ The practical effects of Section 42 are profound:
 
 This creates a situation where Section 42 effectively converts the custody determination into a mechanism for post-divorce control. An ex-husband can use custody as a threat to prevent his former wife from remarrying or relocating. The vulnerability mapping literature review documented this dynamic explicitly, identifying custody weaponisation as a significant feature of post-divorce coercive control.[^576]
 
-### 5.115.4 Maintenance: Legal Obligation Without Enforcement
+### 5.11.4 Maintenance: Legal Obligation Without Enforcement
 
 The Family Act requires that the court determine maintenance arrangements for the wife and children before a divorce is granted. The minimum child maintenance payment is MVR 2,000 per month for one child. In principle, this protects children's financial welfare after divorce. In practice, enforcement is effectively absent:
 
@@ -633,7 +633,7 @@ The Family Act requires that the court determine maintenance arrangements for th
 
 The gap between the legal obligation and actual payment is not incidental. It reflects a family law enforcement system that places the burden of collecting maintenance on the women to whom it is owed, without providing accessible enforcement mechanisms or automatic transfer systems.[^577]
 
-### 5.115.5 Marital Property: The Unrecognised Contribution
+### 5.11.5 Marital Property: The Unrecognised Contribution
 
 The most comprehensive structural gender asymmetry in the Family Act is one of omission: **women's unpaid care work carries no legal recognition whatsoever.** A wife who spends decades maintaining a household, raising children, and enabling her husband's economic participation exits divorce with no legal claim to marital property – unless a prenuptial agreement exists that specifically provides for property division.
 
@@ -641,7 +641,7 @@ Prenuptial agreements under the Family Act are theoretically available but **fun
 
 A woman who exits a 20-year marriage having contributed two decades of household labour and childcare has no legal claim to a share of the family home, family savings, or family business. The only asset she can claim is the *mahr* (if it was agreed at marriage and not returned in *khul'*) and child maintenance going forward.[^578]
 
-### 5.115.6 Polygamy: Documented Harms and Regulatory Failure
+### 5.11.6 Polygamy: Documented Harms and Regulatory Failure
 
 The Family Act permits polygamy (up to four wives) in accordance with Islamic law. Approximately 165 marriages to a second wife were registered in 2020 and 157 in 2021 – these represent only registered polygamous marriages; unregistered marriages may be more common.
 
@@ -693,7 +693,7 @@ This timeline illustrates the legislative acceleration of the 2012-2021 period �
 ## 5.13 Footnotes on Legal Interpretation: Specific Provisions of Note
 
 
-### 5.86.1 The Reasonable Man Standard and GBV
+### 5.13.1 The Reasonable Man Standard and GBV
 
 Maldivian criminal law applies standard common law principles including the "reasonable man" or "reasonable person" standard in assessing criminal conduct. In GBV cases, this standard has specific implications:
 
@@ -701,7 +701,7 @@ Maldivian criminal law applies standard common law principles including the "rea
 
 - **Consent and the "reasonable belief" defence:** Some jurisdictions' sexual offence laws permit a "reasonable belief" defence – where the defendant claims he reasonably believed the victim consented. Whether the SOA contains an equivalent provision, and how it is interpreted, significantly affects prosecution outcomes. The UNFPA (2023) review of GBV laws includes analysis of this provision.[^518]
 
-### 5.86.2 Constitutional Rights and GBV
+### 5.13.2 Constitutional Rights and GBV
 
 The 2008 Constitution's rights provisions that are most directly relevant to GBV include:
 
@@ -719,7 +719,7 @@ The 2008 Constitution's rights provisions that are most directly relevant to GBV
 ## 5.14 Legal Framework: Prosecution Rates and Justice Access
 
 
-### 5.116.1 The Criminal Justice Funnel for GBV
+### 5.14.1 The Criminal Justice Funnel for GBV
 
 The Legal Framework chapter provides the most precise statistics available on the GBV criminal justice process – a funnel that loses cases at every stage:
 
@@ -733,13 +733,13 @@ The Legal Framework chapter provides the most precise statistics available on th
 
 The 3% submission rate and 3.7% legal assistance rate are the most damning figures in the entire GBV response system. They mean that for every 100 women who experience domestic violence and report it to police, approximately 3 will have their case submitted for prosecution and fewer than 4 will receive any legal help. This is not a system that protects women from violence. It is a system that processes a small fraction of reported violence and leaves the overwhelming majority of survivors without legal remedy.
 
-### 5.116.2 The Evidence Burden Problem: SOA Section 52
+### 5.14.2 The Evidence Burden Problem: SOA Section 52
 
 Section 52 of the Sexual Offences Act (2014) requires **five types of specified evidence** for rape prosecution. This evidentiary threshold – identified by civil society organisations (Equality Now, Hope for Women, Family Legal Clinic), UNFPA, and the UN Working Group on Discrimination against Women and Girls (2022) as "extremely burdensome and a major barrier to justice for survivors" – creates a structural filter that removes most sexual offence cases before they reach trial.
 
 The specified evidence requirements reflect a legal design that prioritises false accusation prevention over survivor access to justice. In a country where reporting rates are already suppressed by stigma, community pressure, and fear of retaliation, requiring five categories of evidence before prosecution proceeds means that most sexual offences – which by their nature occur without independent witnesses or physical evidence – will never be prosecuted.
 
-### 5.116.3 The Penal Code Marital Presumption: The Marital Rape Loophole That Survived 2021
+### 5.14.3 The Penal Code Marital Presumption: The Marital Rape Loophole That Survived 2021
 
 The 2021 amendment to the Sexual Offences Act removed the marital exemption from the definition of rape – a significant legal reform documented in §5.39 of this chapter. However, the Legal Framework chapter identifies a surviving loophole in the **Penal Code (Section 130(b))**, which **maintains a rebuttable presumption of consent within marriage for sexual acts**.
 
@@ -747,7 +747,7 @@ The practical effect: even after the 2021 SOA amendment, a husband accused of ma
 
 This creates a situation where the SOA amendment was legislatively real but procedurally hollow. The woman who is raped by her husband must overcome: the social barrier to reporting; the police response failures; the evidentiary requirements of Section 52; and the Penal Code's legal presumption of her consent. Each of these barriers operates independently, and a case must survive all of them to reach prosecution.[^580]
 
-### 5.116.4 Zina Law: Pregnancy as Evidence Against Rape Survivors
+### 5.14.4 Zina Law: Pregnancy as Evidence Against Rape Survivors
 
 The intersection of Shari'ah *zina* law and sexual violence law creates a situation without parallel in most jurisdictions: **pregnancy out of wedlock is criminalised**, including for women who became pregnant through rape or sexual abuse.
 
@@ -821,7 +821,7 @@ The Legal Framework chapter contains several statistics that are material to und
 ## 5.16 Institutional Architecture for Gender Equality and GBV Response
 
 
-### 5.3.1 Ministry of Social and Family Development (MoSFD) – The National Machinery
+### 5.16.1 Ministry of Social and Family Development (MoSFD) – The National Machinery
 
 The **Ministry of Social and Family Development (MoSFD)** is the principal national machinery for gender equality in the Maldives, serving also as the CEDAW focal point for treaty reporting. Its functions include:
 - Coordinating gender equality policy across government
@@ -837,7 +837,7 @@ The ministry has been renamed multiple times through successive administrations 
 
 **GRB compliance:** The Gender Equality Act (18/2016) mandates gender-responsive budgeting across all government ministries. As of 2024, MoSFD's internal audit found that fewer than 40% of ministries had submitted gender-disaggregated budget analyses for fiscal years 2022–2023. This level of compliance is insufficient to operationalise the GRB mandate in a way that materially affects resource allocation.[^34]
 
-### 5.3.2 Family Protection Authority (FPA) – Structure, Functions, and Capacity
+### 5.16.2 Family Protection Authority (FPA) – Structure, Functions, and Capacity
 
 The **Family Protection Authority (FPA)** is an independent regulatory body established under the DVPA 2012, with a mandate to receive, investigate, and refer domestic violence complaints; issue protection orders (through the Family Court); oversee safe houses; publish quarterly GBV statistics; and provide training and oversight for DV response across sectors.
 
@@ -883,7 +883,7 @@ The increase from 19 to 696 peak cases represents primarily a growth in reportin
 
 The high female share of victims – 87–89% – confirms the gendered nature of reported violence.[^38]
 
-### 5.3.3 Police Family and Child Protection Wing (FCPW)
+### 5.16.3 Police Family and Child Protection Wing (FCPW)
 
 The Maldives Police Service operates a **Family and Child Protection Wing (FCPW)** as the specialist law enforcement unit for responding to domestic violence and child protection reports. The FCPW is responsible for receiving and investigating DV and VAC (violence against children) complaints, executing protection orders, and providing trained first response to DV callouts.
 
@@ -899,7 +899,7 @@ The Maldives Police Service operates a **Family and Child Protection Wing (FCPW)
 
 - **Information gap between agencies:** Protection orders issued by the Family Court are not systematically shared with the Maldives Correctional Service, meaning that staff managing persons in custody on other matters may be unaware of active protection orders, and perpetrators may leave custody without conditions enforced.[^39]
 
-### 5.3.4 Women's Development Committees (WDCs)
+### 5.16.4 Women's Development Committees (WDCs)
 
 Women's Development Committees exist on each of the approximately 270 inhabited islands of the Maldives and serve as the frontline community-level structure for gender equality, DV referrals, and women's empowerment activities. WDC members are elected by island communities and serve volunteer terms. The GEA formalised their legal mandate.
 
@@ -919,7 +919,7 @@ Women's Development Committees exist on each of the approximately 270 inhabited 
 
 **UNDP/MoSFD 2022 WDC Capacity Assessment** updated the Transparency Maldives 2015 findings, confirming that the structural constraints identified in 2015 had not been substantially resolved. The 2022 assessment's most significant finding was the training gap: the majority of WDC members could not describe the referral pathway for a DV disclosure or identify which agency they should contact first.
 
-### 5.3.5 Human Rights Commission of Maldives (HRCM)
+### 5.16.5 Human Rights Commission of Maldives (HRCM)
 
 The **Human Rights Commission of Maldives (HRCM)**, established under Act 6/2006, serves as the national human rights institution with monitoring, complaint-receiving, and reporting functions across all human rights domains including gender equality, GBV, and discrimination.
 
@@ -934,7 +934,7 @@ The **Human Rights Commission of Maldives (HRCM)**, established under Act 6/2006
 
 **Complaint receiving:** The HRCM receives complaints from individuals alleging human rights violations, including gender discrimination. Regional offices in some atolls provide some complaint-receiving capacity outside Male', though access remains predominantly capital-centric.
 
-### 5.3.6 The AIM Project (Accountability and Integration Matters, 2022–2025)
+### 5.16.6 The AIM Project (Accountability and Integration Matters, 2022–2025)
 
 The **AIM Project** is a joint EU-UNDP-MoSFD initiative specifically designed to address the catastrophic attrition in the GBV justice pathway. With only approximately 3% of DV/GBV cases reported to police reaching the Prosecutor General's office for prosecution, and a conviction rate of 16.7% among cases that do reach court, the AIM Project represents the most targeted institutional intervention in the Maldivian GBV response system.
 
@@ -950,13 +950,13 @@ The AIM Project baseline assessment (2022) documented the full picture of justic
 
 **The DV case fragmentation problem:** A domestic violence case on an outer island may involve the island council (first point of contact), the police FCPW (investigation), the FPA's Male'-based caseworkers (assessment and support), the Family Court (protection orders), the Maldives Prosecution Service (criminal prosecution of associated assault), the NSPA (welfare support), and the HRCM (rights monitoring) – each operating with different protocols, separate case management systems, and geographic constraints. No integrated case management system exists. The victim's experience is fragmented across agencies, with no single point of accountability for the overall response. The AIM Project's inter-agency coordination component directly addresses this fragmentation.
 
-### 5.3.7 Family Legal Clinic
+### 5.16.7 Family Legal Clinic
 
 The **Family Legal Clinic** (operated under the aegis of civil society and government partnership) provides free legal aid for DV and family law matters. It is the only source of free legal representation for women in DV cases in Male'. The Legal Aid Commission of Maldives, established in 2016, provides civil and criminal legal aid but has insufficient staff and budget to meet demand.
 
 Women seeking legal redress in DV, divorce, or custody matters in outer atolls have no equivalent access to legal aid. The Legal Aid Commission's geographic concentration in Male' means that atoll-based women navigating the court system typically do so without legal representation – a significant disadvantage in proceedings where the law is complex, judges have varying levels of training on gender-sensitive adjudication, and cultural pressures to withdraw or reconcile are strong.
 
-### 5.3.8 Hope for Women and Civil Society
+### 5.16.8 Hope for Women and Civil Society
 
 **Hope for Women** is the leading CSO working specifically on GBV prevention and survivor support. It operates a shelter facility in Male' (with limited capacity) and plans for regional shelters have been developed but not yet fully implemented. Hope for Women has been a consistent advocate for legislative reform, survivor support services, and public awareness on GBV.
 
@@ -966,7 +966,7 @@ Women seeking legal redress in DV, divorce, or custody matters in outer atolls h
 
 **Moms Aid** (founded 2019; momsaid.com.mv) works at the intersection of anti-poverty and violence against women. The organisation provides temporary shelter for women escaping domestic abuse, referrals to mental health services, and skills training for independent livelihoods. Its Ramadan Aid programme distributes food baskets to verified vulnerable families (178 families through Dusit Thani partnership in 2025; targeting 500 families), while the Back to School programme provides school supplies to children from financially vulnerable families (BML donated MVR 100,000 in 2025). The Family Sponsorship Program provides ongoing daily support to verified vulnerable families. Corporate partnerships include Dhiraagu, Dusit Thani Maldives, EyeCare Maldives, Bank of Maldives, and Villa College (MOU for legal rights awareness and skills training for mothers). Led by Executive Director Fathimath Riyasa.
 
-### 5.3.9 UNFPA – Gender Programme
+### 5.16.9 UNFPA – Gender Programme
 
 The United Nations Population Fund has been the lead UN agency on GBV prevention and response in the Maldives since the 2006 DV prevalence study. Under the 7th Country Programme (2022–2026, indicative budget US$3.5 million), UNFPA focuses on:
 - Sexual and reproductive health and rights (SRHR)
@@ -980,7 +980,7 @@ Key UNFPA contributions in the recent period:
 - **COVID-19 GBV Analysis:** Analysis of FPA, police, and Prosecutor General case data during the pandemic, providing the most systematic available evidence on how pandemic conditions affected GBV reporting and the justice system response
 - **Census 2022 support:** UNFPA has supported all Maldivian censuses for 45 years since 1977, contributing to the demographic data infrastructure on which gender policy depends
 
-### 5.3.10 ADB – Gender Programme
+### 5.16.10 ADB – Gender Programme
 
 The **Asian Development Bank's Strengthening Gender Inclusive Initiatives Project (54373-001, 2024 onwards)** is ADB's most significant direct engagement in the Maldivian social sector. It is a grant and technical assistance project targeting:
 
@@ -1000,7 +1000,7 @@ ADB's MSME Development Project separately included credit lines with limited col
 ## 5.17 The Family Protection Authority: Operations, Capacity, and Case Management in Detail
 
 
-### 5.28.1 Establishment and Legal Mandate
+### 5.17.1 Establishment and Legal Mandate
 
 The **Family Protection Authority (FPA)** was established by the DVPA (Act 3/2012) as the lead government agency for domestic violence prevention and response. It operates under the Ministry of Social and Family Development (MoSFD). The FPA's legal mandate under the DVPA encompasses:
 
@@ -1016,7 +1016,7 @@ The **Family Protection Authority (FPA)** was established by the DVPA (Act 3/201
 
 The FPA is the primary institutional actor in the Maldivian GBV response system, serving as the primary gateway through which survivors enter the formal response system. Understanding the FPA's operational reality – its physical capacity, staffing, geographic reach, case management protocols, and resource constraints – is essential to understanding why the system performs as it does.
 
-### 5.28.2 Physical Capacity and Location
+### 5.17.2 Physical Capacity and Location
 
 The FPA's main office is located in **Malé**. As of the most recent capacity assessment (AIM Project Baseline Assessment, 2022, and FPA Capacity Assessment, 2023):
 
@@ -1032,7 +1032,7 @@ The FPA's main office is located in **Malé**. As of the most recent capacity as
 
 The absence of a permanent FPA atoll presence is the most significant structural gap in the GBV response system. For a survivor on an outer island, the FPA's services are primarily accessible by telephone – which requires privacy that may not be available in shared or small island housing, and relies on the caseworker being available at the time of call in a high-caseload environment.[^325]
 
-### 5.28.3 Staffing Profile
+### 5.17.3 Staffing Profile
 
 The FPA workforce includes:
 - **Caseworkers:** Social workers and community development professionals trained in trauma-informed DV case management. Most have undergraduate-level social science qualifications; FPA provides in-service training supported by the AIM Project and UNFPA. Caseworkers are predominantly women – a deliberate policy decision reflecting the importance of gender-concordant case management for most DV survivors.
@@ -1045,7 +1045,7 @@ The FPA workforce includes:
 
 - **Senior management and leadership:** The FPA is headed by a Director-General reporting to the Minister of Social and Family Development. Leadership continuity has been a challenge – the FPA has experienced multiple leadership changes with political administrations, disrupting institutional learning and priority continuity.[^326]
 
-### 5.28.4 The Case Registry: What the FPA Data Shows
+### 5.17.4 The Case Registry: What the FPA Data Shows
 
 The FPA's published case statistics provide the most comprehensive time series on reported DV in the Maldives. The full case series, reconstructed from FPA Quarterly Statistics and the Statistics Compendium (§17.3.2), is:
 
@@ -1077,7 +1077,7 @@ Note: The COVID-19 year 2020 statistics may have been misread from available sou
 
 International evidence consistently indicates that increases in reported DV following introduction of specialised services and awareness campaigns reflect improved help-seeking, not actual increases in violence prevalence. The Fulu 2007 prevalence baseline (one in three women experiencing IPV) and the FPA case series are measuring different things: actual prevalence vs. official report rate.[^327]
 
-### 5.28.5 FPA Counselling Services
+### 5.17.5 FPA Counselling Services
 
 Beyond case management, the FPA provides counselling services to DV survivors. These services include:
 
@@ -1089,7 +1089,7 @@ Beyond case management, the FPA provides counselling services to DV survivors. T
 
 **Referral to external counselling:** In cases where the FPA's own counselling capacity is insufficient – particularly for survivors with severe PTSD, suicidal ideation, or complex mental health needs – the FPA refers to the National Mental Health Centre (IGHM) in Malé. For outer atoll survivors, this referral pathway is effectively inaccessible.[^328]
 
-### 5.28.6 The Shelter System: Capacity and Limitations
+### 5.17.6 The Shelter System: Capacity and Limitations
 
 As of 2024-25, the Maldives has three ADB-funded DV shelters operational or in development:
 - **Hithadhoo, Addu Atoll:** Serving the southernmost atoll region
@@ -1113,7 +1113,7 @@ The UNICEF Social Sector Assessment (2022) found that the existing DV/GBV centre
 
 **The FPA Transitional House (Malé):** In addition to the ADB shelters, the FPA operates a transitional facility in Malé for survivors in need of immediate safety. This facility provides shorter-term emergency accommodation while longer-term arrangements are made. Its capacity is similarly limited.[^329]
 
-### 5.28.7 FPA-WDC Coordination: The Theory and Reality
+### 5.17.7 FPA-WDC Coordination: The Theory and Reality
 
 The formal design of the outer atoll DV response envisions WDCs as the first point of contact for island women and as the channel through which cases are referred to the FPA. The FPA provides guidance and training to WDCs on DV recognition and referral. In theory, this creates a distributed first-response network that extends the FPA's reach to every inhabited island.
 
@@ -1131,7 +1131,7 @@ The gap between the designed function and actual function of WDCs as the outer i
 ## 5.18 The Police FCPW: Between Mandate and Reality
 
 
-### 5.29.1 The FCPW Structure and Mandate
+### 5.18.1 The FCPW Structure and Mandate
 
 The **Family and Child Protection Wing (FCPW)** is the specialised unit within the Maldives Police Service (MPS) mandated to handle domestic violence, child abuse, and sexual violence cases. The FCPW was established as a result of the DVPA (2012) requirement for a specialised police response to family violence, replacing earlier generalist police handling of DV cases.[^331]
 
@@ -1144,7 +1144,7 @@ The FCPW's mandate includes:
 - Investigating sexual violence allegations under the SOA
 - Conducting child abuse investigations in coordination with CFPS
 
-### 5.29.2 FCPW Staffing and Geographic Deployment
+### 5.18.2 FCPW Staffing and Geographic Deployment
 
 The FCPW is headquartered in **Malé** and has officers stationed at atoll police stations across the country. The staffing model and geographic deployment create significant capacity limitations:
 
@@ -1156,7 +1156,7 @@ The FCPW is headquartered in **Malé** and has officers stationed at atoll polic
 
 **Gender composition:** The FCPW has a significantly higher proportion of female officers than general police units – a deliberate policy response to evidence that DV and sexual violence survivors are more likely to disclose comfortably to female officers. However, female officers are still a minority even within the FCPW, and survivor access to a female officer cannot always be guaranteed, particularly in outer atoll postings.[^334]
 
-### 5.29.3 FCPW-FPA Interface: Coordination in Practice
+### 5.18.3 FCPW-FPA Interface: Coordination in Practice
 
 The interface between the FCPW and the FPA is critical to the coherence of the overall DV response. When a DV case is reported to either agency, the following is supposed to happen:
 
@@ -1172,7 +1172,7 @@ The interface between the FCPW and the FPA is critical to the coherence of the o
 - In outer atolls, the coordination challenge is compounded by the absence of both agencies from most locations – coordination happening via telephone between officers who may not know each other personally
 - The AIM Project's information management system development is specifically designed to address this coordination failure, but as of 2024-25 is not fully operational[^335]
 
-### 5.29.4 Police Response to Emergency DV Callouts
+### 5.18.4 Police Response to Emergency DV Callouts
 
 Emergency DV callouts – a survivor or bystander calling police during an acute violent incident – test the FCPW system most acutely. The documented record of emergency callout response in the Maldivian context includes:
 
@@ -1182,7 +1182,7 @@ Emergency DV callouts – a survivor or bystander calling police during an acute
 
 **The mediation default:** A concerning documented pattern in Maldivian police DV response is the use of **mediation** as the initial response to DV reports – attempting to resolve the situation through discussion between parties rather than treating the violence as a criminal matter. Mediation in DV cases is not neutral: it assumes equality between parties when a power asymmetry exists, may place the survivor at risk of further violence for having sought external intervention, and does not address the underlying dynamic. The DVPA does not mandate mediation and does not preclude criminal response; but the absence of mandatory arrest provisions and the cultural norm of privacy in family matters creates conditions in which mediation is the path of least resistance for officers who are not committed to treating DV as a criminal matter.[^337]
 
-### 5.29.5 Sexual Violence Investigation Protocols
+### 5.18.5 Sexual Violence Investigation Protocols
 
 Sexual violence investigations by the FCPW face specific challenges documented in the UNFPA (2023) Human Rights and Gender Review of GBV Laws and the AIM Project Baseline Assessment (2022):
 
@@ -1198,7 +1198,7 @@ Sexual violence investigations by the FCPW face specific challenges documented i
 ## 5.19 Gender and the Justice System: Judges, Lawyers, and Institutional Culture
 
 
-### 5.40.1 Judicial Training and GBV Competence
+### 5.19.1 Judicial Training and GBV Competence
 
 The formal justice system's response to GBV – from the Magistrate Court in outer islands through the Family Court and Criminal Court to the High Court – is shaped not only by the legal framework but by the knowledge, attitudes, and institutional culture of judges, magistrates, and lawyers. Judicial training on GBV is documented as inadequate across the system.
 
@@ -1212,7 +1212,7 @@ The formal justice system's response to GBV – from the Magistrate Court in out
 
 **The Small Bench problem:** The Family Court and Criminal Court operate with a relatively small number of judges. A single judge who holds gender-stereotyping attitudes will handle a disproportionate share of GBV cases – in a way that a larger court system would mitigate through random assignment. Specialised gender and GBV courts, or at minimum mandatory assignment protocols ensuring that GBV cases are assigned only to trained judges, would address this structural risk.
 
-### 5.40.2 The Prosecutor General's Office and GBV Prosecution
+### 5.19.2 The Prosecutor General's Office and GBV Prosecution
 
 The **Prosecutor General's (PG) Office** is the independent constitutional authority responsible for criminal prosecution decisions. Its decision-making on DV and sexual violence cases is the gateway between police investigation and court proceedings.
 
@@ -1222,7 +1222,7 @@ The **Prosecutor General's (PG) Office** is the independent constitutional autho
 
 **Survivor withdrawal:** The most frequently cited reason for case discontinuation at the prosecution stage is **survivor withdrawal** – the survivor recants her complaint or expresses unwillingness to proceed. This pattern is internationally documented in DV prosecution and reflects the economic dependency, fear, and family pressure that operate throughout the case journey. Some jurisdictions have responded with **evidence-based prosecution** approaches – developing cases based on all available evidence (medical records, 999 calls, police photographs, witness statements) that do not depend solely on survivor testimony, allowing prosecution to proceed even when the survivor withdraws. The Maldives' prosecution system does not consistently apply evidence-based approaches; survivor testimony remains the primary prosecution evidence in most cases.[^410]
 
-### 5.40.3 The Legal Aid Gap for Survivors
+### 5.19.3 The Legal Aid Gap for Survivors
 
 Survivors who reach the criminal justice system as victims – requiring legal representation for their interests in criminal proceedings – face a significant legal representation gap. The Maldives does not have a comprehensive victim legal aid system for GBV cases:
 
@@ -1237,7 +1237,7 @@ Survivors who reach the criminal justice system as victims – requiring legal r
 ## 5.20 The Family Legal Clinic: Access to Justice in Practice
 
 
-### 5.36.1 Mandate and Services
+### 5.20.1 Mandate and Services
 
 The **Family Legal Clinic (FLC)** is a legal aid organisation providing free legal advice and representation to women in family law matters who cannot afford private legal counsel. The FLC operates at the intersection of gender equality and access to justice – addressing the reality that the Family Court system, while nominally open to all, is in practice more accessible to those with legal representation and resources to sustain extended litigation.[^384]
 
@@ -1248,7 +1248,7 @@ FLC services include:
 - **Mahr claims:** Assistance with deferred mahr collection through the Family Court
 - **Legal literacy workshops:** Community education on family law rights, focused particularly on women in outer atolls (through outreach programmes)
 
-### 5.36.2 Caseload and Client Profile
+### 5.20.2 Caseload and Client Profile
 
 The FLC's client base reflects the intersection of family law complexity and economic vulnerability. Based on FLC operational data and the Legal Framework chapter analysis:
 
@@ -1262,7 +1262,7 @@ The FLC's client base reflects the intersection of family law complexity and eco
 
 **Funding:** The FLC's funding model is a documented vulnerability. Dependent on development partner grants (primarily international NGO support and government grants), the FLC has experienced funding gaps that threaten service continuity. A legal aid system for family law that depends on grant funding rather than sustained government appropriation is inherently fragile.[^386]
 
-### 5.36.3 The Representation Gap
+### 5.20.3 The Representation Gap
 
 The FLC's case volume – while significant – represents a small fraction of the total need for family law legal representation among women who cannot afford private lawyers. Private lawyers in Malé charge fees that effectively make sustained Family Court litigation inaccessible for women without independent income. The most direct consequence is the power asymmetry in court proceedings:
 
@@ -1277,7 +1277,7 @@ The representation gap is particularly acute in cases where the economic stakes 
 ## 5.21 The Legal Aid System and Access to Justice
 
 
-### 5.71.1 The Right to Legal Representation
+### 5.21.1 The Right to Legal Representation
 
 The right to legal representation in criminal and civil proceedings is a fundamental due process right under the 2008 Constitution. For DV survivors navigating both civil (DVPA protection order) and criminal (Penal Code prosecution) tracks simultaneously, the practical availability of legal representation is essential to whether the legal right is accessible.
 
@@ -1295,7 +1295,7 @@ The right to legal representation in criminal and civil proceedings is a fundame
 ## 5.22 The Employment Tribunal: GBV and Discrimination Cases
 
 
-### 5.52.1 Tribunal Structure and Jurisdiction
+### 5.22.1 Tribunal Structure and Jurisdiction
 
 The **Employment Tribunal** is the specialised administrative tribunal established under the Employment Act 2/2008 to adjudicate employment disputes including wage claims, wrongful termination, and – under the GEA – discrimination and harassment complaints. Its jurisdiction covers all employees in the formal sector; informal workers and domestic workers have limited access.
 
@@ -1305,13 +1305,13 @@ Relevant to gender equality, the Employment Tribunal can hear:
 - Pregnancy and maternity discrimination claims
 - Equal pay disputes (subject to the wage data gaps documented in §5.32)
 
-### 5.52.2 Case Experience: What the Data Shows
+### 5.22.2 Case Experience: What the Data Shows
 
 The Employment Tribunal's gender-related case volume is not systematically published in available public records. The GEA's passage in 2016 created the legal basis for new categories of claims; data on the number of gender discrimination and harassment complaints filed since 2016 would be essential for evaluating the GEA's practical impact on employment conditions. The CEDAW Committee's Seventh Periodic Report review will presumably address this data gap.
 
 Indirect evidence from the Youth Vulnerability Study 2019 – which documented widespread experiences of interview questions about marital status and plans for children, dress requirements, and sexual harassment – suggests that the volume of potential complaints substantially exceeds the number of formal complaints. The gap between experienced discrimination and formal complaint is consistent with the broader pattern across the GBV system: legal remedies exist but access to them is limited by awareness, fear of retaliation, and trust in institutional response.[^445]
 
-### 5.52.3 Employer Compliance with GEA Harassment Provisions
+### 5.22.3 Employer Compliance with GEA Harassment Provisions
 
 The GEA requires all employers to establish internal sexual harassment complaint procedures. There is no systematic monitoring of compliance with this requirement. Available assessment data suggests:
 - Large government agencies have developed internal procedures, typically managed by HR departments with limited dedicated training
@@ -1324,7 +1324,7 @@ The GEA requires all employers to establish internal sexual harassment complaint
 ## 5.23 The Island Council (Atoll/Island) as a Gender Policy Actor
 
 
-### 5.55.1 Decentralised Governance and Gender
+### 5.23.1 Decentralised Governance and Gender
 
 The **Decentralisation Act** (as amended) established the current system of atoll and island councils as the primary local governance institution. The local council is the key policy actor at the island level for gender equality – or against it, depending on the composition and culture of each council. Understanding how island councils affect women's lives – and how women councillors are changing that effect – requires attention to the councils' actual decision-making authority and resource base.
 
@@ -1337,7 +1337,7 @@ The **Decentralisation Act** (as amended) established the current system of atol
 
 **Council authority limits:** Island councils have limited revenue and depend primarily on central government fiscal transfers. Major investment decisions are made at the national level; island councils have influence over smaller local matters. This means that even a fully gender-responsive island council with strong women's representation cannot substitute for national-level investment decisions about health infrastructure, education facilities, or employment generation.
 
-### 5.55.2 How Women Councillors Are Changing Agenda
+### 5.23.2 How Women Councillors Are Changing Agenda
 
 Despite the constraints, documented cases exist of women councillors successfully changing the agenda in ways that affect women's lives:
 
@@ -1352,7 +1352,7 @@ Despite the constraints, documented cases exist of women councillors successfull
 ## 5.24 The Human Rights Commission of Maldives and Gender Policy
 
 
-### 5.96.1 HRCM as a Gender Policy Actor
+### 5.24.1 HRCM as a Gender Policy Actor
 
 The **Human Rights Commission of Maldives (HRCM)** – established as an independent constitutional body with a mandate to protect and promote human rights – has been one of the most consistent institutional voices for gender equality in the Maldivian policy environment. Unlike the FPA (which is a service delivery agency) or the MoSFD (which is a government ministry with political accountability), the HRCM's independent status allows it to critique government performance on gender equality without political consequence.
 
@@ -1362,7 +1362,7 @@ The **Human Rights Commission of Maldives (HRCM)** – established as an indepen
 - **Disability and gender** – the HRCM's work on rights of persons with disabilities intersects with gender in documenting the double discrimination faced by women with disabilities.
 - **Complaint investigation** – the HRCM investigates individual complaints of human rights violations including gender discrimination under the GEA, which creates a case-by-case accountability mechanism complementing the formal court system.
 
-### 5.96.2 HRCM Independence and Effectiveness
+### 5.24.2 HRCM Independence and Effectiveness
 
 The HRCM's effectiveness as a gender policy actor depends on its institutional independence – its ability to make findings and recommendations without political interference. This independence has been tested at various points in Maldivian political history:
 
@@ -1376,7 +1376,7 @@ The HRCM's effectiveness as a gender policy actor depends on its institutional i
 ## 5.25 The Children's Ombudsman and Gender
 
 
-### 5.92.1 Overlap Between Child Protection and Gender Policy
+### 5.25.1 Overlap Between Child Protection and Gender Policy
 
 The **Children's Ombudsman** – the independent authority for child rights advocacy established under the Child Rights Protection Act – has a mandate that significantly overlaps with gender policy:
 
@@ -1387,7 +1387,7 @@ The **Children's Ombudsman** – the independent authority for child rights advo
 
 The coordination between the Children's Ombudsman's office, the FPA, and the CFPS (Child and Family Protection Services) is a documented gap in the GBV response system – the same family may be subject to multiple concurrent case management processes without inter-agency coordination.[^524]
 
-### 5.92.2 The CFPS-FPA Interface
+### 5.25.2 The CFPS-FPA Interface
 
 The **Child and Family Protection Service (CFPS)** – the MoSFD agency responsible for child protection case management – operates in the same institutional space as the FPA (both under MoSFD) but with different mandates and client populations. In families where both DV and child abuse/neglect occur – which international research documents as heavily overlapping – both CFPS and FPA may be simultaneously involved.
 
@@ -1399,7 +1399,7 @@ The formal coordination protocol between CFPS and FPA requires each to notify th
 ## 5.26 The Coordination Failure: Gender Policy in a Fragmented Architecture
 
 
-### 5.107.1 The Structural Problem
+### 5.26.1 The Structural Problem
 
 The Action Plans Analysis chapter documented a fundamental structural problem in how the Maldives' action plans relate to gender: **the plans are designed as parallel vertical instruments for distinct population groups, but the populations they serve experience intersecting, compounding vulnerabilities that cannot be addressed through vertical delivery.**
 
@@ -1414,7 +1414,7 @@ The case of a woman with a disability experiencing domestic violence on an outer
 
 Each of these needs is addressed (partially) by a different plan, implemented by different agencies, coordinated (poorly) by different mechanisms, and funded (inadequately) from different budget lines. She encounters all of these systems through a single entry point: the local FCSC, staffed by a small number of workers responsible for child protection, domestic violence response, disability services, and social protection referrals across an entire atoll.[^552]
 
-### 5.107.2 Plan-by-Plan Coordination Failures Affecting Gender
+### 5.26.2 Plan-by-Plan Coordination Failures Affecting Gender
 
 **GEAP and DVPNS:** These two instruments address adjacent problems – gender equality and domestic violence – but are implemented by different bodies (MoSFD GEAP Steering Committee vs. FPA-led DVPNS coordination) without explicit coordination mechanisms between them.
 
@@ -1424,7 +1424,7 @@ Each of these needs is addressed (partially) by a different plan, implemented by
 
 **GEAP and Ageing Policy:** Women constitute 69% of caretakers for bedridden elderly patients. The Ageing Policy acknowledges that "the caregiver burden is often solely on women" but provides awareness strategies rather than structural solutions. The GEAP does not include elderly caregivers as a target group for economic empowerment despite the scale of their unpaid contribution.
 
-### 5.107.3 The Absence of a Supra-Plan Coordination Mechanism
+### 5.26.3 The Absence of a Supra-Plan Coordination Mechanism
 
 There is **no cross-plan coordination mechanism** for gender policy. No inter-ministerial body is tasked with ensuring that the GEAP, DVPNS, NAPDI, Ageing Policy, and other plans are implemented in a coordinated manner, resolve conflicts, or address the gaps that fall between plans.
 
@@ -1444,7 +1444,7 @@ Individual plan coordination mechanisms are also weak:
 ## 5.27 GBV Prevalence: What the Evidence Shows
 
 
-### 5.4.1 National Prevalence – The Foundational Studies
+### 5.27.1 National Prevalence – The Foundational Studies
 
 **The Women's Health and Life Experiences Study (Fulu, 2007)** remains the foundational prevalence study for gender-based violence in the Maldives. Conducted with WHO multi-country study methodology by the Ministry of Gender and Family with Emma Fulu as lead researcher, the study established:
 
@@ -1461,7 +1461,7 @@ These figures – the first nationally representative data on gender-based viole
 
 No comprehensive national GBV prevalence study has been conducted since DHS 2016–17. The absence of updated national prevalence data beyond 2017 is a significant evidence gap, identified as a priority in the Statistics Compendium.
 
-### 5.4.2 Administrative Data: FPA and MoSFD Case Statistics
+### 5.27.2 Administrative Data: FPA and MoSFD Case Statistics
 
 Administrative data on GBV – derived from FPA case registrations, MoSFD case management records, and police reports – provides a partial but important picture of reported violence. Key caveats: administrative data captures only reported cases, and the evidence consistently shows that the vast majority of GBV in the Maldives goes unreported.
 
@@ -1492,7 +1492,7 @@ The dramatic increase from 19 to 642 between 2013 and 2016 reflects primarily gr
 
 The high female share of GBV victims – 87–89% – is consistent across data sources and confirms the gendered character of GBV in the Maldivian context.
 
-### 5.4.3 The Justice Pathway Attrition Problem
+### 5.27.3 The Justice Pathway Attrition Problem
 
 The gap between the number of DV/GBV cases reported and the number that result in prosecution and conviction is one of the defining features of the Maldivian GBV response failure. The AIM Project Baseline Assessment (UNDP/MoSFD, 2022) mapped this attrition at each stage of the justice pathway:
 
@@ -1508,7 +1508,7 @@ The gap between the number of DV/GBV cases reported and the number that result i
 
 The cumulative result is near-zero accountability: from the estimated population of women who have experienced GBV, to final conviction of a perpetrator, the probability approximates zero under current system conditions. The AIM Project's entire programme logic is oriented toward improving this pathway.
 
-### 5.4.4 Childhood Sexual Abuse
+### 5.27.4 Childhood Sexual Abuse
 
 The **Women's Health and Life Experiences Study (Fulu, 2007)** documented childhood sexual abuse prevalence at:
 - **12.2% of women overall** had experienced childhood sexual abuse
@@ -1517,7 +1517,7 @@ The **Women's Health and Life Experiences Study (Fulu, 2007)** documented childh
 
 These figures represent a significant child protection dimension to gender-based violence: girls are at substantial risk of sexual abuse in childhood, abuse that is documented to have lasting impacts on mental health, educational outcomes, and adult relationship patterns.
 
-### 5.4.5 COVID-19 and the GBV "Shadow Pandemic"
+### 5.27.5 COVID-19 and the GBV "Shadow Pandemic"
 
 The COVID-19 pandemic produced a "shadow pandemic" of domestic violence globally, and the Maldivian evidence is consistent with this pattern. Key data points:
 
@@ -1530,10 +1530,10 @@ The lockdown conditions in Male' – where population density already exceeds 65
 ---
 
 
-## 5.28 The Maldives Study on Women's Health and Life Experiences (Fulu 2007): A Detailed Reading
+## 5.28 The Maldives Study on Women's Health and Life Experiences (Fulu 2007)
 
 
-### 5.46.1 Study Design and Methodology
+### 5.28.1 Study Design and Methodology
 
 The **Maldives Study on Women's Health and Life Experiences (WH&LE)** – commonly referred to as the Fulu study after lead researcher Emma Fulu – remains the foundational empirical reference for gender-based violence prevalence in the Maldives. Its methodology, findings, and limitations are essential for interpreting all subsequent GBV data.
 
@@ -1551,7 +1551,7 @@ The **Maldives Study on Women's Health and Life Experiences (WH&LE)** – common
 - Providing referral information for support services at the end of the interview
 - Ensuring no record of study participation in the home
 
-### 5.46.2 Core Findings Revisited
+### 5.28.2 Core Findings Revisited
 
 The Fulu study's core findings, contextualised within the broader evidence framework:
 
@@ -1567,7 +1567,7 @@ The Fulu study's core findings, contextualised within the broader evidence frame
 
 **Help-seeking:** A key finding was that most women who had experienced IPV had not sought help from formal sources (police, health services, NGOs). The primary reasons given: shame, fear of not being believed, the belief that the violence was normal or acceptable, and concern about the consequences for the family and children. This help-seeking data directly informed the design of the DVPA framework – establishing services that could reach women who were not self-presenting to authorities.
 
-### 5.46.3 What the Fulu Study Doesn't Tell Us (18 Years Later)
+### 5.28.3 What the Fulu Study Doesn't Tell Us (18 Years Later)
 
 The Fulu study was conducted in 2006-07. Eighteen years of social, legal, and economic change have substantially altered the context in which Maldivian women experience violence:
 
@@ -1587,7 +1587,7 @@ Whether these changes have affected actual IPV prevalence is unknown. A new nati
 ## 5.29 Domestic Violence: The Complete Justice Pathway Analysis
 
 
-### 5.5.1 From Disclosure to Protection Order
+### 5.29.1 The Disclosure-to-Protection-Order Pathway
 
 When a DV survivor in the Maldives discloses violence to the FPA or to any mandatory reporter (health worker, teacher, social worker), the formal pathway is designed as follows:
 
@@ -1609,7 +1609,7 @@ When a DV survivor in the Maldives discloses violence to the FPA or to any manda
 
 The gap between the formal design and operational reality is vast at almost every step. Police FCPW attitudes documented as discouraging formal complaints (Step 1 failure); risk assessments not conducted in most outer atoll cases (Step 2 failure); protection order applications not facilitated due to FPA geographic concentration in Male' (Step 3 failure); criminal referrals not made in most DV cases (Step 5 failure); and police submitting only 3% of referred cases for prosecution (Step 6 failure).
 
-### 5.5.2 The Outer Atoll Gap
+### 5.29.2 The Outer Atoll Gap
 
 For a DV survivor on a small island in an outer atoll, the formal pathway above is largely inaccessible. The FPA's three caseworkers are in Male'. The Family Court – which issues protection orders – is in Male', with only magistrate courts and limited capacity in atolls. The specialist police FCPW is Male'-based. Legal aid is Male'-based.
 
@@ -1621,7 +1621,7 @@ In practice, DV response in outer atolls depends on whatever local capacity exis
 
 The CEDAW Seventh Periodic Report identifies atoll DV response as one of the most urgent capacity gaps requiring investment, specifically calling for deployment of DV caseworkers to atoll hospitals and regional centres.
 
-### 5.5.3 Economic Dependence as a Structural Barrier
+### 5.29.3 Economic Dependence as a Structural Barrier
 
 The economic dimensions of DV are as significant as the legal dimensions. A woman deciding whether to leave an abusive relationship faces economic consequences that may include:
 - Loss of housing (particularly if the family home is owned or rented by the husband)
@@ -1633,7 +1633,7 @@ These economic barriers are compounded by the specific economic structure of the
 
 The Single Parent Allowance (social protection cash transfer) provides some buffer, but at levels insufficient to cover rent in Male'. The FPA's safe house provides temporary refuge, but capacity is severely limited and time-limited stays do not address the medium-term housing need.
 
-### 5.5.4 Social and Religious Barriers
+### 5.29.4 Social and Religious Barriers
 
 Social norms in both Male' and outer atoll communities create barriers to reporting and to leaving abusive relationships that operate independently of legal frameworks:
 
@@ -1651,13 +1651,13 @@ Social norms in both Male' and outer atoll communities create barriers to report
 ## 5.30 The DVPA in Practice: A Step-by-Step Case Analysis
 
 
-### 5.21.1 Overview
+### 5.30.1 Overview
 
 The **Domestic Violence Prevention Act (Act 3/2012)** – commonly referred to as the DVPA – is the foundational legal instrument for addressing domestic violence in the Maldives. Its passage in 2012 was a significant step: for the first time, the state formally acknowledged that intimate partner violence and domestic abuse were legal matters requiring a public response, not merely private family disputes to be resolved within the household. Understanding the DVPA's practical operation – how it functions step-by-step from the first moment of disclosure to any ultimate legal outcome – is essential to assessing the extent to which it fulfils its protective function for survivors in the real conditions of Maldivian society.
 
 The DVPA is a **civil law instrument**. This is a central jurisdictional fact about it. Acts of domestic violence that constitute criminal offences (assault, sexual assault) remain prosecutable under the Penal Code as criminal matters – with criminal courts, criminal evidentiary standards, and potential imprisonment as the outcome. The DVPA creates a parallel civil track: the primary remedy it provides is the **protection order**, a civil injunction that constrains the perpetrator's behaviour without involving criminal proceedings or requiring criminal proof standards. The civil-criminal distinction shapes everything about how the DVPA is used and what it can achieve.[^250]
 
-### 5.21.2 Who Is Covered: The DVPA's Definitional Scope
+### 5.30.2 Who Is Covered: The DVPA's Definitional Scope
 
 The DVPA's coverage is defined by the relationship between perpetrator and victim. The Act covers violence perpetrated by:
 - Spouses (current and former)
@@ -1678,7 +1678,7 @@ This broad definition – extending beyond the marital relationship to former pa
 
 The inclusion of psychological and economic abuse is significant, as these are harder to evidence than physical violence and represent dimensions of coercive control that can be severely harmful without ever involving a physical assault. In practice, the challenge is that psychological and economic abuse are also the dimensions most difficult to document and most likely to face judicial scepticism – meaning the broader definitional coverage has not fully translated into effective legal protection for survivors of non-physical forms of abuse.[^253]
 
-### 5.21.3 Stage 1: Initial Disclosure
+### 5.30.3 Stage 1: Initial Disclosure
 
 The DVPA process begins with a survivor's decision to disclose violence and seek help. This decision – seemingly straightforward as a matter of legal process – is actually the most demanding step for most survivors, involving a complex calculation of social, economic, and safety factors.
 
@@ -1720,7 +1720,7 @@ The intake is conducted confidentially. FPA caseworkers are trained in trauma-in
 
 8. **Fear of prolonged cohabitation during legal process:** Women who do report face the prospect of continuing to live with the perpetrator for the duration of what may be a multi-year legal process, given the limited shelter capacity and the absence of alternative housing arrangements documented in §5.28.6 above.[^259a]
 
-### 5.21.4 Stage 2: FPA Casework and Safety Planning
+### 5.30.4 Stage 2: FPA Casework and Safety Planning
 
 Following intake, the FPA caseworker develops a **safety plan** with the survivor. Safety planning is a standard DV case management tool: a structured conversation about what the survivor can do to keep herself safe in the immediate future, before any legal protection is in place.
 
@@ -1736,7 +1736,7 @@ The safety planning conversation is also where the caseworker assesses whether t
 
 **Case management documentation:** The FPA case file created at intake is the primary record of the case going forward. This file documents the disclosure, the safety plan, referrals made, and any subsequent interactions. In theory, this file is accessible to other system actors (police, court) on a need-to-know basis. In practice, the AIM Project found that no integrated electronic case management system exists: each agency maintains its own records, and information sharing requires manual coordination between agencies, creating gaps and duplications in the case record.[^261]
 
-### 5.21.5 Stage 3: Protection Order Application
+### 5.30.5 Stage 3: Protection Order Application
 
 The protection order is the DVPA's primary legal remedy. It is a civil court order that can:
 - Prohibit the perpetrator from contacting the survivor
@@ -1768,7 +1768,7 @@ Protection orders are issued by the **Family Court** in Malé, or by the relevan
 - In documented cases, the magistrate has been personally acquainted with the perpetrator or the perpetrator's family – raising concerns about impartiality in small island communities
 - Post-order enforcement – ensuring the perpetrator complies – depends on the same small police force that may already have complicated relationships with the parties[^265]
 
-### 5.21.6 Stage 4: Criminal Parallel Track
+### 5.30.6 Stage 4: Criminal Parallel Track
 
 Separately from the DVPA protection order process, acts of domestic violence that constitute criminal offences are prosecutable under the Penal Code. The criminal pathway involves:
 - Police investigation of the criminal complaint
@@ -1786,7 +1786,7 @@ The primary drivers of prosecution attrition identified in the AIM Project Basel
 3. **Prosecution discretion:** The PG's Office applies a probability-of-conviction standard that results in many domestic violence cases not meeting the threshold for prosecution
 4. **Witness reluctance:** Witness testimony from family members, neighbours, or friends who observed violence is often withheld in the Maldivian social context
 
-### 5.21.7 Stage 5: Post-Order Experience and Long-Term Outcomes
+### 5.30.7 Stage 5: Post-Order Experience and Long-Term Outcomes
 
 A protection order – if issued – does not end the case. The survivor must navigate the post-order period with an order that has real legal force but depends on police enforcement to be effective:
 
@@ -1807,7 +1807,7 @@ A protection order – if issued – does not end the case. The survivor must na
 ## 5.31 Sexual Violence: Legal Framework, Prosecution, and Systemic Failures
 
 
-### 5.6.1 Marital Rape: History, Criminalisation, and Enforcement
+### 5.31.1 Marital Rape: History, Criminalisation, and Enforcement
 
 The history of marital rape law in the Maldives passes through three phases:
 
@@ -1823,7 +1823,7 @@ The history of marital rape law in the Maldives passes through three phases:
 - The absence of specialised Sexual Assault Referral Centre (SARC) services – with forensic nurse capacity, immediate evidence collection, and psychological support – means that the evidentiary pathway for prosecution is weak from the point of initial report
 - Judicial unfamiliarity with the amended provision and absence of judicial training on sexual violence case management
 
-### 5.6.2 Rape Outside Marriage: The Evidential Barrier
+### 5.31.2 Rape Outside Marriage: The Evidential Barrier
 
 For rape outside marriage, the evidentiary framework of the SOA creates a high prosecution threshold. Section 52 specifies five categories of admissible evidence:
 1. Testimony of the victim
@@ -1836,13 +1836,13 @@ The combination of these requirements – particularly when the offence has occu
 
 The **past sexual history of the complainant** is admissible under the current SOA framework – a provision inconsistent with international best practice in sexual violence prosecution (where "rape shield" laws typically exclude such evidence) and one that interacts badly with Maldivian social norms around female sexuality, where a survivor's sexual history is frequently used to cast doubt on the account of rape.
 
-### 5.6.3 The Zina-Pregnancy Intersection and Its Effects on Rape Reporting
+### 5.31.3 The Zina-Pregnancy Intersection and Its Effects on Rape Reporting
 
 The most serious structural problem at the intersection of Islamic criminal law and sexual violence in the Maldives is the criminalisation of extramarital sexual intercourse (*zina*) and its interaction with pregnancy. Penal Code Section 411(d) provides 100 lashes for zina. Women constitute 85% of flogging sentence recipients – a gender disparity that reflects the inherently gendered evidentiary structure: pregnancy outside wedlock is itself direct evidence of zina for the woman, while men can only be convicted on witness testimony or confession.
 
 For a woman who is raped and becomes pregnant, this creates an outcome so perverse that it borders on institutional re-victimisation: she may be prosecuted for zina on the basis of the pregnancy resulting from her rape. This outcome – documented by the HRCM in its 2022 report on corporal punishment – creates a powerful rational incentive for rape survivors not to report the crime, not to seek medical attention, and to conceal pregnancies. The CEDAW Committee in its 2021 Concluding Observations identified this as a priority concern (paragraph 51) requiring urgent legislative action.
 
-### 5.6.4 Sexual Harassment in the Workplace
+### 5.31.4 Sexual Harassment in the Workplace
 
 The **Prevention of Sexual Harassment Act 2014** requires employers to establish written anti-harassment policies and internal complaint mechanisms. The UNDP/NCTC Youth Vulnerability Study (2019) found that "women across the country complained about being asked about their marital status, their children, and their clothing in interviews, saying this was routine." Young women entering the workforce reported systematic workplace harassment that was treated as normal institutional behaviour.
 
@@ -1850,7 +1850,7 @@ The HRCM's monitoring of institutional compliance found that 43 institutions had
 
 Resort sector harassment is believed to be significantly underreported. Women workers in resorts – comprising only 3% of Maldivian female resort workers – face particular vulnerabilities related to geographic isolation (resorts on uninhabited islands away from family networks), 24-hour work environments, limited access to complaint mechanisms, and social stigma attached to women in hospitality settings. Cases of sexual harassment and assault in the resort sector face all the general evidence barriers plus the additional barrier of the resort operator's interest in minimising incidents that could damage reputation.
 
-### 5.6.5 Online Sexual Exploitation and Digital Violence
+### 5.31.5 Online Sexual Exploitation and Digital Violence
 
 The rapid penetration of smartphones and social media in the Maldives has created new vectors for sexual exploitation and gender-based violence:
 
@@ -1868,7 +1868,7 @@ The rapid penetration of smartphones and social media in the Maldives has create
 ## 5.32 GBV in Specific Relationship Contexts
 
 
-### 5.41.1 Violence Against Women in Dating Relationships
+### 5.32.1 Violence Against Women in Dating Relationships
 
 The DVPA's extended coverage to dating relationships – intimate partners who are not married or cohabiting – is an important legal development that reflects the reality of GBV in the Maldivian social context. With urbanisation, social media, and changing courtship patterns, dating violence has become an identifiable category of GBV that the FPA's case records include.
 
@@ -1878,13 +1878,13 @@ Dating violence characteristics in the Maldivian context include:
 - **Difficulty using the DVPA:** Young women in dating relationships may be less aware that the DVPA covers their situation, or may not self-identify as domestic violence survivors when the relationship is not a marriage
 - **Social complexity:** In a small, well-networked society, breaking up with a violent partner while still encountering them in social, educational, or professional contexts creates sustained risk[^412]
 
-### 5.41.2 Violence in Same-Sex Relationships
+### 5.32.2 Violence in Same-Sex Relationships
 
 Same-sex relationships are criminalised in the Maldives under the Penal Code's zina and sodomy provisions, reflecting Islamic law's prohibition of homosexual conduct. This criminalisation has direct and severe consequences for LGBTQ+ individuals who experience domestic violence: reporting DV to police or the FPA risks exposure as a same-sex relationship partner, triggering potential criminal prosecution and severe social consequences including family rejection and community ostracism.[^413]
 
 The complete invisibility of same-sex DV in the formal GBV data system reflects the impossibility of disclosure in this legal environment. LGBTQ+ individuals – documented as present in Maldivian society by civil society research and by HRCM engagement with the issue – who experience intimate partner violence have no safe reporting pathway and are effectively excluded from the GBV response system. The FPA does not have a protocol for same-sex DV, and the DVPA's gender-neutral language could theoretically cover same-sex relationships, but the social and legal context makes this pathway inaccessible in practice.[^414]
 
-### 5.41.3 Post-Separation Violence
+### 5.32.3 Post-Separation Violence
 
 The period immediately following separation or divorce is internationally documented as the highest-risk period for serious and lethal DV – perpetrators who lose control over a partner through separation may escalate violence as an attempt to reassert control. In the Maldivian context, this post-separation risk is amplified by:
 
@@ -1896,7 +1896,7 @@ The period immediately following separation or divorce is internationally docume
 
 The DVPA protection order is the primary legal tool for managing post-separation risk. Its effectiveness in this context is limited by the enforcement challenges documented throughout this chapter. A woman with a protection order in a small island community where the perpetrator knows her daily movements, the police have limited enforcement capacity, and the community is pressuring reconciliation is in a very different practical risk situation than the legal document suggests.
 
-### 5.41.4 Violence Associated with the Immigration of Male Workers
+### 5.32.4 Violence Associated with the Immigration of Male Workers
 
 A specific and documentable pattern of DV in the Maldivian context involves male migrant workers – predominantly from Bangladesh and Nepal – who are employed in construction and other sectors in Malé and occasionally in married relationships with Maldivian women or with female migrant workers. The characteristics of DV in this context include:
 
@@ -1911,7 +1911,7 @@ A specific and documentable pattern of DV in the Maldivian context involves male
 ## 5.33 The GBV Response System: An Integrated Flowchart Analysis
 
 
-### 5.48.1 From Incident to Outcome: The Full Case Journey
+### 5.33.1 GBV Case Journey: Incident to Outcome
 
 The following analysis traces the journey of a hypothetical domestic violence case through the Maldivian GBV response system from incident to final outcome – illustrating the attrition points and the decision nodes that determine whether any particular case reaches a meaningful legal outcome.
 
@@ -1933,7 +1933,7 @@ The following analysis traces the journey of a hypothetical domestic violence ca
 
 This flowchart analysis – while using estimated figures at some stages – illustrates the structural problem: the GBV response system, as currently designed and resourced, converts approximately one in ten thousand actual incidents of DV into a criminal accountability outcome. Achieving meaningful accountability would require either dramatically reducing attrition at each stage (through better investigation, evidence-based prosecution, survivor support) or dramatically increasing the entry rate (through better disclosure systems and reduced barriers) – or both.[^436]
 
-### 5.48.2 Entry Points That Could Expand Access
+### 5.33.2 Entry Points That Could Expand Access
 
 The flowchart reveals specific entry points where targeted intervention could most effectively reduce attrition:
 
@@ -1953,7 +1953,7 @@ The flowchart reveals specific entry points where targeted intervention could mo
 ## 5.34 The Shelter System: Operational Analysis and Expansion Needs
 
 
-### 5.99.1 Three Shelters for 187 Islands
+### 5.34.1 Three Shelters for 187 Islands
 
 The operational architecture of the Maldivian DV shelter system – three ADB-funded shelters plus the FPA's transitional facility in Malé – can be precisely characterized by the geographic coverage it provides and does not provide:
 
@@ -1981,7 +1981,7 @@ The gap is most acute in the central atolls – which include significant island
 
 **Expansion plan:** The CEDAW Seventh Periodic Report (2025) and AIM Project documentation acknowledge the shelter gap and indicate plans for expansion. Whether specific new shelter locations have been funded and committed is not documented in available public sources as of early 2025.[^533]
 
-### 5.99.2 Shelter Operations and Standards
+### 5.34.2 Shelter Operations and Standards
 
 DV shelter operations require more than physical infrastructure. International shelter standards (developed by UN Women and the NGO Women's Shelter Network) specify operational requirements including:
 
@@ -1999,7 +1999,7 @@ The ADB GESI Project's shelter component includes operational standards developm
 ## 5.35 The GBV Data System: Sources, Gaps, and Interpretive Challenges
 
 
-### 5.32.1 Data Sources and Gaps
+### 5.35.1 Data Sources and Gaps
 
 Understanding the GBV and gender inequality situation in the Maldives requires navigating a range of data sources with different methodologies, coverage, and purposes. No single data source is comprehensive; policy conclusions must be drawn from triangulated evidence across multiple sources, each with its own strengths and limitations.
 
@@ -2017,7 +2017,7 @@ Understanding the GBV and gender inequality situation in the Maldives requires n
 | AIM Project Baseline (2022) | System assessment | 2022 | Operational detail; justice pathway | Not nationally representative |
 | UNFPA/ADB assessments | Programme-linked assessments | Various | Thematic depth | Programme-linked; may have scope limitations |
 
-### 5.32.2 The DV Prevalence Data Gap
+### 5.35.2 The DV Prevalence Data Gap
 
 The most significant data gap in Maldivian gender policy is the **absence of current national GBV prevalence data**. The Fulu 2007 study remains the only national population-based study of DV and intimate partner violence prevalence – it is now 18 years old. The social, economic, and legal environment in which Maldivian women experience GBV has changed substantially since 2007: the DVPA was enacted, the FPA established, the local council quota implemented, the GEA enacted, the marital rape criminalised. Whether these changes have affected actual DV prevalence (as distinct from reported rates) is unknown without a new prevalence study.
 
@@ -2025,7 +2025,7 @@ The most significant data gap in Maldivian gender policy is the **absence of cur
 
 **The CEDAW Committee's call:** The November 2021 Concluding Observations specifically called for a new national DV prevalence study to update the 2007 baseline. The Seventh Periodic Report (2025) does not indicate that such a study has been commissioned. This gap is critical for evidence-based policy: without current prevalence data, it is impossible to assess whether any intervention has changed the actual experience of violence for Maldivian women.
 
-### 5.32.3 The Labour Market Data Gap
+### 5.35.3 The Labour Market Data Gap
 
 **Gender-disaggregated wage data** is not collected or published systematically by the National Bureau of Statistics. The most recent comprehensive household income and expenditure data (HIES 2016) is eight years old. The gender pay gap figure of 13-20% is drawn from ADB assessments rather than official national statistics, and its precise methodology is not specified in available sources.[^364]
 
@@ -2035,13 +2035,13 @@ The absence of systematic wage data means:
 - CEDAW reporting on Article 11 (employment equality) cannot include systematic wage data
 - Trends in the gender pay gap – whether narrowing or widening – cannot be tracked
 
-### 5.32.4 The Property and Asset Ownership Gap
+### 5.35.4 The Property and Asset Ownership Gap
 
 Women's property and land ownership is **not tracked** by any national data system. The National Bureau of Statistics does not publish data on gender-disaggregated property ownership, inheritance receipts, or household asset ownership. Land registration data, if gender-disaggregated, would provide this information; but the Land Registry has not published gender-disaggregated data.
 
 This gap means that the cumulative impact of the inheritance half-share rule, the post-divorce housing insecurity pattern, and women's lower income and credit access on women's lifetime asset accumulation is unknown quantitatively. The gender wealth gap – which international evidence suggests may be larger than the income gap – is essentially invisible in Maldivian statistics.[^365]
 
-### 5.32.5 Trafficking Data
+### 5.35.5 Trafficking Data
 
 Anti-trafficking data is particularly sparse. The primary sources are:
 - US State Department TIP Reports (annual) – providing a qualitative assessment and tier rating
@@ -2050,7 +2050,7 @@ Anti-trafficking data is particularly sparse. The primary sources are:
 
 **What is known:** TIP Tier 2 Watch List status (consecutive years); dedicated hotline inoperable; zero government employees prosecuted; extremely low victim identification rate. **What is unknown:** The actual scale of trafficking (number of victims), the profile of victims by nationality, gender, and exploitation type, and the precise mechanisms through which trafficking occurs and remains undetected. The absence of an operational NRM means that data collection on trafficking is itself severely limited.[^366]
 
-### 5.32.6 The Atoll Disaggregation Gap
+### 5.35.6 The Atoll Disaggregation Gap
 
 National statistics mask enormous geographic variation in gender outcomes. The HIES and DHS provide some atoll-level disaggregation for large sample variables, but most gender-relevant statistics are not published at atoll level. This means:
 - LFPR by atoll (which would show the outer atoll female LFPR to be far below the national 44%) is not published
@@ -2065,7 +2065,7 @@ The Laamu Atoll Vulnerability Mapping represents a methodological model that cou
 ## 5.36 Gender-Based Violence Prevention: Primary Prevention Strategies
 
 
-### 5.67.1 Prevention Programmes
+### 5.36.1 Prevention Programmes
 
 The Maldivian GBV response system is overwhelmingly oriented toward response – managing disclosed cases, providing legal protection, and pursuing prosecution. Prevention programming – addressing the conditions, norms, and social factors that produce GBV before it occurs – is a much smaller component of the overall investment.
 
@@ -2076,7 +2076,7 @@ Prevention is categorised in the international public health framework as:
 
 The Maldivian system has the most developed tertiary response (FPA case management, shelter, court), a developing secondary response (healthcare provider guidelines, FCPW investigation capacity), and a limited primary prevention programme. Yet prevention is where the most cost-effective gains are achievable – addressing the causes of violence rather than managing its consequences.[^481]
 
-### 5.67.2 What Primary Prevention Looks Like in the Maldivian Context
+### 5.36.2 What Primary Prevention Looks Like in the Maldivian Context
 
 Effective primary prevention in the Maldivian context would include:
 
@@ -2088,7 +2088,7 @@ Effective primary prevention in the Maldivian context would include:
 
 **Perpetrator-focused prevention:** Engaging men who are at elevated risk of perpetrating violence – through childhood trauma histories, substance abuse, and harmful masculinity norms – before violence occurs requires both community-level work (challenging norms) and individual-level intervention (mental health, substance abuse treatment, perpetrator-specific counselling). The Maldivian system has very limited dedicated perpetrator-focused prevention programming.[^482]
 
-### 5.67.3 The RMNCAH Strategy as Prevention
+### 5.36.3 The RMNCAH Strategy as Prevention
 
 The RMNCAH Strategy 2020-2025 includes prevention dimensions that, while not explicitly framed as GBV prevention, address important upstream determinants:
 
@@ -2104,7 +2104,7 @@ The integration of GBV prevention into RMNCAH programming – known as the "SASA
 ## 5.37 The Progress Tracker: What Has Changed Since the DVPA
 
 
-### 5.94.1 Before the DVPA (Pre-2012) vs. After
+### 5.37.1 Before the DVPA (Pre-2012) vs. After
 
 A before-after comparison of the gender policy framework – using 2012 (DVPA enactment) as the reference point – documents genuine but partial progress:
 
@@ -2126,7 +2126,7 @@ A before-after comparison of the gender policy framework – using 2012 (DVPA en
 - The CEDAW Article 16 reservation is unchanged since 1993
 - FGM/C is not legally prohibited, and the legal status remains under review with no announced timeline[^528]
 
-### 5.94.2 Measuring Progress on the Right Indicators
+### 5.37.2 Measuring Progress on the Right Indicators
 
 The progress assessment depends heavily on what indicators are used:
 
@@ -2149,7 +2149,7 @@ This indicator disaggregation is important for policy: the areas of clearest pro
 ## 5.38 Female Genital Mutilation/Cutting (FGM/C): Prevalence, Practice, and Policy Response
 
 
-### 5.7.1 Prevalence and Intergenerational Decline
+### 5.38.1 Prevalence and Intergenerational Decline
 
 Female genital mutilation/cutting (FGM/C) in the Maldives is confirmed by national survey data and represents a specific intersection of cultural-religious practice and gender-based harm. The **Maldives Demographic and Health Survey 2016–17** provided the most comprehensive available prevalence data:
 
@@ -2168,19 +2168,19 @@ Female genital mutilation/cutting (FGM/C) in the Maldives is confirmed by nation
 
 This intergenerational decline – from 38% in the oldest cohort to 1% in the youngest – demonstrates that FGM/C is being abandoned at the community level without formal legal prohibition. The norm change is real and substantial. However, 1% prevalence in the 15–19 cohort means that some girls are still being subjected to the practice, and without criminalisation, there is no formal deterrent and no systematic monitoring.
 
-### 5.7.2 The Nature of Practice in the Maldives
+### 5.38.2 The Nature of Practice in the Maldives
 
 FGM/C in the Maldives typically takes the form of a minor nick or incision classified as Type IV in the WHO taxonomy – a form less physically extensive than the more severe forms documented in parts of sub-Saharan Africa. This has been cited by some community and religious voices as a reason not to prioritise criminalisation, on grounds that the Maldivian practice is "different" from FGM/C elsewhere. The CEDAW Committee and international human rights bodies have rejected this distinction: any form of non-consensual alteration of girls' genitalia constitutes a violation of bodily integrity and the right to be free from violence, regardless of physical severity.
 
 The practice in the Maldives is associated with religious norms – there is a strand of Islamic jurisprudence that characterises FGM/C as *sunnah* (recommended practice) or *makrumah* (an act of nobility) – though other Islamic jurisprudential positions do not support the practice. The intersection of religious authority and gender-based harm in the FGM/C context requires engagement with religious institutions and scholars, not merely legislative prohibition, to achieve durable norm change.
 
-### 5.7.3 Legal Status and CEDAW Obligations
+### 5.38.3 Legal Status and CEDAW Obligations
 
 **FGM/C is not criminalised in the Maldives as of 2025.** No specific criminal law provision addresses FGM/C. Acts that cause physical harm to a child could potentially be prosecuted under general Penal Code assault provisions, but no such prosecution has been brought in relation to FGM/C.
 
 The CEDAW Committee's 2021 Concluding Observations (CEDAW/C/MDV/CO/6, paragraph 39) called upon Maldives to explicitly criminalise FGM/C. This recommendation has been under review by MoSFD in consultation with the Ministry of Islamic Affairs. Public health campaigns have been conducted to discourage the practice. The CEDAW Seventh Periodic Report (2025) commits to completing the legislative review in the next reporting period.
 
-### 5.7.4 Public Health and Community Response
+### 5.38.4 Public Health and Community Response
 
 Public health campaigns targeting FGM/C have been conducted through the Health Protection Agency and community health workers. The significant intergenerational decline in prevalence suggests that these campaigns, combined with broader education and social change, have been effective at the community level. However, the continued practice among a minority of families indicates that campaigns alone are insufficient, particularly in communities where FGM/C is framed as a religious obligation.
 
@@ -2189,10 +2189,10 @@ The FPA's mandate does not currently extend to FGM/C investigation or prevention
 ---
 
 
-## 5.39 FGM/C in the Maldives: A Detailed Analysis
+## 5.39 FGM/C in the Maldives
 
 
-### 5.47.1 Form, Prevalence, and Trend
+### 5.39.1 Form, Prevalence, and Trend
 
 Female genital mutilation/cutting (FGM/C) in the Maldives takes a specific form that is important to understand precisely given the WHO classification system and the associated health impact analysis. The Maldivian practice is categorised as **WHO Type IV** – "other harmful procedures to the female genitalia for non-medical purposes" – which in the Maldivian context involves the removal of the clitoral hood (prepuce) or a small cut to the clitoris without removal. This is distinct from the more extensive forms of FGM/C practised in parts of Africa and the Middle East (Types I-III, involving partial or complete clitoridectomy, excision, or infibulation).[^431]
 
@@ -2208,7 +2208,7 @@ The DHS 2016-17 provides the most comprehensive national data on FGM/C prevalenc
 
 The declining trend – from 38% in the oldest cohort to 1% in the youngest – documents a generational shift away from the practice without any specific legislative intervention. The factors driving this natural decline include increased education and health awareness among mothers, reduced community pressure to conform, and the growing influence of international health discourse that frames FGM/C as harmful rather than as a religious obligation.[^432]
 
-### 5.47.2 Islamic Jurisprudential Basis and Debate
+### 5.39.2 Islamic Jurisprudential Basis and Debate
 
 FGM/C in the Maldives is practised on an Islamic jurisprudential basis – specifically citing a Hadith (attributed to the Prophet Muhammad) that is considered weak (*da'if*) or questionable by many Islamic scholars but has been invoked in several Islamic traditions as justifying the practice for women. The Shafi'i school – the dominant school in the Maldives – historically classified female circumcision as *sunnah* (recommended) rather than obligatory.
 
@@ -2218,7 +2218,7 @@ The Islamic scholars' debate on FGM/C is active and significant:
 
 The government's position – not explicitly prohibiting FGM/C while acknowledging its presence and tracking its decline – reflects this jurisprudential ambiguity. The **CEDAW Committee** in its November 2021 Concluding Observations called on the Maldives to **explicitly prohibit FGM/C in law**, noting that the practice violates CEDAW provisions on discrimination affecting women's physical integrity and health. The CEDAW Seventh Periodic Report (2025) indicates the legal status remains under review without a commitment to prohibition.[^433]
 
-### 5.47.3 Health Impacts of the Maldivian Form
+### 5.39.3 Health Impacts of the Maldivian Form
 
 The health impacts of Type IV FGM/C (the Maldivian form) are debated in the medical literature. The WHO classifies the practice as harmful regardless of form, and documents the following potential health consequences:
 
@@ -2228,7 +2228,7 @@ The health impacts of Type IV FGM/C (the Maldivian form) are debated in the medi
 
 The WHO's framework – that no form of FGM/C has health benefits; that all forms constitute harmful interference with a girl's or woman's physical integrity – is the international standard. The Maldivian government's engagement with this standard, however, has been shaped by the Islamic jurisprudential positioning of the practice, which frames any minimal-impact form as within the domain of religious practice rather than healthcare harm.[^434]
 
-### 5.47.4 The Practice's Social Context
+### 5.39.4 The Practice's Social Context
 
 FGM/C in the Maldives is typically performed on infant girls – at birth or within the first weeks of life – by a traditional midwife or by a health worker. The decision is made by parents, with the mother playing the primary role in transmitting the practice across generations. The declining prevalence reflects primarily mothers from younger generations choosing not to have their daughters cut – a decision shaped by education, health awareness, and reduced community pressure.[^435]
 
@@ -2246,7 +2246,7 @@ The social dynamics of the decline are important for policy:
 ## 5.40 Sexual and Reproductive Health Rights
 
 
-### 5.8.1 Overview and Policy Framework
+### 5.40.1 Overview and Policy Framework
 
 Sexual and reproductive health rights (SRHR) occupy a contested space in Maldivian policy – acknowledged in international commitments, partially addressed through health system programming, but constrained by Islamic law provisions, conservative social norms, and persistent gaps in service access across the atoll geography. The foundational policy instrument is the **Reproductive, Maternal, Newborn, Child and Adolescent Health (RMNCAH) Strategy 2020–2025**, developed by the Ministry of Health with WHO and UNFPA technical support, which provides a structured framework for improving maternal and newborn health, family planning, and adolescent sexual and reproductive health (ASRH) services across the 187 inhabited islands.[^46]
 
@@ -2254,7 +2254,7 @@ UNFPA is the lead UN agency for SRHR programming in the Maldives. Its partnershi
 
 The Gender Equality Act 18/2016 prohibits discrimination in access to health services on grounds of gender and disability, creating a formal legal basis for challenging unequal reproductive health service provision. In practice, however, geographic isolation, social stigma, and the absence of trained providers on smaller islands mean that women's access to reproductive health services is substantially determined by island of residence rather than legal entitlement.[^48]
 
-### 5.8.2 Maternal Mortality: Trajectory, COVID Spike, and Current Position
+### 5.40.2 Maternal Mortality: Trajectory, COVID Spike, and Current Position
 
 Maternal mortality in the Maldives follows a trajectory of dramatic improvement over three decades, interrupted by a sharp reversal in 2021 associated with the COVID-19 pandemic, and subsequent partial recovery. The trajectory is as follows:
 
@@ -2275,7 +2275,7 @@ The **2021 spike to 60 per 100,000** is attributed to multiple COVID-19 pandemic
 
 Recovery to 34 per 100,000 in 2022 represents a return below the 2012 level of 49, though the volatility across 2019–2022 highlights the fragility of these gains in a small population. The RMNCAH Strategy 2020–2025 targets further reduction, with specific investments in emergency obstetric care (EmOC) capacity in regional hospitals and Community Health Workers (CHW) skills for complication recognition on smaller islands.[^51]
 
-### 5.8.3 Antenatal Care, Skilled Birth Attendance, and Caesarean Section
+### 5.40.3 Antenatal Care, Skilled Birth Attendance, and Caesarean Section
 
 Aggregate coverage statistics for obstetric care are among the highest in South Asia, reflecting the country's success in building a basic health infrastructure across islands:
 
@@ -2287,7 +2287,7 @@ Aggregate coverage statistics for obstetric care are among the highest in South 
 
 The 32% caesarean section rate substantially exceeds the WHO recommended range of 10–15%, indicating over-medicalisation in facility births, concentrated primarily at Indira Gandhi Memorial Hospital (IGMH) and private hospitals in Malé. Women in outer atolls, by contrast, face the opposite problem: emergency obstetric access is inadequate. Atoll hospitals have variable capacity for EmOC, and women in labour on smaller islands face a referral pathway that – even in optimal conditions – involves a speedboat transfer to the nearest atoll hospital. In adverse weather, this pathway is dangerous or impossible. The combination of high aggregate statistics masking geographic extremes is a defining feature of Maldivian reproductive health.[^57]
 
-### 5.8.4 Contraception: Prevalence, Unmet Need, and Barriers
+### 5.40.4 Contraception: Prevalence, Unmet Need, and Barriers
 
 The Maldives Demographic and Health Survey 2016-17 provides the most recent nationally representative data on contraceptive use:
 
@@ -2312,7 +2312,7 @@ The 29% unmet need – meaning nearly one in three married women who want to avo
 
 The gap between the high ANC coverage rate (97%) and the low mCPR (27%) is striking and suggests that the health system's capacity to provide services during pregnancy substantially exceeds its capacity to support inter-pregnancy reproductive planning. UNFPA's programming under the RMNCAH Strategy specifically targets this gap through CHW capacity building and social behavioural change communication.[^62]
 
-### 5.8.5 Abortion: Legal Position, Penal Code Conflict, and Reproductive Rights Implications
+### 5.40.5 Abortion: Legal Position, Penal Code Conflict, and Reproductive Rights Implications
 
 The legal position on abortion in the Maldives has become more restrictive over time, creating a significant tension with women's reproductive rights obligations under CEDAW Article 12. The current position under the **Penal Code** (Act 9/2014 and subsequent amendments) is that abortion is permitted **only to save the mother's life** – the most restrictive position available under international standards and more restrictive than the pre-2014 position.[^63]
 
@@ -2324,7 +2324,7 @@ The **CEDAW Committee** in its November 2021 Concluding Observations (CEDAW/C/MD
 
 The practical consequences of the restrictive law are difficult to document given the underground nature of unsafe abortions. Healthcare providers, civil society organisations, and UNFPA field staff have documented that women in unwanted pregnancies – including rape survivors – do access abortion through informal channels, with associated risks of unsafe procedures, complications that must be treated at government health facilities under cover of miscarriage diagnoses, and the threat of criminal prosecution for both the woman and any healthcare provider involved. The **zina law** – which provides for 100 lashes for sexual intercourse outside marriage under Penal Code Section 411(d) – creates a further deterrent: a woman who seeks post-rape healthcare risks disclosure of the pregnancy and potential prosecution for zina if the rape cannot be proved (which, as documented in §5.6, is structurally difficult given evidence requirements).[^66]
 
-### 5.8.6 Adolescent Sexual and Reproductive Health
+### 5.40.6 Adolescent Sexual and Reproductive Health
 
 The RMNCAH Strategy 2020–2025 includes an adolescent sexual and reproductive health (ASRH) component, acknowledging that Maldivian adolescents – particularly girls – face significant SRHR vulnerabilities. Key documented issues include:
 
@@ -2334,7 +2334,7 @@ The RMNCAH Strategy 2020–2025 includes an adolescent sexual and reproductive h
 
 **Adolescent mental health and SRH intersection:** The WHO STEP Survey 2021 documented 16.2% of young women aged 15-24 reporting moderate to severe depression, with GBV victimisation a significant co-occurring factor. Adolescent girls who have experienced sexual abuse (documented at 12.2% nationally, Fulu 2007) show significantly elevated rates of mental health distress, early sexual debut, and subsequent sexual risk-taking. The absence of integrated SRH-mental health services for adolescent girls leaves this vulnerability largely unaddressed by the current service architecture.[^69]
 
-### 5.8.7 Women's Nutritional Status
+### 5.40.7 Women's Nutritional Status
 
 The nutritional profile of Maldivian women documented in the DHS 2016-17 reveals several dimensions of vulnerability with direct reproductive health implications:
 
@@ -2346,7 +2346,7 @@ The nutritional profile of Maldivian women documented in the DHS 2016-17 reveals
 
 Cultural norms documented in the Health Systems chapter (§11.X) note that **outdoor exercise is socially discouraged for women** in many island communities, particularly in more conservative atolls, limiting physical activity options and potentially contributing to weight-related health issues including gestational diabetes risk. The RMNCAH Strategy includes nutritional supplementation provisions – iron/folate supplementation during ANC visits – but addressing the broader determinants of women's nutritional status requires intersectoral action beyond the health system.[^75]
 
-### 5.8.8 Thalassaemia: A Gender-Relevant Genetic Health Crisis
+### 5.40.8 Thalassaemia: A Gender-Relevant Genetic Health Crisis
 
 With an **18% carrier rate** – among the highest globally – thalassaemia is a pervasive genetic health concern with significant gender dimensions. The national response is structured around the Thalassaemia Control Act 4/2012, which mandates:
 
@@ -2362,7 +2362,7 @@ The burden of the thalassaemia management falls disproportionately on women, bot
 ## 5.41 The Health System's Gender Dimensions: Clinical Practice and Service Gaps
 
 
-### 5.53.1 GBV Identification in Healthcare Settings
+### 5.41.1 GBV Identification in Healthcare Settings
 
 Healthcare providers – doctors, nurses, and health post workers – are on the front lines of GBV identification and response. Women who are experiencing DV or sexual violence may present to health facilities with:
 - **Physical injuries** that may or may not be attributed to the actual cause
@@ -2378,7 +2378,7 @@ The **UNFPA National Guidelines for Healthcare Providers on GBV (2024, 2nd editi
 - Safety assessment – risk assessment using standardised tools
 - Referral pathways – to FPA, FCPW, shelter, FLC, mental health services[^447]
 
-### 5.53.2 Training Coverage and Healthcare Worker Capacity
+### 5.41.2 Training Coverage and Healthcare Worker Capacity
 
 The guidelines are only as useful as the healthcare workers who are trained to apply them. Training coverage is documented as incomplete:
 - IGMH Malé has the highest coverage of GBV-trained healthcare workers, reflecting the concentration of training resources in the capital
@@ -2391,7 +2391,7 @@ The specific challenges at the island health post level:
 - The health worker may be personally acquainted with both the survivor and the perpetrator, creating conflict of interest pressures
 - Referral pathways from island health posts to FPA and FCPW require telephone communication and the survivor's own willingness to engage with those agencies[^448]
 
-### 5.53.3 Mandatory Reporting: The Healthcare Provider's Obligation
+### 5.41.3 Mandatory Reporting: The Healthcare Provider's Obligation
 
 Healthcare providers who identify GBV are **mandatory reporters** under the DVPA framework – they are legally required to report to the FPA or police. The mandatory reporting obligation creates a tension with survivor confidentiality:
 - A survivor who discloses GBV to a healthcare provider does not automatically consent to that information being shared with other agencies
@@ -2400,7 +2400,7 @@ Healthcare providers who identify GBV are **mandatory reporters** under the DVPA
 
 The healthcare guidelines attempt to navigate this tension by emphasising safety planning before any mandatory report, informing the survivor of the reporting obligation, and coordinating with FPA before reporting in non-emergency situations. In practice, the training required to navigate this tension ethically and effectively requires more sustained clinical GBV education than most healthcare workers have received.[^449]
 
-### 5.53.4 Reproductive Healthcare and GBV Intersection
+### 5.41.4 Reproductive Healthcare and GBV Intersection
 
 The reproductive healthcare system – ANC, postnatal care, family planning services – is a critical point of contact for women experiencing GBV, for several documented reasons:
 
@@ -2416,7 +2416,7 @@ The reproductive healthcare system – ANC, postnatal care, family planning serv
 ## 5.42 Women's Physical Health Beyond Reproduction: A Neglected Domain
 
 
-### 5.82.1 Non-Communicable Diseases and Gender
+### 5.42.1 Non-Communicable Diseases and Gender
 
 Non-communicable diseases (NCDs) – cardiovascular disease, diabetes, cancer, chronic respiratory disease – are the leading causes of death in the Maldives, as in most middle-income countries. The gender dimensions of NCDs in the Maldivian context have not been adequately addressed in available policy documents:
 
@@ -2428,7 +2428,7 @@ Non-communicable diseases (NCDs) – cardiovascular disease, diabetes, cancer, c
 
 **Tobacco and substance use:** While tobacco and substance use are documented as predominantly male patterns, women's tobacco use – and the passive smoking exposure from male household members – is a health risk that gender-disaggregated health data should track but currently inadequately captures.
 
-### 5.82.2 Occupational Health and Gender
+### 5.42.2 Occupational Health and Gender
 
 Women's occupational health in the Maldives has specific features that reflect the sectors of female concentration:
 
@@ -2446,7 +2446,7 @@ Women's occupational health in the Maldives has specific features that reflect t
 ## 5.43 Community Health Workers and Gender: The Island Level
 
 
-### 5.91.1 The CHW Network as a Gender Resource
+### 5.43.1 The CHW Network as a Gender Resource
 
 The **Community Health Worker (CHW)** network – trained volunteer or lightly paid health workers operating at the island level below the formal health post – is a critical but undervalued resource for gender health programming. CHWs in the Maldivian context include:
 
@@ -2461,7 +2461,7 @@ The gender relevance of the CHW network:
 
 **RMNCAH Strategy CHW role:** The RMNCAH Strategy 2020-2025 includes CHW capacity building for maternal health, family planning counselling, and referral. The integration of GBV identification and referral into CHW training – following the UNFPA healthcare guidelines – would extend the GBV-aware health response to islands without health post staff trained in GBV.[^523]
 
-### 5.91.2 The Pharmacy as a Gender Service Point
+### 5.43.2 The Pharmacy as a Gender Service Point
 
 Pharmacies on larger islands serve as informal health advice points for women who prefer not to register a formal health visit. Women seeking emergency contraception, treating reproductive tract infections, or looking for information about family planning may approach a pharmacist rather than a health facility. The regulatory framework for pharmacy services – and the training of pharmacists in SRHR counselling and GBV referral – is an under-exploited intervention point for extending gender health services.
 
@@ -2476,7 +2476,7 @@ Pharmacist training in recognising signs of DV (a woman who frequently presents 
 ## 5.44 Women's Economic Participation
 
 
-### 5.9.1 The Labour Force Participation Gap: Scale, Causes, and Persistence
+### 5.44.1 The Labour Force Participation Gap: Scale, Causes, and Persistence
 
 The most quantifiable dimension of gender inequality in the Maldives is the **labour force participation rate (LFPR) gap**: female LFPR at **44%** versus male LFPR at **80%** (Household Income and Expenditure Survey 2016; reconfirmed by National Bureau of Statistics 2019). This gap of 36 percentage points is one of the widest in South Asia, and represents a structural feature of the Maldivian economy that has proved resistant to the educational gains women have made over the same period.[^77]
 
@@ -2494,13 +2494,13 @@ Factors documented in the HIES 2016, ADB assessments, and CEDAW reporting as dri
 
 **5. Social norms and family pressure.** Across income levels, social norms position women primarily as mothers and wives, with employment permissible but secondary to household responsibilities. Research documented in the Cross-Cutting Issues chapter finds that women who choose employment over full-time caregiving may face social criticism and family pressure. In some conservative communities, husbands' permission for wives to work is an informal expectation. The Youth Vulnerability Study 2019 documented that women in job interviews are routinely asked about marital status, plans to have children, and dress requirements – reflecting employer expectations that women's employment commitments are contingent on family circumstances in ways that men's are not.[^82]
 
-### 5.9.2 NEET Rates and Youth Economic Exclusion
+### 5.44.2 NEET Rates and Youth Economic Exclusion
 
 The **Not in Employment, Education, or Training (NEET)** indicator captures a critical dimension of young women's economic exclusion. CEDAW reporting data indicates a **42.7% NEET rate among young women in outer atolls** – nearly double the NEET rate for young urban women and substantially higher than the male NEET rate in the same geographic cohort. This indicator reflects the compound effect of geographic isolation, limited job market opportunities, early marriage and pregnancy withdrawal from education, and the absence of vocational training accessible from smaller islands.[^83]
 
 NEET status among young women represents a particularly significant social policy failure because it concentrates across the same populations already identified as most economically vulnerable: young women in outer atolls who have completed secondary education but cannot access tertiary education or formal employment compatible with their family situation. The long-term economic consequences – lifetime earnings foregone, dependency on husbands or family, heightened vulnerability to poverty after divorce – are severe and disproportionately affect subsequent generations.
 
-### 5.9.3 The Gender Pay Gap
+### 5.44.3 The Gender Pay Gap
 
 The gender pay gap in the Maldives is not systematically measured, representing a **critical data gap** noted both by the CEDAW Committee in its November 2021 Concluding Observations and by the Statistics Compendium (Part XVII, §17.3). Available indirect evidence suggests a significant gap:
 
@@ -2511,7 +2511,7 @@ The gender pay gap in the Maldives is not systematically measured, representing 
 
 The National Bureau of Statistics does not publish gender-disaggregated wage data on a routine basis. The CEDAW Committee has specifically called for disaggregated labour market data collection as a priority recommendation.[^85]
 
-### 5.9.4 COVID-19 Economic Impact: The Gendered Recession
+### 5.44.4 COVID-19 Economic Impact: The Gendered Recession
 
 The COVID-19 pandemic had a disproportionate economic impact on women, reversing some of the slow gains made in the preceding decade:
 
@@ -2523,7 +2523,7 @@ The COVID-19 pandemic had a disproportionate economic impact on women, reversing
 
 Post-pandemic recovery has been uneven, with women's employment recovery lagging men's in most documented sectors. The tourism sector's recovery (which has been rapid) has not translated into proportionate increases in female tourism employment.
 
-### 5.9.5 SDFC Women's Lending and Access to Credit
+### 5.44.5 SDFC Women's Lending and Access to Credit
 
 The **Small and Medium Enterprise Development Finance Corporation (SDFC)** administers government credit programmes for small businesses. CEDAW reporting indicates that **approximately 20% of SDFC loans** went to women entrepreneurs (CEDAW Seventh Periodic Report 2025, Article 13 section). This represents significant underrepresentation relative to women's population share and their documented appetite for entrepreneurship.[^89]
 
@@ -2537,7 +2537,7 @@ The **ADB MSME Project** – a parallel initiative to the GESI Project – speci
 
 The **Strengthening Social and Financial Support Systems for Women project** (SAILS) includes targeted employment services for women jobseekers, gender-responsive employment service provision through the Employment Service Centres network, and linkages between women's skills training programmes and employment opportunities in identified sectors. SAILS is designed to address the pipeline problem: even where jobs exist, women may lack the specific vocational skills or job-search skills to access them.[^91]
 
-### 5.9.6 Maternity Protection and Unpaid Care Work
+### 5.44.6 Maternity Protection and Unpaid Care Work
 
 **Maternity leave** under the Employment Act 2/2008 provides **60 days paid maternity leave** for formal sector workers, and **14 days for informal or probationary workers**. The provision applies in the formal sector; informal workers – a significant proportion of women's employment – have no equivalent protection. **No paternity leave** is mandated under law (CEDAW Seventh Periodic Report 2025), meaning the assumption that newborn care is the mother's primary responsibility is written into employment law.[^92]
 
@@ -2545,7 +2545,7 @@ The **unpaid care burden** falls dramatically more on women than men. DHS 2016-1
 
 The near-total absence of formal childcare infrastructure is the most documented structural enabler of the unpaid care burden. With fewer than 4 formal daycare centres nationally, and no subsidised community childcare in outer atolls, the childcare gap is both a SRHR issue (affecting women's ability to space pregnancies) and a labour market issue (confining mothers to the home in the years most critical for career development).
 
-### 5.9.7 Gender-Responsive Budgeting
+### 5.44.7 Gender-Responsive Budgeting
 
 The Gender Equality Act 18/2016 mandates **Gender-Responsive Budgeting (GRB)** across government ministries – a legislative innovation that, if implemented, would systematically embed gender analysis into the national budget cycle. The Ministry of Finance and the National Planning Commission are the lead agencies for GRB implementation.[^94]
 
@@ -2559,7 +2559,7 @@ GRB is particularly significant for gender economic empowerment because it creat
 ## 5.45 Gender Inequality in Specific Economic Sectors
 
 
-### 5.30.1 Tourism: The Largest Sector's Gender Exclusion
+### 5.45.1 Tourism: The Largest Sector's Gender Exclusion
 
 The tourism sector is the Maldives' largest economic sector by GDP share and formal employment. Understanding why Maldivian women are largely absent from this sector is essential to any analysis of women's economic participation.
 
@@ -2573,7 +2573,7 @@ The tourism sector is the Maldives' largest economic sector by GDP share and for
 
 **Gender and the 'Maldivianisation' policy:** The government's tourism Maldivianisation policy – requiring resort operators to meet minimum Maldivian employee quotas – has increased total Maldivian employment in resorts but has not been accompanied by gender-disaggregated targets. The policy effectively increases male Maldivian resort employment without addressing the gendered access barriers that exclude most Maldivian women. Gender-specific Maldivianisation targets or quotas would be required to change the employment gender composition.[^342]
 
-### 5.30.2 Fishing: The Livelihood Gender Boundary
+### 5.45.2 Fishing: The Livelihood Gender Boundary
 
 Fishing – historically the primary livelihood of most Maldivian families and the cultural foundation of Maldivian male identity – is socially and practically male-dominated. The *dhoni* (traditional fishing vessel) and the reef fishing practices around it are associated with masculine identity, physical strength, and sea-going skill. Women have historically participated in the shore-side of the fishing economy (fish processing, drying, trading) rather than sea fishing itself.[^343]
 
@@ -2585,7 +2585,7 @@ The economic transformation of the fishing sector has had mixed gender implicati
 
 The ADB ARISE Project's gender component specifically identifies women's exclusion from fishing governance as an economic equity issue with climate dimensions – as fishing resource management decisions (regulated by Fishermen's Associations and Island Councils) increasingly involve climate adaptation choices that affect both male and female members of fishing communities.
 
-### 5.30.3 Government and Public Services: The Female Concentration
+### 5.45.3 Government and Public Services: The Female Concentration
 
 Government employment is the largest formal employment sector for Maldivian women – 43% of employed women work in government (HIES 2016). This concentration reflects the channelling of educated women toward teaching, nursing, and social services, and the relative accessibility of public sector employment through formal application processes rather than the informal male-dominated networks that dominate private sector recruitment.[^345]
 
@@ -2600,7 +2600,7 @@ The **Civil Service Commission** does not publish gender-disaggregated data on s
 
 **Nursing and health services:** Nursing is similarly feminised. The nursing workforce is predominantly female; medical doctor and specialist roles are more gender-balanced at junior levels but male-dominated at senior and specialisation levels. The gender dynamics of the health workforce interact with the health system's capacity to respond to women's health needs – including GBV-related health presentations – through the provider's own awareness and training.[^348]
 
-### 5.30.4 Agriculture, Handicrafts, and the Informal Economy
+### 5.45.4 Agriculture, Handicrafts, and the Informal Economy
 
 A significant proportion of women's economic activity in the Maldives – particularly in outer atolls – occurs in the informal economy, outside the formal employment and statistical measurement systems. Informal economic activities with high female participation include:
 
@@ -2620,11 +2620,11 @@ The invisibility of informal economic activity in official statistics systematic
 ## 5.46 The Economic Cost of Gender Inequality
 
 
-### 5.33.1 Framing Gender Inequality as an Economic Loss
+### 5.46.1 Framing Gender Inequality as an Economic Loss
 
 A dimension of the gender equality argument that has growing traction in development policy discourse is the **economic cost** of gender inequality – the GDP and productivity foregone as a result of women's exclusion from full economic participation. While this framing is not the primary ethical argument for gender equality, it is politically significant in contexts (like the Maldives) where economic development is a central policy priority.
 
-### 5.33.2 The LFPR Gap: Direct Economic Cost
+### 5.46.2 The LFPR Gap: Direct Economic Cost
 
 The 36-percentage-point LFPR gap between men (80%) and women (44%) represents a direct economic cost: the productive capacity of working-age women who are not in formal employment. A rough estimate of this cost:
 
@@ -2635,7 +2635,7 @@ The 36-percentage-point LFPR gap between men (80%) and women (44%) represents a 
 
 This is a conservative estimate that does not account for the productivity effects of women entering higher-value employment if structural barriers (childcare, education-job matching, sector access) were addressed. The McKinsey Global Institute has estimated that closing gender gaps in economic participation could add 12% to GDP in South Asia; a Maldives-specific estimate does not exist but the order of magnitude would be comparable.[^368]
 
-### 5.33.3 The Cost of GBV
+### 5.46.3 The Cost of GBV
 
 The economic cost of domestic violence includes:
 - **Healthcare costs:** Medical treatment of DV-related injuries across health facilities
@@ -2646,7 +2646,7 @@ The economic cost of domestic violence includes:
 
 No comprehensive economic cost-of-DV analysis has been conducted for the Maldives. The WHO's global estimates suggest domestic violence costs economies between 1.2% and 3.7% of GDP annually; applied to the Maldives' approximately USD 6 billion GDP, this would represent USD 72-222 million per year in economic costs – a figure that substantially exceeds the total budget of the FPA, AIM Project, and related GBV response programmes combined. The economic case for GBV prevention investment is, on these estimates, compelling.[^369]
 
-### 5.33.4 The Childcare Infrastructure Gap as Economic Constraint
+### 5.46.4 The Childcare Infrastructure Gap as Economic Constraint
 
 The absence of adequate childcare infrastructure is simultaneously a gender equality failure and an economic efficiency failure. The macroeconomic modelling of childcare investment – conducted for several comparable contexts – consistently finds that childcare investment:
 - Pays for itself through the tax revenue from women who enter or remain in formal employment
@@ -2661,7 +2661,7 @@ The Maldives currently invests extremely little in formal childcare infrastructu
 ## 5.47 Women and the Ocean Economy: Emerging Gender Dimensions
 
 
-### 5.59.1 The Blue Economy and Gender
+### 5.47.1 The Blue Economy and Gender
 
 The Maldives is developing a "**Blue Economy**" strategy – leveraging its Exclusive Economic Zone (EEZ) of approximately 900,000 km² for sustainable economic development through fisheries, marine biotechnology, desalination, ocean energy, and sustainable tourism. The gender dimensions of the Blue Economy are emerging policy terrain that the existing gender policy literature does not adequately address.
 
@@ -2671,7 +2671,7 @@ The Maldives is developing a "**Blue Economy**" strategy – leveraging its Excl
 
 **Eco-tourism and marine conservation:** Maldivian eco-tourism and marine conservation work (coral restoration, marine protected areas management) has a significant female presence internationally. Positioning Maldivian women in this growing sector – particularly in community-based marine conservation management – could create sustainable employment compatible with island location.[^462]
 
-### 5.59.2 Tourism's Gender Potential Reconsidered
+### 5.47.2 Tourism's Gender Potential Reconsidered
 
 Beyond the resort sector's gender exclusion, the tourism economy has gender-inclusive dimensions that policy has not fully leveraged:
 
@@ -2687,7 +2687,7 @@ Beyond the resort sector's gender exclusion, the tourism economy has gender-incl
 ## 5.48 The National Employment Service: Women's Access
 
 
-### 5.90.1 Employment Service Centres
+### 5.48.1 Employment Service Centres
 
 The **Employment Service Centres (ESCs)** – operated by the Ministry of Economic Development (and supported by the ADB SAILS project) – provide job placement services, skills matching, and employment counselling for Maldivian jobseekers. The gender dimensions of ESC services are documented in the SAILS project documentation:
 
@@ -2703,7 +2703,7 @@ The **Employment Service Centres (ESCs)** – operated by the Ministry of Econom
 ## 5.49 Housing, Poverty, and Women's Economic Security
 
 
-### 5.14.1 Female-Headed Households: Prevalence and Poverty Profile
+### 5.49.1 Female-Headed Households: Prevalence and Poverty Profile
 
 Female-headed households constitute **42.7% of all households** in the Maldives (HIES 2016) – an extraordinarily high proportion internationally and one directly connected to the high divorce rate and pattern of serial marriage. When a marriage dissolves, women typically take primary custody of children but often lose access to the marital home; many divorced women return to parents or siblings, creating the female-headed household structures captured in census data.[^154]
 
@@ -2715,7 +2715,7 @@ The high proportion of female-headed households reflects the interaction of seve
 - Male labour migration – particularly to resort islands and Male' – leaving wives as de facto household heads on home islands
 - Deaths from sea-related occupational risks disproportionately affecting male workers, leaving widows as household heads[^156]
 
-### 5.14.2 Housing Insecurity After Divorce
+### 5.49.2 Housing Insecurity After Divorce
 
 A critical and under-documented dimension of post-divorce vulnerability for Maldivian women is **housing insecurity**. In the traditional matrilocal system, women had residential stability post-divorce because they remained in the family island home while the husband left. Urbanisation has substantially eroded this pattern: in Malé and growing island towns, housing is market-provided (rental or owner-occupied), not family-held.[^157]
 
@@ -2727,7 +2727,7 @@ Upon divorce in urban settings:
 
 For survivors of domestic violence, housing insecurity is additionally complex: leaving an abusive partner means leaving the shared home, and without a shelter placement, the survivor may have nowhere to go. The three ADB-funded shelters (Addu/Hithadhoo, Hulhumale', Raa Atoll) and the FPA's transitional housing provision in Malé address only a small fraction of need, and provide time-limited accommodation with no pathway to sustainable independent housing.[^159]
 
-### 5.14.3 Single Mothers: The Intersection of Multiple Vulnerabilities
+### 5.49.3 Single Mothers: The Intersection of Multiple Vulnerabilities
 
 Single mothers – women raising children without a co-resident partner – face the intersection of multiple identified vulnerabilities:
 - **Economic:** Single income (often lower than equivalent male wage) supporting children without reliable maintenance
@@ -2738,7 +2738,7 @@ Single mothers – women raising children without a co-resident partner – face
 
 The Laamu Atoll Vulnerability Mapping (cited in the Housing and Poverty chapter, §12.X) specifically identified **single mothers** as one of the most vulnerable population groups in the atoll, with compounded needs across income support, childcare, housing, and GBV protection. The mapping is one of the few systematic subnational analyses of this intersection, and its findings are likely generalisable to similar outer atoll contexts.[^161]
 
-### 5.14.4 Women's Property and Asset Ownership
+### 5.49.4 Women's Property and Asset Ownership
 
 The CEDAW Committee and Statistics Compendium both identify women's land and property ownership as a **critical data gap** in the Maldivian statistical system. No routine national data collection captures gender-disaggregated property ownership, inheritance receipts, or asset accumulation.[^162]
 
@@ -2750,7 +2750,7 @@ What is known from indirect sources:
 
 The consequence is a compounding of gender inequality: lower inherited assets, lower wages, lower employment rates, and the financial consequences of divorce collectively produce a gender wealth gap that is likely significant but unmeasured.[^163]
 
-### 5.14.5 Skills Mismatch and Its Gendered Dimensions
+### 5.49.5 Skills Mismatch and Its Gendered Dimensions
 
 The Housing and Poverty chapter (§12.X) documents a structural skills mismatch in the Maldivian economy with gendered dimensions:
 - **15% of women** in the labour market are **overqualified** for the jobs available to them – particularly in outer atolls where formal employment options are limited to a few government positions[^164]
@@ -3005,10 +3005,10 @@ The skills mismatch creates a double bind: educated women in outer atolls cannot
 ---
 
 
-## 5.50 The Gender Dimensions of Poverty: A Detailed Analysis
+## 5.50 Gender Dimensions of Poverty
 
 
-### 5.73.1 Poverty Measurement and Gender
+### 5.50.1 Poverty Measurement and Gender
 
 The Maldives' poverty measurement – using the national poverty line and the HIES 2016 data – documents a 4.5% national poverty rate with female-headed households at 6% and male-headed households at 5%. This relatively small differential in percentage points masks a larger absolute story: given that female-headed households are 42.7% of all households, a 6% poverty rate in that group means a substantial absolute number of women and children in poverty.
 
@@ -3016,7 +3016,7 @@ The Maldives' poverty measurement – using the national poverty line and the HI
 
 **Intra-household resource distribution:** Research on intra-household resource distribution in the Maldivian context is limited. International evidence consistently finds that households with female control over resources have better nutrition, health, and education outcomes for children – suggesting that the gender of the resource controller matters for poverty impact. In Maldivian households where men control income and distribute it unequally, female household members may experience poverty conditions that are invisible to household-level poverty measurement.[^495]
 
-### 5.73.2 The Poverty-Violence-Poverty Cycle
+### 5.50.2 The Poverty-Violence-Poverty Cycle
 
 The bidirectional relationship between poverty and DV creates a cyclical dynamic that is extremely difficult to interrupt:
 
@@ -3026,7 +3026,7 @@ The bidirectional relationship between poverty and DV creates a cyclical dynamic
 
 **Breaking the cycle:** Single interventions – income support, or DV response, but not both – cannot break a cycle with two entry points. The most effective anti-poverty programmes in international DV research are those that combine economic empowerment (income generation, savings groups, financial literacy) with social norm change (addressing violence-enabling norms) rather than treating poverty and violence as separate policy domains.[^496]
 
-### 5.73.3 Women and the Subsistence Economy
+### 5.50.3 Women and the Subsistence Economy
 
 For a significant proportion of outer island women, survival does not depend on formal employment or government transfers but on the **subsistence economy** – household food production, fishing-adjacent activities, informal exchange, and family support networks. This subsistence-level economy is substantially invisible to formal statistics but represents real economic activity with significant gender dimensions.
 
@@ -3042,7 +3042,7 @@ For a significant proportion of outer island women, survival does not depend on 
 ## 5.51 Housing and Women's Spatial Safety
 
 
-### 5.65.1 Housing Policy and Gender
+### 5.51.1 Housing Policy and Gender
 
 Maldivian housing policy – including the government's housing construction and allocation programmes, the Hulhumale' development, and the island housing infrastructure – has significant gender dimensions that have been inadequately addressed in mainstream housing policy discourse.
 
@@ -3052,7 +3052,7 @@ Maldivian housing policy – including the government's housing construction and
 
 **Hulhumale' development:** Hulhumale' – built on reclaimed land adjacent to Malé – is the fastest-growing population centre in the Maldives, housing primarily working-age adults and families. Its social services infrastructure is not yet commensurate with its population: there is limited FPA presence, limited police FCPW capacity, and no shelter in the Hulhumale' area (the ADB-funded shelter is in Hulhumale' city as a separate facility). As Hulhumale's population grows, its GBV response infrastructure needs to scale proportionately – but the investment has lagged population growth.[^477]
 
-### 5.65.2 Women's Mobility and Spatial Safety
+### 5.51.2 Women's Mobility and Spatial Safety
 
 Women's use of public space – particularly in Malé, Hulhumale', and larger island towns – is shaped by safety concerns and social norms that limit freedom of movement:
 
@@ -3070,7 +3070,7 @@ Women's use of public space – particularly in Malé, Hulhumale', and larger is
 ## 5.52 Social Protection and Women: The NSPA and Aasandha
 
 
-### 5.56.1 The Social Protection Architecture
+### 5.52.1 The Social Protection Architecture
 
 The Maldivian social protection system encompasses:
 - **Aasandha (National Health Insurance):** Universal health coverage providing free healthcare at government health facilities for all Maldivians
@@ -3079,7 +3079,7 @@ The Maldivian social protection system encompasses:
 - **Contributory pension scheme:** Managed by the Maldives Pension Office for formal sector employees
 - **Disability benefits:** Income support for persons with disabilities meeting eligibility criteria
 
-### 5.56.2 Gender Dimensions of Aasandha
+### 5.52.2 Gender Dimensions of Aasandha
 
 Aasandha's universal coverage is a significant gender equality achievement: women access government health services (including ANC, postnatal care, and reproductive health services) without cost at point of service. This removes a major financial barrier to healthcare access that many comparable-income countries face.
 
@@ -3088,7 +3088,7 @@ Aasandha's universal coverage is a significant gender equality achievement: wome
 - The quality and availability of services covered by Aasandha varies dramatically by island location – outer island health posts provide basic services; specialist care requires referral and travel to Malé or regional hospitals
 - Mental health services covered by Aasandha are limited – the National Mental Health Centre at IGMH is covered, but GBV-specific counselling, postnatal mental health support, and trauma-informed therapy are not consistently available through the Aasandha system[^457]
 
-### 5.56.3 NSPA Poverty Assistance: Gender Access
+### 5.52.3 NSPA Poverty Assistance: Gender Access
 
 The NSPA's poverty assistance programme provides income support to households below the national poverty line. Gender dimensions of NSPA access:
 
@@ -3098,7 +3098,7 @@ The NSPA's poverty assistance programme provides income support to households be
 
 **Conditional cash transfers:** The Maldives does not operate a conditional cash transfer (CCT) programme of the kind common in South Asian social protection systems (Bangladesh's stipend for secondary girls' education, India's MGNREGS). The absence of CCT instruments means the social protection system has no mechanism for specifically incentivising girls' education retention or discouraging child marriage through financial transfers.
 
-### 5.56.4 Pension System Gender Gap
+### 5.52.4 Pension System Gender Gap
 
 The contributory pension scheme managed by the Maldives Pension Office accumulates employer and employee contributions over a working career, with the accumulated balance determining the retirement pension benefit. The structural features of the pension system interact with the gender employment gap:
 
@@ -3115,7 +3115,7 @@ The consequence is a **gender pension gap** that compounds over retirement years
 ## 5.53 Social Protection for Women: Design, Gaps, and COVID Failures
 
 
-### 5.111.1 The Single Parent Allowance: Gender Profile and Design Barriers
+### 5.53.1 The Single Parent Allowance: Gender Profile and Design Barriers
 
 The **Single Parent Allowance** administered by NSPA is the primary social protection instrument specifically addressing gender-related household vulnerability. Its eligibility criteria:
 
@@ -3128,7 +3128,7 @@ The three-month post-divorce waiting period before eligibility is a significant 
 
 **Documentation and application barriers:** Single parent allowance requires documentary proof of divorce (a court document), custody arrangement, and income status. For women on outer islands, obtaining and submitting documentation requires interaction with island council officials, Family Court records, and NSPA administrative systems – processes that may be inaccessible for women with low literacy, limited digital access, or childcare responsibilities during working hours. The CFW recommendations call for "fast-track procedures for single parent allowance and emergency in-kind support for newly separated women" (R27) as a year-one quick win – acknowledging that the current process is too slow for the pace of need.
 
-### 5.111.2 COVID-19: The Gender-Blind Emergency Response
+### 5.53.2 COVID-19: The Gender-Blind Emergency Response
 
 The initial COVID-19 emergency response did not adequately account for the gendered nature of the economic shock. The government's own assessment acknowledged this as a design failure. Specifically:
 
@@ -3140,7 +3140,7 @@ The initial COVID-19 emergency response did not adequately account for the gende
 
 - **Gender-blind income replacement:** The Emergency Income Support Allowance paid during the lockdown did not disaggregate eligibility by gender or household type, potentially missing female-headed households whose informal income sources were not captured in formal employment records.[^566]
 
-### 5.111.3 Aasandha and Women's Health
+### 5.53.3 Aasandha and Women's Health
 
 The Aasandha universal health insurance scheme nominally covers all Maldivians regardless of gender. The gender dimension of Aasandha coverage failures includes:
 
@@ -3159,7 +3159,7 @@ The Aasandha universal health insurance scheme nominally covers all Maldivians r
 ## 5.54 Political Representation and Civic Participation
 
 
-### 5.10.1 Parliamentary Representation: Historical Pattern and Current Position
+### 5.54.1 Parliamentary Representation: Historical Pattern and Current Position
 
 Women's representation in the People's Majlis (Parliament) has been and remains among the lowest in the world. The trajectory since the 2008 constitutional transition reflects episodic gains without sustained structural progress:
 
@@ -3183,7 +3183,7 @@ Barriers to women's candidacy and election identified in research by the Maldivi
 - **Time and care constraints:** The Majlis schedule (including late-night sessions) is incompatible with the primary care responsibilities that fall on women. Women parliamentarians have cited the absence of childcare at the People's Majlis as a practical barrier to full participation.[^101]
 - **Harassment:** Women in political life face higher rates of online harassment and personal intimidation than male politicians. MDN has documented coordinated social media campaigns against women candidates, including gender-based content targeting their dress, marital status, and family background.[^102]
 
-### 5.10.2 Local Council Quota: A Structural Success Story
+### 5.54.2 Local Council Quota: A Structural Success Story
 
 In contrast to the parliamentary record, the introduction of a **33% gender quota** for local council elections represents the most significant structural intervention in Maldivian political history for women's representation:
 
@@ -3200,7 +3200,7 @@ The quota's impact has not been uniform. Research on WDC and council effectivene
 
 Despite these implementation challenges, the quota represents proof of concept that structural intervention can rapidly transform the composition of representative bodies. Women councillors, even in constrained circumstances, have raised issues of domestic violence, health service access, and women's safety that had previously been absent from local council agendas.[^105]
 
-### 5.10.3 Women's Development Committees: Mandate, Practice, and Reality
+### 5.54.3 Women's Development Committees: Mandate, Practice, and Reality
 
 The **Women's Development Committees (WDCs)** are statutory bodies established on each inhabited island under the Decentralisation Act, tasked with overseeing women's development at island level. There are WDCs on all 270 inhabited islands, making them the most geographically extensive gender-focused institutional presence in the Maldives.
 
@@ -3214,7 +3214,7 @@ In practice, the WDC mandate is substantially unrealised. The Transparency Maldi
 
 The WDC gap is particularly significant for DV response in outer atolls, where the WDC may be the only gender-focused institutional presence. A WDC that cannot access the FPA (which requires telecommunications and the woman's willingness to escalate), cannot compel police action, and cannot offer the survivor any safe housing or financial support is a formal structure that may create an appearance of coverage without delivering effective protection.
 
-### 5.10.4 Cabinet and Judiciary Representation
+### 5.54.4 Cabinet and Judiciary Representation
 
 Women's representation in senior executive and judicial positions has been similarly limited. Key documented data points include:
 
@@ -3229,7 +3229,7 @@ Women's representation in senior executive and judicial positions has been simil
 ## 5.55 Women's Political Participation: The Post-Quota Reality
 
 
-### 5.54.1 Women Councillors: Experience and Challenges
+### 5.55.1 Women Councillors: Experience and Challenges
 
 The dramatic increase in women's local council representation – from approximately 4% to 33% following the 2021 elections – produced a generation of women councillors across all atolls and islands. Understanding their experience in the council chambers is essential for assessing whether structural representation translates into substantive policy influence.
 
@@ -3243,7 +3243,7 @@ The dramatic increase in women's local council representation – from approxima
 
 **Support from national level:** The quota was imposed from the national level without adequate accompanying support infrastructure – mentoring for new councillors, training in local governance procedures, and protection from harassment. The UNDP/MoSFD capacity programme has partly addressed this gap through post-election training, but the support architecture is not yet commensurate with the transformation of local council composition.[^451]
 
-### 5.54.2 The Quota's Institutional Design
+### 5.55.2 The Quota's Institutional Design
 
 The local council gender quota is a **reserved seat** model – a specified minimum number of seats is reserved for women, with the quota applied at the atoll and island level. The design means:
 - In each council, at least one-third of seats are filled by the women who receive the highest vote counts among female candidates
@@ -3256,7 +3256,7 @@ This design – requiring women to win seats through competitive elections rathe
 
 The political obstacle – that quota opponents in Parliament would need to vote for a quota that directly limits their own pool of potential seats – is the primary barrier. Comparable quota adoptions internationally have required either executive authority (presidential or royal decree) or sustained civil society and development partner pressure over multiple election cycles. The Maldivian trajectory on parliamentary quota will depend on political dynamics that are not currently favourable but could change with the right coalition.[^453]
 
-### 5.54.3 Women in the Civil Service: Representation Without Authority
+### 5.55.3 Women in the Civil Service: Representation Without Authority
 
 The civil service employs a high proportion of women – particularly in service delivery roles – but gender gaps in senior civil service representation remain significant. The Civil Service Commission has not published grade-disaggregated gender data for all ministries in any recent publicly available report; the following characterisation is based on sectoral observation and the limited data available in CEDAW reporting:
 
@@ -3272,7 +3272,7 @@ The civil service employs a high proportion of women – particularly in service
 ## 5.56 Looking Ahead: The 2028 Parliamentary Elections and Gender
 
 
-### 5.85.1 The Electoral Window
+### 5.56.1 The Electoral Window
 
 The next People's Majlis elections are scheduled for 2028 – the next major political moment at which women's parliamentary representation could change. The trajectory since the 2008 democratic transition has been consistently poor: 11.7% in 2008, declining to 4.6% by 2024. Without structural intervention, the 2028 elections are unlikely to produce a meaningful improvement.
 
@@ -3286,7 +3286,7 @@ The CEDAW Committee's call for temporary special measures at parliamentary level
 
 **The window:** The 2026-2027 period – in which pre-election political positioning occurs – is the window for building the coalition and legislative momentum for a parliamentary quota before 2028. Civil society advocacy, development partner support for the policy case (evidence from local council quota success), and engagement with political parties' women's wings are the strategic tools available.
 
-### 5.85.2 The CEDAW Review Cycle and Policy Leverage
+### 5.56.2 The CEDAW Review Cycle and Policy Leverage
 
 The Government's Seventh Periodic Report (2025) will be reviewed by the CEDAW Committee in the 2025-2026 session cycle. The Concluding Observations from that review will provide the next formal international accountability moment for Maldivian gender policy.
 
@@ -3311,7 +3311,7 @@ The Maldivian government's response to these anticipated recommendations – whe
 ## 5.57 Marriage, Family Law, and Divorce
 
 
-### 5.11.1 The Maldivian Divorce Rate: Scale and Social Consequences
+### 5.57.1 The Maldivian Divorce Rate: Scale and Social Consequences
 
 The Maldives' divorce rate is one of the most distinctive features of its social fabric. The country held the **Guinness World Record** for the highest national divorce rate in 2002, at **10.97 per 1,000 population**. Despite sustained family law reform, the rate remains extraordinary: **5.52 per 1,000 in 2024** (Directorate of Judicial Administration), still among the world's highest nationally recorded rates.[^115]
 
@@ -3319,7 +3319,7 @@ Census 2022 data adds nuance: among currently divorced adults, **women substanti
 
 UNDP's 2011 research noted that a "**typical Maldivian woman marries three times by age 30**" – a striking encapsulation of the pattern of serial marriage and divorce that characterises Maldivian family life, particularly for younger women. The Directorate of Judicial Administration (DJA) 2019 statistics found that **58% of female divorcees were aged 26–39**, with combined divorce incidence rates of approximately 70% for the 18–39 age cohort.[^117]
 
-### 5.11.2 Causes of Divorce: Ahmed and Riyaz 2024 Analysis
+### 5.57.2 Causes of Divorce: Ahmed and Riyaz 2024 Analysis
 
 The most recent systematic analysis of divorce causes in the Maldives is provided by **Ahmed and Riyaz (2024)**, who examined recorded divorce cases to identify the nine most commonly documented causes. These include:
 
@@ -3335,7 +3335,7 @@ The most recent systematic analysis of divorce causes in the Maldives is provide
 
 The diversity of causes reflects the multiple stresses on Maldivian marriages: economic pressure, geographic separation, substance abuse, and the intersection of changing gender expectations with persistent social norms. Importantly, **domestic violence as a cause of divorce** (category 3) suggests that for many women, the formal divorce process is the closest available approximation to an escape route from abuse – a pattern consistent with the evidence on DV case attrition documented in §5.5 and the justice pathway analysis.
 
-### 5.11.3 Child Marriage: Data and Dynamics
+### 5.57.3 Child Marriage: Data and Dynamics
 
 The Family Act 2000 sets the minimum marriage age at **18 years**. A 2016 amendment removed the previously existing provision allowing under-18 marriages with Family Court approval in exceptional circumstances. Despite this legal change, the DHS 2016-17 found **2.2% of married women had married before age 18** – a figure that, given the small total population, translates to hundreds of girls and that is likely higher in outer atolls where enforcement is more difficult.[^119]
 
@@ -3343,7 +3343,7 @@ Child marriage in the Maldivian context occurs primarily in circumstances of pre
 
 The interaction between child marriage and GBV is bidirectional: girls who experience childhood sexual abuse (12.2% nationally, Fulu 2007) are at elevated risk of early marriage as a family response to the abuse or to resultant pregnancy; and girls who marry young enter situations of reduced education, limited economic options, and power asymmetry that increase vulnerability to intimate partner violence.
 
-### 5.11.4 Polygamy: Legal Framework and Practice
+### 5.57.4 Polygamy: Legal Framework and Practice
 
 Under the Family Act 2000, polygamy is permitted with Family Court approval and subject to conditions including the wife's consent and the husband's demonstrated ability to maintain multiple households equitably. In practice, the court approval requirement has not eliminated polygamy – the Family Court grants a significant number of polygamy approvals annually. CEDAW reporting documents approximately **165 polygamy approvals in 2020 and 157 in 2021** (CEDAW Seventh Periodic Report 2025).[^121]
 
@@ -3351,7 +3351,7 @@ The CEDAW Committee has repeatedly called for the abolition of polygamy as incom
 
 Women in polygamous marriages face compounded vulnerability. Research on the social consequences of polygamy in the Maldivian context documents: reduced household resources as maintenance obligations are divided; social stigmatisation associated with the status of second or subsequent wife; heightened emotional distress; and, in documented cases, use of the polygamy threat as a form of coercive control within abusive relationships.[^123]
 
-### 5.11.5 Prenuptial Agreements: Near-Total Absence
+### 5.57.5 Prenuptial Agreements: Near-Total Absence
 
 Despite the frequency of divorce and the predictable economic consequences for women, the use of prenuptial agreements remains extremely rare. Family Court records indicate that **only approximately 8 prenuptial agreements** were registered in the most recent year of available data – a figure that reflects near-total social non-use of an available legal tool.[^124]
 
@@ -3363,7 +3363,7 @@ The extreme rarity of prenuptial agreements is significant given the documented 
 
 The consequence is that most divorcing women face financial negotiations without any prior contractual framework, relying on maintenance orders that are chronically unpaid (**MVR 2 million in unclaimed maintenance** documented in Family Court records) and custody arrangements that favour male authority in practice despite the Family Act's neutral custody principles.[^125]
 
-### 5.11.6 Inheritance Law: Structural Gender Inequality
+### 5.57.6 Inheritance Law: Structural Gender Inequality
 
 Under Islamic inheritance law as applied in the Maldives, **daughters receive half the inheritance share of sons**. This provision is derived from the Quran (Sura An-Nisa: 11) and is applied through the Family Court's inheritance division. The Government's CEDAW reservation on Article 16 effectively insulates this provision from CEDAW challenge.[^126]
 
@@ -3377,7 +3377,7 @@ Women's land and property ownership is **not systematically tracked** by the Nat
 ## 5.58 Child Custody, Maintenance, and the Post-Divorce Family Law Reality
 
 
-### 5.22.1 Custody Framework Under the Family Act
+### 5.58.1 Custody Framework Under the Family Act
 
 The **Family Act 2000** governs child custody following divorce or separation. The Act establishes a framework that is nominally gender-neutral – custody decisions are to be made in the best interests of the child – but in practice incorporates Islamic jurisprudence principles that create a gendered custody trajectory.[^270]
 
@@ -3389,7 +3389,7 @@ Under the Family Act's custody provisions:
 
 The hadhanah-wilayah split creates a common practical problem: the mother has physical custody and bears the daily care burden, but the father retains legal authority to make major decisions about the child's life. In an acrimonious post-divorce relationship, this split can be weaponised – a father may refuse to sign documents for a child's passport, school enrolment abroad, or major medical procedure, effectively holding the mother and child hostage to his cooperation without any court-compelled obligation to act in the child's interest.[^272]
 
-### 5.22.2 Custody in Practice: The Court Process
+### 5.58.2 Custody in Practice: The Court Process
 
 A custody application in the Family Court involves:
 1. Filing a custody application (which may be made simultaneously with or separate from a divorce application)
@@ -3404,7 +3404,7 @@ A custody application in the Family Court involves:
 - Enforcement of custody orders – particularly visitation arrangements – is the primary source of ongoing post-divorce Family Court litigation, and enforcement mechanisms are weak
 - Women who breach visitation orders by preventing a father's court-ordered access face the same weak enforcement that women face when seeking enforcement of maintenance payments – the system is structurally inconsistent in which party's rights it effectively protects[^273]
 
-### 5.22.3 Maintenance: The Gap Between Order and Reality
+### 5.58.3 Maintenance: The Gap Between Order and Reality
 
 Child maintenance – financial support from the non-custodial parent – is central to the economic welfare of divorced women and their children. The Family Act provides for maintenance orders to be issued by the Family Court, specifying the amount and payment schedule.[^274]
 
@@ -3417,7 +3417,7 @@ The practical record of maintenance payment in the Maldives is deeply troubling:
 
 The MVR 2 million figure represents documented unpaid maintenance – the visible portion of a problem that is likely substantially larger. Women who give up attempting to enforce maintenance orders, or who never pursue them in the first place due to the system's complexity and their low expectations of success, are not captured in this statistic. The practical consequence for single mothers is reliance on family support, personal labour market earnings (constrained by childcare gaps), or poverty – with the formal maintenance system providing only partial and unreliable compensation for the financial consequences of divorce.
 
-### 5.22.4 The Mahr: Islamic Dower and Its Practical Function
+### 5.58.4 The Mahr: Islamic Dower and Its Practical Function
 
 Under Islamic marriage law applied in the Maldives, a **mahr** (dower) is a mandatory gift from the husband to the wife that is agreed at marriage – either paid immediately at the time of marriage (*mahr muajjal*, prompt mahr) or deferred until divorce or the husband's death (*mahr muakhkhar*, deferred mahr). The mahr is the wife's individual property and cannot be used without her consent.[^276]
 
@@ -3432,10 +3432,10 @@ The Family Legal Clinic's client data provides evidence that mahr disputes are a
 ---
 
 
-## 5.59 Child Marriage and Adolescent Girl Vulnerability: A Detailed Analysis
+## 5.59 Child Marriage and Adolescent Girl Vulnerability
 
 
-### 5.72.1 Child Marriage Dynamics
+### 5.59.1 Child Marriage Dynamics
 
 The 2.2% of married women who were married before age 18 (DHS 2016-17) represents a small but significant population of girls whose educational and developmental trajectories were altered by early marriage. Understanding the dynamics of child marriage in the Maldivian context requires attention to the specific social and legal mechanisms through which it occurs.
 
@@ -3443,13 +3443,13 @@ The 2.2% of married women who were married before age 18 (DHS 2016-17) represent
 
 **The 2016 amendment's consequences:** By removing the judicial exception without simultaneously addressing the social dynamics that produced child marriage, the 2016 amendment may have shifted child marriage from registered (and therefore statistically visible) to informal cohabitation (and therefore statistically invisible). Girls who are effectively in child marriages without legal registration have no access to Family Court protections – no maintenance orders, no formal custody rights – if the relationship breaks down.[^491]
 
-### 5.72.2 Early Marriage and Educational Consequences
+### 5.59.2 Early Marriage and Educational Consequences
 
 A girl who marries at 16 or 17 – even if the marriage is not registered – typically exits the education system at the point of marriage. The intersection of marriage and educational dropout is documented in the Education chapter (§10.X) and represents a specific form of gendered educational harm: girls who marry young are disproportionately the ones who do not complete secondary school and do not access higher education, perpetuating the educational disparity between outer atoll young women and their urban peers.[^492]
 
 **The re-entry gap:** Unlike some countries that have legal and institutional provisions for pregnant students and recently married girls to continue or re-enter education, the Maldives does not have a systematic re-entry mechanism. A girl who leaves school for marriage – whether at 16 or 20 – faces no supported pathway back. This makes the educational cost of early marriage effectively permanent.[^493]
 
-### 5.72.3 Adolescent Girls and Sexual Violence
+### 5.59.3 Adolescent Girls and Sexual Violence
 
 As documented throughout this chapter, adolescent girls are at elevated risk of sexual violence in the Maldivian context:
 - **12.2% nationally** reported childhood sexual abuse (Fulu 2007)
@@ -3466,7 +3466,7 @@ The CRC Periodic Report Draft (Part XVIII-B) and Child Protection chapter (Part 
 ## 5.60 Child Sexual Exploitation and Trafficking: Gender Dimensions
 
 
-### 5.113.1 Commercial Sexual Exploitation of Children
+### 5.60.1 Commercial Sexual Exploitation of Children
 
 Commercial sexual exploitation of children (CSEC) is criminalised under the Sexual Offences Act (2014) as amended. The documented scale:
 
@@ -3479,7 +3479,7 @@ The gender dimension of CSEC: while both boys and girls are vulnerable, the dema
 
 **Service gap:** Specialist trauma-informed services for child CSEC survivors are available primarily in Malé through a combination of CFPS counselling, IGMH psychiatric support, and NGO services. Children in outer islands who have experienced CSEC have very limited access to specialist support. A **National Child Sexual Abuse Response Protocol** is being developed by MoSFD with UNICEF support, which will establish clear multi-agency procedures for identification, immediate support, criminal investigation, and longer-term survivor services.
 
-### 5.113.2 Child Trafficking and Gender
+### 5.60.2 Child Trafficking and Gender
 
 MoGFSS data identified **21 suspected child trafficking cases** referred to or identified by the Ministry in the reporting period, of which a significant proportion did not result in formal investigation.
 
@@ -3490,7 +3490,7 @@ The documented vulnerability pathways with gender dimensions:
 
 The **Fiyavathi Rehabilitation Centre** serves as the rehabilitation facility for female juvenile offenders but also houses girls in need of protective care "who cannot be managed in community settings." This dual function – combining offenders and non-offending vulnerable girls in the same facility – raises fundamental child rights concerns. Girls who have been trafficked or commercially exploited may be placed in a facility designed for juvenile offenders, experiencing a system response that conflates victim status with offender status.[^571]
 
-### 5.113.3 Child Marriage: Legal Framework and Gaps
+### 5.60.3 Child Marriage: Legal Framework and Gaps
 
 Prior to 2016, there was no statutory minimum age of marriage in the Maldives. The Family Act (Law No. 4/2000) permitted marriage from puberty with the consent of a *wali* and Family Court registration, effectively allowing marriage of girls as young as 12 or 13.
 
@@ -3509,13 +3509,13 @@ The DHS 2016-17 documented a 2.2% prevalence of child marriage (marriage before 
 ## 5.61 Gender, Religion, and Islam: The Normative Terrain
 
 
-### 5.23.1 Islam as Both Constraint and Resource
+### 5.61.1 Islam as Both Constraint and Resource
 
 Any substantive analysis of gender policy in the Maldives must engage with the role of Islam – not as a monolithic force for gender inequality, but as a complex normative terrain within which both constraints on and resources for women's equality coexist. Islamic jurisprudence as applied in the Maldives reflects specific historical interpretive traditions (predominantly the Shafi'i school of Sunni Islam) that have shaped family law, social norms, and state legitimacy – but the Islamic tradition contains substantial internal diversity on questions of gender that is rarely surfaced in public discourse.
 
 The **2008 Constitution** establishes Islam as the state religion and makes Islamic jurisprudence a source of law. The constitution's rights provisions – including non-discrimination and equality – are qualified by consistency with Islam, meaning that rights claims must navigate the Islamic framework rather than superseding it. This constitutional structure has been central to debates about gender equality reform: advocates have had to argue within an Islamic framework, and reform proposals inconsistent with dominant interpretations of Islamic law face not just political opposition but constitutional challenge.[^278]
 
-### 5.23.2 The Conservative Turn: 2008 to Present
+### 5.61.2 The Conservative Turn: 2008 to Present
 
 Maldivian society has undergone a documented increase in religious conservatism since the democratic transition of 2008. The political competition of the first multi-party period included significant contestation over the country's Islamic identity, with opposition parties and religious groups arguing that the reform era was secularising the Maldives. The result was a pattern in which political parties – including those nominally committed to gender equality – were reluctant to advocate positions that could be characterised as un-Islamic, particularly on women's rights issues.[^279]
 
@@ -3527,7 +3527,7 @@ Visible manifestations of the conservative turn include:
 
 The conservative turn is not uniform across the population. Urban, educated, and younger women hold diverse views on the relationship between Islam and gender equality – including a significant strand of Islamic feminist thought that argues for gender equality within an Islamic framework. The public space for this discourse has, however, been constrained by the political dynamics that treat any gender equality advocacy as potentially un-Islamic.
 
-### 5.23.3 Islamic Feminist Perspectives
+### 5.61.3 Islamic Feminist Perspectives
 
 Within the Maldivian intellectual and civil society space, a strand of Islamic feminism – arguing for women's rights within and from Islamic tradition rather than against it – has developed, though with limited public visibility compared to more conservative religious voices. Key arguments in this tradition as applied to the Maldivian context include:
 
@@ -3539,7 +3539,7 @@ Within the Maldivian intellectual and civil society space, a strand of Islamic f
 
 **On inheritance:** The inheritance half-share provision is one of the most robustly grounded in Quranic text (4:11). Islamic feminist engagement with this provision typically acknowledges the Quranic basis while arguing for contextual interpretation – noting that the inheritance provision historically complemented the obligation of male family members to financially support female relatives, and that in a context where women are major breadwinners and financial contributors, the application of the half-share without the corresponding full male maintenance obligation creates an unjust outcome that cannot have been the Quran's intent. Morocco's (limited) inheritance reforms and Tunisia's (contested) attempts represent the regional boundary of this debate.[^284]
 
-### 5.23.4 Ministry of Islamic Affairs and Religious Discourse on Gender
+### 5.61.4 Ministry of Islamic Affairs and Religious Discourse on Gender
 
 The **Ministry of Islamic Affairs (MIA)** is constitutionally responsible for Islamic affairs governance, including the regulation of mosques, the licensing of religious scholars, and the production of official Islamic guidance. The MIA has not been a consistent voice for gender equality; in several documented instances, MIA statements or associated religious scholars have taken public positions that reinforce conservative gender norms – including statements opposing women's leadership in some contexts and reinforcing traditional family role expectations.
 
@@ -3553,7 +3553,7 @@ The relationship between the gender equality policy agenda and the religious ins
 ## 5.62 Religious Institutions and Gender: The Mosque Network
 
 
-### 5.74.1 The Mosque as a Gender Policy Actor
+### 5.62.1 The Mosque as a Gender Policy Actor
 
 The mosque network – approximately one mosque per inhabited island, with larger islands having multiple mosques – is the most pervasive institutional presence in Maldivian society. Friday sermons, religious education, and the social authority of Imams shape community norms in ways that no government agency or NGO can match in outer island communities. Understanding the mosque's role in gender policy is essential for understanding both the barriers to and the opportunities for norm change.
 
@@ -3565,7 +3565,7 @@ The Ministry of Islamic Affairs provides guidelines and content support for Frid
 
 **Progressive Islamic scholarship:** A minority but growing strand of progressive Islamic scholarship is beginning to reach Maldivian audiences through digital platforms – YouTube lectures, social media content, and WhatsApp-distributed audio – from scholars like Sheikh Khalid Abou El Fadl, Amina Wadud, and Khaled Abou El Fadl who engage Islamic jurisprudence on gender equality from within the tradition. This scholarly content reaches primarily the educated urban audience rather than outer island communities; but it is beginning to create a counter-discourse that challenges the conservative gender norms dominant in mainstream Maldivian Islamic discourse.[^499]
 
-### 5.74.2 The Raabithaa (Youth Religious Groups)
+### 5.62.2 The Raabithaa (Youth Religious Groups)
 
 Youth-focused Islamic organisations – particularly the *Adhaalath Party*-affiliated religious youth network and mosque-based youth religious groups – are influential in shaping young Maldivian men's religious identity and, through it, their understanding of gender relations. These organisations are typically male-dominated in leadership; their gender discourse tends toward conservative framing of male authority and female domesticity.
 
@@ -3577,7 +3577,7 @@ Engaging these organisations as potential gender equality allies – through pre
 ## 5.63 Social Norms, Media, and the Cultural Architecture of Gender Inequality
 
 
-### 5.24.1 The Role of Social Norms
+### 5.63.1 The Role of Social Norms
 
 Social norms – the shared expectations within a community about appropriate behaviour – are the cultural architecture within which laws operate, and frequently determine whether legal rights are exercised in practice. In the Maldivian context, a set of deeply embedded social norms shapes gender equality outcomes in ways that no legislative reform alone can fully address:
 
@@ -3591,7 +3591,7 @@ Social norms – the shared expectations within a community about appropriate be
 
 **Norm 5: Women's bodies are subject to community regulation.** Dress codes, mobility restrictions, and social supervision of women's public behaviour are documented as significant constraints on women's freedom in many outer island communities. Women who are seen as dressing immodestly, moving freely in public spaces, or engaging in social activities without appropriate supervision are subject to community censure. These norms limit women's economic participation (restricting access to outdoor employment, fitness, and public space), social engagement, and political participation.[^291]
 
-### 5.24.2 Media Representation and Gender
+### 5.63.2 Media Representation and Gender
 
 Maldivian media – including television, radio, and the rapidly growing digital media sector – plays a significant role in both reflecting and shaping social norms on gender. Key dimensions of the media-gender relationship include:
 
@@ -3603,7 +3603,7 @@ Maldivian media – including television, radio, and the rapidly growing digital
 
 **The #MeToo moment in the Maldives:** A Maldivian iteration of the #MeToo movement emerged on social media approximately 2020-21, with women using anonymous and named accounts to share experiences of sexual harassment and assault – including in professional and educational settings. The movement created significant public discourse but did not result in any formal accountability proceedings, illustrating both the potential and the limitations of social media-based gender rights advocacy in the Maldivian context.[^295]
 
-### 5.24.3 Attitudes Surveys: What Maldivians Believe About Gender
+### 5.63.3 Attitudes Surveys: What Maldivians Believe About Gender
 
 Systematic attitude survey data on gender norms in the Maldives is limited but includes several important data points:
 
@@ -3622,7 +3622,7 @@ Systematic attitude survey data on gender norms in the Maldives is limited but i
 ## 5.64 Journalism and Gender Reporting
 
 
-### 5.78.1 Media Coverage of GBV
+### 5.64.1 Media Coverage of GBV
 
 The quality of media coverage of GBV – how violence against women is reported, framed, and discussed in the news media – is a significant influence on public awareness, survivor willingness to disclose, and political pressure for systemic reform. In the Maldivian media context:
 
@@ -3632,7 +3632,7 @@ The quality of media coverage of GBV – how violence against women is reported,
 
 **Privacy law tensions:** Maldivian privacy law creates tensions for GBV journalism. Reporting on court proceedings – which are public – may be restricted by provisions that protect individuals' privacy in sensitive cases. The balance between accountability journalism (reporting on the justice system's performance in GBV cases) and survivor privacy is a live editorial challenge.[^505]
 
-### 5.78.2 Social Media as Counter-Public
+### 5.64.2 Social Media as Counter-Public
 
 As documented in §5.24, social media has emerged as the primary counter-public space for gender discourse that is not adequately served by mainstream media:
 
@@ -3648,13 +3648,13 @@ The limitations of social media as a counter-public include: the same community-
 ## 5.65 Honour, Shame, and the Cultural Architecture of GBV Silence
 
 
-### 5.38.1 Shame as a Social Control Mechanism
+### 5.65.1 Shame as a Social Control Mechanism
 
 In the Maldivian social context, as in many South Asian and Islamic cultural contexts, **shame (sharm)** – and its corollary concept of **honour (izzath)** – functions as a powerful social control mechanism that operates specifically and disproportionately through women's bodies, behaviour, and relationships. The honour-shame dynamic is not an abstract cultural observation; it has direct and documented consequences for GBV disclosure, help-seeking, and access to justice.
 
 The core logic of the honour-shame system in the Maldivian context is: **family honour is substantially located in women's sexual behaviour and marital status**. A woman who is known to have been sexually assaulted brings shame on her family; a woman who is known to have been in an abusive marriage brings shame by publicising the failure of the marriage; a woman who leaves an abusive husband is shamed for breaking up the family. In each case, the social consequence of the violence – or of seeking help for the violence – falls on the woman and her family, not on the perpetrator.[^394]
 
-### 5.38.2 The Practical Consequences
+### 5.65.2 The Practical Consequences
 
 The honour-shame framework has specific documented consequences:
 
@@ -3666,13 +3666,13 @@ The honour-shame framework has specific documented consequences:
 
 **Perpetrator protection:** The honour logic extends to protecting perpetrators from outside judgment – a family that has a violent member does not want this known outside the family, creating pressure from the perpetrator's own family on the survivor to withdraw complaints, drop protection orders, and reconcile. The perpetrator's family may have much more social capital in the island community than the survivor, making their pressure effective.[^395]
 
-### 5.38.3 Religious Framing of Shame
+### 5.65.3 Religious Framing of Shame
 
 The honour-shame system is frequently articulated in religious language – framing disclosure of marital problems as inappropriate, as exposing one's husband's faults (which some religious advisors argue is discouraged in Islam), or as failure to seek intra-family reconciliation before external intervention. This religious framing makes the social pressure to silence harder to challenge: a woman who insists on reporting DV despite family pressure must confront both the social consequences and the religious framing that positions her as acting against Islamic norms.
 
 The counter-narrative – that Islam explicitly prohibits harm to spouses and family members, that seeking protection from harm is consistent with Islamic principles, and that state intervention in domestic violence is comparable to any other state intervention to prevent harm – has been articulated by progressive Islamic scholars and by the FPA in its awareness campaigns. But this counter-narrative has not displaced the dominant shame-silence narrative in many communities, particularly in more conservative outer atolls.[^396]
 
-### 5.38.4 Implications for Intervention Design
+### 5.65.4 Implications for Intervention Design
 
 The honour-shame framing has direct implications for GBV intervention design:
 
@@ -3687,7 +3687,7 @@ The honour-shame framing has direct implications for GBV intervention design:
 ## 5.66 Men, Masculinity, and Gender Equality in the Maldives
 
 
-### 5.37.1 The Role of Men in GBV
+### 5.66.1 The Role of Men in GBV
 
 Any comprehensive gender policy analysis must address the role of men – both as the primary perpetrators of GBV and as potential allies in prevention. The dominant framings of GBV policy in the Maldives – and internationally – focus primarily on women as survivors and service recipients, which is appropriate given that the immediate need is survivor protection. But prevention requires addressing the behaviours and beliefs of perpetrators and potential perpetrators, which means engaging men directly.
 
@@ -3699,7 +3699,7 @@ Any comprehensive gender policy analysis must address the role of men – both a
 - Social permission for men to engage in substance use, infidelity, and some degree of relationship volatility as normal male behaviour
 - Stigma against men who seek help for relationship problems, mental health difficulties, or the consequences of their own childhood trauma[^389]
 
-### 5.37.2 Perpetrator Intervention Programmes
+### 5.66.2 Perpetrator Intervention Programmes
 
 The Maldivian GBV response system as of 2024-25 does not include systematic **perpetrator intervention programmes** (PIPs) – structured programmes designed to change the behaviour and attitudes of men who have perpetrated DV. PIPs are a recognised component of comprehensive DV response in many jurisdictions, operating on the premise that criminal sanctions alone are insufficient and that sustained behaviour change requires therapeutic and psychoeducational intervention.[^390]
 
@@ -3711,7 +3711,7 @@ The absence of PIPs in the Maldivian system means that perpetrators who are pros
 
 The AIM Project has included community-level male engagement as a prevention component – engaging men through community education and male champion programmes rather than clinical perpetrator intervention. This lighter-touch approach is less evidence-based as a behaviour change intervention for men already perpetrating violence, but is appropriate as a primary prevention strategy.[^391]
 
-### 5.37.3 Men as Gender Equality Allies
+### 5.66.3 Men as Gender Equality Allies
 
 A growing body of international evidence demonstrates that men's engagement as allies – rather than merely as objects of behaviour change – is essential for sustainable gender equality progress. Male allies in the Maldivian context can play roles including:
 
@@ -3728,7 +3728,7 @@ The AIM Project's male engagement component, the MDN's men's rights literacy pro
 ## 5.67 The Intergenerational Transmission of Gender Inequality
 
 
-### 5.83.1 How Inequality Reproduces Across Generations
+### 5.67.1 How Inequality Reproduces Across Generations
 
 One of the most important – and most difficult to address – dimensions of gender inequality is its intergenerational transmission: the ways in which inequality in one generation creates conditions that reproduce inequality in the next. Understanding these transmission mechanisms is essential for designing interventions that break cycles rather than merely treating symptoms.
 
@@ -3740,7 +3740,7 @@ One of the most important – and most difficult to address – dimensions of ge
 
 **Norm transmission:** Gender norms – what it means to be a man or woman, what behaviour is acceptable in relationships – are primarily transmitted through families. Parents who model equitable relationships transmit those norms to children; parents who model unequal or violent relationships transmit those norms. Social norm change programming that reaches parents therefore has potential intergenerational impact.
 
-### 5.83.2 Targeting Intergenerational Intervention Points
+### 5.67.2 Targeting Intergenerational Intervention Points
 
 The most effective intergenerational interventions are those that simultaneously address multiple transmission pathways. In the Maldivian context:
 
@@ -3759,7 +3759,7 @@ The most effective intergenerational interventions are those that simultaneously
 ## 5.68 Women's Mental Health
 
 
-### 5.12.1 Gender Patterns in Mental Health: Depression and Self-Harm
+### 5.68.1 Gender Patterns in Mental Health: Depression and Self-Harm
 
 Mental health data from the Maldives reveals striking gender differentials that underscore the psychological costs of gender inequality, GBV victimisation, and social constraint. The **WHO STEP Survey 2021** (cited in the Mental Health chapter, §9.X) found that:
 
@@ -3772,7 +3772,7 @@ The MoSFD's 2024 administrative data on self-harm presentations adds a further d
 
 This pattern – women substantially more likely to internalise psychological distress through depression and self-harm, while men are more likely to externalise through substance abuse – is consistent with international mental health literature and has direct implications for the design of crisis services. Services oriented around visible, externalised crisis presentations (violence, intoxication) systematically underserve the hidden crisis of women's internalised distress.[^133]
 
-### 5.12.2 GBV as a Mental Health Driver
+### 5.68.2 GBV as a Mental Health Driver
 
 The intersection of GBV victimisation and mental health is strongly documented internationally and is consistent with Maldivian field evidence. GBV survivors experience elevated rates of:
 - **Post-traumatic stress disorder (PTSD):** Maldivian research and international evidence suggest a significant proportion of DV and sexual violence survivors meet PTSD diagnostic criteria, though national epidemiological data is not available[^134]
@@ -3782,13 +3782,13 @@ The intersection of GBV victimisation and mental health is strongly documented i
 
 UNFPA's National Guidelines for Healthcare Providers on GBV (2024, second edition) includes a mental health screening component for women presenting with GBV-related injuries or disclosures, with referral pathways to the FPA counselling services and, in Malé, to the National Mental Health Centre (Indhira Gandhi Memorial Hospital). The outer atoll gap in this referral pathway – where no NMHC equivalent exists – means that GBV survivors with mental health needs in most of the country have no access to specialist mental health care.
 
-### 5.12.3 Postnatal Mental Health
+### 5.68.3 Postnatal Mental Health
 
 Postnatal depression and postnatal mental health more broadly represent a significant gap in the Maldivian health system's gender-responsive services. The RMNCAH Strategy 2020–2025 acknowledges postnatal care as a priority but does not include a specific postnatal mental health protocol. Available data on postnatal depression prevalence in the Maldives is limited; no national screening programme exists.[^138]
 
 Given the documented rates of depression among Maldivian women of reproductive age (33.5% overall), and the additional stresses of the atoll environment – geographic isolation from family support, domestic violence in a significant proportion of households, financial stress – the absence of postnatal mental health services represents a gap with real consequences for mothers and infant outcomes. International evidence consistently finds that untreated postnatal depression affects child development, breastfeeding, and maternal-infant bonding, making it both a mental health and a child welfare issue.
 
-### 5.12.4 Stigma and Barriers to Mental Health Access
+### 5.68.4 Stigma and Barriers to Mental Health Access
 
 The Mental Health chapter (§9.X) documents **four types of mental health stigma** in the Maldivian context that affect access:
 1. **Supernatural stigma:** Mental illness attributed to possession or supernatural causes, leading families to seek religious intervention rather than clinical care
@@ -3798,7 +3798,7 @@ The Mental Health chapter (§9.X) documents **four types of mental health stigma
 
 For women, these stigmas interact with the gendered dynamics of disclosure. A woman who discloses depression associated with marital violence risks her husband being informed (violating confidentiality expectations), community judgment about her marriage, and family pressure not to jeopardise the relationship. The social barriers to women's mental health service access thus mirror and compound the social barriers to GBV disclosure documented in §5.5.[^140]
 
-### 5.12.5 Substance Abuse: Indirect Gender Pathways
+### 5.68.5 Substance Abuse: Indirect Gender Pathways
 
 Substance abuse in the Maldives is documented as **94% male** in the population admitted to treatment services (Mental Health chapter §9.X, citing NSDC data). This apparent gender gap – male substance abusers substantially outnumbering female – conceals an important indirect gender pathway: women are the primary secondary victims of male substance abuse in the domestic sphere.[^141]
 
@@ -3810,7 +3810,7 @@ Research documented in the Cross-Cutting Issues chapter links male substance abu
 ## 5.69 Education and Gender
 
 
-### 5.13.1 The Reverse Gender Gap: Achievement Without Economic Parity
+### 5.69.1 The Reverse Gender Gap: Achievement Without Economic Parity
 
 The Maldives presents one of the most striking "reverse gender gaps" in South Asia at the tertiary education level: **59–64% of students in higher education are female** (Ministry of Higher Education 2023). At secondary level, the dropout rate is **88% male** – meaning almost all students who leave school before completion are boys, not girls. Girls in the Maldives now substantially outperform boys in educational persistence and credential attainment.[^143]
 
@@ -3818,7 +3818,7 @@ This represents a profound historical inversion. The first formal school for gir
 
 The educational achievement, however, has not translated proportionately into economic equality – demonstrating that educational attainment is a necessary but insufficient condition for gender economic empowerment in a context where structural labour market barriers, social norms, and institutional failures prevent educational gains from flowing through to economic outcomes. Women's LFPR (44%) remains 36 percentage points below men's (80%) despite women's tertiary education majority, and women's wages remain 13–20% below men's in comparable positions.[^144]
 
-### 5.13.2 Early Marriage, Pregnancy, and Girls' Educational Dropout
+### 5.69.2 Early Marriage, Pregnancy, and Girls' Educational Dropout
 
 While the aggregate statistics show women's educational advantage, this masks a pattern of educational attrition at the secondary level linked to early marriage and pregnancy, particularly in outer atolls. Girls who become pregnant – whether through consensual or coerced sex – typically withdraw from school due to a combination of:
 - Social stigma making continued school attendance impractical
@@ -3827,7 +3827,7 @@ While the aggregate statistics show women's educational advantage, this masks a 
 
 The absence of re-entry pathways for girls who leave school due to pregnancy is a significant policy gap. In most high-income countries with comparable social policy frameworks, school re-entry after pregnancy is legally protected and supported. In the Maldives, there is no formal re-entry mechanism, and girls who leave school for marriage or pregnancy typically do not return to formal education.[^146]
 
-### 5.13.3 Sexual and Reproductive Health Education: Curriculum Gaps
+### 5.69.3 Sexual and Reproductive Health Education: Curriculum Gaps
 
 The school curriculum's treatment of sexual and reproductive health is a critical gap with documented consequences for adolescent health outcomes and GBV vulnerability. The Youth Vulnerability Study 2019, Education chapter analysis (§10.X), and UNFPA assessments consistently find that:
 
@@ -3840,7 +3840,7 @@ The practical consequences are significant. Adolescent survivors of childhood se
 
 The CEDAW Committee's November 2021 Concluding Observations specifically called for comprehensive sexuality education to be incorporated into the school curriculum, with content covering consent, contraception, and healthy relationships. The Government's Seventh Periodic Report (2025) does not indicate implementation of this recommendation.[^149]
 
-### 5.13.4 Career Guidance and Occupational Stereotyping
+### 5.69.4 Career Guidance and Occupational Stereotyping
 
 The Education chapter (§10.X) documents that career guidance in Maldivian schools systematically channels girls toward traditionally feminised occupations – teaching, nursing, social work – and boys toward traditionally masculine occupations – fishing, tourism, construction, and technical trades. This occurs both explicitly, through career counsellor advice that reflects societal gender role expectations, and implicitly, through the social environment that makes certain career choices easier or harder to pursue by gender.[^150]
 
@@ -3848,7 +3848,7 @@ The effect is to reproduce occupational segregation through the education system
 
 **TVET (Technical and Vocational Education and Training)** data illustrates the segregation directly: males substantially outnumber females in technical programmes, including those with growing labour market demand and associated higher wages. The ADB ARISE Project specifically targets this gap with gender-inclusive training methodologies and efforts to increase women's participation in non-traditional vocational areas including solar PV technology.[^152]
 
-### 5.13.5 Higher Education Access: Geography and Equity
+### 5.69.5 Higher Education Access: Geography and Equity
 
 While aggregate higher education numbers favour women, the geographic distribution of higher education access creates inequities by island location. Higher education institutions are concentrated in Malé, with limited presence in outer atolls. Women from outer atolls who wish to pursue higher education face:
 - The same inter-island transport costs and logistical challenges that affect all outer atoll residents
@@ -3863,7 +3863,7 @@ The Maldives National University (MNU) has expanded its distance learning and di
 ## 5.70 The Maldives National University: Gender in Higher Education
 
 
-### 5.89.1 MNU's Gender Profile
+### 5.70.1 MNU's Gender Profile
 
 The **Maldives National University (MNU)** is the country's largest higher education institution, established from the merger of several technical institutes in 2011. MNU's student population reflects the national gender pattern in higher education: female students constitute approximately 60% or more of total enrollment across most faculties.
 
@@ -3877,7 +3877,7 @@ The **Maldives National University (MNU)** is the country's largest higher educa
 
 **Distance and flexible learning:** MNU's distance learning programmes have significantly higher female enrollment than on-campus programmes, consistent with the finding that flexible, non-residential education options are more accessible to women managing care responsibilities and geographic constraints.[^521]
 
-### 5.89.2 Gender in MNU Research
+### 5.70.2 Gender in MNU Research
 
 MNU's research output includes studies on Maldivian social issues, some of which address gender – including research on divorce, family law, and social development. Whether MNU has established a dedicated gender research centre or programme – which would provide an institutional base for the gender data research that is chronically underfunded in the Maldives – is not documented in available public sources. Establishing a Centre for Gender Studies at MNU would provide an institutional home for the Maldivian-specific Islamic feminist scholarship, gender data analysis, and policy research that the gender equality movement needs but currently lacks.
 
@@ -3887,7 +3887,7 @@ MNU's research output includes studies on Maldivian social issues, some of which
 ## 5.71 The Digital Gender Divide and Technology Access
 
 
-### 5.75.1 Internet and Mobile Penetration
+### 5.71.1 Internet and Mobile Penetration
 
 The Maldives has high internet and mobile phone penetration – one of the highest in South Asia. The 2022 Census and ICT sector data indicate near-universal mobile phone ownership among adults, with internet access available through mobile data across most inhabited islands. Social media use – particularly Facebook, TikTok, and WhatsApp – is pervasive across demographic groups.
 
@@ -3899,7 +3899,7 @@ This digital connectivity has significant gender dimensions:
 
 **Social media and GBV:** As documented in §5.16, digital platforms are both a source of expanded connectivity and a vector for gender-based violence – online harassment, non-consensual image sharing, and stalking. Women who are public figures face coordinated digital harassment; private women face targeted harassment from ex-partners. The legal and institutional framework for addressing digital GBV lags the technology.
 
-### 5.75.2 The WhatsApp Factor in GBV Response
+### 5.71.2 The WhatsApp Factor in GBV Response
 
 An under-examined dimension of digital connectivity and GBV response is the use of **WhatsApp and messaging apps** as informal support channels for DV survivors:
 
@@ -3918,7 +3918,7 @@ These informal digital pathways are not systematically documented or supported b
 ## 5.72 Women in the Criminal Justice System: Victims, Defendants, and the Zina Law
 
 
-### 5.25.1 Women as GBV Victims in Criminal Courts
+### 5.72.1 Women as GBV Victims in Criminal Courts
 
 When DV or sexual violence progresses to the criminal justice track – the small minority of cases in which police investigation and prosecution follow – survivors navigate a criminal court system with structural features that compound the barriers to effective access to justice:
 
@@ -3930,7 +3930,7 @@ When DV or sexual violence progresses to the criminal justice track – the smal
 
 **Cross-examination trauma:** In Maldivian criminal proceedings, as in most adversarial systems, defence counsel has the right to cross-examine prosecution witnesses including the victim/survivor. In GBV cases, this cross-examination can be re-traumatising – revisiting the details of violence, challenging the survivor's account, and implicitly or explicitly questioning her motives or character. No special provisions restricting the nature of cross-examination in GBV cases exist in Maldivian criminal procedure – the rape shield provisions that many jurisdictions have enacted (preventing reference to a survivor's sexual history) do not have a clear equivalent in Maldivian law.[^302]
 
-### 5.25.2 Women as Criminal Defendants: The Zina Law
+### 5.72.2 Women as Criminal Defendants: The Zina Law
 
 One of the most acute gender justice issues in Maldivian criminal law is the **zina provision** of the Penal Code: sexual intercourse outside marriage is criminalised for both parties, with a prescribed punishment of **100 lashes** by flogging. The gendered application of this provision is the most significant documented human rights concern in Maldivian criminal law.
 
@@ -3947,7 +3947,7 @@ The result is that survivors of sexual violence who become pregnant face potenti
 
 **The constitutional tension:** The 2008 Constitution both guarantees rights (including protection from torture and cruel treatment) and establishes Islamic jurisprudence as a source of law. The Constitutional Court has not resolved the tension between these provisions, leaving the flogging sentence for zina in a legal limbo where it is simultaneously constitutional (as a Shariah requirement) and arguable unconstitutional (as a form of cruel treatment) – a tension that the political system has not been willing to resolve through legislative action.[^306]
 
-### 5.25.3 Corporal Punishment Provisions
+### 5.72.3 Corporal Punishment Provisions
 
 The zina flogging is one component of a broader set of corporal punishment provisions with documented gender dimensions. Other relevant Penal Code provisions include:
 
@@ -3963,7 +3963,7 @@ The zina flogging is one component of a broader set of corporal punishment provi
 ## 5.73 Trafficking, Online Exploitation, and Violence Beyond the Household
 
 
-### 5.16.1 Human Trafficking: Legal Framework and Implementation Record
+### 5.73.1 Human Trafficking: Legal Framework and Implementation Record
 
 The **Anti-Human Trafficking Act 12/2013** established the Maldives' foundational anti-trafficking legislation, creating trafficking-specific criminal offences and mandating a National Referral Mechanism (NRM) for trafficking victim identification, protection, and assistance. The law defines trafficking in persons broadly to include recruitment, transportation, transfer, harbouring, and receipt of persons through coercion, deception, or abuse of power for exploitation – including sexual exploitation, forced labour, and organ removal.[^183]
 
@@ -3974,7 +3974,7 @@ As of 2025, implementation of the Anti-Trafficking Act falls well short of the l
 - **Zero government employees have been prosecuted** for trafficking-related offences, despite documented evidence of trafficking facilitated through government-issued documents and processes[^186]
 - Victim identification rates remain extremely low – trafficking victims, particularly in the domestic work sector, are more likely to be deported as irregular migrants than identified as trafficking victims and provided with protection[^187]
 
-### 5.16.2 Domestic Workers: The Hidden Trafficking Population
+### 5.73.2 Domestic Workers and Trafficking
 
 The trafficking population of greatest relevance to gender policy is **domestic workers** – predominantly women from Sri Lanka and Bangladesh employed in private households throughout the Maldives. The Anti-Trafficking Act's definition covers domestic servitude (a form of forced labour), and the private household context creates particular enforcement challenges:
 
@@ -3985,7 +3985,7 @@ The trafficking population of greatest relevance to gender policy is **domestic 
 
 The domestic worker population in the Maldives is substantial and has grown as Malé's dual-income households increasingly employ live-in domestic workers. No comprehensive census of domestic worker numbers exists; estimates suggest several thousand workers, predominantly South Asian women.[^190]
 
-### 5.16.3 Sexual Trafficking and Exploitation
+### 5.73.3 Sexual Trafficking and Exploitation
 
 Sexual exploitation – both of Maldivian women and of foreign women trafficked into the country – is documented but difficult to quantify given the underground nature of sex work (which is criminalised) and the limited victim identification system:
 
@@ -3995,7 +3995,7 @@ Sexual exploitation – both of Maldivian women and of foreign women trafficked 
 
 The intersection of trafficking and the GBV response system is weak. The FPA does not have a designated trafficking victim support protocol separate from its general GBV response, and the Criminal Court processes for trafficking cases are at an early stage of development. The AIM Project's Baseline Assessment (2022) identifies trafficking as an area where legal reform has significantly outpaced operational capacity.[^194]
 
-### 5.16.4 Online Exploitation and Digital Gender-Based Violence
+### 5.73.4 Online Exploitation and Digital Gender-Based Violence
 
 Online and digital forms of gender-based violence represent a growing and inadequately addressed dimension of GBV:
 
@@ -4009,7 +4009,7 @@ Online and digital forms of gender-based violence represent a growing and inadeq
 
 The CEDAW Committee's November 2021 Concluding Observations included online and digital violence as an area of concern. The Government's response has focused primarily on general cybercrime law rather than gender-specific digital GBV provisions.[^199]
 
-### 5.16.5 Workplace Sexual Harassment
+### 5.73.5 Workplace Sexual Harassment
 
 The **Employment Act 2/2008** and the **Gender Equality Act 18/2016** both prohibit workplace discrimination and harassment on grounds of gender. The GEA provides the more specific framework, defining sexual harassment and requiring employers to establish internal harassment complaint procedures.[^200]
 
@@ -4030,7 +4030,7 @@ The tourism sector presents specific workplace harassment vulnerabilities: women
 ## 5.74 Atoll Women and Geographic Inequality
 
 
-### 5.17.1 The Atoll Geography as a Gender Justice Issue
+### 5.74.1 The Atoll Geography as a Gender Justice Issue
 
 The Maldives consists of 187 inhabited islands spread across 26 atolls and 750 kilometres of ocean. This geography is not gender-neutral. Services, infrastructure, employment, and justice are concentrated in Malé and a small number of regional centres; women on smaller and more remote islands face compounding geographic barriers to accessing the rights and services to which they are legally entitled. The lived experience of gender inequality differs substantially between a woman in Malé and a woman on a remote outer island – and even the national statistics that document gender inequality typically mask this internal geographic variation.[^203]
 
@@ -4044,7 +4044,7 @@ The atoll geography interacts with gender inequality through several specific me
 
 **Male out-migration:** In atolls where male labour migration to resorts or Malé is high, women may be de facto heads of household with expanded responsibility but limited formal authority, economic resources, or access to services. The labour migration dynamic creates households where women manage complex social and economic situations with inadequate support.[^207]
 
-### 5.17.2 Outer Atoll DV Response: The Infrastructure Gap
+### 5.74.2 Outer Atoll DV Response: The Infrastructure Gap
 
 The DV response infrastructure outside Malé and the three ADB-funded shelter locations (Hithadhoo/Addu, Hulhumale', Raa Atoll) is severely limited. The infrastructure gap in outer atoll DV response includes:
 
@@ -4058,7 +4058,7 @@ The DV response infrastructure outside Malé and the three ADB-funded shelter lo
 
 **Transport as barrier and risk:** Even when a DV survivor decides to leave, the logistics of safe departure from a small island are complex – speedboat or ferry schedules are limited, departures are visible to the community (including the perpetrator), and the journey to the nearest shelter may be dangerous if the perpetrator is aware.[^212]
 
-### 5.17.3 Laamu Atoll: A Case Study in Intersecting Vulnerabilities
+### 5.74.3 Laamu Atoll: A Case Study in Intersecting Vulnerabilities
 
 The Laamu Atoll Vulnerability Mapping – cited in multiple chapters of this encyclopedia – provides one of the most detailed subnational analyses of intersecting gender, climate, and economic vulnerabilities. Laamu Atoll is instructive precisely because it is not exceptional: it represents conditions found across many outer atolls, and the mapping methodology is transferable to other geographic contexts.
 
@@ -4070,7 +4070,7 @@ Key findings from the Laamu mapping with gender dimensions include:
 
 The Laamu mapping's value lies in its granularity – identifying specific islands where specific service gaps create acute vulnerability. This level of analysis has not been systematically conducted across all 26 atolls, representing a significant gap in the evidence base for geographically targeted social policy interventions.
 
-### 5.17.4 Urbanisation and Its Gender Dimensions
+### 5.74.4 Urbanisation and Its Gender Dimensions
 
 The long-term demographic trend toward urbanisation – concentration of population in Malé, Hulhumale', and a small number of growing regional centres – has gender-differentiated consequences:
 
@@ -4091,7 +4091,7 @@ The long-term demographic trend toward urbanisation – concentration of populat
 ## 5.75 A Day in the Life: The Geographic Reality of Gender Inequality
 
 
-### 5.70.1 The Outer Island Woman's Reality
+### 5.75.1 The Outer Island Woman's Reality
 
 Abstract statistics – LFPR of 44%, 3% prosecution rate, 29% contraceptive unmet need – acquire meaning when situated in the lived experience of women in specific contexts. This section attempts to trace what gender inequality looks like concretely for women in different positions in Maldivian society.
 
@@ -4107,7 +4107,7 @@ She also faces barriers – marriage pressure, job interview questions about her
 
 **The recently divorced single mother:** A 34-year-old divorced woman with three children who has left an abusive marriage in Malé is navigating: family court proceedings for custody and maintenance (with or without FLC representation); the search for affordable housing without a joint income or any guaranteed maintenance income; the challenge of childcare that would allow her to work; and the social consequences of divorce in her community. The MVR 2 million in unclaimed maintenance represents, in individual terms, months of unpaid childcare support from her children's father. Her situation is the economic consequence of the gender inequality documented throughout this chapter translated into daily material struggle.
 
-### 5.70.2 The Male Perpetrator's Position
+### 5.75.2 The Male Perpetrator's Position
 
 Understanding gender inequality also requires attending to the position of men who perpetrate violence – not to excuse or minimise, but to understand the structural conditions that produce DV perpetration and how they might be changed:
 
@@ -4121,7 +4121,7 @@ This man is the typical DV perpetrator in the Maldivian data – and the system 
 ## 5.76 The Intersection of Gender and Ethnicity/Regional Identity
 
 
-### 5.66.1 Maldivian Social Diversity
+### 5.76.1 Maldivian Social Diversity
 
 The Maldives is sometimes characterised as an ethnically homogeneous society – a single Maldivian people with a shared Islamic culture and Dhivehi language. In practice, significant regional variation in social norms, economic conditions, and gender relations exists across the atolls, with documented consequences for gender equality outcomes.
 
@@ -4140,13 +4140,13 @@ The Maldives is sometimes characterised as an ethnically homogeneous society –
 ## 5.77 Gender and Climate Vulnerability
 
 
-### 5.15.1 The Climate-Gender Nexus in Small Island Developing States
+### 5.77.1 The Climate-Gender Nexus in Small Island Developing States
 
 The Maldives is categorised by the IPCC as one of the world's most climate-vulnerable nations: 80% of the country's land area lies less than one metre above sea level, and all inhabited islands are exposed to sea level rise, storm surge, coral bleaching, and intensifying weather events. Gender intersects with climate vulnerability across multiple dimensions – women and men experience climate impacts differently, due to differences in economic resources, social roles, mobility, political voice, and underlying vulnerability.[^166]
 
 International frameworks – including the Paris Agreement (2015), the Sendai Framework for Disaster Risk Reduction (2015–2030), and the Kunming-Montreal Global Biodiversity Framework (2022) – now incorporate gender mainstreaming as a requirement for climate action. The Maldives, as a signatory to the Paris Agreement and active voice in the AOSIS (Alliance of Small Island States) coalition, is both a subject of international climate policy and a participant in shaping it. The gender dimension of this engagement has received growing attention in domestic policy frameworks since 2021.[^167]
 
-### 5.15.2 Gender-Responsive Climate Financing Strategy 2023
+### 5.77.2 Gender-Responsive Climate Financing Strategy 2023
 
 The most significant domestic policy development linking gender and climate is the **Gender-Responsive Climate Financing Strategy (GRFS) 2023**, developed by the Ministry of Environment, Climate Change and Technology with UNFPA technical support and international climate financing input. The GRFS represents the Maldives' formal commitment to ensuring that climate finance – from Green Climate Fund (GCF), Adaptation Fund, and bilateral climate finance sources – is allocated in ways that address gender inequality rather than reinforce it.[^168]
 
@@ -4169,7 +4169,7 @@ The GRFS 2023 has three pillars and **16 strategies**:
 
 The GRFS represents a significant policy commitment, but implementation is in early stages as of 2025. Funding for the 16 strategies depends substantially on international climate finance access, which requires successful GCF project approval and development partner engagement. The gender indicators in the Monitoring Framework represent a potential data system that, if sustained, would substantially improve the evidence base on gender-climate intersections.[^170]
 
-### 5.15.3 The ARISE Project: Gender in Climate Resilience Programming
+### 5.77.3 The ARISE Project: Gender in Climate Resilience Programming
 
 The **Atoll Resilience and Island-level Sustainability Enhancement (ARISE) project** is the primary operational vehicle for integrating gender into climate resilience programming at the island level. ARISE includes a **Gender Action Plan** – a requirement of its development partner financing – that specifies:
 
@@ -4181,7 +4181,7 @@ The ARISE gender finding on solar PV is particularly notable: women are substant
 
 ADB's gender assessment of ARISE noted that even where women participate in climate resilience activities, they tend to be assigned to social roles (community awareness, care of community assets) while men are assigned to technical roles (installation, maintenance, engineering). Breaking this pattern requires deliberate role assignment and mentorship support, which the ARISE Gender Action Plan attempts to provide.[^173]
 
-### 5.15.4 Climate as a Driver of Domestic Violence
+### 5.77.4 Climate as a Driver of Domestic Violence
 
 An under-examined intersection in Maldivian gender policy is the pathway from **climate stress → economic stress → intimate partner violence escalation**. Evidence from international climate-GBV research, and from Maldivian field documentation in the Climate Vulnerability chapter (§14.X) and Cross-Cutting Issues chapter (§15.X), suggests several mechanisms:
 
@@ -4193,7 +4193,7 @@ An under-examined intersection in Maldivian gender policy is the pathway from **
 
 **Women excluded from adaptation response:** Where women are excluded from island disaster management committees and climate resilience planning bodies, adaptation measures may not address women's specific needs – in evacuation procedures, shelter arrangements, and livelihood support – making women more exposed to harm from climate events and reducing their agency in the recovery process.[^177]
 
-### 5.15.5 Women's Exclusion from Climate Governance
+### 5.77.5 Women's Exclusion from Climate Governance
 
 Despite the GRFS 2023 commitment to gender inclusion, the practical exclusion of women from climate governance bodies at island level has been consistently documented:
 
@@ -4203,7 +4203,7 @@ Despite the GRFS 2023 commitment to gender inclusion, the practical exclusion of
 
 The local council quota (33% after 2021 elections) is beginning to change this at the council level. Women councillors have, in documented cases, raised climate adaptation issues – sea wall placement affecting women's mobility, evacuation shelter conditions – that male-dominated councils had not prioritised. But the broader governance ecosystem of informal island decision-making bodies remains largely unaffected by the formal quota.[^181]
 
-### 5.15.6 Female-Headed Households and Climate Disproportionality
+### 5.77.6 Female-Headed Households and Climate Disproportionality
 
 Female-headed households face disproportionate climate impacts through several compounding mechanisms:
 
@@ -4218,7 +4218,7 @@ Female-headed households face disproportionate climate impacts through several c
 ## 5.78 Climate-Gender Integration: The Paris Agreement and Gender Justice
 
 
-### 5.98.1 The Enhanced Lima Work Programme on Gender
+### 5.78.1 The Enhanced Lima Work Programme on Gender
 
 The **UNFCCC Enhanced Lima Work Programme on Gender and its Gender Action Plan (2019-2024)** – which the Maldives, as a Paris Agreement signatory, is obligated to engage with – provides the global framework within which the GRFS 2023 sits. Key provisions of the UNFCCC Gender Action Plan that have specific Maldivian relevance:
 
@@ -4234,7 +4234,7 @@ The **UNFCCC Enhanced Lima Work Programme on Gender and its Gender Action Plan (
 ## 5.79 The COVID-19 Pandemic as a Gender Policy Crisis
 
 
-### 5.39.1 The Shadow Pandemic
+### 5.79.1 COVID-19 and GBV
 
 The COVID-19 pandemic (2020-2022) produced what international GBV researchers and UN Women termed a "**shadow pandemic**" – a surge in domestic violence and gender inequality running parallel to the public health crisis. The Maldivian experience of this shadow pandemic is documented across several data sources and represents one of the most significant short-term shocks to gender policy in recent history.[^398]
 
@@ -4245,7 +4245,7 @@ The mechanisms through which COVID-19 intensified DV are well-documented interna
 - **Perpetrator isolation** – perpetrators who lost income, social standing, and mobility also experienced stress that, combined with the close-quarters lockdown context, drove violence escalation
 - **Children at home** – school closures increased caregiving demands on women, reducing their ability to reach out for help while increasing household stress that perpetrators converted to violence[^399]
 
-### 5.39.2 Maldivian Data on COVID-GBV
+### 5.79.2 Maldivian Data on COVID-GBV
 
 The specific Maldivian data on COVID-GBV includes:
 
@@ -4257,7 +4257,7 @@ The specific Maldivian data on COVID-GBV includes:
 
 **Mental health deterioration:** The Mental Health chapter (§9.X) documents that the pandemic period saw significant increases in reported mental health presentations, with women's presentations disproportionately affected. The self-harm data – 74% female in the MoSFD 2024 statistics – reflects post-pandemic patterns in which pandemic-era mental health deterioration has persisted.[^403]
 
-### 5.39.3 COVID Policy Response and Gender
+### 5.79.3 COVID Policy Response and Gender
 
 The Maldivian government's COVID-19 policy response – while not gender-specific in its primary health and economic management – had gendered dimensions:
 
@@ -4267,7 +4267,7 @@ The Maldivian government's COVID-19 policy response – while not gender-specifi
 
 **DV response adaptation:** The FPA and FPA-partnered shelter services implemented some adaptive measures during the pandemic – phone-based case management, extended shelter hours, coordination with police for emergency callouts. These adaptations were commendable but demonstrated the fragility of a system that had not systematically prepared for scenarios in which physical office access was constrained.[^404]
 
-### 5.39.4 Post-COVID Recovery and Gender
+### 5.79.4 Post-COVID Recovery and Gender
 
 The post-COVID recovery trajectory (2022-2024) has been uneven from a gender perspective:
 
@@ -4283,7 +4283,7 @@ The post-COVID recovery trajectory (2022-2024) has been uneven from a gender per
 ## 5.80 COVID-19 Economic Response: The Gender Finance Gap
 
 
-### 5.117.1 The COVID-19 Lending Discrimination
+### 5.80.1 The COVID-19 Lending Discrimination
 
 The Legal Framework chapter's documentation of COVID-19 financial relief records a stark gender disparity that has not been prominently featured in post-pandemic gender analysis:
 
@@ -4295,7 +4295,7 @@ These figures reflect the intersection of gender and the formal financial system
 
 The contrast with the Single Parent Allowance – which targets women – and the Aasandha scheme – which is universal – illustrates a pattern: targeted women's social protection reaches women, but credit and economic recovery programmes that operate through market mechanisms default to male beneficiaries unless gender-specific provisions are mandated.[^582]
 
-### 5.117.2 The Employment Gender Gap: Legal Framework Provisions
+### 5.80.2 The Employment Gender Gap: Legal Framework Provisions
 
 The Employment Act (2008) prohibits gender-based discrimination in employment, covering:
 - Equal pay for equal work
@@ -4312,10 +4312,10 @@ The Employment Act's equal pay provisions are largely unenforceable in practice:
 ---
 
 
-## 5.81 The Substance Abuse-GBV Nexus: A Detailed Analysis
+## 5.81 Substance Abuse and GBV
 
 
-### 5.64.1 Substance Use Patterns and Gender
+### 5.81.1 Substance Use Patterns and Gender
 
 The Maldives has a significant substance abuse problem, primarily among young men. The **National Substance Dependency Centre (NSDC)** treatment admission data documents that **94% of persons receiving substance abuse treatment are male**. The primary substances of concern are:
 
@@ -4327,7 +4327,7 @@ The Maldives has a significant substance abuse problem, primarily among young me
 
 - **Prescription drugs and novel psychoactive substances:** A growing category in Maldivian substance abuse, including benzodiazepines and synthetic cannabinoids (increasingly detected in the Maldivian context).[^473]
 
-### 5.64.2 The Causal Pathway to GBV
+### 5.81.2 The Causal Pathway to GBV
 
 Substance abuse by male partners is one of the most consistently documented proximate triggers for domestic violence escalation – in Maldivian case records, in survivor testimonies documented through the FPA and Hope for Women, and in the broader South Asian DV literature. The causal pathway operates through multiple mechanisms:
 
@@ -4341,7 +4341,7 @@ Substance abuse by male partners is one of the most consistently documented prox
 
 **Childhood trauma linkage:** A significant proportion of male substance abusers have childhood histories of trauma – including exposure to DV in their families of origin. The intergenerational cycle of violence (witnessed DV → childhood trauma → substance use → adult DV perpetration) is relevant to the Maldivian context, where the Fulu 2007 study documented high rates of childhood DV exposure.[^474]
 
-### 5.64.3 The Treatment and GBV System Disconnect
+### 5.81.3 The Treatment and GBV System Disconnect
 
 A significant problem in the Maldivian GBV response system is the near-complete separation between the substance abuse treatment system (NSDC-based) and the DV response system (FPA-based). In cases where substance abuse is a driver of DV, effective intervention ideally requires simultaneous engagement with both dimensions – treating the addiction as part of the DV response, or at minimum coordinating between the two systems. In the current architecture:
 
@@ -4358,7 +4358,7 @@ The AIM Project's coordination mandate includes the health sector, and the NSDC 
 ## 5.82 Women in the Drug Policy System: Invisibility and Inadequate Services
 
 
-### 5.110.1 The Data Invisibility of Female Drug Use
+### 5.82.1 The Data Invisibility of Female Drug Use
 
 The Maldives' drug policy system is built almost entirely around male drug users and male offenders. **No systematic data on female drug use exists** – making women essentially invisible in drug policy design, treatment planning, and resource allocation.
 
@@ -4369,7 +4369,7 @@ Female drug use is believed to be significantly underreported due to:
 
 The 2010 World Bank evaluation of the drug treatment system noted that there was **no access to detoxification services for females** – a fundamental gap that left women with substance use disorders without any treatment entry point.[^562]
 
-### 5.110.2 Gendered Impacts of Drug Use
+### 5.82.2 Gendered Impacts of Drug Use
 
 While women are less visible in official data, they are not unaffected by the drug crisis. The documented gender impacts include:
 
@@ -4381,7 +4381,7 @@ While women are less visible in official data, they are not unaffected by the dr
 
 **Treatment access:** The Drug Rehabilitation Centre at Dhoonidhoo accommodated "a dormitory of up to 20 women" – a small capacity relative to the overall male treatment capacity, reflecting the system's design orientation. No gender-sensitive aftercare services exist.[^563]
 
-### 5.110.3 Policy Implications
+### 5.82.3 Policy Implications
 
 The absence of gender-disaggregated drug data is not a minor statistical gap – it means that policy decisions about treatment capacity, prevention programmes, and outreach are made without knowing how drug use patterns differ between men and women, what drives women's use, what barriers they face to treatment, and what they need to achieve recovery. A drug policy designed for male users will systematically fail female users.
 
@@ -4396,7 +4396,7 @@ The GEAP's economic empowerment strategies for vulnerable women include "address
 ## 5.83 Vulnerable Sub-Populations: Intersectional Analysis
 
 
-### 5.31.1 Women with Disabilities
+### 5.83.1 Women with Disabilities
 
 Women with disabilities face intersecting discrimination – the compound effect of gender inequality and disability discrimination – that the CRPD Periodic Report Draft (Part XVIII-A) addresses in the disability domain and that this chapter must address from the gender policy perspective.
 
@@ -4415,7 +4415,7 @@ Women with disabilities face intersecting discrimination – the compound effect
 
 **Economic vulnerability:** Women with disabilities have lower educational attainment, lower employment, and lower income than women without disabilities, compounding dependency and reducing capacity to leave abusive situations. The SDFC's women's credit programmes do not appear to have disability-specific provisions.[^352]
 
-### 5.31.2 Migrant Women
+### 5.83.2 Migrant Women
 
 Migrant women working in the Maldives – primarily from Sri Lanka and Bangladesh, predominantly employed in domestic service and some formal sector roles – represent a significant and specifically vulnerable population within the gender policy domain.
 
@@ -4438,7 +4438,7 @@ In practice, enforcement of Employment Act protections for migrant workers – p
 
 **DV in migrant worker households:** Migrant women in intimate relationships with Maldivian men – whether registered marriages or informal partnerships – face the same DV vulnerabilities as Maldivian women, with additional barriers: limited language skills, no family support network, potential immigration status precarity if reporting requires attention from authorities, and limited familiarity with the Maldivian GBV response system. The FPA does not have dedicated services for migrant women, and the language of service provision is primarily Dhivehi.
 
-### 5.31.3 Women in Poverty
+### 5.83.3 Women in Poverty
 
 The poverty-gender intersection is documented across this chapter: female-headed households have higher poverty rates; women in outer atolls face NEET rates of 42.7%; divorced women face housing insecurity; single mothers face compounded vulnerabilities. A dedicated focus on women in poverty as a sub-population highlights several additional dimensions:
 
@@ -4451,7 +4451,7 @@ The poverty-gender intersection is documented across this chapter: female-headed
 
 **Poverty and GBV:** The evidence on poverty-GBV interaction is bidirectional: poverty increases DV risk (economic stress, power dynamics, reduced exit options) and DV increases poverty risk (economic abuse, job loss following DV trauma, costs of legal proceedings). Women who are both poor and DV survivors face compound barriers that no single intervention can adequately address.[^357]
 
-### 5.31.4 Older Women and Elderly Gender Inequality
+### 5.83.4 Older Women and Elderly Gender Inequality
 
 Women aged 60 and above face gender inequality patterns specific to their life stage and cohort:
 
@@ -4463,7 +4463,7 @@ Women aged 60 and above face gender inequality patterns specific to their life s
 
 **Domestic violence in older age:** DV against older women – both by intimate partners and by adult children – is a recognised but underdocumented phenomenon. The FPA case registry does not systematically track survivor age in a way that allows analysis of DV against older women as a specific category. The elderly DV problem likely overlaps with elder abuse covered in the Elderly chapter, but from the FPA's perspective it is not systematically addressed as a distinct category.[^361]
 
-### 5.31.5 Young Women and Girls: A Life Course Perspective
+### 5.83.5 Young Women and Girls: A Life Course Perspective
 
 Young women and girls (ages 10-24) face a specific constellation of gender inequality that the ASRH and education data document, but that benefits from a life course framing:
 
@@ -4481,7 +4481,7 @@ The SDG 5 target on ending harmful practices affecting young women – child mar
 ## 5.84 The Intersection of Gender with Other Protected Characteristics
 
 
-### 5.103.1 Gender and Age: A Life Course Overview
+### 5.84.1 Gender and Age: A Life Course Overview
 
 Gender inequality intersects with age in ways that produce distinctly different gender experiences at different life stages:
 
@@ -4497,7 +4497,7 @@ Gender inequality intersects with age in ways that produce distinctly different 
 
 **Older age (60+):** Gender pension gap materialises; social isolation risk for divorced or widowed women; health system inadequately addresses older women's specific needs; elder abuse risk intersects with gender.[^539]
 
-### 5.103.2 Gender and Disability: The Double Discrimination
+### 5.84.2 Gender and Disability
 
 As documented in §5.31.1, women with disabilities face intersecting discrimination – the compound of gender inequality and disability discrimination. The CRPD (Convention on the Rights of Persons with Disabilities) provides the international framework for disability rights; the CEDAW provides the framework for gender equality. Their intersection – when both discrimination grounds operate simultaneously – produces outcomes worse than either alone.
 
@@ -4509,7 +4509,7 @@ As documented in §5.31.1, women with disabilities face intersecting discriminat
 
 The CRPD Periodic Report Draft (Part XVIII-A) addresses disability rights comprehensively. This chapter has addressed the gender-disability intersection specifically at §5.31.1. The two frameworks together provide the analytical basis for intersectional programming that addresses both disability and gender simultaneously.[^540]
 
-### 5.103.3 Gender and Poverty: Intersectional Programming
+### 5.84.3 Gender and Poverty: Intersectional Programming
 
 The gender-poverty intersection – documented extensively in §5.73 – demands intersectional programming approaches that address both dimensions simultaneously rather than treating them as separate problems with separate interventions. The most effective international models for addressing gender-poverty intersection:
 
@@ -4527,13 +4527,13 @@ The Maldivian NSPA's current approach is income support-focused without systemat
 ## 5.85 Women with Disabilities: From Structural Invisibility to Dual Marginalisation
 
 
-### 5.108.1 Demographic Reality
+### 5.85.1 Demographic Reality
 
 The 2022 Census, using the Washington Group Short Set methodology, identified **24,401 persons with disabilities** in the Maldives – **55% of whom are women** (13,456 women; 10,945 men). This means women constitute the majority of the disabled population, yet disability policy has historically been designed around a gender-neutral (effectively male) default.
 
 The gender ratio in the National Disability Registry (NDR) differs markedly from the Census: the NDR shows **58% men and 42% women** – the reverse of the Census gender split. This discrepancy indicates that women face greater barriers to registration than men. The Hameed et al. (2022) study confirmed that registration coverage is lowest among women (alongside older adults, those in Malé, and those with sensory impairments), suggesting that the administrative systems intended to identify and support women with disabilities are least effective at reaching them.[^554]
 
-### 5.108.2 Pre-2019 Structural Invisibility
+### 5.85.2 Pre-2019 Structural Invisibility
 
 Before 2019, there was no policy or legislative instrument specifically addressing the intersectional situation of women with disabilities. Disability policy treated persons with disabilities as a homogeneous group, while gender policy did not integrate disability dimensions. The CRPD Periodic Report Draft (2025) acknowledged directly: **"Women with disabilities were effectively invisible in both systems."**
 
@@ -4545,7 +4545,7 @@ Research and anecdotal evidence confirmed that women with disabilities faced com
 
 The 2022 Census confirmed the demographic reality of women's majority status in the disabled population. The CRPD Committee, in its August 2025 review, explicitly noted the "significant absence of strategies, policies, and disaggregated data specifically addressing women with disabilities" and identified this as a structural gap requiring attention.[^555]
 
-### 5.108.3 Economic Marginalisation: The Compounded Labour Market Exclusion
+### 5.85.3 Economic Marginalisation: The Compounded Labour Market Exclusion
 
 Census 2022 data shows stark economic disparities at the gender-disability intersection:
 - Labour force participation: **41% for men with disabilities, 28% for women with disabilities** – a 13 percentage point gap within the disabled population, added on top of the general gender LFPR gap
@@ -4556,7 +4556,7 @@ Family members have documented patterns of obstructing women with disabilities f
 
 A significant 2024 development: the government introduced a **five-year financial scheme of MVR 100 million to support women entrepreneurs, with 25% of allocations reserved for women with disabilities**. This is the first specific economic inclusion measure targeting women with disabilities as a distinct group and represents a meaningful policy departure from the gender-neutral disability policy of the previous period.
 
-### 5.108.4 Violence Against Women and Girls with Disabilities
+### 5.85.4 Violence Against Women and Girls with Disabilities
 
 The intersection of gender and disability in relation to violence is among the most serious documented in the Maldivian context. The CRPD Periodic Report Draft (2025) recorded that **the prevalence of sexual violence against children with disabilities was found to be significantly high at 60%, with a large majority of survivors being girls with disabilities**.
 
@@ -4569,7 +4569,7 @@ The risk factors are structural:
 
 The absence of accessible reporting mechanisms is not incidental – it is a structural feature of a response system designed without reference to the disability dimensions of GBV. The CEDAW Committee has urged the Maldives to submit information on women with disabilities and ensure equal access to GBV services, but the gap between this recommendation and operational practice remains substantial.[^557]
 
-### 5.108.5 The Caregiving Burden: Women as the Invisible Support System
+### 5.85.5 Caregiving Burden on Women
 
 A cross-cutting finding across disability, elderly, and child protection is the gendered nature of informal caregiving. The 2024 UNPRPD assessment observed that **primary support persons for persons with disabilities are mostly women**. For the elderly, **69% of caretakers for bedridden elderly patients are women**. For children with disabilities in education, mothers are the primary advocates navigating an inaccessible system.
 
@@ -4583,13 +4583,13 @@ The economic cost of this unpaid care burden falls entirely on women. The GEAP's
 ## 5.86 Elderly Women: Pension Gap, Caregiving, and Invisible Ageing
 
 
-### 5.109.1 Demographic Profile of Elderly Women
+### 5.86.1 Demographic Profile of Elderly Women
 
 Women constitute **46.1% of the population aged 60+** and **48.1% of those aged 80+**. Life expectancy at birth is 75 for women and 73 for men – a two-year female longevity advantage that means women will constitute a growing share of the oldest and most care-dependent elderly cohort as the population ages.
 
 The demographic transformation is rapid: total fertility has fallen from 6.4 children per woman in 1990 to 1.7 by 2022 (below replacement). This means the cohort of potential family caregivers (daughters, daughters-in-law) is shrinking relative to the elderly population that depends on them – accelerating the collision between female caregiving expectations and female labour market participation.[^559]
 
-### 5.109.2 The Pension System and Older Women
+### 5.86.2 The Pension System and Older Women
 
 The Old-Age Basic Pension of MVR 5,000/month (2024) provides near-universal coverage for Maldivians aged 65+, regardless of gender, employment history, or contribution record. This universality is critically important for older women, because **99.1% of women's employment is in the informal sector** (National Ageing Policy situational analysis, HIES 2019). Informal employment generates no contributory pension entitlements – meaning that without the universal basic pension, virtually no older woman would have any income in old age.
 
@@ -4600,7 +4600,7 @@ The pension adequacy problem documented in §5.57 is gender-differentiated:
 
 At MVR 5,000/month, the pension covers basic needs in outer islands more adequately than in Malé, where rent alone can consume most of the payment. The gender dimension of this geographic pension adequacy gap has not been systematically analysed.[^560]
 
-### 5.109.3 Women as the Caregiving Infrastructure
+### 5.86.3 Women as the Caregiving Infrastructure
 
 The Ageing Policy (2024 draft) explicitly acknowledged the gendered nature of elderly care: "the caregiver burden is often solely on women." The quantitative confirmation: **69% of the 67 patients receiving home-care visits in Greater Malé are cared for by women**. Outside Greater Malé – where no formal home care programme exists – the proportion is even higher, as all care falls on informal (predominantly female) family members.
 
@@ -4617,13 +4617,13 @@ As more women enter formal employment, the traditional assumption that daughters
 ## 5.87 The Muizzu Administration (2023-present): Gender Policy Under the Current Government
 
 
-### 5.34.1 Political Context
+### 5.87.1 Political Context
 
 President Mohamed Muizzu assumed office in November 2023, marking a political transition from the Ibrahim Mohamed Solih administration (2018-2023). The Muizzu administration's gender policy commitments and their early implementation record represent the most current context for understanding the political economy of gender equality in the Maldives.
 
 The Muizzu administration entered office with a political base including more conservative constituencies than the Solih administration, and with a regional geopolitical reorientation toward a stronger China relationship and a more distanced relationship with India. The political implications for gender policy are complex: the administration has maintained formal commitments to CEDAW compliance and SDG 5, while governing through a political coalition that includes parties with more conservative social policy positions.[^371]
 
-### 5.34.2 Early Gender Policy Record
+### 5.87.2 Early Gender Policy Record
 
 As of early 2025, the Muizzu administration's gender policy record includes:
 
@@ -4641,7 +4641,7 @@ As of early 2025, the Muizzu administration's gender policy record includes:
 
 **Cabinet composition:** The initial Muizzu Cabinet included a small number of women in ministerial positions, at a proportion broadly consistent with prior administrations – below parity but not at the extreme exclusion that would represent a regression. Specific portfolio assignments are documented in government records.
 
-### 5.34.3 The Political Economy of Future Reform
+### 5.87.3 The Political Economy of Future Reform
 
 The political economy analysis of future gender equality reform in the Maldives under any administration must account for:
 
@@ -4762,7 +4762,7 @@ The political economy analysis of future gender equality reform in the Maldives 
 ## 5.88 Action Plans, Strategic Frameworks, and Policy Coherence
 
 
-### 5.27.1 National Gender Equality Action Plans
+### 5.88.1 National Gender Equality Action Plans
 
 The Maldives has produced a series of gender equality action plans across successive political administrations. The pattern – frequent plan production with limited implementation continuity – is a documented feature of gender policy in many developing country contexts and is particularly acute in the Maldivian system given the high frequency of political change.[^317]
 
@@ -4776,7 +4776,7 @@ Key gender-relevant strategic frameworks as of 2024-25:
 
 **Gender-Responsive Climate Financing Strategy 2023:** The GRFS, discussed in §5.15, is the most recent major gender strategic framework. Its implementation is in early stages.
 
-### 5.27.2 SDG 5 and Gender Policy Coherence
+### 5.88.2 SDG 5 and Gender Policy Coherence
 
 The **Sustainable Development Goals (SDGs) – particularly Goal 5 (Gender Equality)** – provide the international monitoring framework against which Maldivian gender policy is assessed. Maldives' SDG reporting shows:
 
@@ -4792,7 +4792,7 @@ The **Sustainable Development Goals (SDGs) – particularly Goal 5 (Gender Equal
 
 The SDG framework provides a monitoring structure, but monitoring alone does not drive implementation. The challenge is converting SDG reporting commitments into budget allocations, institutional capacities, and accountability mechanisms that produce actual change in women's lived experiences.
 
-### 5.27.3 Policy Coherence Across Sectors
+### 5.88.3 Policy Coherence Across Sectors
 
 A recurring finding across the evidence reviewed in this chapter is **policy incoherence** – situations where policies in different sectors work at cross-purposes with gender equality:
 
@@ -4962,7 +4962,7 @@ Achieving policy coherence – ensuring that sector policies align with and rein
 ## 5.89 National Action Plans: Gender in the Development Planning System
 
 
-### 5.63.1 The Strategic Planning Architecture
+### 5.89.1 The Strategic Planning Architecture
 
 Maldivian national development planning is structured through medium-term strategic frameworks – the **Strategic Action Plan (SAP)** – that establish national development priorities for multi-year periods. Gender equality has been incorporated into the SAP architecture with varying levels of prominence across different administrations.
 
@@ -4976,7 +4976,7 @@ The SAP provides the medium-term framework within which gender-specific action p
 
 **SAP 2023-2027 (Muizzu administration):** The current SAP has been developed under the Muizzu administration. The extent to which gender equality features as a cross-cutting priority – and whether the specific programme commitments of the previous SAP are continued or restructured – is documented in CEDAW Seventh Periodic Report references and government policy announcements. The administration's formal commitments to ongoing development partner gender programmes (AIM, ADB GESI, UNFPA) suggest policy continuity at the operational level even if the rhetorical priority on gender equality has shifted.
 
-### 5.63.2 SDG Localisation and Gender
+### 5.89.2 SDG Localisation and Gender
 
 The Maldives' **Voluntary National Review (VNR)** reports to the UN High-Level Political Forum provide the most comprehensive government self-assessment of progress toward the SDGs, including SDG 5 (Gender Equality). The most recent VNR available (2022) documents:
 
@@ -4988,7 +4988,7 @@ The Maldives' **Voluntary National Review (VNR)** reports to the UN High-Level P
 
 The VNR documents notable progress (local council quota, ANC coverage) while acknowledging persistent gaps (prosecution, parliamentary representation, LFPR). The SDG monitoring framework provides a public international accountability structure that complements CEDAW – both point in the same direction but through different mechanisms.[^471]
 
-### 5.63.3 The National Policy on the Prevention of Violence Against Women and Children
+### 5.89.3 The National Policy on the Prevention of Violence Against Women and Children
 
 A specific National Policy on the Prevention of Violence Against Women and Children – developed in the 2020-2022 period with UNICEF and UNFPA support – provides the government's stated inter-agency framework for GBV prevention programming. Key elements:
 
@@ -5005,13 +5005,13 @@ The policy's implementation has been tracked through the AIM Project monitoring 
 ## 5.90 The Gender Equality Action Plan 2022-2026: Full Operational Profile
 
 
-### 5.105.1 Statutory Basis and Architecture
+### 5.90.1 Statutory Basis and Architecture
 
 The **National Gender Equality Action Plan (GEAP) 2022–2026** is the primary operational instrument for gender equality in the Maldives. Unlike other action plans in the social policy architecture, it is a *statutory requirement* – Article 42 of the Gender Equality Act 2016 mandates the development and maintenance of such a plan. This gives the GEAP legal grounding that other plans lack, making it the only gender policy instrument with enforceable institutional backing.
 
 The GEAP derives from and operationalises both the GEA 2016 and the National Gender Equality Policy (2019), translating them into strategies across five policy goals. Its implementation is coordinated by MoSFD as lead agency, with Gender Focal Points established across 25+ implementing agencies. The GEAP's ambition is breadth: it assigns responsibilities across virtually every government ministry, independent institution, and service agency in the country.[^542]
 
-### 5.105.2 The Five Policy Goals: Full Detail
+### 5.90.2 The Five Policy Goals: Full Detail
 
 **Policy Goal 1: Leadership and Governance**
 
@@ -5064,7 +5064,7 @@ Three strategies address women's access to legal remedies:
 
 The protection order strategy is the most operationally critical: protection orders issued under the DVPA 2012 are the primary immediate safety tool for DV survivors, but their utility depends entirely on enforcement – which the vulnerability mapping research documented as the weakest link in the entire GBV response chain.[^547]
 
-### 5.105.3 GEAP Evidence Cross-Reference
+### 5.90.3 GEAP Evidence Cross-Reference
 
 | GEAP Goal | What the Evidence Shows | Does the Goal Address the Right Problem? | Critical Evidence Gaps |
 |---|---|---|---|
@@ -5074,7 +5074,7 @@ The protection order strategy is the most operationally critical: protection ord
 | **GBV Elimination** | 1-in-3 women IPV lifetime prevalence (Fulu 2007, 18 years old); FPA cases rose from 19 (2013) to 696 (2020/2021); 3% prosecution rate; protection orders breached with no consequences | Yes – but strategies are institutional (systems strengthening) rather than structural (housing, economic independence for survivors, social norms) | No updated prevalence survey since 2007; no data on DV during COVID-19 at national level; no data on economic abuse |
 | **Access to Justice** | Recently divorced women unaware of legal rights before or during marriage; protection order enforcement effectively absent in outer islands; burdensome evidence requirements for prosecution | Yes – but does not address Islamic family law intersection, which is the structural root of women's legal disadvantage; no plan addresses CEDAW Art. 16 reservation removal | No data on protection order applications, grants, and enforcement; no systematic legal aid availability assessment |
 
-### 5.105.4 GEAP Indicator Monitoring Assessment
+### 5.90.4 GEAP Indicator Monitoring Assessment
 
 The GEAP's monitoring framework has significant weaknesses. Many indicators are process-oriented (number of trainings conducted) rather than outcome-oriented (reduction in IPV prevalence). The following baselines are available:
 
@@ -5097,11 +5097,11 @@ The GEAP's monitoring framework has significant weaknesses. Many indicators are 
 ## 5.91 Development Partners and Donor Programmes
 
 
-### 5.19.1 Overview of Gender-Relevant Development Partner Engagement
+### 5.91.1 Overview of Gender-Relevant Development Partner Engagement
 
 The Maldives' gender equality and GBV response programming is substantially dependent on development partner financing and technical capacity. The primary partners with active gender programmes as of 2024-25 are summarised below.
 
-### 5.19.2 United Nations Population Fund (UNFPA)
+### 5.91.2 United Nations Population Fund (UNFPA)
 
 UNFPA is the lead UN agency for gender, SRHR, and GBV programming in the Maldives. UNFPA's contribution to gender policy includes:
 
@@ -5119,7 +5119,7 @@ UNFPA is the lead UN agency for gender, SRHR, and GBV programming in the Maldive
 - UNFPA Country Programme aligned with 2022-2026 UNSDCF
 - Focus areas: SRHR, ending GBV, and strengthening gender data systems[^233]
 
-### 5.19.3 Asian Development Bank (ADB)
+### 5.91.3 Asian Development Bank (ADB)
 
 ADB has been the primary multilateral development bank providing GBV infrastructure investment. Key programmes:
 
@@ -5143,7 +5143,7 @@ ADB has been the primary multilateral development bank providing GBV infrastruct
 - Credit lines for women entrepreneurs with limited collateral requirements
 - Business development support for women-owned micro and small enterprises[^234]
 
-### 5.19.4 European Union (EU)
+### 5.91.4 European Union (EU)
 
 The EU is the primary bilateral donor for the **AIM Project (Accountability and Integrity Matters project)**:
 
@@ -5152,7 +5152,7 @@ The EU is the primary bilateral donor for the **AIM Project (Accountability and 
 - AIM Project Baseline Assessment (2022) provided the most comprehensive contemporary analysis of the GBV response system's attrition data, operational gaps, and capacity deficits
 - Funding cycle aligned with EU-Maldives development partnership framework[^235]
 
-### 5.19.5 United Nations Development Programme (UNDP)
+### 5.91.5 United Nations Development Programme (UNDP)
 
 UNDP's gender engagement in the Maldives is primarily through:
 - **AIM Project** (co-implementing with EU and MoSFD)
@@ -5160,7 +5160,7 @@ UNDP's gender engagement in the Maldives is primarily through:
 - **WDC Capacity Assessment (2022)** – key evidence document on WDC implementation gaps
 - UNDP SDG monitoring support – gender indicators across SDG 5 (gender equality) and intersecting goals[^236]
 
-### 5.19.6 Other Development Partners
+### 5.91.6 Other Development Partners
 
 - **World Bank:** Supports health system strengthening including maternal health components (RMNCAH Strategy financing); education system reform including gender equity analysis
 - **UNICEF:** Child protection programming with gender dimensions – girl children's protection from sexual abuse, child marriage, and trafficking; support for CRPD and CRC reporting
@@ -5168,7 +5168,7 @@ UNDP's gender engagement in the Maldives is primarily through:
 - **Australia DFAT / New Zealand MFAT:** Regional SIDS-focused development partnership with gender equity components; support for Maldives' UPR and CEDAW follow-up
 - **Japan (JICA):** Health system support with maternal health components; fisheries sector development (historically male-focused but increasingly including gender equity commitments)[^237]
 
-### 5.19.7 NGO and Civil Society: The Domestic Gender Ecosystem
+### 5.91.7 NGO and Civil Society: The Domestic Gender Ecosystem
 
 Domestic civil society organisations play roles that complement and sometimes substitute for government services in the gender equality space:
 
@@ -5186,7 +5186,7 @@ Domestic civil society organisations play roles that complement and sometimes su
 ## 5.92 International Funding and the Gender Programme Financing Architecture
 
 
-### 5.49.1 The Aid Dependency Question
+### 5.92.1 The Aid Dependency Question
 
 A distinctive feature of the Maldivian gender equality and GBV response system is its substantial dependence on international development finance. The AIM Project (EU funding), ADB GESI Project, UNFPA Country Programme, and World Bank health components collectively finance a large proportion of the gender-related programme activity that the government itself does not adequately fund. This aid dependency raises important questions about sustainability, alignment with national priorities, and institutional capacity building versus external provision of services.
 
@@ -5202,7 +5202,7 @@ A distinctive feature of the Maldivian gender equality and GBV response system i
 - International accountability linkage – development partner monitoring creates pressure for performance
 - Political protection – internationally funded programmes have some insulation from domestic political volatility[^437]
 
-### 5.49.2 The UNSDCF 2022-2026 Framework
+### 5.92.2 The UNSDCF 2022-2026 Framework
 
 The **UN Sustainable Development Cooperation Framework (UNSDCF) 2022-2026** provides the overarching coordination mechanism for UN agency engagement in the Maldives. Gender equality is a cross-cutting priority across the UNSDCF's three pillars:
 
@@ -5212,7 +5212,7 @@ The **UN Sustainable Development Cooperation Framework (UNSDCF) 2022-2026** prov
 
 UNFPA, UNDP, UNICEF, UN Women, WHO, and IOM are the primary UN agencies with gender-relevant programming under the UNSDCF. The UNSDCF's gender coordination mechanism – the UN Gender Theme Group – provides inter-agency coordination to avoid duplication and align programming with national gender policy frameworks.[^438]
 
-### 5.49.3 The Green Climate Fund Opportunity
+### 5.92.3 The Green Climate Fund Opportunity
 
 The **Green Climate Fund (GCF)** is the primary international climate finance mechanism under the Paris Agreement, with significant resources available for SIDS adaptation and mitigation. The Maldives' Gender-Responsive Climate Financing Strategy (2023) is designed in part to position the country to access GCF resources through gender-responsive project design.
 
@@ -5226,7 +5226,7 @@ The Maldives' National Designated Authority for GCF is the Ministry of Environme
 ## 5.93 Donor Coordination and Gender Funding
 
 
-### 5.77.1 Coordination Mechanisms
+### 5.93.1 Coordination Mechanisms
 
 Multiple development partners with active gender programmes in the Maldives require coordination to avoid duplication, ensure alignment with national priorities, and maximise the collective impact of available resources. Coordination mechanisms include:
 
@@ -5236,7 +5236,7 @@ Multiple development partners with active gender programmes in the Maldives requ
 
 **HACT framework:** The UN system's Harmonized Approach to Cash Transfers (HACT) framework standardises financial management across UN agencies, reducing the administrative burden on government counterparts in managing multiple UN programme financial flows. Its application to gender programmes reduces (but does not eliminate) the coordination transaction costs.[^503]
 
-### 5.77.2 Financial Sustainability Gap
+### 5.93.2 Financial Sustainability Gap
 
 The most critical question for the sustainability of the Maldivian gender programme architecture is: what happens when development partner funding ends? Key programmes with defined funding cycles:
 
@@ -5251,10 +5251,10 @@ The sustainability question is not hypothetical – there are documented cases f
 ---
 
 
-## 5.94 The AIM Project: A Detailed Programme Analysis
+## 5.94 The AIM Project
 
 
-### 5.61.1 Background and Objectives
+### 5.94.1 Background and Objectives
 
 The **Accountability and Integrity Matters (AIM) Project** is the most significant ongoing GBV response investment in the Maldives. Implemented jointly by the **European Union, UNDP, and the Ministry of Social and Family Development (MoSFD)**, the AIM Project represents a substantial multi-year commitment to strengthening the institutional capacity of the Maldivian GBV response system – from first disclosure through to justice outcomes.
 
@@ -5268,7 +5268,7 @@ The AIM Project emerged from the recognition – shared across the EU, UNDP, and
 5. Build community awareness and norm change – addressing the social norms that discourage disclosure and enable perpetrator impunity
 6. Strengthen WDC capacity as the outer island first-response mechanism
 
-### 5.61.2 The Baseline Assessment: What AIM Found
+### 5.94.2 The Baseline Assessment: What AIM Found
 
 The AIM Project Baseline Assessment (2022) is the most comprehensive independent assessment of the Maldivian GBV response system available. Its findings, cited extensively throughout this chapter, include:
 
@@ -5286,7 +5286,7 @@ The AIM Project Baseline Assessment (2022) is the most comprehensive independent
 
 **WDC function:** <40% training in two years; no budget; advisory-only; social pressure limiting effectiveness.[^465]
 
-### 5.61.3 AIM Interventions: What the Programme Is Doing
+### 5.94.3 AIM Interventions: What the Programme Is Doing
 
 Against this baseline, AIM's interventions include:
 
@@ -5321,7 +5321,7 @@ Against this baseline, AIM's interventions include:
 - Resource materials for WDCs in Dhivehi language
 - Linking WDCs more effectively into the FPA referral system[^466]
 
-### 5.61.4 Implementation Status and Challenges
+### 5.94.4 Implementation Status and Challenges
 
 As of the most recent publicly available AIM Project documentation (2024), key implementation status points include:
 
@@ -5337,7 +5337,7 @@ As of the most recent publicly available AIM Project documentation (2024), key i
 - The GBV Information Management System requires sustained government commitment for operation after AIM Project funding ends – the sustainability plan is not yet determined
 - Community norm change is slow relative to the project cycle – the social norms driving DV silence are generational, not amenable to single-cycle intervention
 
-### 5.61.5 AIM Project Data Implications
+### 5.94.5 AIM Project Data Implications
 
 The GIMS, when fully operational, will significantly improve Maldivian gender data availability. Current data gaps that GIMS is designed to address:
 - Tracking case journeys from FPA intake through court outcome in a single system
@@ -5353,7 +5353,7 @@ The gap between current administrative data and what a functioning GIMS would pr
 ## 5.95 Specific Sectoral Programme Profiles: Implementation Detail
 
 
-### 5.101.1 The ADB GESI Project (54373-001): Full Programme Analysis
+### 5.95.1 The ADB GESI Project (54373-001): Full Programme Analysis
 
 The **Asian Development Bank Strengthening Gender Inclusive Initiatives Project** (Project number 54373-001) is the most significant single capital investment in the Maldivian GBV response infrastructure. The full project profile:
 
@@ -5374,7 +5374,7 @@ The **Asian Development Bank Strengthening Gender Inclusive Initiatives Project*
 
 **Project database entry:** Available at https://www.adb.org/projects/54373-001/main[^535]
 
-### 5.101.2 The SAILS Project: Employment Services for Women
+### 5.95.2 The SAILS Project: Employment Services for Women
 
 The **Strengthening Access and Inclusiveness of Labour Market Support (SAILS) Project** – also ADB-financed – targets women's access to employment services specifically. SAILS operates through the Employment Service Centre network and includes:
 
@@ -5392,7 +5392,7 @@ The **Strengthening Access and Inclusiveness of Labour Market Support (SAILS) Pr
 - Referral pathways from ESC to TVET programmes – including the ADB ARISE project's non-traditional vocational training for women
 - Recognition of prior learning – assessing women's informal skills (traditional crafts, food production, home-based childcare) for formal credential pathways[^536]
 
-### 5.101.3 The ARISE Project Gender Action Plan: Operational Details
+### 5.95.3 The ARISE Project Gender Action Plan: Operational Details
 
 The **ARISE (Atoll Resilience and Island Sustainability Enhancement) Project** Gender Action Plan goes beyond standard gender mainstreaming compliance to include specific operational commitments:
 
@@ -5425,7 +5425,7 @@ The **ARISE (Atoll Resilience and Island Sustainability Enhancement) Project** G
 ## 5.96 CEDAW Compliance and Treaty Body Engagement
 
 
-### 5.18.1 CEDAW Ratification, Reservations, and Reporting History
+### 5.96.1 CEDAW Ratification, Reservations, and Reporting History
 
 The **Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)** was ratified by the Maldives on **1 July 1993** – a date confirmed by the UN Treaty Collection and the Government's own Seventh Periodic Report. The Maldives entered two specific reservations at ratification:
 
@@ -5441,7 +5441,7 @@ The CEDAW Committee has repeatedly called for withdrawal of both reservations, c
 - Sixth Periodic Report: reviewed November 2021; Concluding Observations CEDAW/C/MDV/CO/6 issued
 - Seventh Periodic Report: submitted 2025 (forthcoming review)[^217]
 
-### 5.18.2 CEDAW Committee Concluding Observations: November 2021
+### 5.96.2 CEDAW Committee Concluding Observations: November 2021
 
 The CEDAW Committee's November 2021 **Concluding Observations (CEDAW/C/MDV/CO/6)** represent the most comprehensive international assessment of Maldivian gender policy. Key areas of concern and recommendations (organised by CEDAW Article) include:
 
@@ -5467,7 +5467,7 @@ The CEDAW Committee's November 2021 **Concluding Observations (CEDAW/C/MDV/CO/6)
 
 **Article 16 (Marriage and family):** Concern about polygamy, inheritance inequality, child marriage, maintenance enforcement gap, prenuptial information access; recommendation for family law reform toward gender equality; reservation withdrawal[^228]
 
-### 5.18.3 Government Response: Seventh Periodic Report 2025
+### 5.96.3 Government Response: Seventh Periodic Report 2025
 
 The Government's **Seventh Periodic Report (CEDAW, 2025)** provides the most recent authoritative government account of gender policy status. Key disclosures in the report include:
 
@@ -5484,7 +5484,7 @@ The Government's **Seventh Periodic Report (CEDAW, 2025)** provides the most rec
 
 The Seventh Periodic Report reflects a pattern consistent across Maldivian CEDAW reporting: acknowledged legal frameworks, acknowledged implementation gaps, modest programmatic responses, and no withdrawal of reservations. The Committee's review of the Seventh Periodic Report will determine whether this cycle produces stronger recommendations than the 2021 Concluding Observations.
 
-### 5.18.4 Other Treaty Body Engagement
+### 5.96.4 Other Treaty Body Engagement
 
 Maldivian gender policy commitments are monitored not only through CEDAW but through several intersecting treaty body reporting processes:
 
@@ -5500,7 +5500,7 @@ Maldivian gender policy commitments are monitored not only through CEDAW but thr
 ## 5.97 The CEDAW Reporting Process: A Governance Tool
 
 
-### 5.58.1 How CEDAW Reporting Works in Practice
+### 5.97.1 How CEDAW Reporting Works in Practice
 
 The CEDAW periodic reporting process – through which the Maldivian government submits a report to the CEDAW Committee, which then reviews it, hears from civil society, and issues Concluding Observations – functions as one of the primary gender policy governance mechanisms available in the Maldivian system. Understanding how it works in practice, and what its limitations are, is important for assessing its contribution to gender equality progress.
 
@@ -5515,7 +5515,7 @@ The CEDAW periodic reporting process – through which the Maldivian government 
 
 **MoSFD's role:** The Ministry of Social and Family Development (MoSFD) is the focal ministry for CEDAW reporting, coordinating inputs from all other relevant ministries (Health, Education, Justice, Finance, etc.). The quality and completeness of the Periodic Report depend on the effectiveness of MoSFD's coordination with other ministries – and on the political will of those ministries to disclose gaps and failures rather than presenting an optimistic picture.[^459]
 
-### 5.58.2 Civil Society Shadow Reporting
+### 5.97.2 Civil Society Shadow Reporting
 
 The parallel civil society shadow reporting process is critical for providing independent verification of the government's account. In the Maldivian context, shadow reports have been submitted by:
 - Hope for Women (Aadheys) – focusing on GBV response implementation gaps
@@ -5524,7 +5524,7 @@ The parallel civil society shadow reporting process is critical for providing in
 
 Shadow reports in previous cycles have documented discrepancies between the government's positive framing of implementation progress and field evidence of continued gaps – particularly on FPA caseworker capacity, outer atoll shelter availability, and prosecution rates. This accountability function of civil society CEDAW engagement is significant but depends on civil society organisations having the capacity and funding to prepare high-quality shadow reports.[^460]
 
-### 5.58.3 Translating Concluding Observations into Policy
+### 5.97.3 Translating Concluding Observations into Policy
 
 The critical – and frequently failing – step in the CEDAW process is the translation of Committee recommendations into actual policy change. The pattern across Maldivian CEDAW cycles documents:
 
@@ -5541,7 +5541,7 @@ The CEDAW Committee's "list of issues prior to reporting" in the current cycle (
 ## 5.98 The Universal Periodic Review: Gender Recommendations
 
 
-### 5.97.1 UPR Process and Gender
+### 5.98.1 UPR Process and Gender
 
 The **Universal Periodic Review (UPR)** – conducted by the UN Human Rights Council – reviews every UN member state's human rights record in a peer review process. The Maldives has been reviewed three times (2010, 2015, 2020). Gender equality has been a consistent theme across all three reviews.
 
@@ -5563,7 +5563,7 @@ The Maldives' UPR response – accepting some recommendations, noting others (wh
 ## 5.99 International Obligation Architecture: What No Action Plan Covers
 
 
-### 5.106.1 Mapping CEDAW Against Existing Action Plans
+### 5.99.1 Mapping CEDAW Against Existing Action Plans
 
 The CEDAW provides a comprehensive framework for gender equality obligations. The following mapping (derived from the Action Plans Analysis chapter's bidirectional obligation mapping) shows which CEDAW obligations are addressed by current action plans and which remain uncovered:
 
@@ -5579,7 +5579,7 @@ The CEDAW provides a comprehensive framework for gender equality obligations. Th
 | **Art. 14 (rural women)** | **No plan** | **Absent** | **The distinct circumstances of women in outer atolls – geographic isolation, limited service access, weaker enforcement of legal rights – are not specifically addressed by any current action plan** |
 | Arts. 15–16 (equality in law, marriage) | **CEDAW reservation means excluded** | **Absent** | **The reservation on Art. 16 means Islamic family law provisions – covering marriage, divorce, custody, inheritance, and maintenance – are explicitly outside CEDAW obligations. No plan addresses reservation removal** |
 
-### 5.106.2 The Article 16 Reservation: The Structural Gap
+### 5.99.2 The Article 16 Reservation
 
 The Maldives' reservation on CEDAW Article 16 – covering equality in marriage and family life – is the most consequential single constraint on gender equality in the country. By maintaining this reservation, the government has explicitly excluded from its CEDAW obligations the areas of law where women face the most immediate and severe disadvantage:
 
@@ -5591,7 +5591,7 @@ The Maldives' reservation on CEDAW Article 16 – covering equality in marriage 
 
 Multiple reviewing states at the 2020 UPR called for withdrawal of the Art. 16 reservation. The government's standard response – that the reservation is required by constitutional provisions making Islam the state religion – reflects a genuine constitutional constraint, but this constraint has never been tested through a constitutional challenge.[^549]
 
-### 5.106.3 Rural Women: The Missing Framework
+### 5.99.3 Rural Women
 
 CEDAW Article 14 requires states to take account of the particular problems faced by rural women. In the Maldivian context, "rural women" translates to women in the outer atolls – approximately 40% of the female population living on islands where:
 
@@ -5605,7 +5605,7 @@ CEDAW Article 14 requires states to take account of the particular problems face
 
 No current action plan specifically addresses this concentration of disadvantage. The GEAP does not include an outer atoll-specific strategy. The DVPNS 3rd (2023–2027) does not specify how its protective mechanisms will be made accessible to women in islands without FCSC presence. The RMNCAH Strategy addresses maternal health but not the geographic access barriers that make mortality risk higher in the atolls.[^550]
 
-### 5.106.4 FGM/C: The Obligation No Plan Addresses
+### 5.99.4 FGM/C: The Obligation No Plan Addresses
 
 Both the CRC and CEDAW frameworks require the Maldives to take steps toward eliminating FGM/C. The Action Plans Analysis chapter identified FGM/C elimination as one of six obligations for which **no action plan exists**. The DHS 2016-17 documented:
 
@@ -5621,17 +5621,17 @@ Despite the dramatic generational decline, the legal status of FGM/C remains amb
 ## 5.100 International Comparative Analysis: The Maldives Among SIDS and Muslim-Majority States
 
 
-### 5.26.1 Comparative Context
+### 5.100.1 Comparative Context
 
 The Maldives occupies an unusual position in comparative gender analysis: a small island developing state (SIDS) with South Asian cultural influences, a Muslim-majority population with Gulf-influenced Islamic practice, and a democratic constitutional order committed in principle to gender equality. Understanding how the Maldives compares with similar states is essential for identifying realistic policy options and learning from what has and has not worked in comparable contexts.
 
-### 5.26.2 Comparison with South Asian SIDS
+### 5.100.2 Comparison with South Asian SIDS
 
 **Sri Lanka:** The closest geographic comparator with a SIDS profile and mixed South Asian cultural heritage. Sri Lanka's female LFPR (36%) is lower than the Maldives' 44%, reflecting shared regional constraints, but Sri Lanka has achieved substantially higher women's parliamentary representation (5.3% vs 4.6%). Sri Lanka has had a female Prime Minister (Sirimavo Bandaranaike, the world's first, elected 1960) and female President (Chandrika Kumaratunga), demonstrating that executive-level female political leadership is achievable in the regional context. Sri Lanka's DV legislation (Prevention of Domestic Violence Act, 2005) predates the Maldives' DVPA and provides some comparative lessons.[^308]
 
 **Maldives vs Sri Lanka LFPR comparison:** Despite Maldivian women's substantially higher educational attainment (tertiary majority vs minority in Sri Lanka), the LFPR gap in the Maldives is smaller than Sri Lanka's – suggesting that the atoll geography, which concentrates population on islands without formal economy, may create LFPR constraints more severe than Sri Lanka's geography.[^309]
 
-### 5.26.3 Comparison with Muslim-Majority Comparators
+### 5.100.3 Comparison with Muslim-Majority Comparators
 
 **Morocco (MENA comparator):** Morocco's 2004 Mudawwana (Family Code) reform is widely cited as the most successful family law reform in a Muslim-majority country in the modern period. The reform – achieved after years of civil society advocacy and with the explicit endorsement of King Mohammed VI on Islamic grounds – eliminated husband's unilateral right to polygamy (requiring judicial approval and the first wife's knowledge), raised the marriage age, created shared marital assets, reformed custody and inheritance provisions, and established judicial divorce on no-fault grounds. Morocco's reform succeeded because it was framed within Islamic jurisprudence rather than against it, secured royal religious endorsement, and had sustained civil society backing.[^310]
 
@@ -5643,7 +5643,7 @@ The Maldivian lesson from Morocco is the importance of Islamic jurisprudential f
 
 **Bangladesh (South Asian Muslim comparator):** Bangladesh's experience with GBV legislation and institutional development – including the National Women's Policy (2011 and subsequent revisions), the Multi-Sectoral Programme on Violence Against Women, and the One-Stop Crisis Centres model – provides lessons on integrated GBV response in a resource-constrained South Asian Muslim context. The One-Stop Crisis Centre model, providing medical, legal, police, and social services in a single location, addresses exactly the institutional fragmentation problem documented in the Maldivian system – though Bangladesh's scale and geographic context differs substantially from the Maldives' archipelago challenge.[^313]
 
-### 5.26.4 Pacific SIDS: The Small-Island Governance Lesson
+### 5.100.4 Pacific SIDS: The Small-Island Governance Lesson
 
 **Fiji:** Fiji's experience with gender equality policy in a multi-ethnic Pacific SIDS context offers lessons on managing gender reform in post-coup political environments. Fiji's family law reform and DV legislative development proceeded despite political instability, through a combination of civil society resilience and development partner sustained engagement. The Family Law Act 2003 (Fiji) created a dedicated Family Division of the Magistrates Court with specialised capacity.[^314]
 
@@ -5651,7 +5651,7 @@ The Maldivian lesson from Morocco is the importance of Islamic jurisprudential f
 
 **The SIDS common challenge:** Across Pacific and Indian Ocean SIDS, a common pattern emerges: small island geography creates severe outer island service access challenges that disproportionately affect women; small community dynamics simultaneously protect and constrain women; urbanisation concentrates gender-differentiated opportunity and risk in capital cities; and development partner programming provides essential resources but must be calibrated to local institutional capacity. The Maldives' challenges are shared, and SIDS regional policy learning through AOSIS and Pacific-Indian Ocean development cooperation offers under-exploited opportunities.[^316]
 
-### 5.26.5 What International Comparison Suggests for Maldivian Reform
+### 5.100.5 What International Comparison Suggests for Maldivian Reform
 
 The comparative analysis suggests several lessons for Maldivian gender policy reform:
 
@@ -5671,7 +5671,7 @@ The comparative analysis suggests several lessons for Maldivian gender policy re
 ## 5.101 The Maldivian Experience in Global Gender Equality Context
 
 
-### 5.84.1 The Global Gender Gap Index
+### 5.101.1 The Global Gender Gap Index
 
 The **World Economic Forum (WEF) Global Gender Gap Index** provides an annual standardised cross-country comparison of gender equality on four dimensions: economic participation and opportunity, educational attainment, health and survival, and political empowerment. The Maldives' position on this index – and its trajectory over time – provides useful context for how the country compares internationally:
 
@@ -5685,7 +5685,7 @@ The composite result is a position in the global middle – better than regional
 
 **Trend:** Without a comprehensive longitudinal analysis, the trend can be characterised as: education dimension improving (female tertiary majority growing); political empowerment improving modestly (local council quota); economic participation stagnating (LFPR gap not narrowing significantly); health and survival recovering from COVID spike.[^516]
 
-### 5.84.2 The Human Development Index and Gender Inequality Index
+### 5.101.2 The Human Development Index and Gender Inequality Index
 
 The **UNDP Human Development Index (HDI)** and associated **Gender Inequality Index (GII)** provide a complementary international comparison. The Gender Inequality Index measures:
 - Maternal mortality ratio
@@ -5709,7 +5709,7 @@ The GII provides a composite measure that the Maldives can use for inter-country
 ## 5.102 SAARC, AOSIS, and Regional Gender Cooperation
 
 
-### 5.62.1 Maldives in SAARC Gender Policy
+### 5.102.1 Maldives in SAARC Gender Policy
 
 The Maldives is a member of the **South Asian Association for Regional Cooperation (SAARC)**, which includes a gender dimension through the SAARC Technical Committee on Women in Development and regional conventions on trafficking. SAARC provides a regional framework for gender policy learning and coordination, though its actual influence on domestic policy has been limited by SAARC's general consensus-dependent, non-binding character.
 
@@ -5719,7 +5719,7 @@ Relevant SAARC gender instruments:
 
 The Maldives' geographic distance from the South Asian mainland and its primarily maritime orientation limit the practical intensity of SAARC engagement. The trafficking trafficking dimension – where cross-border movement of trafficked persons from South Asia into the Maldives is the primary regional gender policy concern – is the most operationally significant SAARC connection.[^468]
 
-### 5.62.2 AOSIS and SIDS Gender Solidarity
+### 5.102.2 AOSIS and SIDS Gender Solidarity
 
 The **Alliance of Small Island States (AOSIS)** is the more politically significant regional grouping for Maldivian foreign policy on climate and development. AOSIS's gender dimension has grown with the integration of gender into climate justice advocacy:
 
@@ -5729,7 +5729,7 @@ The **Alliance of Small Island States (AOSIS)** is the more politically signific
 
 **The AOSIS women's network:** Some AOSIS member states have developed women's networks and cross-SIDS gender policy learning initiatives. The Maldives' participation in these networks has been limited but is a potential channel for accessing practical experience from comparable contexts – particularly on the quota model (from Pacific SIDS), on climate-gender integration (from Pacific SIDS with GCF experience), and on tourism gender inclusion (from Caribbean SIDS with more gender-inclusive tourism sectors).[^469]
 
-### 5.62.3 CEDAW Committee Interaction with Regional Bodies
+### 5.102.3 CEDAW Committee Interaction with Regional Bodies
 
 The CEDAW Committee's Concluding Observations for the Maldives engage specifically with SIDS-relevant issues – the geographic service access challenge, the fisheries and climate economy's gender dimensions – in a way that reflects the Committee's growing sophistication in applying CEDAW standards to small island contexts. This SIDS-specific engagement makes CEDAW a more useful accountability tool than it might be if the Committee applied only one-size-fits-all standards.
 
@@ -5741,7 +5741,7 @@ The HRCM's engagement with the UN Human Rights Council's Universal Periodic Revi
 ## 5.103 Evidence-Based Interventions: What the International Literature Suggests
 
 
-### 5.93.1 What Works in DV Prevention and Response
+### 5.103.1 What Works in DV Prevention and Response
 
 The international evidence on effective GBV prevention and response interventions is extensive and, in some domains, well-established. The following summarises the highest-quality evidence most relevant to the Maldivian context:
 
@@ -5756,7 +5756,7 @@ The international evidence on effective GBV prevention and response intervention
 - **One-Stop Crisis Centres (OSCCs):** Strong evidence from Bangladesh, South Africa, and Philippines that integrated service delivery (medical, legal, police, social work) at a single location reduces attrition and improves survivor outcomes compared with fragmented multi-agency systems. The Maldivian system's institutional fragmentation is directly addressed by the OSCC model.
 - **Perpetrator intervention programmes (PIPs):** Moderate evidence (the evidence base is mixed) that certified PIPs reduce reoffending, particularly when combined with criminal justice monitoring and survivor safety planning.[^527]
 
-### 5.93.2 Applying the Evidence to Maldives
+### 5.103.2 Applying the Evidence to Maldives
 
 The international evidence translates to the Maldivian context with important adaptations:
 
@@ -5775,7 +5775,7 @@ The international evidence translates to the Maldivian context with important ad
 ## 5.104 The 2022 Census: Gender-Disaggregated Findings
 
 
-### 5.88.1 Census 2022 as a Gender Data Source
+### 5.104.1 Census 2022 as a Gender Data Source
 
 The **Population and Housing Census 2022** – conducted by the National Bureau of Statistics – is the most recent comprehensive data collection on all Maldivians. While the Census is a demographic enumeration rather than a specialised gender survey, its data provides important context for gender policy analysis.
 
@@ -5788,7 +5788,7 @@ The **Population and Housing Census 2022** – conducted by the National Bureau 
 
 **Marital status:** Census 2022 data on marital status disaggregated by gender documents the divorced women exceed divorced men by 42.86% – a cross-sectional snapshot reflecting the different remarriage rates and social consequences of divorce for men vs. women (men remarry faster; women remain in divorced status longer).[^519]
 
-### 5.88.2 Education Data from Census 2022
+### 5.104.2 Education Data from Census 2022
 
 The Census 2022 captures educational attainment by gender for the population aged 15 and above:
 - **No education/incomplete primary:** Gender gap typically favouring women slightly in younger cohorts (reflecting historical male dropout patterns) while older cohorts show the opposite
@@ -5797,7 +5797,7 @@ The Census 2022 captures educational attainment by gender for the population age
 
 The Census educational attainment data provides a complete-population verification of the survey-based education findings – confirming that the female educational advantage in the Maldives is a genuine population-level phenomenon, not a survey artefact.
 
-### 5.88.3 Economic Activity Data from Census 2022
+### 5.104.3 Economic Activity Data from Census 2022
 
 Census 2022 economic activity data (employment status and sector) provides gender-disaggregated labour market information more current than HIES 2016:
 - Gender-specific employment rates, if published at the required level of disaggregation, could update the LFPR figures
@@ -6034,7 +6034,7 @@ The Statistics Compendium (Part XVII) provides the most comprehensive statistica
 ## 5.107 Gender Policy in the Maldivian Context: Final Statistical Summary
 
 
-### 5.100.1 The Composite Picture
+### 5.107.1 The Composite Picture
 
 The following composite summary integrates the key findings from across the 100 sections of this chapter into a final statistical reference:
 
@@ -6153,7 +6153,7 @@ The following composite summary integrates the key findings from across the 100 
 ## 5.108 Looking Across the Encyclopedia: Gender as a Cross-Cutting Lens
 
 
-### 5.60.1 How Gender Intersects Every Domain
+### 5.108.1 How Gender Intersects Every Domain
 
 Gender inequality is not a standalone policy domain – it intersects every substantive area of social policy covered in this encyclopedia. This chapter has documented the gender dimensions of health, education, economic participation, housing, climate vulnerability, mental health, and the justice system in depth. The following provides a cross-reference to how each encyclopedia domain has gender-specific content, with pointers to the relevant sections:
 
@@ -6179,7 +6179,7 @@ Gender inequality is not a standalone policy domain – it intersects every subs
 
 This cross-cutting integration is precisely why this chapter – the Gender chapter – is the longest and most comprehensive in the encyclopedia. Gender inequality is not a sector; it is the structural condition that shapes every sector.
 
-### 5.60.2 The Reorganisation Principle
+### 5.108.2 The Reorganisation Principle
 
 In accordance with the encyclopedia's reorganisation framework, gender-relevant content that was previously distributed across multiple shorter chapters has been consolidated here. The donor chapters – Parts IX, X, XI, XII, XIV, XV – now contain summaries and pointers to this chapter's depth analysis on gender, rather than comprehensive gender content themselves. This reorganisation reflects the encyclopedic commitment to providing the most complete treatment of each domain in the chapter dedicated to that domain, with effective cross-referencing between chapters.
 
@@ -6244,7 +6244,7 @@ The reorganisation also ensures that researchers, policymakers, and practitioner
 ## 5.109 Key Gaps, Systemic Failures, and Recommendations
 
 
-### 5.20.1 Summary of Key Evidence
+### 5.109.1 Summary of Key Evidence
 
 The comprehensive review across this chapter documents a Maldivian gender policy environment characterised by a significant gap between legal commitment and operational reality. The following represents a synthesis of the most critical findings:
 
@@ -6264,7 +6264,7 @@ The comprehensive review across this chapter documents a Maldivian gender policy
 
 **Data:** Critical gaps in gender-disaggregated labour market data (wage levels), property ownership, trafficking incidence, and postnatal mental health. Statistics Compendium and CEDAW Committee both flag data system inadequacy.
 
-### 5.20.2 Systemic Failures
+### 5.109.2 Systemic Failures
 
 Five systemic failures underlie the gap between legal commitment and operational reality:
 
@@ -6278,7 +6278,7 @@ Five systemic failures underlie the gap between legal commitment and operational
 
 **5. Implementation without resources:** Key laws and policies require resources that have not been allocated. The GEA mandates GRB, but fewer than 40% of ministries comply. The DVPA mandates protection orders, but courts in outer atolls have limited sessions. The WDC mandate assumes engaged, trained, resourced volunteers – but WDCs have no budget, receive inadequate training, and depend on unpaid personal commitment of members.[^246]
 
-### 5.20.3 Priority Recommendations
+### 5.109.3 Priority Recommendations
 
 Based on the comprehensive evidence review, the following priority recommendations are identified. These are drawn from the CEDAW Concluding Observations (2021), AIM Project Baseline Assessment (2022), UNFPA assessments, and the analysis in this chapter:
 
@@ -6310,7 +6310,7 @@ Based on the comprehensive evidence review, the following priority recommendatio
 19. Expand the GRB compliance rate from <40% to universal across all ministries within one budget cycle
 20. Develop a postnatal mental health screening and support protocol through the existing ANC and postnatal care infrastructure
 
-### 5.20.4 The Enabling Environment: What Structural Change Requires
+### 5.109.4 The Enabling Environment: What Structural Change Requires
 
 The technical recommendations above are necessary but not sufficient. The evidence reviewed in this chapter points to a set of **structural conditions** that determine whether technical interventions succeed or fail:
 
@@ -6328,7 +6328,7 @@ The technical recommendations above are necessary but not sufficient. The eviden
 ## 5.110 Summary of Remaining Policy Gaps Not Previously Addressed
 
 
-### 5.79.1 Gaps in Current Coverage
+### 5.110.1 Gaps in Current Coverage
 
 Having covered the primary domains of gender policy in the Maldives across 79 sections, several secondary but important gaps remain inadequately addressed in the current system:
 
@@ -6346,7 +6346,7 @@ Having covered the primary domains of gender policy in the Maldives across 79 se
 ## 5.111 The Future of Gender Policy: Scenarios and Strategic Pathways
 
 
-### 5.42.1 Three Scenarios for 2030
+### 5.111.1 Three Scenarios for 2030
 
 Given the trajectory documented in this chapter, three broad scenarios for Maldivian gender policy by 2030 can be characterised:
 
@@ -6359,7 +6359,7 @@ A political window – perhaps after the 2028 parliamentary elections or followi
 **Scenario 3: Conservative Retrenchment**
 A shift in the political and religious climate leads to reduced funding for FPA and development partners' gender programmes, rollback of GRB requirements, and increased religious opposition to GEA implementation. Civil society organisations face restrictions on their advocacy work. Development partner engagement in gender programming is politically complicated by the geopolitical reorientation. Female representation stagnates or declines at local level as the quota is challenged or modified. DV reporting drops due to reduced FPA capacity. This scenario is less likely given the institutional investment already made, but is not implausible given the political volatility of the Maldivian democratic system.
 
-### 5.42.2 The Most Tractable Reform Opportunities
+### 5.111.2 The Most Tractable Reform Opportunities
 
 Analysis of the Maldivian gender policy environment identifies the following as the most tractable near-term reform opportunities – changes that are achievable within existing political constraints and that would have the highest impact on women's actual outcomes:
 
@@ -6373,7 +6373,7 @@ Analysis of the Maldivian gender policy environment identifies the following as 
 
 **5. FCPW mandatory training and rotation protection:** Establishing mandatory minimum GBV training standards for FCPW officers and protecting trained officers from immediate rotation away from FCPW postings would improve the quality of police DV response without requiring significant additional resources – primarily a policy directive from the Commissioner of Police.
 
-### 5.42.3 The Long Game: What Structural Change Requires
+### 5.111.3 The Long Game: What Structural Change Requires
 
 Beyond the tractable near-term reforms, the evidence reviewed throughout this chapter points to the long-game structural changes that determine whether the Maldives achieves substantive gender equality for all women – including outer island women, women in poverty, women with disabilities, migrant women, and older women – by any meaningful horizon:
 
@@ -6391,7 +6391,7 @@ Beyond the tractable near-term reforms, the evidence reviewed throughout this ch
 ## 5.112 The Gender Policy Agenda 2026-2031: Priority Actions from the Evidence
 
 
-### 5.114.1 Synthesis of Action Plan Recommendations with Gender Specificity
+### 5.112.1 Synthesis of Action Plan Recommendations with Gender Specificity
 
 The Action Plans Analysis chapter (Part XVI of this encyclopedia) synthesises recommendations across four sources into a 2026–2031 five-year action plan. The following extracts the gender-specific actions from that framework, organised by the timescale of their implementation:
 
@@ -6431,7 +6431,7 @@ The Action Plans Analysis chapter (Part XVI of this encyclopedia) synthesises re
 | G20 | Establish gender desk within NDA and develop gender-specific substance abuse treatment pathway including accessible detox for women | NDA with MoH | Staffing + facility adaptation | Part VIII |
 | G21 | Scale skills training for vulnerable women to all atolls, with resort industry partnerships for employment placement | MoSFD with MATI, councils | ~USD 500,000/year | CFW R9, R12 |
 
-### 5.114.2 The "Proposed but Never Implemented" Gender Policy Backlog
+### 5.112.2 The "Proposed but Never Implemented" Gender Policy Backlog
 
 The Action Plans Analysis chapter identified several gender policy reforms that have been proposed repeatedly but remain unimplemented as of early 2026:
 
@@ -6578,7 +6578,7 @@ The Article 16 reservation is the most significant formal obstacle to CEDAW comp
 ## 5.114 Conclusion: The State of Women in the Maldives
 
 
-### 5.50.1 The Paradox Revisited
+### 5.114.1 The Paradox Revisited
 
 This chapter opened with a paradox: women's educational attainment substantially exceeds men's; life expectancy favours women; female sultanas exist in the historical record – yet labour force participation, political representation, and protection from violence remain deeply constrained. The comprehensive review across 50 sections of this chapter has documented this paradox in granular detail and provided the evidence base for understanding its causes, consequences, and potential resolutions.
 
@@ -6586,7 +6586,7 @@ The paradox is not a surface contradiction but a structural feature of how gende
 
 The Maldives is a country that has achieved extraordinary progress on some gender indicators – the rapid expansion of girls' education, the 2012 DVPA, the 2016 GEA, the 2021 marital rape criminalisation, the local council quota's transformation of local governance – while simultaneously tolerating an extraordinarily low DV prosecution rate, one of the world's lowest rates of female parliamentary representation, and labour market exclusion that leaves nearly 6 in 10 working-age women outside formal employment.
 
-### 5.50.2 The Way Forward
+### 5.114.2 The Way Forward
 
 Five integrated propositions summarise the path from the current situation toward genuine gender equality for all Maldivian women:
 
@@ -6660,13 +6660,13 @@ The women of the Maldives – across 187 inhabited islands, across income levels
 ## 5.115 Final Observations: What the Encyclopedia Reveals
 
 
-### 5.80.1 The System as Designed vs. the System as Experienced
+### 5.115.1 The System as Designed vs. the System as Experienced
 
 This encyclopedia chapter has documented a pervasive gap between the gender equality system as designed – in law, in policy, in programme commitment – and the gender equality system as experienced by women in their daily lives. The gap is not uniform: it is smallest for educated, urban women in Malé with knowledge of the system and economic resources to navigate it; and it is largest for women on remote outer islands, in poverty, with limited education, and without family support for leaving abusive situations.
 
 The legal framework – DVPA, SOA, GEA, Employment Act, Anti-Trafficking Act – is sophisticated. The international commitments – CEDAW, CRC, CRPD, SDGs – are comprehensive. The institutional architecture – FPA, FCPW, Family Court, WDCs, FLC, Hope for Women – covers the range of response functions. What the system lacks is the **operational depth and geographic reach** to convert these commitments into protection for the women who most need it.
 
-### 5.80.2 The Enabling Environment
+### 5.115.2 The Enabling Environment
 
 Three structural features of the enabling environment for gender equality in the Maldives stand out from the evidence reviewed:
 
@@ -6676,7 +6676,7 @@ Three structural features of the enabling environment for gender equality in the
 
 **3. The Islamic framework:** Islam is not an obstacle to gender equality in the abstract; it is a complex normative system within which both constraints and resources for gender equality exist. The Islamic family law framework creates the most persistent legal barriers (inheritance, polygamy, divorce asymmetry). But Islamic ethics – the prophetic tradition on women's dignity, the Quranic emphasis on justice – provides resources for gender equality advocacy that have been underutilised in the Maldivian context.
 
-### 5.80.3 The People at the Centre
+### 5.115.3 The People at the Centre
 
 Behind every statistic in this chapter – every percentage of female labour force participation, every FPA case, every protection order – is a Maldivian woman navigating a system that is simultaneously legally committed to her equality and institutionally inadequate to deliver it. The women of the Maldives have achieved extraordinary educational gains across a generation. They have built civil society organisations that have fundamentally changed the legal framework for gender equality. They have entered local councils at one-third representation through structural intervention and are changing what those councils discuss and decide.
 
@@ -6742,7 +6742,7 @@ The work is unfinished. This chapter has documented with precision what remains 
 ## 5.116 Conclusion: The Comprehensive Evidence Base
 
 
-### 5.95.1 What This Chapter Has Accomplished
+### 5.116.1 What This Chapter Has Accomplished
 
 This chapter has assembled the most comprehensive available evidence on gender policy, gender-based violence, and women's empowerment in the Maldives. The 95 sections cover:
 
@@ -6765,7 +6765,7 @@ This chapter has assembled the most comprehensive available evidence on gender p
 - **Key gaps and recommendations:** Systemic failures, priority recommendations, enabling environment analysis
 - **Deep-dive sections:** DVPA case journey, Family Act divorce types, gender and religion, social norms, COVID pandemic response, justice system culture, specific relationship contexts, international comparison, economic cost analysis, women's movement history, evidence-based interventions, and the before-after progress assessment
 
-### 5.95.2 The Primary Conclusion
+### 5.116.2 The Primary Conclusion
 
 The primary conclusion of this comprehensive review is simple: the Maldives has built an adequate legal framework for gender equality. What it has not built is the institutional capacity, geographic reach, fiscal investment, and social norm change to translate that framework into the daily experience of all Maldivian women – particularly those in outer islands, in poverty, in abusive relationships, or at the intersection of multiple vulnerabilities.
 
@@ -6803,7 +6803,7 @@ The women of the Maldives have demonstrated – through their educational achiev
 ## 5.117 Endnotes on Sources, Methodology, and Data Quality
 
 
-### 5.69.1 Primary Sources Used in This Chapter
+### 5.117.1 Primary Sources Used in This Chapter
 
 This chapter draws on the following primary source categories, read in full or via systematic sampling in the course of preparing this encyclopedic treatment:
 
@@ -6852,7 +6852,7 @@ This chapter draws on the following primary source categories, read in full or v
 - 24_CEDAW_Periodic_Report_Draft.md
 - 25_Statistics_Compendium.md
 
-### 5.69.2 Data Quality Considerations
+### 5.117.2 Data Quality Considerations
 
 Readers and users of this chapter should note the following data quality considerations:
 
@@ -6920,7 +6920,7 @@ Readers and users of this chapter should note the following data quality conside
 ## 5.118 Final Notes: Sources, Updates, and Usage
 
 
-### 5.104.1 How to Use This Chapter
+### 5.118.1 How to Use This Chapter
 
 This chapter is designed as a comprehensive reference – not a document to be read linearly from beginning to end, but one that can be consulted for specific topics through the section numbering system. Researchers seeking information on a specific topic should:
 
@@ -6930,7 +6930,7 @@ This chapter is designed as a comprehensive reference – not a document to be r
 4. Supplement with the Statistics Compendium (Part XVII) for the most current numerical data
 5. Consult Appendix G (Development Partners) for more detailed programme profiles
 
-### 5.104.2 Necessary Updates
+### 5.118.2 Necessary Updates
 
 The following sections will require updating as new data becomes available:
 
@@ -6942,7 +6942,7 @@ The following sections will require updating as new data becomes available:
 - **§5.18 (CEDAW):** When CEDAW Concluding Observations from the Seventh Periodic Report review are published (anticipated 2025-2026)
 - **§5.19 (development partners):** As AIM Project, ADB GESI, and other programmes complete their cycles and new programmes are announced
 
-### 5.104.3 Attribution
+### 5.118.3 Attribution
 
 All statistics cited in this chapter are attributed to specific sources with dates. Where the source is a chapter of this encyclopedia (e.g., "Health Systems chapter §11.X"), readers should consult that chapter for the underlying primary source. Where the source is an external document (DHS 2016-17, CEDAW Seventh Periodic Report, AIM Project Baseline Assessment), these documents should be consulted directly for the full context of the cited statistic.
 

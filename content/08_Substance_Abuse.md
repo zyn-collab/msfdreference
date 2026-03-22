@@ -47,7 +47,7 @@ By 2010, it was commonly reported that one in 100 adults in the Maldives struggl
 
 The original 1977 legislation was a relatively blunt instrument. Section 2 of the Law on Narcotics criminalised planting, production, import, export, selling, buying, giving, and possession with intent to sell of illegal drugs, with penalties extending to life imprisonment.[^13] Sections 2 and 3 also prohibited the manufacture of controlled substances and made the importation, supply, and sale of precursor chemicals punishable on the same basis as trafficking offences. The law drew no meaningful distinction between drug use, possession, and trafficking -- a conflation that would have lasting consequences for the criminal justice system.
 
-### 8.2.2 The Drugs Act 17/2011: A Paradigm Shift
+### 8.2.2 The Drugs Act 17/2011
 
 In 2011, the legal framework was comprehensively overhauled with the passage of the **Drugs Act (Law No. 17/2011)**. This legislation represented a significant shift in the state's approach to drug policy, establishing several new institutions and mechanisms:[^14]
 
@@ -484,7 +484,7 @@ The study documented a clear pathway from drug use through imprisonment to radic
 - **Lack of respected imams**: Without credible religious leaders who can counter extremist scriptural interpretations, radicalised inmates operate unchallenged.
 - **Grievances with the justice system**: Perceived unfairness of sentencing fuels resentment that extremist recruiters exploit.[^86]
 
-### 8.12.3 From Drug Addict to Extremist
+### 8.12.3 Drug Use and Radicalisation Pathways
 
 The study documented how drug offenders -- typically young men with limited education, broken families, and histories of social marginalisation -- found in prison an environment where extremist groups provided what society had failed to offer: belonging, purpose, and a coherent narrative explaining their suffering. The study noted that "a significant number [of those who joined extremist groups] were drug users, former prisoners, or people from troubled families."[^87]
 

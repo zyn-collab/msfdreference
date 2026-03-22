@@ -52,7 +52,7 @@ Meanwhile, some atolls located far from Male' maintain relatively low poverty ra
 
 ## 12.2 Multidimensional Child Poverty
 
-### Beyond Monetary Measures
+### Non-Monetary Poverty Measures
 
 Maldives published its first Multi-Dimensional Poverty Index (MPI) in 2020, based on the 2017 Demographic and Health Survey. Unlike the monetary poverty line, the MPI classifies individuals as poor or non-poor based on deprivation across health, education, and standard of living indicators. The MPI reveals instructive differences between Male' and atolls. In Male', multidimensional poverty is driven primarily by **over-congestion and lack of access to healthcare**. In atolls, the drivers are fundamentally different: **low years of schooling, lack of access to safe drinking water, inadequate sewer systems, and limited healthcare access**.[^10]
 

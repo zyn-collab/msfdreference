@@ -230,7 +230,7 @@ Interventions to address the NCD burden have focused on:
 
 ## 11.6 Nutrition and Food Security
 
-### The Double Burden
+### Communicable and Non-Communicable Disease Burden
 
 The Maldives faces a classic nutritional double burden: persistent undernutrition among children coexisting with rapidly rising overweight and obesity among adults and increasingly among children.
 

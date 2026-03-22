@@ -43,7 +43,7 @@ The frequent restructuring of education governance -- with higher education resp
 
 ## 10.2 Historical Evolution of the Education System
 
-### From Edhuruge to Universal Schooling
+### Edhuruge Origins and the Transition to Universal Schooling
 
 The transformation of Maldivian education from informal coral-stone learning houses to a modern national system is one of the most substantial social transitions in the country's history. For centuries, education in the Maldives was delivered through the *edhuruge* system -- small, home-based schools typically run by a learned community member, often focused on Quran recitation, basic Arabic literacy, and rudimentary arithmetic. The *edhuruge* served a deeply localised function: each island had its own learning tradition, and there was no standardised curriculum, no formal certification, and no concept of universal access.[^9]
 

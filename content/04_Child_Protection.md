@@ -78,7 +78,7 @@ The **Maldives Child Protection Database (MCPD)** was launched in 2016, connecti
 ## 4.2 Historical Evolution: A Chronological Account
 
 
-### 4.51.1 The Pre-System Period (Pre-1991): Children Without Legal Protection
+### 4.2.1 The Pre-System Period (Pre-1991): Children Without Legal Protection
 
 Before 1991, the Maldives had no formal child protection legislation, no child protection institutions, and no systematic recognition of the state's obligation to protect children from maltreatment. Children's welfare was understood as entirely a matter of family and community responsibility, governed by Islamic norms about parental authority and community honour. The concept of "child abuse" as a category requiring state intervention did not exist in policy or law.[^775]
 
@@ -86,7 +86,7 @@ This is not to say that child welfare was entirely neglected. The Gayoom adminis
 
 The Islaahiya reform facility, established in 1979, provides a revealing window into pre-1991 approaches to children outside family care. Islaahiya housed both delinquent youth and children in need of care – without meaningful differentiation between the two groups. Children who had committed offences and children who were victims of family breakdown or abuse were housed together, treated identically, and provided with essentially custodial rather than therapeutic or rehabilitative care. This institutional confusion between delinquency and vulnerability – treating children in need as children in trouble – persisted in Maldivian policy thinking for decades after Islaahiya was superseded.[^777]
 
-### 4.51.2 The Unit for the Rights of Children Era (1991-2006): First Recognitions
+### 4.2.2 The Unit for the Rights of Children Era (1991-2006): First Recognitions
 
 **CRC ratification (1991)** marks the formal beginning of the Maldivian child protection system, though the commitment it represented was initially more symbolic than operational. The Convention on the Rights of the Child was ratified on 11 February 1991, with reservations on Article 14(1) (freedom of religion – incompatible with the Maldivian requirement that all citizens be Muslim) and Article 21 (adoption – not permitted under Islamic law). These reservations are significant: Article 14's reservation reflects the state's position that children do not have religious freedom, while Article 21's reservation means the Maldives cannot operationalise adoption as a permanent care solution for children without families.[^778]
 
@@ -98,7 +98,7 @@ The period from 1993 to 2006 was characterised by institutional instability (the
 
 **The Maldives Study on Women's Health and Life Experiences (2006-2007)**, conducted by Emma Fulu with UNFPA support using the WHO multi-country methodology, was a watershed in generating the evidence base for both GBV and child protection policy. Its finding that approximately one in three women aged 15-49 had experienced physical or sexual intimate partner violence – combined with its qualitative data on community norms, honour ideology, and reporting barriers – established for the first time a rigorous empirical picture of the violence that Maldivian families lived within. The implications for children growing up in violent households, while not the study's primary focus, were unmistakable.[^782]
 
-### 4.51.3 The System-Building Phase (2006-2012): The English Model Import
+### 4.2.3 The System-Building Phase (2006-2012): The English Model Import
 
 The **Child Protection Procedure Manual (2006)** marks the beginning of the modern Maldivian child protection system. Developed with UNICEF technical support and modelled closely on England's "Working Together to Safeguard Children" guidance, the Manual established – for the first time – explicit definitions of child abuse categories, referral and assessment procedures, and roles for different professionals. This transposition of an English model into the Maldivian context was both a strength (drawing on mature, evidence-based practice) and a limitation (importing assumptions about professional capacity, geographic accessibility, and institutional infrastructure that did not hold in the Maldives).[^783]
 
@@ -112,7 +112,7 @@ The **Decentralisation Act (Act No. 7/2010)** created a new institutional framew
 
 The **Domestic Violence Prevention Act (Act No. 3/2012)** represented the most significant legislative development in child protection's adjacent field. The DVPA created the Family Protection Authority (FPA), established mandatory reporting duties on all persons, and created protection orders – mechanisms with direct child protection implications. A child living in a household where the DVPA is being applied (where a protection order has been issued against an abusive parent) has direct interests in the effective operation of DVPA provisions. Yet the operational linkage between FPA, CFPS, and police FCPW in cases involving both DV and child protection concerns was not systematically established by the DVPA – a coordination gap that persists.[^788]
 
-### 4.51.4 The Professionalisation Phase (2012-2019): Building Infrastructure
+### 4.2.4 The Professionalisation Phase (2012-2019): Building Infrastructure
 
 The period from 2012 to 2019 was characterised by legislative expansion, data system development, and the slow professionalisation of the social work workforce. Key milestones:
 
@@ -128,7 +128,7 @@ The period from 2012 to 2019 was characterised by legislative expansion, data sy
 
 **The 2016-17 Demographic and Health Survey** included – for the first time in a DHS – questions about FGM/C prevalence. The survey found an FGM/C prevalence of 13% of women aged 15-49 in the Maldives – a figure that, while contested by community members who argued the survey question was misunderstood, established at minimum that the practice warranted systematic attention.[^794]
 
-### 4.51.5 The CRPA Era (2019-Present): Framework Consolidation
+### 4.2.5 The CRPA Era (2019-Present): Framework Consolidation
 
 The **Child Rights Protection Act 2019 (CRPA, Act No. 19/2019)** represents the most comprehensive legislative consolidation of child protection in Maldivian history. Its significance lies not only in its substantive provisions but in its architecture: the Act brings together definitions, mandatory reporting obligations, judicial orders, the children's helpline, the Children's Ombudsperson, and the obligation to provide services – into a single, integrated framework that replaced the patchwork of earlier legislation.[^795]
 
@@ -148,7 +148,7 @@ The **Rogers, Ali and Naeem (2025) Policy Press chapter** – the most detailed 
 ## 4.3 Historical Timeline: A Complete Chronology
 
 
-### 4.91.1 Pre-Modern Period: Kinship and Islamic Welfare
+### 4.3.1 Pre-Modern Period: Kinship and Islamic Welfare
 
 Before the modern child protection system, child welfare in the Maldives was governed entirely by two interlocking systems: Islamic welfare obligations and kinship networks. The archipelago's geography – 200+ inhabited islands across 90,000 square kilometres – meant that each island community was largely self-sufficient in its social welfare arrangements.
 
@@ -158,7 +158,7 @@ Before the modern child protection system, child welfare in the Maldives was gov
 
 **The Islaahiya exception:** In 1979, the establishment of Islaahiya – the large reformatory school for boys with behavioural issues in Male Atoll – marked the first institutional care facility in the Maldives, and it served a reformatory rather than welfare function. The institution existed for 34 years (1979–2013) and remained one of the largest alternative care providers throughout that period.[^924]
 
-### 4.91.2 The CRC Era Begins (1991–2003)
+### 4.3.2 The CRC Era Begins (1991–2003)
 
 **1991:** UNCRC ratification (11 February). Law on the Protection of the Rights of the Child (Law 9/91) enacted – the Maldives' first child rights legislation. Largely declaratory; no enforcement mechanisms, no abuse definitions, no mandatory reporting.
 
@@ -176,7 +176,7 @@ Before the modern child protection system, child welfare in the Maldives was gov
 
 **Late 1990s–2003:** Drug use emerges as a significant social problem, particularly among youth in Malé. Government response initially punitive. In 2002–2003, the first National Drug Use Survey reveals scale of substance abuse.
 
-### 4.91.3 Post-Tsunami Acceleration (2004–2008)
+### 4.3.3 Post-Tsunami Acceleration (2004–2008)
 
 **2004 (December):** Indian Ocean Tsunami devastates the Maldives. 82 confirmed dead, 26 missing. 14 islands permanently evacuated. Economic damage equivalent to 62% of GDP. UNICEF significantly expands its Maldivian programme, creating a dedicated child protection component.
 
@@ -196,7 +196,7 @@ Before the modern child protection system, child welfare in the Maldives was gov
 
 **2008:** UNICEF Maldives supports government in drafting Juvenile Justice Act (not enacted until 2019).
 
-### 4.91.4 Democratic Transition and Policy Reform (2008–2019)
+### 4.3.4 Democratic Transition and Policy Reform (2008–2019)
 
 **2009:** Baby death case – baby shaken to death by mother's boyfriend; mother had been known to child protection for 7 years. Death inquiry recommends formal supervisory system, accountability mechanisms. Barnardos (English charity) engaged for advice on alternative care institutions.
 
@@ -228,7 +228,7 @@ Before the modern child protection system, child welfare in the Maldives was gov
 
 **2016 (with Qatar Foundation support):** Fiyavathi established with a designed capacity of 80 children under 13 (current occupancy as of 2024: approximately 130, or 63% over designed capacity).
 
-### 4.91.5 The CRPA Era (2019–Present)
+### 4.3.5 The CRPA Era (2019–Present)
 
 **2019:** Child Rights Protection Act (Law No. 18/2019) enacted – the most comprehensive child rights legislation enacted in the Maldives. Operational from 2020.
 
@@ -265,7 +265,7 @@ Before the modern child protection system, child welfare in the Maldives was gov
 ## 4.4 Legal Framework: From Law 9/91 to CRPA 2019
 
 
-### 4.2.1 The Child Rights Protection Act 2019 (Act 19/2019)
+### 4.4.1 The Child Rights Protection Act 2019 (Act 19/2019)
 
 The **Child Rights Protection Act (CRPA)**, enacted in 2019, represents the most comprehensive piece of child protection legislation in Maldivian history. The Act superseded Law 9/91 and established for the first time a detailed statutory framework for child protection that included definitions of maltreatment, mandatory reporting obligations, judicial orders for child protection, and the creation of a Children's Ombudsperson. The CRPA was the product of years of legislative development, international technical assistance (particularly from UNICEF), and advocacy by civil society organisations and child protection professionals.[^20]
 
@@ -288,7 +288,7 @@ Key provisions of the CRPA include:
 
 - **Raising the marriage age:** The CRPA establishes 18 as the minimum age for marriage, though the critical inconsistency with Section 4(b) of the Family Act remains unresolved (see Section 4.13 below).
 
-### 4.2.2 The Juvenile Justice Act 2019 (Act 18/2019)
+### 4.4.2 The Juvenile Justice Act 2019 (Act 18/2019)
 
 The **Juvenile Justice Act (JJ Act)**, also enacted in 2019, complements the CRPA by establishing a separate statutory framework for children in conflict with the law. The JJ Act is explicitly oriented toward rehabilitation over retribution, reflecting international juvenile justice standards and a recognition that the existing system – which had permitted the death penalty for juveniles and lacked separate detention facilities – was fundamentally inadequate.[^22]
 
@@ -299,7 +299,7 @@ Key provisions include:
 - **Rehabilitation emphasis:** The Act mandates that rehabilitation, education, and reintegration be the primary objectives of the juvenile justice system.
 - **Flogging not abolished:** Notably, the JJ Act did not abolish judicial flogging for juveniles, leaving open the possibility that children convicted of certain offences – particularly *zina* (sexual intercourse outside marriage) – could be subjected to corporal punishment by court order.[^23]
 
-### 4.2.3 Related Legislation
+### 4.4.3 Related Legislation
 
 Several other laws form part of the broader child protection legal architecture:
 
@@ -311,7 +311,7 @@ Several other laws form part of the broader child protection legal architecture:
 - **Alternative Care Regulation 2020-R-69:** Governs the placement of children in foster care, kinship care, and residential care.
 - **Regulation on Reintegration 2020/R-30:** Addresses the reintegration of children from alternative care settings back into family and community life.[^24]
 
-### 4.2.4 International Treaty Obligations and Reporting
+### 4.4.4 International Treaty Obligations and Reporting
 
 The Maldives submitted its **Combined 6th and 7th Periodic Report** to the Committee on the Rights of the Child in October 2021, providing the first comprehensive government account of CRC implementation since the democratic transition. The report was supplemented by information from the UNICEF Situation Analysis of 2021 (updated 2025) and the Child-Equity-Census-2022 analysis, which provided disaggregated data on child wellbeing indicators across atolls and demographic groups.[^25]
 
@@ -325,7 +325,7 @@ The **"Children in Maldives" Census 2014 analysis** provided the first detailed 
 ## 4.5 Comprehensive Analysis of Child Protection Laws
 
 
-### 4.19.1 Constitutional Foundations
+### 4.5.1 Constitutional Foundations
 
 The **Constitution of the Republic of Maldives (2008)** provides the foundational basis for children's rights and state obligations toward the child population. Two articles are of direct relevance to child protection practice.
 
@@ -338,7 +338,7 @@ The article further obligates the state to provide special protection to childre
 
 **Article 10** creates the fundamental constitutional tension that runs through all child protection law: it declares Islam as the state religion and provides that "no law contrary to any tenet of Islam shall be enacted in the Maldives." This provision has direct practical consequences. It shapes the treatment of child victims of sexual violence who become pregnant; it informs the debate on child marriage (where Islamic jurisprudence identifies puberty rather than chronological age as the threshold of adulthood); it affects the legal position of children born outside marriage; and it creates the tension between Islamic corporal punishment principles (*hudud*) and child rights standards on corporal punishment. The CRPA 2019 operates within this constitutional framework, not above it, and practitioners must navigate both sets of obligations simultaneously.[^586]
 
-### 4.19.2 The Child Rights Protection Act 2019 (Act No. 19/2019): Legislative History and Architecture
+### 4.5.2 The Child Rights Protection Act 2019 (Act No. 19/2019): Legislative History and Architecture
 
 The CRPA is the primary statute of Maldivian child protection law, replacing the earlier Law on the Protection of the Rights of the Child (Law 9/91), which was widely criticised as declaratory and lacking enforcement mechanisms. Its passage on 14 November 2019 – alongside the Juvenile Justice Act on the same day – represented the most significant legislative development in Maldivian child protection.[^587]
 
@@ -346,7 +346,7 @@ The CRPA is the primary statute of Maldivian child protection law, replacing the
 
 **The Act's scope:** The CRPA is comprehensive in intent, covering the full range of child rights and child protection functions: the right to protection from violence in all forms; the right to family care and alternative care; the right to education, health, and social security; mandatory reporting obligations; case management procedures; judicial orders for intervention; the institutional framework (CFPS, FCSCs, Children's Ombudsperson, National Council for Child Rights Protection); and the framework for community-level child protection (IBAMA groups).[^589]
 
-### 4.19.3 The CRPA's Key Provisions: Operational Analysis
+### 4.5.3 The CRPA's Key Provisions: Operational Analysis
 
 **Age definition (Article 4):** The Act formally defines a child as any person who has not attained the age of 18 years, bringing Maldivian law into alignment with Article 1 of the CRC and superseding older provisions in earlier legislation that used varying age thresholds. This unambiguous definition is significant in a context where the Family Act's marriage provisions continue to use puberty as a threshold, and where Islamic jurisprudence traditionally defines childhood in relation to physical maturity rather than chronological age.[^590]
 
@@ -379,7 +379,7 @@ Orders must be applied for within five days of taking a child into state care. W
 
 **Mandatory reporting (Article 126):** Failure to report known instances of child abuse is a criminal offence punishable by two years' imprisonment. Failure to report for financial gain attracts five years' imprisonment. Good-faith reporters are protected from civil or criminal liability. This reintroduced mandatory reporting following a gap since the repeal of Chapter 3, Section 72 of the Penal Code Law 1/66 in 2001.[^599a]
 
-### 4.19.4 Special Provisions Act 2009 (Act No. 12/2009): Child Sexual Abuse Offenders
+### 4.5.4 Special Provisions Act 2009 (Act No. 12/2009): Child Sexual Abuse Offenders
 
 The Special Provisions Act to Deal with Child Sex Abuse Offenders (Act 12/2009) predates the CRPA and addresses the legal treatment of persons convicted of child sexual abuse. Key provisions:
 
@@ -390,7 +390,7 @@ The Special Provisions Act to Deal with Child Sex Abuse Offenders (Act 12/2009) 
 
 A critical tension: For children aged 13 and above who are victims of sexual exploitation, the intersection of this Act with *zina* provisions in the Penal Code creates the risk that a child victim – particularly one who has reached puberty – may be characterised as a *zina* participant rather than an abuse victim. The Act's definition of child victims of sexual exploitation aged 13 or above can overlap with *zina* provisions, creating the risk that child victims of sexual exploitation may be prosecuted for consensual sex rather than treated as victims. The influence of "honour ideology," as Rogers, Ali and Naeem (2025) term it, exacerbates these challenges and creates a risk of re-victimisation for child victims within the child protection system.[^599]
 
-### 4.19.5 The Juvenile Justice Act 2019 (Act No. 18/2019): Structural Overview
+### 4.5.5 The Juvenile Justice Act 2019 (Act No. 18/2019): Structural Overview
 
 Key provisions analysed in depth in §4.27. The Act:
 - Sets **minimum age of criminal responsibility at 10 years** (with full criminal responsibility at 15); below the CRC Committee's General Comment No. 24 (2019) recommended minimum of at least 14
@@ -400,7 +400,7 @@ Key provisions analysed in depth in §4.27. The Act:
 - Creates a formal **diversion programme** for first-time and minor offenders
 - Does **NOT abolish flogging** – *hadd* corporal punishment for children who have reached puberty is not abolished, remaining one of the Act's most significant gaps[^600]
 
-### 4.19.6 The Family Act (Law No. 4/2000): Child Protection Dimensions
+### 4.5.6 The Family Act (Law No. 4/2000): Child Protection Dimensions
 
 **Section 4(b) – child marriage loophole:** Allows the Family Court to authorise marriage below 18 upon "reaching puberty" – directly undercutting the CRPA's age-18 standard. Conservative religious actors have exploited this loophole for both registered (judicial exception) and unregistered (religious ceremony without court registration) child marriages.[^601]
 
@@ -408,15 +408,15 @@ Key provisions analysed in depth in §4.27. The Act:
 
 **Maintenance enforcement gap:** The Act requires maintenance orders but lacks effective enforcement mechanisms. Approximately MVR 2 million accumulated unclaimed at Family Court as of the vulnerability mapping research period. Children going without court-ordered maintenance for years is a documented child poverty driver.[^603]
 
-### 4.19.7 The Education Act 2021
+### 4.5.7 The Education Act 2021
 
 Child protection provisions: prohibition of corporal punishment in schools; school-based child protection committees; positive discipline requirements (40% of teachers reached by 2023); compulsory education ages 6–16. Critical gap: despite the Act's provisions, there are no established referral systems, case conferences, or consistent review meetings between schools and CFPS. Police checks and comprehensive CP training for all school staff remain absent.[^604]
 
-### 4.19.8 Anti-Human Trafficking Act 2013 (Act No. 12/2013)
+### 4.5.8 Anti-Human Trafficking Act 2013 (Act No. 12/2013)
 
 Child trafficking is the most serious tier of trafficking offence, carrying enhanced penalties. A National Referral Mechanism was established but operates primarily in Malé. Updated regulations (2022) strengthened victim identification protocols and inter-agency coordination, with UNODC technical assistance for investigation training.[^605]
 
-### 4.19.9 The Penal Code 2014: Child Protection Intersections
+### 4.5.9 The Penal Code 2014: Child Protection Intersections
 
 **Section 411(d) – *zina* and flogging:** Provides for 100 lashes for extramarital sexual intercourse. Approximately 85% of flogging sentences are against women and girls. A girl raped and impregnated has produced, through the crime committed against her, the primary evidence of an offence for which she herself may be prosecuted – unless she can meet the extremely high evidentiary standards for proving rape under the SOA.[^606]
 
@@ -446,7 +446,7 @@ The operational challenge lies in applying these definitions within the Maldivia
 ## 4.7 Child Maltreatment: Definitions, Cultural Tensions, and Operational Challenges
 
 
-### 4.21.1 Pre-CRPA Definitional Vacuum
+### 4.7.1 Pre-CRPA Definitional Vacuum
 
 Prior to the CRPA 2019, Maldivian child protection practice operated without statutory definitions of child abuse or neglect. In 2006, a procedure manual based on England's "Working Together to Safeguard Children" guidance was developed for frontline workers, introducing operational definitions from English child protection practice.[^628]
 
@@ -454,7 +454,7 @@ The English-derived definitions created immediate cultural tensions in the Maldi
 
 Rogers, Ali and Naeem (2025) document the unintended consequence: the debate about parental authority versus child rights that the procedure manual catalysed eventually led to the inclusion of "Responsibilities and duties of a child" (Article 36 a-h) in the CRPA 2019. The children's responsibilities provision was not a philosophical statement about duties, but a politically necessary concession enabling the Act's passage without triggering religious and conservative backlash.[^630]
 
-### 4.21.2 The CRPA's Definitional Contribution and Remaining Gaps
+### 4.7.2 The CRPA's Definitional Contribution and Remaining Gaps
 
 The CRPA Article 133 definitions represent genuine progress. The exploitation, negligence, and physical violence definitions are specific enough to guide frontline assessment. The detailed physical violence definition provides practitioners with clear thresholds distinguishing discipline from abuse in the most serious cases.
 
@@ -466,7 +466,7 @@ These gaps are not theoretical. As Rogers, Ali and Naeem (2025) illustrate throu
 
 **Limited accessibility of definitions:** The Article 133 definitions are not systematically disseminated to professionals in education, health, and the judiciary outside the trained CFPS social work cadre. A school principal, nurse, or magistrate applying their individual interpretation may reach very different conclusions from a trained CFPS social worker.[^632]
 
-### 4.21.3 Religious-Cultural Tensions in Definition and Application
+### 4.7.3 Religious-Cultural Tensions in Definition and Application
 
 **Corporal punishment in religious education:** Physical discipline during Qur'an recitation lessons remains culturally embedded in some communities, particularly in outer islands, and occurs in settings outside the Education Act's school prohibition.
 
@@ -480,13 +480,13 @@ These gaps are not theoretical. As Rogers, Ali and Naeem (2025) illustrate throu
 ## 4.8 Islamic Law and Child Protection: Tensions, Accommodations, and Practice Realities
 
 
-### 4.61.1 The Dual Legal Architecture
+### 4.8.1 Dual Legal Architecture
 
 The Maldivian child protection system operates within a dual legal architecture: English-influenced statutory child protection procedures on one hand, and Shari'ah law on the other. The legal system is based on Shari'ah and English common law; family law and criminal law are informed by Shari'ah, while child protection procedures are primarily derived from the English needs-based model. Article 10 of the Constitution establishes Islam as the state religion, and the child protection legislation (CRPA 2019) is drafted to be compliant with both the UNCRC and Islamic principles.
 
 Rogers, Ali and Naeem (2025) describe this dual architecture not as a stable synthesis but as a source of ongoing tension that must be navigated case by case by practitioners. The harmonisation of legislation is not enough for concepts to be applied in practice; practitioners must continuously balance the stipulations of the CRPA, Islamic law as they understand it, and the principles of professional social work. This is a complex balancing act that requires ongoing professional development – and which has historically been compromised by inadequate training and supervision.[^860]
 
-### 4.61.2 The UNCRC Reservations
+### 4.8.2 The UNCRC Reservations
 
 Maldives ratified the UNCRC on 11 February 1991, but did so with formal reservations to:
 - **Article 14(1):** Freedom of thought, conscience and religion – reserved to the extent inconsistent with Islam, which is the state religion under the Constitution
@@ -497,13 +497,13 @@ In 2007, a white paper was prepared to remove the reservation on Article 21 (ado
 
 These reservations are not merely formal legal declarations; they shape daily practice. Adoption as a permanency option for children in care – widely available in many countries as a route to a stable, legally permanent family – is unavailable in the Maldives. Children cannot be adopted by Maldivian families or by foreigners. The consequence is that permanency for children who cannot be reunified with birth families must be achieved through *kafala* (informal long-term fostering), with all the legal uncertainty and continuity risks that involves.[^861]
 
-### 4.61.3 Hudood Offences and Children
+### 4.8.3 Hudood Offences and Children
 
 A significant legal tension exists in relation to *hudood* offences – crimes considered to be against God, including murder, adultery, apostasy and armed robbery – which carry mandatory *hadd* punishments including corporal punishment. Under the Juvenile Justice Act (2019), a child who has reached puberty can be charged with a *hudood* offence. The Act prioritises protection of children, emphasising rehabilitation options, and prohibiting the death penalty. However, the Act does **not** abolish flogging, raising protection concerns – particularly for child victims of sexual exploitation aged 13 or above.
 
 A grey area exists in distinguishing between consensual sex (*zina*) and child sexual abuse (CSA). The Special Measures for Perpetrators of Child Sexual Abuse Law (12/2009) lacks a clear definition of CSA. Article 133(o) of the CRPA 2019 further complicates the matter by not addressing the power differential in cases involving child victims unable to give informed consent due to developmental stage. Where a child aged 13 or above is involved in sexual activity that is framed as consensual *zina* rather than CSA, the child rather than the perpetrator may face the consequences of *hudood* law.[^862]
 
-### 4.61.4 The Zina-Pregnancy-Rape Trap
+### 4.8.4 The Zina-Pregnancy-Rape Trap
 
 The intersection of *zina* law and sexual violence creates one of the most acute child protection dilemmas in the Maldivian legal system: pregnancy out of wedlock is criminalised, including for children who became pregnant through rape or abuse.
 
@@ -521,11 +521,11 @@ For child protection professionals, the response to a pregnant child who has bee
 
 This cluster of issues represents one of the most demanding practice scenarios in any child protection system, anywhere, and it arises specifically from the interaction of Islamic *zina* law with the reality of child sexual abuse.[^863]
 
-### 4.61.5 The Ministry of Islamic Affairs as a Consultative Body
+### 4.8.5 The Ministry of Islamic Affairs as a Consultative Body
 
 In cases where religious values and the formal child protection system clash, the Ministry of Islamic Affairs is consulted for interpretations of Islamic law to ensure that decisions are in line with the provisions of CRPA 2019 and an Islamic framework. Rogers, Ali and Naeem (2025) describe this as a necessary element of the Maldivian practice context: in a society where religious leaders are highly respected and influential, their interpretations and opinions can significantly impact community attitudes and practices. At its best, this consultative relationship supports practitioners in navigating complex cases with appropriate cultural and religious authority. At its worst, it introduces additional delay and places child protection decisions in the hands of religious authorities whose primary frame of reference may not be child welfare.[^864]
 
-### 4.61.6 Corporal Punishment in the Religious Context
+### 4.8.6 Corporal Punishment in the Religious Context
 
 The prohibition of corporal punishment of children – now enshrined in CRPA 2019 Article 38 – sits in tension with historical religious and cultural norms. Prior to the rights-based framework introduced through UNCRC ratification, parents were permitted to slap or hit a child who misbehaved, and to beat a child aged 7 or above who refused to recite the Qur'an (Naseem, 2011). The shift from these practices to the legal prohibition of all corporal punishment has been contested.
 
@@ -540,7 +540,7 @@ Rogers, Ali and Naeem (2025) document a specific unintended consequence: the 200
 ## 4.9 Institutional Architecture: Who Does What for Children
 
 
-### 4.20.1 Ministry of Social and Family Development (MoSFD)
+### 4.9.1 Ministry of Social and Family Development (MoSFD)
 
 The ministry responsible for child protection has changed names with each change of government. Under the Muizzu administration (2023–present): **Ministry of Social and Family Development (MoSFD)**. Previous incarnations: Ministry of Gender, Family and Social Services (MoGFSS, Solih 2018–2023); Ministry of Gender and Family (Yameen 2013–2018); Ministry of Health and Family (Waheed 2012–2013). These name changes reflect real shifts in portfolio composition, ministerial emphasis, and institutional culture that affect child protection resource allocation decisions.[^609]
 
@@ -552,7 +552,7 @@ The ministry responsible for child protection has changed names with each change
 
 **Budget:** MoSFD total budget grew from MVR 180 million (2015) to MVR 420 million (2024) – a 133% nominal increase. FCSC operational budget: MVR 38 million (2024). DJJ (juvenile rehabilitation): MVR 22 million (2024). Child-protection-specific expenditure is difficult to disaggregate due to integrated budget lines; the ministry is developing child-sensitive budgeting frameworks to enable more precise tracking.[^610]
 
-### 4.20.2 Child and Family Protection Services (CFPS): The Operational Core
+### 4.9.2 Child and Family Protection Services (CFPS): The Operational Core
 
 CFPS is the specialised operational unit within MoSFD responsible for all child protection casework nationally. It is the successor to the Unit for the Rights of the Children (URC), established by the Ministry of Home Affairs in 1992. The URC's initial work was counselling by volunteer counsellors given a two-week introductory course. Over time, the mandate expanded from counselling to statutory child protection intervention – but this expansion occurred without a corresponding growth in professional capacity, creating tensions between the counselling and social control functions of child protection work that persist to this day.[^611]
 
@@ -581,7 +581,7 @@ The scrutiny of oversight bodies (HRCM and Children's Ombudsperson) compounds th
 
 **Training deficit.** Training for social workers has been provided less systematically in recent years, with key informants reporting that sessions happen on an ad hoc or bi-annual basis rather than systematically. In one observed case, a social worker who had been professionally engaged since 2015 had received only one training on the Child Rights Protection Act. New hires are in some cases trained on-the-job by existing social workers without organised induction programmes, adding to the existing staff's workload without building the professional capacity the system needs.[^615f]
 
-### 4.20.3 Family and Children Service Centres (FCSCs): The Atoll-Level Interface
+### 4.9.3 Family and Children Service Centres (FCSCs): The Atoll-Level Interface
 
 24 FCSCs are operational as of December 2024 (originally 19 at establishment in 2010) – one in each of the 20 administrative atolls plus dedicated centres in Addu City, Fuvahmulah, and additional urban centres. Each FCSC:
 - Receives referrals from all sources (community members, schools, health workers, police, and the 1412 helpline)
@@ -596,7 +596,7 @@ The generalist character of FCSCs – handling all social service functions with
 
 **Workforce pipeline:** Workers who initially staffed FCSCs were school leavers who completed a one-year Advanced Certificate at the University of Kelaniya, Sri Lanka (from 2006). A one-year Advanced Diploma followed in 2007. Eventually, a four-year Social Work degree programme became available at the Faculty of Health Sciences at the Maldives National University (MNU). However, the supply of graduates has never matched demand across 20 atolls and approximately 189 inhabited islands, and many graduates prefer Malé postings over remote atoll deployments.
 
-### 4.20.4 Department of Juvenile Justice (DJJ)
+### 4.9.4 Department of Juvenile Justice (DJJ)
 
 Established under the Ministry of Home Affairs, operational 2020. Responsible for: management and oversight of juvenile rehabilitation facilities; the diversion programme; probation and supervision of children under court orders; post-release support and reintegration. Budget: MVR 22 million (2024).
 
@@ -607,17 +607,17 @@ Established under the Ministry of Home Affairs, operational 2020. Responsible fo
 
 **Diversion programme:** Hundreds of children diverted from prosecution in the programme's first three years (2020–2022) through counselling, family conferencing, community service, and supervised activities.
 
-### 4.20.5 The Juvenile Court
+### 4.9.5 The Juvenile Court
 
 Dedicated specialist court in Malé for children in conflict with the law and certain civil matters involving children. Child-friendly procedures include: separate waiting areas for children and adults; informal seating arrangements; public exclusion from hearings; specialist-trained judges. UNICEF-supported pilot equipped the court with child-appropriate interview rooms and trained staff in child-friendly communication. Significant constraint: children in conflict with the law from outer islands must travel to Malé for proceedings, with associated costs and disruptions.[^620]
 
-### 4.20.6 Children's Ombudsperson
+### 4.9.6 Children's Ombudsperson
 
 Established under the CRPA 2019; office operational 2021. Independent mandate to: receive and investigate complaints about children's rights violations; monitor CRPA compliance by government agencies; make recommendations to government and report to the People's Majlis; conduct child rights audits across atolls. The 2022 Child Rights Symposium convened by the Ombudsperson focused on inter-agency coordination for child protection.[^621]
 
 The paradox Rogers, Ali and Naeem (2025) identify: the Ombudsperson's ambitious monitoring objectives are difficult for CFPS workers – already managing critical caseloads – to fulfil. Workers in perpetual fear of being accused of negligence may adopt defensive documentation practices over genuine child welfare improvement.
 
-### 4.20.7 Maldives Police Service – Family and Child Protection Wing (FCPW)
+### 4.9.7 Maldives Police Service – Family and Child Protection Wing (FCPW)
 
 The FCPW is the police unit responsible for investigating DV, child abuse, sexual offences against children, and related crimes. The MPS Strategic Plan 2024–2028 identifies DV as a strategic priority. The FCPW database tags individuals with any history of DV or child abuse complaints, enabling rapid checking of prior allegations when new reports arrive. The MPS and MoSFD maintain an MoU for information sharing, and a Case Management Coordination Committee meets monthly to reconcile data on reported cases and outcomes.[^622]
 
@@ -629,7 +629,7 @@ The FCPW is the police unit responsible for investigating DV, child abuse, sexua
 
 These failures are not universal – some respondents described prompt professional response, proper documentation of injuries, and effective support in obtaining protection orders. The inconsistency itself is the problem: outcomes depending on individual officers and station capacity makes the system unpredictable for families who most need reliable protection.[^623]
 
-### 4.20.8 National Council for the Protection of the Rights of the Child (NCPRC)
+### 4.9.8 National Council for the Protection of the Rights of the Child (NCPRC)
 
 High-level inter-ministerial coordination body established under the CRPA 2019. Chaired by the Minister of Social and Family Development; includes ministers and senior officials from Education, Health, Home Affairs, the Attorney General's Office, and civil society representation. Mandated to meet quarterly; approves national child protection policies and action plans.[^624]
 
@@ -637,7 +637,7 @@ At the atoll level, **Child Protection Committees (CPCs)** – often chaired by 
 
 **Effectiveness challenge:** The Presidential Commission on Child Rights Violations (established February 2020 in response to public concern over tragic child abuse cases) conducted joint audits of CFPS, police FCPW, and HRCM and found coordination lapses in cases that the NCPRC should theoretically have prevented – indicating that formal coordination structures do not automatically produce effective case management.[^626]
 
-### 4.20.9 Human Rights Commission of the Maldives (HRCM)
+### 4.9.9 Human Rights Commission of the Maldives (HRCM)
 
 National human rights institution with a dedicated child rights monitoring function. Key roles:
 - Monitoring visits to juvenile rehabilitation facilities and publication of monitoring reports (HRCM Monitoring Report 2023 on juvenile facilities)
@@ -648,7 +648,7 @@ National human rights institution with a dedicated child rights monitoring funct
 
 Operational limitation: HRCM can recommend but not compel action.[^627]
 
-### 4.20.10 Community Social Groups (CSGs) and IBAMA
+### 4.9.10 Community Social Groups (CSGs) and IBAMA
 
 **Origins and evolution:** The IBAMA ("Ijthimaaee Badhahi Madhadhuverin" – "you and I together") project has roots tracing to 1999, when an Island Child Protection Committee was established in Addu Atoll through cooperation between the island chief and a family health worker. In 2005, the initiative expanded to GA and GDh atolls, incorporating local civil society. From that point, as the model expanded, it was rebranded as Community Social Groups (CSGs), with the first CSG established in Fuvahmulah. In 2019, UNICEF identified 17 existing laws that either mandate or call for a committee structure of the kind CSGs provided, and the platform was formally renamed IBAMA. Following a presentation to the cabinet's Social Council, government allocated budget funds for IBAMA in the 2023 national budget, enabling rollout across atolls. The model has also attracted international interest, with similar initiatives reportedly being adapted for rural communities in India.[^674]
 
@@ -663,11 +663,11 @@ Operational limitation: HRCM can recommend but not compel action.[^627]
 - Very small islands may lack local presence for all required institutions, making it impossible to constitute a full IBAMA team with adequate local knowledge
 - Small-community confidentiality and bias risks: IBAMA team members may be related or connected to persons involved in cases, creating potential for bias or confidentiality breaches[^676]
 
-### 4.20.11 Women's Development Committees (WDCs)
+### 4.9.11 Women's Development Committees (WDCs)
 
 WDCs operate at island level to promote women's participation in local governance and community development. In child protection specifically: WDCs organise food packages and school supplies for vulnerable families; conduct awareness programming on DV prevention and children's rights; participate in IBAMA coordination. An IFES qualitative assessment (2015) found WDC capacity to influence local decision-making remains limited, with their recommendations to island councils advisory rather than binding. WDC members themselves face the double burden of paid work, household, and childcare that limits participation in committee work.[^677]
 
-### 4.20.12 Civil Society in Child Protection
+### 4.9.12 Civil Society in Child Protection
 
 **NGOs and civil society are largely absent from formal service provision in the Maldives**, making child protection activities dominated by the state with a very active role from UNICEF (Rogers, Ali and Naeem, 2025). This creates a situation where a small number of organisations play outsized roles in specific gaps:
 
@@ -681,7 +681,7 @@ WDCs operate at island level to promote women's participation in local governanc
 ## 4.10 The Child Protection Service Architecture: Institutions, Facilities, and Referral Pathways
 
 
-### 4.53.1 National Central Services
+### 4.10.1 National Central Services
 
 **Child and Family Protection Services (CFPS)** – headquartered in Malé, within MoSFD – is the apex operational body for child protection in the Maldives. CFPS manages all 20 atoll-level FCSCs, maintains the MCPD database, provides professional supervision and quality assurance for social work practice, manages the 1412 helpline, and coordinates the IBAMA community model. CFPS has legal authority under the CRPA to apply for judicial orders (Articles 80, 90, and 93) from the Family Court – the Interim Assessment Order, the Child Protection Order, and the Child Supervision Order.[^809]
 
@@ -723,7 +723,7 @@ DJJ's relationship with CFPS is particularly important in cases involving childr
 
 The documented failures of the FCPW – treating DV as "a personal matter," breaching victim confidentiality, failing to share protection orders with Corrections – require structural reform rather than individual training interventions. The MPS Strategic Plan 2024-2028 identifies DV as a strategic priority and commits to human rights-centred policing, but translating strategic commitment into frontline culture change requires sustained management accountability.[^813]
 
-### 4.53.2 Residential Care Facilities
+### 4.10.2 Residential Care Facilities
 
 **Kudakudhinge Hiya (Children's Home, Villimale')** is the primary shelter facility for children removed from harmful situations who are awaiting alternative care placement or family reunification. The facility accommodates approximately 50 children across gender-separated units. Kudakudhinge Hiya was not designed or resourced as a long-term care facility – it functions as emergency and transitional accommodation – but children often remain for extended periods because alternative care placements (foster care) are unavailable and family reunification is not safe.[^814]
 
@@ -737,7 +737,7 @@ The combined capacity pressure across both facilities – approximately 180 chil
 
 **The National Reintegration Centre** handles rehabilitation and reintegration of young people involved in violent extremism. The NAP P/CVE 2020-2024 noted that only **3 children had been successfully reintegrated** through this facility during its period – an indication of both the scale of the challenge and the limitations of the specific intervention model.[^818]
 
-### 4.53.3 Regional Service Distribution
+### 4.10.3 Regional Service Distribution
 
 The child protection system's geographic distribution follows the five regional hospital cluster framework:
 
@@ -753,7 +753,7 @@ The child protection system's geographic distribution follows the five regional 
 
 In each regional centre, the co-location of the FCSC, the regional hospital (including mental health), the police station, the magistrate court, and the NDA drug treatment facility creates – in principle – a multi-agency hub that can coordinate complex child protection responses. In practice, the coordination mechanisms between these agencies are underdeveloped, and geographic access from smaller surrounding islands to the regional hub remains a significant barrier for families and children.[^819]
 
-### 4.53.4 The 1412 Helpline: Operational Analysis
+### 4.10.4 The 1412 Helpline: Operational Analysis
 
 The national child protection helpline (1412) was established in 2008 as a toll-free 24-hour reporting channel. Given statutory basis by CRPA 2019 Article 76, the helpline serves as:
 
@@ -780,7 +780,7 @@ Key operational limitations:
 ## 4.11 Institutional Architecture for Child Protection: The Complete Picture
 
 
-### 4.93.1 The Children's Ombudsperson in Practice
+### 4.11.1 The Children's Ombudsperson in Practice
 
 The Children's Ombudsperson, established under CRPA 2019 and operational from 2021, represents one of the most significant institutional innovations in the post-CRPA architecture. Its mandate:
 - Independent investigation of children's rights violations
@@ -796,7 +796,7 @@ The 2022 Child Rights Symposium – co-hosted with UNICEF – represented the fi
 
 The Ombudsperson's primary accountability function is valuable but creates a tension with operational capacity. As Rogers, Ali and Naeem (2025) document, the HRCM and Ombudsperson impose ambitious objectives on CFPS workers – workers already carrying 160-case caseloads – creating a compliance culture where accountability management can crowd out substantive welfare work.
 
-### 4.93.2 The Human Rights Commission (HRCM) Child Rights Monitoring
+### 4.11.2 The Human Rights Commission (HRCM) Child Rights Monitoring
 
 The HRCM, established under Law No. 6/2006, includes a dedicated children's rights monitoring unit. Functions:
 - Independent monitoring of child rights compliance
@@ -808,7 +808,7 @@ The HRCM, established under Law No. 6/2006, includes a dedicated children's righ
 
 HRCM monitoring reports on juvenile facilities have raised concerns about overcrowding, programming adequacy, staffing ratios, and physical environments. The Government has undertaken infrastructure improvements at Imaduddin School in response.
 
-### 4.93.3 The DJJ and the Juvenile Rehabilitation Infrastructure
+### 4.11.3 The DJJ and the Juvenile Rehabilitation Infrastructure
 
 The Department of Juvenile Justice (DJJ), operationalised in 2020 under the Ministry of Home Affairs, represents the operational juvenile justice authority:
 
@@ -827,7 +827,7 @@ The **Imaduddin School for Boys** provides:
 
 The **Fiyavathi Rehabilitation Centre** has a dual function: rehabilitation for female juvenile offenders AND protective care for vulnerable girls who cannot be managed in community settings. The CRC Periodic Report (2026 draft) raises concerns about the appropriateness of a rehabilitation facility for non-offending children – placing girls in need of protection in an environment designed for those in conflict with the law.[^930]
 
-### 4.93.4 The Council for the Protection of the Rights of the Child
+### 4.11.4 The Council for the Protection of the Rights of the Child
 
 The National Child Rights Protection Council (established under CRPA 2019, Articles 14–18):
 - Chaired by the Minister of Social and Family Development
@@ -849,7 +849,7 @@ These bodies represent the formal apex of the child protection coordination arch
 ## 4.12 Geographic Service Delivery: The Tiered Architecture
 
 
-### 4.92.1 The Service Tier Model
+### 4.12.1 The Service Tier Model
 
 The Service Provider Directory (Part XXI of this encyclopedia) describes a four-tier service delivery architecture that defines what child protection services are available at each geographic level:
 
@@ -868,7 +868,7 @@ The practical implication for child protection is stark: **all specialist child 
 
 **Tier 1 islands** have effectively no dedicated child protection service. The island council, WDC, IBAMA community groups, and school teacher (as mandatory reporter) constitute the entirety of the child protection infrastructure. A child on a remote outer island who needs protection must rely on these community actors to initiate a report through 1412, which then routes to the FCSC, which may be several hours away by boat.[^926]
 
-### 4.92.2 The Malé Services for Children in Care
+### 4.12.2 The Malé Services for Children in Care
 
 The Service Provider Directory documents the child welfare and child protection facilities in Greater Malé in operational detail:
 
@@ -894,7 +894,7 @@ These three facilities – in Hulhumale', Villimale', and Villimale' respectivel
 
 **Residential care staffing and qualifications.** The UNICEF Social Sector Assessment (2022) found that staffing levels in Children's Homes are severely constrained, with two to three care workers working simultaneously with groups of 15 children, performing tasks that go beyond their mandate including psychosocial support they are not qualified to provide. The assessment also documented a substantial qualifications gap: in one residential home, 98% of 70 care workers had completed only basic literacy, very few had completed Grade 10, and only a handful had attended childcare courses.[^927a] Management of Children's Homes relies on volunteers from professional networks and external sources such as UNICEF to contract psychologists, teachers, and medical professionals – positions that are not accounted for in regular government budgets. In December 2020, several FCSCs were delegated responsibility for Children's Shelters without any additional funding, human resources, or material support, compounding the capacity gap at the frontline.[^927b]
 
-### 4.92.3 CFPS and FCSCs: The National Network
+### 4.12.3 CFPS and FCSCs: The National Network
 
 **CFPS (Child and Family Protection Services):**
 - Located in MoSFD headquarters, Malé
@@ -914,7 +914,7 @@ These three facilities – in Hulhumale', Villimale', and Villimale' respectivel
 
 **Geographic gap:** Of 187 inhabited islands, only those with FCSCs (approximately 24) have any dedicated child protection professional presence. The 163+ remaining islands access the system only through 1412, remote case management, and periodic visits from FCSC staff.[^928]
 
-### 4.92.4 The MPS Family and Child Protection Wing
+### 4.12.4 The MPS Family and Child Protection Wing
 
 The Maldives Police Service (MPS) maintains a dedicated Family and Child Protection Department (FCPD):
 - Male' headquarters: Phone 979 0163
@@ -931,7 +931,7 @@ One of the most significant operational barriers to effective child protection i
 ## 4.13 MoSFD Mandate Scope and Resource Requirements
 
 
-### 4.115.1 The Mandate Architecture
+### 4.13.1 The Mandate Architecture
 
 The Ministry of Social and Family Development's mandate document (January 2024) lists 39 core responsibilities. This is not a policy document or an aspirational framework – it is the operational mandate against which the Ministry's performance is assessed and through which its budget allocations are justified. The 39 responsibilities span:
 
@@ -948,13 +948,13 @@ The Ministry of Social and Family Development's mandate document (January 2024) 
 - **International treaty implementation** and reporting (CEDAW, CRC, CRPD)
 - **Management of subordinate bodies**: the Children's Rights Protection Council and the Disability Council
 
-### 4.115.2 The Subordinate Architecture
+### 4.13.2 The Subordinate Architecture
 
 The Ministry operates through nine subordinate institutions: NSPA (social protection administration); 19 FCSCs (frontline family and child protection); CFPS (centralised child protection management); Fiyavathi (residential care for children); Amaanveshi (GBV/DV shelters); Special Care Centre (special needs); Amaan Hiyaa (residential care for girls aged 9–18); Vilingili Social Service Centre; and Social Centres for Elderly.
 
 Each of these institutions has its own staffing, operational requirements, accountability framework, and client population. The ministry simultaneously implements 39 core policy responsibilities, maintains international treaty reporting cycles (CEDAW, CRC, CRPD periodic reports), coordinates with 25+ partner ministries on the GEAP alone, provides technical support to 19 FCSCs, and manages the development and implementation of multiple active action plans. Delivering across this mandate at the scale required depends on continued investment in staffing, coordination capacity, and fiscal resources across each mandate area.
 
-### 4.115.3 Implications for Child Protection
+### 4.13.3 Implications for Child Protection
 
 The breadth of the mandate has direct implications for child protection. With ministry leadership attention, budget negotiation capacity, and staff time distributed across 39 responsibilities, child protection competes for priority against elderly care, disability policy, gender mainstreaming, and social protection — all of which have legitimate claims on urgency. In practice, the most acute and visible crises receive attention, while slower-moving reform work (workforce development, deinstitutionalisation, online safety legislation, maintenance enforcement reform) advances at the pace that available capacity allows. Dedicated resourcing for child protection within the ministry's broader mandate would enable sustained progress on these longer-term priorities.
 
@@ -966,7 +966,7 @@ The international treaty reporting burden is itself significant. Each periodic r
 ## 4.14 The Family Protection Authority and Child Protection: The Overlap Zone
 
 
-### 4.56.1 FPA's Mandate and Its Child Protection Dimensions
+### 4.14.1 FPA's Mandate and Its Child Protection Dimensions
 
 The Family Protection Authority (FPA) was established under the Domestic Violence Prevention Act 2012 as the lead government agency for DV prevention and response. Its mandate formally centres on adult DV survivors, but every dimension of DV has direct child protection implications:
 
@@ -978,7 +978,7 @@ The Family Protection Authority (FPA) was established under the Domestic Violenc
 
 **Amaan Hiyaa shelter:** The Amaan Hiyaa shelter accommodates both women survivors and children accompanying them. Children in the shelter are themselves survivors of DV contexts, often experiencing acute trauma symptoms, disrupted schooling, and grief at separation from their father and home community. The shelter's capacity to provide child-specific psychosocial support – separate from the adult crisis response – is a documented gap.[^837]
 
-### 4.56.2 The FPA-CFPS Coordination Problem
+### 4.14.2 The FPA-CFPS Coordination Problem
 
 The operational relationship between FPA and CFPS is one of the most significant coordination challenges in Maldivian child protection. When a family comes to FPA attention through a DV complaint – or when a child protection referral involves a family where DV is present – the question of which agency leads, how information is shared, and whose assessment framework governs the response is not clearly resolved.
 
@@ -1000,7 +1000,7 @@ The CFW recommendations identify the development of a **Joint Protocol for Domes
 ## 4.15 The Children's Ombudsperson: Functions and Limitations
 
 
-### 4.83.1 Establishment and Mandate
+### 4.15.1 Establishment and Mandate
 
 The Children's Ombudsperson was established under the Child Rights Protection Act 2019 as an independent office mandated to:
 - Receive complaints from or on behalf of children
@@ -1009,7 +1009,7 @@ The Children's Ombudsperson was established under the Child Rights Protection Ac
 
 The office became operational in 2021 and has since handled hundreds of complaints related to child abuse, school-based violence, and juvenile justice conditions. The 2022 Child Rights Symposium (co-hosted with UNICEF) was the first major public review of CRPA implementation, providing a multi-stakeholder forum identifying gaps including shortage of trained social workers, absence of care plans for children in state care, and fragmentation of services across islands.
 
-### 4.83.2 The Ambitious Objectives Problem
+### 4.15.2 The Ambitious Objectives Problem
 
 Rogers, Ali and Naeem (2025) note a paradox in the Ombudsperson's role: organisations like the HRCM and Ombudsperson impose ambitious objectives on CFPS workers – objectives that "prove challenging to fulfil, given the constraints of staff capacity and the extensive caseloads they manage." The accountability infrastructure created by the CRPA 2019 (Ombudsperson, HRCM monitoring, mandatory reporting, criminal sanctions) creates a high standard of expected performance for a system structurally incapable of meeting it.
 
@@ -1023,7 +1023,7 @@ The Ombudsperson's role is structurally important and the accountability it prov
 ## 4.16 The Children's Rights Council: National Oversight Architecture
 
 
-### 4.86.1 The Council's Mandate and Composition
+### 4.16.1 The Council's Mandate and Composition
 
 The National Child Rights Protection Council, established under the Child Rights Protection Act 2019 (Articles 14–18), serves as the highest-level coordination body for child rights policy. Its composition:
 - Chaired by the Minister of Social and Family Development
@@ -1032,11 +1032,11 @@ The National Child Rights Protection Council, established under the Child Rights
 
 Mandate: quarterly meetings; approval of national child protection policies and action plans.
 
-### 4.86.2 The Inter-Ministerial Technical Committee
+### 4.16.2 The Inter-Ministerial Technical Committee
 
 The Inter-Ministerial Technical Committee on Child Protection provides operational coordination between line agencies on case management, data sharing, legislative implementation, and service delivery. Monthly meetings; technical-level representatives from all relevant agencies.
 
-### 4.86.3 The Gap Between Mandate and Performance
+### 4.16.3 The Gap Between Mandate and Performance
 
 The CRC Periodic Report (2026 draft) documents these bodies' formal roles without providing data on their actual performance – meeting frequency, decisions made, or outcomes measured. The broader pattern in Maldivian social policy – multiple coordination bodies established in legislation, with variable operational performance – applies here. The establishment of the Council and Technical Committee represents genuine institutional investment; whether these bodies drive meaningful coordination or serve primarily as paper governance structures depends on political commitment, leadership quality, and adequate resourcing of their secretariat functions.[^919]
 
@@ -1046,7 +1046,7 @@ The CRC Periodic Report (2026 draft) documents these bodies' formal roles withou
 ## 4.17 Child Protection and the Family Court
 
 
-### 4.99.1 The Family Court's Role
+### 4.17.1 The Family Court's Role
 
 The Family Court in Malé is the primary judicial body for child welfare matters. Its jurisdiction includes:
 - Emergency protective orders (confirmed within 24 hours)
@@ -1065,7 +1065,7 @@ The Family Court in Malé is the primary judicial body for child welfare matters
 
 **Best interests assessment in the Family Court:** The Family Court is required to conduct best interests assessments in all cases involving children. However, the operationalisation of this principle outside Malé – where decisions may be made by local officials without formal training – remains a challenge.
 
-### 4.99.2 Maintenance Enforcement Failures
+### 4.17.2 Maintenance Enforcement Failures
 
 The Family Court's maintenance enforcement system is effectively dysfunctional, as documented in the Gender chapter (Part V) and with child poverty implications noted above. The MVR 2 million in unclaimed maintenance payments accumulated at the Family Court represents years of accumulated obligation that fathers are not meeting – and that the court system is not enforcing.
 
@@ -1077,19 +1077,19 @@ The child protection system and the maintenance enforcement system are not integ
 ## 4.18 Multi-Sectoral Case Conferencing and Coordination
 
 
-### 4.17.1 The Coordination Deficit
+### 4.18.1 The Coordination Deficit
 
 Effective child protection requires coordination across multiple sectors: social services, police, health, education, justice, and community organisations. In the Maldives, inter-agency coordination remains ad hoc rather than systematic. There are no established protocols for multi-agency case conferences – structured meetings at which professionals from different agencies share information, assess risk, and develop coordinated plans for children at risk.
 
 The absence of formal case conferencing mechanisms means that information about children at risk is fragmented across agencies. A child known to the police for exposure to domestic violence may not be known to CFPS; a child identified by a school as showing signs of neglect may not be referred to health services; a child in the juvenile justice system may not receive the social work support that would address the underlying vulnerabilities driving their offending behaviour.[^76]
 
-### 4.17.2 Children with Disabilities
+### 4.18.2 Children with Disabilities
 
 Children with disabilities are particularly vulnerable within the child protection system. The vulnerability mapping research documented that children with disabilities face compounded risks: they are at elevated risk of abuse and neglect; they face barriers to disclosure (children with communication disabilities may be unable to report maltreatment); and they are underserved by a child protection system that lacks the specialist knowledge and capacity to meet their needs.
 
 A specific concern is the participation of children with disabilities in judicial proceedings. Cases have been documented in which court proceedings involving children with disabilities were conducted **without interpreters**, denying these children the ability to understand and participate in processes that directly affect their lives. This represents a violation of both the CRPA and the Disability Act 2010.[^77]
 
-### 4.17.3 Children in Domestic Violence Contexts
+### 4.18.3 Children in Domestic Violence Contexts
 
 The vulnerability mapping research produced a critical finding regarding the relationship between children and domestic violence: **children are both the primary reason women stay in violent relationships AND the primary reason they eventually leave.** Women reported staying in violent relationships to maintain family stability for their children, to ensure their children's access to housing and financial support, and to avoid the custody consequences of divorce (given the Family Act's provisions that penalise mothers who remarry or relocate). However, when violence escalated to a point where children were directly harmed or where women judged the exposure to violence as more damaging than separation, children became the catalyst for leaving.
 
@@ -1101,7 +1101,7 @@ This dual dynamic means that child protection cannot be separated from domestic 
 ## 4.19 Coordination Challenges Across Agencies
 
 
-### 4.46.1 The Coordination Architecture on Paper
+### 4.19.1 The Coordination Architecture on Paper
 
 The child protection coordination architecture in the Maldives includes multiple layers:
 
@@ -1113,7 +1113,7 @@ The child protection coordination architecture in the Maldives includes multiple
 
 This coordination architecture is comprehensive in design. In practice, the 2020 Presidential Commission on Child Rights Violations, the UNICEF 2022 assessment, and the Action Plans Analysis chapter all document significant coordination failures.[^753]
 
-### 4.46.2 The Core Coordination Failures
+### 4.19.2 The Core Coordination Failures
 
 **Case management fragmentation.** When a child is known simultaneously to CFPS (as a victim of neglect), MPS (as a witness to domestic violence), DJJ (for a minor juvenile offence), and a school counsellor (for behavioural problems), these contacts do not automatically connect into a coherent case management response. Each agency manages its slice of the case independently. No single professional has an overview of the child's full situation and is accountable for their welfare. The MDT protocol (2022, piloted in Malé and 3 atolls) was designed to address this – but national roll-out had not been completed as of 2024.[^754]
 
@@ -1125,7 +1125,7 @@ This coordination architecture is comprehensive in design. In practice, the 2020
 
 **Political interference.** Rogers, Ali and Naeem (2025) identify political interference as a significant challenge: "in a small society where political connections are pervasive, child protection workers may face pressure from politicians or community leaders to drop or modify reports of abuse involving politically connected families." The absence of statutory independence for CFPS – which is part of MoSFD and subject to the same political dynamics as the rest of the ministry – means that this pressure cannot always be resisted. The death threats received by frontline workers documented in §4.21 are one manifestation of this vulnerability.[^758]
 
-### 4.46.3 Promising Practices: The MDT Protocol
+### 4.19.3 Promising Practices: The MDT Protocol
 
 The Multi-Disciplinary Team (MDT) protocol, piloted in Malé and three atolls from 2022, represents the most promising systemic reform for coordination. The MDT brings together CFPS, MPS FCPW, DJJ, and health professionals to jointly review complex cases, share information, and agree coordinated responses. Pilot evaluation found that MDT case reviews improved information sharing, reduced duplication, and produced more coherent protection plans.
 
@@ -1137,7 +1137,7 @@ The challenge is scale: operating MDTs effectively in all 21 atolls requires tra
 ## 4.20 Inter-Agency Coordination: The MDT Model and Its Limitations
 
 
-### 4.84.1 The Multi-Disciplinary Team Protocol (2022)
+### 4.20.1 The Multi-Disciplinary Team Protocol (2022)
 
 A formal Multi-Disciplinary Team (MDT) protocol was established in 2022 – bringing together social workers, police, health professionals, and prosecutors for complex child abuse cases. MDT meetings are held regularly in Malé and were piloted in three atolls (Addu, Haa Dhaal, and Laamu). Extension to all atolls is planned but faces resource constraints.
 
@@ -1149,7 +1149,7 @@ However, the MDT model in the Maldives faces specific structural barriers:
 - **Information sharing barriers:** There is no national integrated case management system – CFPS, MPS, prosecutors, and health systems each maintain separate records with limited data sharing
 - **Cultural barriers to multi-disciplinary working:** The Maldivian social context's emphasis on hierarchical authority and community-specific norms can make cross-sector collaboration difficult when professional identities and institutional territories collide
 
-### 4.84.2 The Case Conference Gap
+### 4.20.2 The Case Conference Gap
 
 Rogers, Ali and Naeem (2025) recommend implementing Multi-Sectoral Case Conferencing for Case Management through formal regulation – establishing it as a standard operating procedure for complex cases rather than a discretionary practice. Without this formalisation, case conferences occur inconsistently, depending on the initiative of individual workers rather than being embedded in the system's operating protocols.
 
@@ -1161,31 +1161,31 @@ The difference between a system with formal case conference requirements and one
 ## 4.21 Coordination Architecture: Gaps, Fragmentation, and Reform Potential
 
 
-### 4.105.1 The Coordination Problem in the Maldivian Child Protection System
+### 4.21.1 The Coordination Problem in the Maldivian Child Protection System
 
 The institutional architecture described throughout this chapter – MoSFD/CFPS, FCSCs, FPA, NCPRC/CPCs, DJJ, 1412 helpline, Family Court, Magistrate Courts, MPS FCPD, IBAMA, CSGs, WDCs, HRCM, Children's Ombudsperson, and international partners – represents a system that is comprehensive in legislative scope but fragmented in operational execution. Each institution has a defined mandate. What the system lacks is a functioning coordination mechanism that ensures these mandates are discharged in a way that creates a coherent service experience for the child or family navigating multiple systems simultaneously.
 
 The consequence is visible in the experience of a family presenting with multiple intersecting problems – the commonest presentation in child protection. A single mother who is a domestic violence survivor, with a child displaying signs of sexual abuse and a husband who is drug-dependent, must navigate: the FPA (domestic violence protection order and case management); CFPS (child protection investigation and case planning); MPS (criminal investigation of domestic violence and potential sexual abuse); the Family Court (divorce and custody proceedings); NSPA (single parent allowance, potentially disability allowance); and counselling services through MoSFD. No single case manager holds responsibility for the entire family. Referrals depend on workers' individual relationships and initiative. Outcomes for the child depend on whether the specific workers involved happen to communicate effectively.[^965]
 
-### 4.105.2 Multi-Disciplinary Team Meetings: Design Versus Reality
+### 4.21.2 Multi-Disciplinary Team Meetings: Design Versus Reality
 
 The formal coordination mechanism for complex child protection cases is the Multi-Disciplinary Team (MDT) meeting – a model drawn directly from the English child protection framework, in which professionals from different agencies convene to jointly assess risk, share information, and agree on a coordinated response plan. In theory, MDTs ensure that all available information is synthesised and that responses are coordinated rather than duplicative or contradictory.
 
 In Maldivian practice, MDT functioning has been inconsistent. The CFW vulnerability mapping research documented that MDT meetings were not occurring regularly in all contexts, that participation from some key agencies (particularly health services) was unreliable, and that follow-through on plans agreed in meetings was not reliably monitored. The accountability deficit is structural: there is no independent body with authority to require agencies to attend MDTs, implement agreed plans, or account for the consequences when they fail to do so. Where MDTs work well, they do so because the individual workers involved are committed and communicative. Where they work poorly, the child protection response reverts to whichever single agency the family first accessed.[^966]
 
-### 4.105.3 The Data Interoperability Gap
+### 4.21.3 The Data Interoperability Gap
 
 A functioning coordination system requires shared information – at minimum, the ability for workers across different agencies to know whether a family they are seeing is already known to another service, what assessments have been done, and what plans are in place. In the Maldivian system, four separate data systems hold relevant information: the MCPD case management database (CFPS); the FPA's GBV database; the MPS crime database; and the NSPA Social Protection Information System (SPIS). None of these systems is interoperable in real time.
 
 The consequence is duplication (multiple agencies conducting separate assessments of the same family without sharing information), dangerous gaps (a child protection social worker who does not know that MPS is investigating the same family for a domestic violence incident), and an inability to generate the whole-family picture that effective case planning requires. The OneGov platform represents the government's aspiration toward greater digital integration of services, and the integration of Zakat House services into the platform in late 2024 demonstrates that cross-system data sharing is technically achievable. Extending this integration to child protection case management, GBV case management, and police databases requires not only technical work but resolution of the confidentiality and data protection questions that have historically been cited as barriers to information sharing between child protection and law enforcement.[^967]
 
-### 4.105.4 The Geographic Coordination Gap
+### 4.21.4 The Geographic Coordination Gap
 
 In Male', the institutional density that enables coordination is present: CFPS specialist teams, FPA offices, Family Court, MPS FCPD, legal services, and health facilities are all accessible. Workers can meet, call, and refer across institutions with relative ease. On outer islands, none of this institutional density exists. The single FCSC social worker is the coordination mechanism – attempting to connect with police officers who have not been trained in child protection, health workers who are uncertain about their reporting obligations, teachers who have not received the NCPP 2017 guidance on what to do when they suspect abuse, and island councillors who may or may not take child protection seriously.
 
 The geographic coordination gap means that the quality of child protection coordination is not primarily a function of system design – it is a function of where a child lives. A child in Male' is embedded in a relatively well-coordinated (if still imperfect) network of agencies and professionals. A child on a remote island is dependent on a single social worker to perform the functions that an entire multi-agency system performs in the capital.[^968]
 
-### 4.105.5 COVID-19 as a Coordination Stress Test
+### 4.21.5 COVID-19 as a Coordination Stress Test
 
 The COVID-19 pandemic provided an unplanned stress test of the Maldivian child protection coordination system, and the results were instructive. During the lockdown periods, the system demonstrated genuine resilience in some domains. The 1412 helpline maintained 24/7 operations and absorbed increased call volumes from children and families in distress under lockdown conditions. Residential care facilities continued to operate with internally managed infection control. Emergency income support (the Income Support Allowance) was rapidly deployed through NSPA to households that lost income.
 
@@ -1197,7 +1197,7 @@ At the same time, significant coordination failures occurred. The closure of sch
 ## 4.22 The Planning Framework Gap: Absence of an Overarching Coordination Architecture
 
 
-### 4.112.1 The Strategic Action Plan and Its Shelving
+### 4.22.1 The Strategic Action Plan and Its Shelving
 
 Child protection in the Maldives is governed by the NAPVAC 2024–2028 at the sector level. But the NAPVAC operates within a broader social policy planning context – or more precisely, within the absence of one. The Strategic Action Plan (SAP) 2019–2023, the government's five-year strategic framework, has lapsed and its successor has been shelved before completion.
 
@@ -1205,13 +1205,13 @@ The SAP light chapters – a series of sector-specific medium-term planning docu
 
 The Child and Family Protection chapter of the SAP light draft, though incomplete, contains useful situational data. It records that MoSFD's child and family protection mandate encompasses: strengthening alternative care centres; developing a competent professional workforce; addressing juvenile offender rehabilitation and reintegration; and addressing children recruited by gangs. It notes that the Ministry operates 19 FCSCs across the country. What it does not contain – because Phase 2 was never completed – is any specification of how these objectives translate into measurable targets, resource allocations, or implementation timelines.[^993]
 
-### 4.112.2 The Coordination Deficit Created by SAP's Absence
+### 4.22.2 The Coordination Deficit Created by SAP's Absence
 
 The absence of an overarching SAP creates a specific coordination problem for child protection. The NAPVAC 2024–2028 addresses violence against children. The GEAP 2022–2026 addresses gender equality, including child marriage and gender-based violence affecting children. The DVPNS 2023–2027 addresses domestic violence, which is the primary risk environment for many Maldivian children. The RMNCAH Strategy 2020–2025 addresses child health. All of these plans have child welfare dimensions, but none is responsible for the integration between them, and no overarching document prioritises resources across them.
 
 The plans operate in parallel, each seeking implementation from the same agencies (MoSFD, Ministry of Education, MPS, Ministry of Health), each generating its own reporting requirements, each identifying overlapping priorities without resolving how they relate to each other. MoSFD carries 39 core mandated responsibilities spanning five vulnerable population groups. Without an SAP to sequence and resource these priorities, all 39 sit simultaneously on the same institutional base — and delivering across them at the scale required depends on staffing, budget, and coordination capacity that would benefit from proportionate investment.[^994]
 
-### 4.112.3 The NSPA Social Protection Data – Child Protection Implications
+### 4.22.3 The NSPA Social Protection Data – Child Protection Implications
 
 Despite the SAP's shelving, the draft documents contain data that illuminates the child protection system's current reach. The Social Protection chapter of the SAP draft records that as of 2023:
 - **3,245 parents and 5,563 children** are benefiting from single parent allowances
@@ -1228,7 +1228,7 @@ The single parent allowance data – 3,245 parents and 5,563 children – means 
 ## 4.23 Action Plan Architecture: Coordination Failures, Mandate Overlaps, and the Structural Problem
 
 
-### 4.119.1 Coverage Gaps Across All Active Plans
+### 4.23.1 Coverage Gaps Across All Active Plans
 
 The Action Plans Analysis identified four population groups whose child protection needs are not comprehensively addressed by any of the active national action plans – groups that fall between the plans' categorical boundaries:
 
@@ -1240,7 +1240,7 @@ The Action Plans Analysis identified four population groups whose child protecti
 
 **Families in intersecting crisis:** Individual plans target specific vulnerabilities within families – child abuse, DV, disability, elderly care – but no plan provides an integrated family support framework that addresses the documented reality of compounding, intersecting vulnerabilities within the same household. The most common child protection presentation is not a single isolated concern but a constellation of problems: domestic violence + parental substance misuse + poverty + child neglect. No single plan addresses this constellation comprehensively.[^1016]
 
-### 4.119.2 Mandate Overlap: Child Protection and Domestic Violence
+### 4.23.2 Mandate Overlap: Child Protection and Domestic Violence
 
 The most consequential mandate overlap in the child protection context is the relationship between the NAPVAC and the DVPNS 3rd. Both plans address violence within the home – the NAPVAC focusing on children as victims and the DVPNS focusing on intimate partner violence. Yet the evidence is unambiguous: these are not separate phenomena. Children who witness domestic violence between parents are victims of that violence in ways that the research consistently documents – elevated rates of psychological harm, developmental delay, academic problems, and, critically, elevated risk of becoming perpetrators or victims of violence in adulthood.
 
@@ -1248,7 +1248,7 @@ The separation of child protection and domestic violence response into distinct 
 
 The evidence cross-reference in the Action Plans Analysis records the finding from CFW research that children are "both the primary reason women stay in violent relationships AND the primary reason they eventually leave." This insight – that the child protection and domestic violence response are inextricably linked at the family level – has not been translated into an integrated operational model at the system level. Creating a genuinely integrated family violence response, in which the safety of the child and the safety of the adult victim are pursued through a coordinated rather than parallel framework, is the most important structural reform in the child protection and DV system design.[^1017]
 
-### 4.119.3 Agency Responsibility Concentration
+### 4.23.3 Agency Responsibility Concentration
 
 The Action Plans Analysis documents the concentration of implementation responsibility across active plans onto a small number of agencies, with the heaviest concentration on frontline agencies:
 
@@ -1258,7 +1258,7 @@ The Action Plans Analysis documents the concentration of implementation responsi
 
 **The Maldives Police Service** carries responsibilities across four plans – child protection (NAPVAC), DV response (DVPNS), gender-based crime (GEAP), and counter-extremism (NAP P/CVE) – without an integrated policing framework for vulnerable populations. The FCPD operates within the broader MPS structure where child protection is a specialist function and the majority of police interactions with vulnerable families occur through general duty officers who have not received specialist child protection training.[^1018]
 
-### 4.119.4 The Absence of Cross-Plan Coordination
+### 4.23.4 The Absence of Cross-Plan Coordination
 
 The formal coordination mechanisms specified across the active plans are: the NAPVAC's proposed (but unspecified) monitoring and evaluation mechanism; the GEAP's Gender Focal Point network (which remained incomplete as of 2024); the NAPDI's Disability Council (assessed as "not adequate or effective" in the HRCM CRPD Shadow Report); and the National Ageing Policy's National Committee on Healthy Ageing (which has not convened since the pandemic).
 
@@ -1266,7 +1266,7 @@ More significant than any individual plan's coordination gap is the absence of c
 
 This absence is most consequential for children who sit at the intersection of multiple plans – children with disabilities facing violence (NAPDI + NAPVAC), children in domestically violent households (NAPVAC + DVPNS), children of women experiencing gender-based violence (NAPVAC + GEAP). For these children, the system offers multiple plans that each address part of their experience and no coordinated response that addresses the whole.[^1019]
 
-### 4.119.5 The Timeline Misalignment
+### 4.23.5 The Timeline Misalignment
 
 The active plans are operating on different timelines that create policy gaps at critical moments. The Health Master Plan and the RMNCAH Strategy are in their final year (2025), meaning the health policy framework within which disability, gender, and child health goals are pursued will expire before the NAPDI and NAPVAC reach their midpoint. The NAP P/CVE has already lapsed (its 2024 end date has passed), creating an unaddressed gap in the counter-extremism and child radicalisation prevention framework that it had begun to address.
 
@@ -1278,7 +1278,7 @@ The GEAP will expire in 2026, two years before the NAPDI and NAPVAC. This create
 ## 4.24 Political Interference and Structural Power Dynamics in Child Protection Casework
 
 
-### 4.82.1 The Political Dimension
+### 4.24.1 The Political Dimension
 
 Rogers, Ali and Naeem (2025) document one of the most politically sensitive dimensions of Maldivian child protection practice: the impact of political power dynamics on case management outcomes. Their analysis reveals several patterns:
 
@@ -1290,7 +1290,7 @@ Rogers, Ali and Naeem (2025) document one of the most politically sensitive dime
 
 **Cultural nepotism:** Rogers, Ali and Naeem (2025) note that the Maldivian social context leans heavily on community and familial bonds – a factor that fosters nepotism and favouritism and can lead to corruption (Maldives Financial Review, 2023). In a small-island community context, the social connections between a child protection worker, a reporting adult, and a suspected perpetrator may all intersect, creating conflicts of interest that are structurally endemic rather than exceptional.
 
-### 4.82.2 The Implications for Case Outcomes
+### 4.24.2 The Implications for Case Outcomes
 
 The political dimension documented by Rogers, Ali and Naeem (2025) suggests that child protection outcomes in the Maldives are not determined solely by the child's needs or the quality of the response, but significantly by:
 - The socio-political status of the family involved
@@ -1309,7 +1309,7 @@ A system in which case outcomes depend on these factors cannot provide equitable
 ## 4.25 Child Protection Case Management and Procedures
 
 
-### 4.4.1 The Four Pathways
+### 4.25.1 The Four Pathways
 
 Current child protection case management in the Maldives operates through four primary pathways, reflecting the most common presenting circumstances in which children come to the attention of protective services:
 
@@ -1321,7 +1321,7 @@ Current child protection case management in the Maldives operates through four p
 
 4. **Children of stressed single parents at risk of neglect:** Cases where single parents – predominantly mothers – are experiencing economic stress, mental health difficulties, substance use, or social isolation that compromises their capacity to meet children's basic needs. Given the Maldives' high divorce rate and the documented inadequacy of maintenance enforcement, this pathway captures a substantial volume of referrals.[^31]
 
-### 4.4.2 Judicial Orders and Legal Process
+### 4.25.2 Judicial Orders and Legal Process
 
 The CRPA establishes three judicial orders that provide the legal framework for state intervention:
 
@@ -1331,7 +1331,7 @@ The CRPA establishes three judicial orders that provide the legal framework for 
 
 - **Supervision Order (Article 93):** An order that allows the child to remain in the family or community while subject to supervision by child protection services. This represents a less interventionist option than removal and is intended to support families in addressing risk factors while keeping the child in their home environment.[^32]
 
-### 4.4.3 Systemic Weaknesses in Case Management
+### 4.25.3 Systemic Weaknesses in Case Management
 
 Despite the legislative framework, child protection case management in practice suffers from significant systemic weaknesses documented in multiple evaluations and research studies:
 
@@ -1351,7 +1351,7 @@ Despite the legislative framework, child protection case management in practice 
 ## 4.26 The CFPS: Case Management in Practice
 
 
-### 4.87.1 The Case Management Protocol
+### 4.26.1 The Case Management Protocol
 
 CFPS operates a structured case management system with the following stages (formalised through CFPS Standard Operating Procedures developed in 2021):
 1. **Referral and intake**
@@ -1362,7 +1362,7 @@ CFPS operates a structured case management system with the following stages (for
 6. **Monitoring and review**
 7. **Case closure**
 
-### 4.87.2 The Reality of Case Management at Scale
+### 4.26.2 The Reality of Case Management at Scale
 
 The case management protocol reads as a competent, internationally-informed child protection process. The gap between the protocol and the operational reality is documented throughout this chapter. Key operational realities:
 
@@ -1374,7 +1374,7 @@ The case management protocol reads as a competent, internationally-informed chil
 
 **The 5-day order requirement:** CRPA requires court orders within 5 days of a child entering state care. The court order process requires assessment, legal documentation, and judicial hearing – a complex chain of actions that must be completed under extreme time pressure by workers already at capacity.[^920]
 
-### 4.87.3 The MCPD: Case Data Infrastructure
+### 4.26.3 The MCPD: Case Data Infrastructure
 
 The Maldives Child Protection Database (MCPD) connects all FCSCs and provides a centralised case management platform. The MCPD was identified in the government's combined CRC report (2021) as a significant institutional achievement. As of 2024, a pilot digital case management system was deployed in selected FCSCs, with planned national rollout by 2026.
 
@@ -1392,25 +1392,25 @@ However, the value of digital infrastructure depends on data quality – which i
 ## 4.27 Watershed Moments: Cases and Events That Shaped the System
 
 
-### 4.57.1 The Baby Death Case (2009)
+### 4.27.1 The Baby Death Case (2009)
 
 The 2009 baby death case was the first documented systemic case failure to result in significant policy recommendations for the Maldivian child protection system. A baby died in circumstances where inter-agency coordination failures, inadequate risk assessment, and absent supervision were subsequently identified as contributing factors. The case exposed the gap between the emerging system – with its procedure manuals, trained workers, and helpline – and the operational reality of practitioners working without adequate backup.
 
 The recommendations that followed anticipated much of the CRPA 2019's content: supervisory requirements for social workers, inter-agency coordination protocols, minimum standards for risk assessment, and clearer lines of accountability. That these recommendations required a decade and a further piece of legislation to be implemented reflects the persistent gap between identifying reform needs and finding the political will and institutional capacity to act on them.[^839]
 
-### 4.57.2 The Five Children Sentenced to Death (2013-2015)
+### 4.27.2 The Five Children Sentenced to Death (2013-2015)
 
 Between 2013 and 2015, five children were sentenced to death in the Maldives under Shari'ah provisions. This was possible because the then-applicable Regulation on Juvenile Justice (2014) explicitly permitted death penalty sentences for children aged 7 and above – a provision that UNICEF, the CRC Committee, and the HRCM identified as wholly incompatible with the CRC.
 
 President Ibrahim Mohamed Solih committed at his inauguration in 2018 to abolishing the death penalty for minors. The subsequent JJ Act 2019 prohibited the death penalty for juvenile offenders – but the constitutional Shari'ah basis for the provision created legal complexity in how this prohibition would operate in practice. The five cases served as a catalyst for the JJ Act's enactment and demonstrated to international partners and domestic civil society the extent to which the pre-2019 framework was irreconcilable with CRC compliance.[^840]
 
-### 4.57.3 The 2020 Presidential Commission on Child Rights Violations
+### 4.27.3 The 2020 Presidential Commission on Child Rights Violations
 
 The Presidential Commission on Child Rights Violations, established by executive order in February 2020, conducted a wide-ranging inquiry into systemic failures in child rights protection across government agencies. Its report – which identified coordination failures, underfunding, workforce deficits, and political interference as structural problems – provided political legitimacy for the reform agenda that became the NAPVAC 2024-2028.
 
 The Commission's report is particularly significant because it came from within government – not from UNICEF, HRCM, or civil society – and therefore carried authority that external assessments sometimes lack in the Maldivian policy context. The Commission's findings aligned closely with the UNICEF 2022 assessment, suggesting consistent and well-documented problems rather than contested interpretations of the system's performance.[^841]
 
-### 4.57.4 The CRPA 2019 Drafting Process
+### 4.27.4 The CRPA 2019 Drafting Process
 
 The drafting of the CRPA 2019 was itself a significant event in the history of Maldivian child protection – not because of the outcome legislation alone, but because the multi-year consultation process involved civil society, practitioners, children themselves, religious scholars, and international partners in developing a child rights framework for the first time. The process required resolving tensions between Islamic jurisprudence and CRC principles, between community privacy norms and mandatory reporting obligations, and between family preservation values and child protection imperatives.
 
@@ -1494,11 +1494,11 @@ The way these tensions were resolved – or, in some cases, deferred (the corpor
 ## 4.28 Child Protection in Practice: Case Studies from the Field
 
 
-### 4.60.1 Introduction to Maldivian Case Practice
+### 4.28.1 Introduction to Maldivian Case Practice
 
 Rogers, Ali and Naeem (2025) present two case studies that illuminate how the Maldivian child protection system operates in practice – bridging the gap between legal frameworks and lived reality. These cases, presented as practice scenarios grounded in the realities of the Maldivian system, reveal the interaction of legal frameworks, cultural norms, religious practice, political dynamics, and workforce capacity in ways that statistics alone cannot capture.
 
-### 4.60.2 Case Study 1 – Jakob: Physical Abuse in a Family Context
+### 4.28.2 Case Study 1 – Jakob: Physical Abuse in a Family Context
 
 **The scenario:** Jakob's father physically abuses him at home. A neighbour witnesses the abuse and reports it.
 
@@ -1519,7 +1519,7 @@ If Jakob's father is a gang leader, drug trafficker, or violent extremist:
 
 **Care planning:** In practice, development of care plans is rare and regular review meetings to discuss Jakob's potential return home are not common practice. Once a child is in institutional care, the case tends to stall.[^858]
 
-### 4.60.3 Case Study 2 – Aysha: Child Sexual Abuse by a Family Member
+### 4.28.3 Case Study 2 – Aysha: Child Sexual Abuse by a Family Member
 
 **The scenario:** Aysha (age 9) discloses to a teacher that her uncle comes into her room every night and hurts her, disclosing sexual abuse.
 
@@ -1543,13 +1543,13 @@ If Jakob's father is a gang leader, drug trafficker, or violent extremist:
 ## 4.29 The Social Work Profession: Historical Development and Workforce Analysis
 
 
-### 4.59.1 Origins of the Social Work Workforce
+### 4.29.1 Origins of the Social Work Workforce
 
 The social work profession in the Maldives has its origins not in formal university training but in administrative and counselling functions within the child welfare system. The earliest workers in the Unit for the Rights of Children (URC), established in 1992, were volunteer counsellors provided with a 2-week introductory course in counselling techniques. These workers constituted the entire professional response to child welfare for the first decade of the Maldivian child protection system. They operated without legislative grounds for intervention – there was no comprehensive child protection, domestic violence, or sexual offences legislation until the 2000s – and with minimal training in what professional social work entails.
 
 Rogers, Ali and Naeem (2025) trace the growth of tensions between the counselling role and the social control aspects of child protection work as the system expanded. As mandatory reporting, court orders, and removal of children from families became features of the system, the requirements of the role evolved beyond what counsellors trained in a 2-week course were equipped for. This created the need for clearer role definitions and more substantial training pathways.[^853]
 
-### 4.59.2 The Training Pipeline: From 2006 to the Present
+### 4.29.2 The Training Pipeline: From 2006 to the Present
 
 The trajectory of social work training in the Maldives reflects both progress and persistent inadequacy:
 
@@ -1563,7 +1563,7 @@ The trajectory of social work training in the Maldives reflects both progress an
 
 **The English model:** Rogers, Ali and Naeem (2025) note that the Maldivian child protection system absorbed the procedural system of England, which is a needs-based rather than rights-based system, despite the rights-based framework of the UNCRC. This import has had both benefits (structured assessment frameworks, clearer thresholds) and costs (over-cautious approaches, rapid removal of children to institutional care rather than family-based alternatives, emphasis on severe cases at the expense of preventive work). The adaptation of an English needs-based system to a Maldivian, Islamic, small-island context has been imperfect and has required ongoing adjustment.[^854]
 
-### 4.59.3 Current Workforce: Numbers and Caseloads
+### 4.29.3 Current Workforce: Numbers and Caseloads
 
 The quantitative workforce picture is stark:
 
@@ -1578,7 +1578,7 @@ In outer island FCSCs, the situation is even more extreme. Many atoll FCSCs have
 
 **Orders within 5 days:** Under the CRPA, orders must be applied within 5 days of taking a child into state care. In cases where the court requires assessments, this task is passed to CFPS workers on top of their already overwhelming caseload. The combination of time pressure and caseload weight creates conditions in which assessments are necessarily superficial and the risk of error – in both directions, missing abuse and misidentifying abuse – is high.[^855]
 
-### 4.59.4 The Supervision Gap
+### 4.29.4 The Supervision Gap
 
 The absence of meaningful professional supervision is one of the most serious structural weaknesses in the Maldivian child protection workforce. Professional supervision – structured, regular, one-to-one sessions between a practitioner and a qualified supervisor to review cases, manage professional development, and support wellbeing – is a recognised essential safeguard for child protection workers. In the Maldives, it is effectively absent.
 
@@ -1594,7 +1594,7 @@ The reasons are systemic:
 
 5. **Secondary traumatisation:** Without supervision or psychosocial support, child protection workers are highly vulnerable to secondary traumatisation – the psychological cost of repeated exposure to accounts and evidence of child abuse, violence, and neglect. Worker burnout and turnover perpetuate the workforce crisis: experienced workers leave, taking accumulated practice wisdom with them, and are replaced by less experienced workers who themselves receive no supervision.[^856]
 
-### 4.59.5 School-Based Child Protection Focal Points
+### 4.29.5 School-Based Child Protection Focal Points
 
 In 2015, the Ministry of Education implemented child protection focal points in schools, following the Committee on the Rights of the Child's Concluding Observations (CRC/C/MDV/CO/4-5, para 5a). This represented an important step toward embedding child protection within the education system, which is the primary institution through which children are encountered regularly.
 
@@ -1614,13 +1614,13 @@ The school focal point system thus exists as a formal designation without the in
 ## 4.30 Mandatory Reporting: Legal Architecture, Implementation Reality, and Cultural Barriers
 
 
-### 4.22.1 Legal Framework
+### 4.30.1 Legal Framework
 
 **CRPA Article 126:** Any person who knows or suspects child abuse must report to CFPS or police. Failure to report is a criminal offence punishable by **two years' imprisonment**. Failure to report for financial gain (e.g., being paid to conceal abuse) attracts **five years' imprisonment**. Good-faith reporters are protected from civil or criminal liability.[^635]
 
 **Legislative history of mandatory reporting:** Mandatory reporting obligations originally existed in Chapter 3, Section 72 of the Maldives Penal Code Law 1/66 – but this provision was repealed on 20 September 2001, creating a gap during which there was no clear legal mandate to report crimes against children. For approximately 18 years, mandatory reporting existed in policy guidance but lacked statutory foundation. The CRPA restored mandatory reporting with a clear focus specifically on child abuse and with genuine criminal enforcement provisions.[^636]
 
-### 4.22.2 Implementation Challenges
+### 4.30.2 Implementation Challenges
 
 **Knowledge barriers:** Many professionals and community members remain unaware of reporting obligations, or uncertain about the threshold for reporting. Teachers, health workers, and community members who encounter signs of neglect or abuse may not know they have a legal duty to report. Professional training in mandatory reporting is available for social workers and is being extended to school staff, but coverage across all relevant professional groups is incomplete.
 
@@ -1630,7 +1630,7 @@ Rogers, Ali and Naeem (2025) document specific dynamics: if a child belongs to t
 
 **System capacity barriers:** Communities that report and receive no effective response lose confidence in the system, further reducing future reporting rates. The cycle of low-capacity response generating low reporting rates generating under-detected abuse prevalence is a structural challenge the CRPA's criminal reporting mandate alone cannot break.
 
-### 4.22.3 Mandatory Reporting in Schools: The Focal Point System and Its Limits
+### 4.30.3 Mandatory Reporting in Schools: The Focal Point System and Its Limits
 
 In 2015, the Ministry of Education implemented child protection focal points in schools under the Child Protection Policy. These focal points are designated as the school's contact for child protection concerns and trained to identify indicators of abuse.
 
@@ -1642,13 +1642,13 @@ However, Rogers, Ali and Naeem (2025) document that there are no established ref
 ## 4.31 The Child Helpline (1412) and Mandatory Reporting
 
 
-### 4.11.1 The National Child Helpline
+### 4.31.1 The National Child Helpline
 
 The **National Child Helpline 1412** was established in 2008 in partnership with Child Helpline International as a toll-free, 24-hour telephone service for reporting child protection concerns. The helpline is supplemented by the **Social Services Hotline 1421**, which handles broader social services referrals including domestic violence, disability services, and elderly care.
 
 The helpline serves multiple functions: it is a reporting channel for professionals and community members who identify child protection concerns; it is a direct line for children and adolescents to seek help; and it provides information and referral to services. The helpline is operated by trained staff and connects callers to CFPS for case management follow-up.[^62]
 
-### 4.11.2 Mandatory Reporting Under the CRPA
+### 4.31.2 Mandatory Reporting Under the CRPA
 
 The CRPA 2019 establishes mandatory reporting obligations that require professionals – including teachers, health workers, police officers, and social workers – and, more broadly, all persons who know or suspect that a child is being maltreated, to report such concerns to CFPS or the police. Good-faith reporters are protected from civil or criminal liability.
 
@@ -1664,11 +1664,11 @@ The implementation of mandatory reporting faces several challenges:
 ## 4.32 The Child Helpline (1412): National Reporting Infrastructure
 
 
-### 4.29.1 Establishment and Legal Basis
+### 4.32.1 Establishment and Legal Basis
 
 **National Child Helpline 1412** was established in 2008 in partnership with **Child Helpline International** as a toll-free, 24-hour telephone service for reporting child protection concerns. It received statutory basis in **CRPA 2019 Article 76**, which formalised its role in the national child protection architecture. The helpline operates alongside the broader **Social Services Hotline 1421** (for DV, disability, elderly, and other social service referrals).[^671]
 
-### 4.29.2 Functions and Operations
+### 4.32.2 Functions and Operations
 
 The 1412 helpline serves multiple functions:
 - **Professional reporting channel** for teachers, health workers, police, and other mandated reporters to notify CFPS of concerns
@@ -1678,7 +1678,7 @@ The 1412 helpline serves multiple functions:
 
 Operated by trained staff who assess urgency and connect callers to CFPS for follow-up. In 2024, the helpline received approximately **2,855 calls**.[^672]
 
-### 4.29.3 Operational Limitations
+### 4.32.3 Operational Limitations
 
 The helpline's effectiveness is fundamentally constrained by the system capacity behind it:
 - 2,855 contacts per year, against a CFPS workforce of 61 social workers, means approximately 47 additional helpline contacts per worker per year – added to existing active caseloads of 70–80 cases
@@ -1695,7 +1695,7 @@ The helpline is necessary but insufficient as a stand-alone mechanism. Its effec
 ## 4.33 The 1412 Childline: Operations and Analysis
 
 
-### 4.88.1 Establishment and Legal Basis
+### 4.33.1 Establishment and Legal Basis
 
 The national 24-hour child helpline 1412 was established with the assistance of Child Helpline International and has its legal basis in CRPA Article 76(a–h). The helpline receives thousands of contacts annually, with a significant proportion resulting in formal referrals to CFPS or FCSCs.
 
@@ -1705,13 +1705,13 @@ The 1412 helpline serves multiple functions:
 - **Counselling:** Some emotional support for callers in distress
 - **Data collection:** Call data provides an indicator of reporting rates and issue profiles
 
-### 4.88.2 The Helpline as an Access Point for Remote Communities
+### 4.33.2 The Helpline as an Access Point for Remote Communities
 
 For children and families on islands without FCSC presence, the 1412 helpline is the primary point of access to the child protection system. A child on an outer island who wants to report abuse, or an adult who suspects a child is being harmed, has no other accessible institutional point of contact. This makes the helpline's capacity, response quality, and referral capability critically important for outer island child protection.
 
 However, the helpline is primarily a routing mechanism, not a service delivery mechanism. Its value depends on the quality and speed of the FCSC or CFPS response that follows a referral – and in outer islands, the response capacity is severely constrained by geography, workforce, and resources.
 
-### 4.88.3 The 1412 Data Gap
+### 4.33.3 The 1412 Data Gap
 
 Despite receiving thousands of contacts annually, the 1412 data has not been systematically used for trend analysis and resource allocation planning. The CRC Periodic Report (2026 draft) notes the data gap in reporting case numbers imprecisely ("thousands annually... significant proportion result in formal referrals"). The development of the NCPD digital platform should eventually enable integration of 1412 call data with CFPS case management data – allowing tracking of cases from initial contact through to case closure. This integration has not yet been achieved.[^922]
 
@@ -1724,13 +1724,13 @@ Despite receiving thousands of contacts annually, the 1412 data has not been sys
 ## 4.34 Prevalence and Forms of Child Abuse -- Research Evidence
 
 
-### 4.5.1 Administrative Data on Reported Cases
+### 4.34.1 Administrative Data on Reported Cases
 
 The Ministry of Gender, Family and Social Services (as it was then titled) reported **349 child abuse cases in the period March–May 2018**, of which 48% involved sexual abuse or physical violence. This figure – an average of approximately 116 reported cases per month – provides only a partial picture, as it captures only cases reported to the Ministry and does not include cases reported to police, cases handled informally within communities, or cases that were never disclosed.[^37]
 
 Administrative data on reported child abuse cases for the period 2017–2022 (Table 8.60 in the Rogers, Ali & Naeem analysis) shows the following categories of reported maltreatment: neglect, physical abuse, emotional abuse, sexual abuse, bullying, harassment, witnessing domestic violence, and cyberbullying. The data reveals that sexual abuse consistently constitutes the largest single category of reported cases, followed by physical abuse and neglect. The introduction of cyberbullying as a category in more recent years reflects the growing recognition of online harms to children in a society with high mobile phone and internet penetration.[^38]
 
-### 4.5.2 Survey and Research Data
+### 4.34.2 Survey and Research Data
 
 Population-based survey data paints a broader picture than administrative data alone:
 
@@ -1742,7 +1742,7 @@ Population-based survey data paints a broader picture than administrative data a
 
 - **Hospital data from Indira Gandhi Memorial Hospital (IGMH) for the period 2005–2009** recorded 43 rape cases presenting to the hospital, of which 22 involved minors. Almost half of the cases involving minors were gang-rapes, indicating a pattern of group sexual violence against children that intersects with the Maldives' well-documented gang violence problem.[^41]
 
-### 4.5.3 Child Abuse in the Malé Context
+### 4.34.3 Child Abuse in the Malé Context
 
 The unique dynamics of Malé – the most densely populated city in the world by some measures – create specific child protection risks. A documented pattern involves children from outer island families being sent to relatives in Malé to access educational opportunities. In many cases, these arrangements function well. However, research by Adam (2017) documented that **relatives' children brought to Malé for education may be forced into domestic work** – performing cooking, cleaning, and childcare duties in exchange for accommodation rather than receiving the educational access that was the stated purpose of the arrangement. These children occupy a liminal status: they are family members rather than employees, making their exploitation difficult to identify and categorise within formal child labour or child abuse frameworks.[^42]
 
@@ -1754,7 +1754,7 @@ The overcrowded living conditions in Malé – with multiple families sharing sm
 ## 4.35 Child Abuse and Neglect: Prevalence, Patterns, and Case Volume Data
 
 
-### 4.23.1 Administrative Case Data
+### 4.35.1 Administrative Case Data
 
 The administrative data from MoSFD and CFPS provides the most current picture of officially reported child protection cases:
 
@@ -1772,7 +1772,7 @@ The NCB Statistical Yearbook (Table 8.60) records child abuse cases by type from
 
 The 2,936 new cases received in 2023, added to a CFPS workforce of 61 social workers, translates to approximately 48 new cases per worker per year – added to existing active caseloads. This is the operational reality of Maldivian child protection practice.[^641]
 
-### 4.23.2 Prevalence Studies: True Scale
+### 4.35.2 Prevalence Studies: True Scale
 
 Administrative case data systematically underestimates true prevalence, capturing only reported and recorded cases. Survey-based studies provide a closer approximation:
 
@@ -1794,7 +1794,7 @@ Administrative case data systematically underestimates true prevalence, capturin
 - **30%** of all child protection cases managed by MoSFD involve sexual abuse (MoSFD administrative data)
 - Sexual abuse and physical violence together constituted **48%** of cases in the March–May 2018 quarterly dataset[^642]
 
-### 4.23.3 Under-Reporting Drivers
+### 4.35.3 Under-Reporting Drivers
 
 **Social stigma and community silence:** Sexual abuse – particularly intra-familial abuse – may be actively concealed by family members to protect social standing. The survivor's own family may discourage disclosure to prevent the perpetrator (who may be a respected community member) from facing consequences.
 
@@ -1809,10 +1809,10 @@ Administrative case data systematically underestimates true prevalence, capturin
 ---
 
 
-## 4.36 Children in Domestic Violence Contexts: The Dual Dynamic
+## 4.36 Children in Domestic Violence Contexts
 
 
-### 4.25.1 The Critical Research Finding
+### 4.36.1 DV-Child Abuse Co-Occurrence
 
 The CFW vulnerability mapping research produced one of the most analytically significant findings regarding the relationship between children and domestic violence:
 
@@ -1824,13 +1824,13 @@ Women eventually left when: violence escalated to the point where children were 
 
 **Policy implication:** Child protection and domestic violence response cannot be treated as separate service streams. A child protection response that focuses on the child while ignoring the violence experienced by the child's mother will fail to address the root cause of the child's risk.[^650]
 
-### 4.25.2 Children Witnessing DV as a Child Protection Concern
+### 4.36.2 Children Witnessing DV as a Child Protection Concern
 
 Under Maldivian law, **causing a minor to witness domestic violence is defined as domestic violence** – treating indirect exposure as a form of child abuse. CFPS protocols mandate that when a child is identified as witnessing DV, the child receives access to medical or psychological care, referral to counselling, and ongoing monitoring even after violence against the other parent ceases.
 
 The CFW research (Section 4, 2026) confirms: "If a child is routinely witnessing one parent abuse the other (a form of psychological harm), Maldivian law treats it seriously – causing a minor to witness domestic violence is defined as domestic violence." CFPS monitors the family over time even after violence ceases, because children who have witnessed DV may present with behavioural or emotional difficulties requiring sustained support.[^651]
 
-### 4.25.3 Children Used as Leverage in Post-Separation Coercive Control
+### 4.36.3 Children Used as Leverage in Post-Separation Coercive Control
 
 The vulnerability mapping research documented specific patterns of custody weaponisation:
 - Ex-partners threatening custody proceedings to prevent women from seeking protection or forming new relationships
@@ -1841,7 +1841,7 @@ The vulnerability mapping research documented specific patterns of custody weapo
 
 Rogers, Ali and Naeem (2025) summarise: children are "used as leverage in custody disputes, separated from primary caregivers, dispersed across relatives, and witnessing violence, experiencing direct abuse."[^652]
 
-### 4.25.4 The Jakob Case Study: Practice Reality in DV Context
+### 4.36.4 The Jakob Case Study: Practice Reality in DV Context
 
 Rogers, Ali and Naeem (2025) present the composite case of Jakob (age 8), identified as having been beaten by his father who is also violent toward Jakob's mother.
 
@@ -1852,7 +1852,7 @@ Rogers, Ali and Naeem (2025) present the composite case of Jakob (age 8), identi
 - If the father is a **gang leader or drug trafficker:** the case may not be reported at all due to fear of reprisals; social workers in such cases have received death threats (Human Rights Watch, 2023)
 - **Normal family:** the system attempts to follow procedure, but follow-up monitoring is often inadequate due to caseload constraints[^653]
 
-### 4.25.5 Section 42 Family Act: Custody as Post-Separation Control
+### 4.36.5 Section 42 Family Act: Custody as Post-Separation Control
 
 A mother loses priority custody if she marries a man who is not a *mahram* of her children, or relocates to a different island without the father's consent. Effects on child protection outcomes:
 - Women cannot rebuild their lives (through new relationships) while retaining custody of their children from previous marriages
@@ -1868,13 +1868,13 @@ Analysis of 24 High Court custody cases: in every instance where the mother was 
 ## 4.37 Violence Against Children: The Criminal Justice Funnel
 
 
-### 4.67.1 Reporting and Case Volume Trends
+### 4.37.1 Reporting and Case Volume Trends
 
 Child abuse and neglect cases reported to CFPS and FCSCs have increased significantly over the reporting period 2015–2024. The CRC Periodic Report (2026 draft) attributes this increase to both rising reporting rates (as awareness of reporting obligations and channels increases) and genuine improvements in case identification as the system matures – not necessarily to increases in underlying prevalence.
 
 The National Bureau of Classification Statistical Yearbook (Table 8.60) records child abuse cases from 2009 to 2020, showing a consistent upward trend throughout the decade. The COVID-19 pandemic period (2020–2021) showed a particular spike in abuse and neglect reports, consistent with patterns observed internationally during lockdown periods – periods of increased parental stress, economic pressure, reduced monitoring, and limited children's contact with mandatory reporters in schools and childcare settings.
 
-### 4.67.2 The Criminal Justice Funnel for Child Sexual Abuse
+### 4.37.2 The Criminal Justice Funnel for Child Sexual Abuse
 
 MPS data recorded **291 incidents of child commercial sexual exploitation** investigated in one reporting year during the 2015–2024 period. Child sexual abuse cases investigated by MPS number in the hundreds annually, though the true prevalence is believed to be significantly higher given documented barriers to reporting.
 
@@ -1887,13 +1887,13 @@ MPS data recorded **291 incidents of child commercial sexual exploitation** inve
 
 **Conviction rates:** Conviction rates for child sexual abuse remain critically low relative to reported cases. Cases entering the criminal justice system face challenges including: evidence being primarily testimonial; recantation by child witnesses under family or community pressure; lengthy court processes; inadequate training of prosecutors and investigators in child-sensitive techniques; and historically, judicial interpretation of corroboration requirements. The aggregate effect is a criminal justice funnel that loses cases at every stage.
 
-### 4.67.3 Multi-Disciplinary Team Protocol
+### 4.37.3 Multi-Disciplinary Team Protocol
 
 A formal Multi-Disciplinary Team (MDT) protocol was established in 2022, bringing together social workers, police, health professionals, and prosecutors for complex child abuse cases. MDT meetings are held regularly in Malé and were piloted in three atolls (Addu, Haa Dhaal, and Laamu). Extension to all atolls is planned but faces resource constraints.
 
 The MDT model represents a significant structural advance over the previous fragmented response, in which police, CFPS, prosecutors, and health professionals each operated largely independently, with limited joint working and information sharing. However, the MDT model has not yet produced measurable improvement in conviction rates, partly because the evidentiary and judicial challenges it is designed to address are systemic rather than procedural.
 
-### 4.67.4 Child Trafficking
+### 4.37.4 Child Trafficking
 
 The Anti-Human Trafficking Act (Law No. 12/2013) criminalises trafficking in persons including children, with child trafficking as an aggravated offence. MoGFSS data from the reporting period identified **21 suspected child trafficking cases** that were referred to or identified by the Ministry, of which a significant proportion did not result in formal investigation.
 
@@ -1905,7 +1905,7 @@ The trafficking situation in Maldives is complex:
 
 The National Referral Mechanism for trafficking victims operates primarily in Malé, with limited capacity to identify trafficking situations in outer islands or resort zones – a geographic gap with significant implications for child victims.[^876]
 
-### 4.67.5 Online Violence and Digital Safety
+### 4.37.5 Online Violence and Digital Safety
 
 Maldives has high internet penetration – among the highest in South Asia – meaning children are exposed to online risks at rates comparable to high-income countries but with a significantly less developed institutional response.
 
@@ -1924,19 +1924,19 @@ The legal framework for online child safety is developing, with relevant provisi
 ## 4.38 The Social Norms and Prevention Dimension
 
 
-### 4.74.1 Prevention as an Underdeveloped Priority
+### 4.38.1 Prevention as an Underdeveloped Priority
 
 Rogers and Ali (2023) and Rogers, Ali and Naeem (2025) both note that the Maldives' child protection strategy, modelled on the UK system, prioritises severe cases. This emphasis leaves preventative efforts in the background, concentrating on immediate risks rather than underlying needs. The development of family support services, community-based prevention programmes, and awareness-raising initiatives that reduce the incidence of abuse has been systematically underfunded relative to the reactive, investigative functions of the child protection system.
 
 The NAPVAC 2024–2028 (National Action Plan on Violence Against Children) represents the most recent effort to address prevention alongside response – its five strategic areas include Prevention and Behaviour Change as a dedicated domain. However, effective prevention requires sustained investment over many years to produce measurable changes in social norms and abuse incidence, and the Maldivian track record on sustaining such investments is mixed.
 
-### 4.74.2 Positive Parenting and Discipline
+### 4.38.2 Positive Parenting and Discipline
 
 The Government's Strategic Action Plan (SAP) – Caring State and Dignified Families (2019) – mandates the Ministry to develop and implement country-wide awareness programmes on parenting skills, including child maltreatment and abuse. The Ministry of Education's positive discipline training programme reached an estimated 40% of teachers nationally by 2023.
 
 However, Rogers, Ali and Naeem (2025) note the social context in which positive parenting messages are received: a cultural transition from a history in which physical discipline of children was normalised and religiously sanctioned, toward a legal prohibition on all corporal punishment, has not been accompanied by adequate community-level engagement with the reasons for this transition or with viable alternatives. The message that "you cannot hit your child" without the accompanying message of "here is how to manage your child's behaviour effectively without physical force" has created a disciplinary vacuum in some families.
 
-### 4.74.3 Community-Level Prevention: IBAMA
+### 4.38.3 Community-Level Prevention: IBAMA
 
 The IBAMA programme (discussed in detail in §4.41 of this chapter) represents the primary community-level prevention infrastructure in the Maldivian child protection system. IBAMA's 12-category community structure – covering education, health, social work, justice, religious authority, civil society and others – provides a framework for community-based prevention that is grounded in local social structures.
 
@@ -1950,7 +1950,7 @@ The key limitation of IBAMA, as documented across multiple sources, is its varia
 
 The Community and Family Wellbeing (CFW) vulnerability mapping process (2026) produced 49 cross-sectoral recommendations, of which a substantial portion directly address child protection. The following summarises all CFW recommendations with significant child protection implications, organised thematically.[^760]
 
-### 4.47.1 Prevention and Early Intervention
+### 4.39.1 Prevention and Early Intervention
 
 **R1: Relationship and family life education.** Introduce comprehensive relationship education at Grade 10 (secondary school) and at university level, covering communication, boundaries, healthy relationships, conflict resolution, and consent. This education is a primary prevention tool for both intimate partner violence and child abuse – children who understand healthy relationships are better positioned to recognise and report abuse.
 
@@ -1962,7 +1962,7 @@ The Community and Family Wellbeing (CFW) vulnerability mapping process (2026) pr
 
 **R5: *Imam* and religious leader engagement.** *Imams*, Quran teachers, and Islamic scholars are among the most trusted community figures in Maldivian society. Their engagement in child protection messaging – on positive discipline, the Islamic duty to protect children from harm, and the permissibility of reporting abuse – is essential for reaching communities where secular child protection messaging has limited resonance.
 
-### 4.47.2 Legal and Policy Reform
+### 4.39.2 Legal and Policy Reform
 
 **R6: Child marriage.** Amend Section 4(b) of the Family Act to remove the court approval exception for marriage before age 18. Establish an absolute minimum marriage age of 18 with no exceptions.
 
@@ -1978,7 +1978,7 @@ The Community and Family Wellbeing (CFW) vulnerability mapping process (2026) pr
 
 **R12: Out-of-wedlock children.** Reform the legal status of out-of-wedlock children to remove discriminatory provisions that increase their vulnerability to placement in informal care and state systems, and that prevent their mothers from exercising full parental rights.
 
-### 4.47.3 Judicial and Police Reform
+### 4.39.3 Judicial and Police Reform
 
 **R13: Judicial training.** All Family Court judges who make child protection and custody decisions should complete specialised training in: trauma and child development; dynamics of child sexual abuse; coercive control and domestic violence; and evidence-based risk assessment in child protection cases.
 
@@ -1990,7 +1990,7 @@ The Community and Family Wellbeing (CFW) vulnerability mapping process (2026) pr
 
 **R17: Custody weaponisation protocols.** Develop specific protocols for cases where custody is used as a mechanism for post-divorce coercive control – including situations where a father uses the Section 42 custody threat to prevent a mother from leaving or seeking safety.
 
-### 4.47.4 Service System Reform
+### 4.39.4 Service System Reform
 
 **R18: Emergency accommodation.** Establish emergency safe accommodation in all regional centres – not only Malé – with a specific protocol for rapid access by women and children at immediate risk. The current shelter system provides Amaan Hiyaa (Malé) and Fiyavathi; these cannot serve the outer atoll population effectively.
 
@@ -2006,7 +2006,7 @@ The Community and Family Wellbeing (CFW) vulnerability mapping process (2026) pr
 
 **R24: Alternative care standards.** Minimum standards for all residential care settings – Kudakudhinge Hiya, Fiyavathi, and any future children's homes – should be established by regulation and enforced by the Children's Ombudsperson through regular inspection.
 
-### 4.47.5 Perpetrator Management
+### 4.39.5 Perpetrator Management
 
 **R25: Perpetrator behaviour change programmes.** Evidence-based behaviour change programmes for perpetrators of domestic violence should be established, with mandatory participation for convicted perpetrators as a condition of any custody or unsupervised contact arrangement.
 
@@ -2016,7 +2016,7 @@ The Community and Family Wellbeing (CFW) vulnerability mapping process (2026) pr
 
 **R28: Sex offender management.** The Special Measures Act 12/2009 child sex offender registry should be operationalised and maintained as a tool for monitoring known offenders who may have ongoing contact with children. Current operational status of the registry requires clarification.
 
-### 4.47.6 Economic Security for Families
+### 4.39.6 Economic Security for Families
 
 **R29: Social protection expansion.** Expand the Single Parent Allowance and food aid coverage to all eligible families in outer atolls. Current coverage gaps – documented by the Hameed et al. (2022) disability allowance study and inferred from NSPA data – mean that the most economically vulnerable families, who are often the most at risk for child maltreatment from poverty-related stress, are not receiving available support.
 
@@ -2024,7 +2024,7 @@ The Community and Family Wellbeing (CFW) vulnerability mapping process (2026) pr
 
 **R31: Financial literacy and economic empowerment.** For women who have experienced domestic violence and who may have been denied access to family finances as part of coercive control, post-separation financial literacy and economic empowerment programmes should be available through FCSCs.
 
-### 4.47.7 Digital Safety and Online Protection
+### 4.39.7 Digital Safety and Online Protection
 
 **R32: Mandatory digital safety curriculum.** From Grade 4 onwards, all students should receive age-appropriate digital safety education covering online grooming, sextortion, CSAM, and reporting pathways. This curriculum should be developed by Ministry of Education in partnership with CFPS and police.
 
@@ -2032,7 +2032,7 @@ The Community and Family Wellbeing (CFW) vulnerability mapping process (2026) pr
 
 **R34: ISP reporting obligations.** Internet service providers operating in the Maldives should be required by law to report CSAM identified on their networks to the MPS Cyber Crime Unit, consistent with international practice in countries that have enacted online child safety legislation.
 
-### 4.47.8 Workforce and System Capacity
+### 4.39.8 Workforce and System Capacity
 
 **R35: Social worker recruitment.** A multi-year, funded social work recruitment and retention strategy should be developed, with competitive salaries, clear career pathways, professional registration requirements, and support for outer island posting (including family accommodation, connectivity, and regular supervision via video technology).
 
@@ -2053,7 +2053,7 @@ The Community and Family Wellbeing (CFW) vulnerability mapping process (2026) pr
 ## 4.40 Child Sexual Abuse: Patterns, Legal Responses, and Challenges
 
 
-### 4.6.1 Prevalence Patterns
+### 4.40.1 Prevalence Patterns
 
 Child sexual abuse (CSA) in the Maldives follows several documented patterns:
 
@@ -2063,7 +2063,7 @@ Child sexual abuse (CSA) in the Maldives follows several documented patterns:
 
 - **Online sexual exploitation** is an emerging concern given high internet and smartphone penetration among Maldivian children and adolescents, though systematic data on the prevalence of online CSA remains limited.
 
-### 4.6.2 Legal Framework and Gaps
+### 4.40.2 Legal Framework and Gaps
 
 The legal response to CSA is governed primarily by the **Special Measures for Perpetrators of Child Sexual Abuse (Act 12/2009)**, the **Sexual Offences Act 2014**, and the **CRPA 2019**. However, significant gaps persist:
 
@@ -2079,7 +2079,7 @@ The legal response to CSA is governed primarily by the **Special Measures for Pe
 ## 4.41 Child Sexual Abuse: Legal and Practice Dimensions
 
 
-### 4.24.1 Legal Framework for CSA
+### 4.41.1 Legal Framework for CSA
 
 Primary legal frameworks:
 - **Sexual Offences Act 2014 and 2021 Amendment:** Core criminal offence definitions for rape, sexual assault, child sexual abuse material (CSAM), and exploitation; SOA Section 52's five-types-of-evidence requirement applies equally to child and adult cases
@@ -2089,7 +2089,7 @@ Primary legal frameworks:
 
 The SOA Section 52 five-types-of-evidence requirement applies to child sexual abuse cases just as it applies to adult rape cases. Prosecution rate: approximately 14% of reported cases. Conviction rate among prosecuted cases: 16.7%. The overwhelming majority of child sexual abuse cases result in no criminal accountability.[^644][^645]
 
-### 4.24.2 The Aysha Case Study: Practice Reality in CSA
+### 4.41.2 The Aysha Case Study: Practice Reality in CSA
 
 Rogers, Ali and Naeem (2025) present the case of Aysha (age 9) disclosing to her teacher that her uncle sexually abuses her nightly:
 
@@ -2101,7 +2101,7 @@ Rogers, Ali and Naeem (2025) present the case of Aysha (age 9) disclosing to her
 
 Best practice response: a multi-disciplinary case conference bringing together professionals from different sectors to ensure rapid decision-making – particularly important in time-sensitive decisions such as termination of pregnancy within the 120-day legal window if Aysha were older and pregnant.[^646]
 
-### 4.24.3 The Adolescent Dimension: Where the *Zina*/CSA Boundary Becomes Critical
+### 4.41.3 The Adolescent Dimension: Where the *Zina*/CSA Boundary Becomes Critical
 
 The sharpest tensions arise when the victim is an adolescent who has reached puberty:
 
@@ -2113,7 +2113,7 @@ The sharpest tensions arise when the victim is an adolescent who has reached pub
 
 Rogers, Ali and Naeem (2025) explicitly cite this as a case type requiring "careful balancing... upholding traditional Islamic values while also ensuring that the fundamental rights and welfare of young people are protected and prioritised."[^647]
 
-### 4.24.4 Online and Digital Child Sexual Abuse
+### 4.41.4 Online and Digital Child Sexual Abuse
 
 CSAM production, distribution, and possession is criminalised under the SOA 2014 as amended. The MPS Computer Crime and Digital Forensics unit works with INTERPOL on CSAM investigations. NAPVAC 2024–2028 identifies online safety as one of five strategic areas, with outcome targets including reviewed cybercrime regulations and decreases in online violence against children.
 
@@ -2125,7 +2125,7 @@ The scale of institutional response does not yet match the scale of risk. Maldiv
 ## 4.42 Child Trafficking and Commercial Sexual Exploitation
 
 
-### 4.26.1 Scale and Patterns
+### 4.42.1 Scale and Patterns
 
 **Documented case volume:**
 - **21 suspected child trafficking cases** identified by or referred to MoGFSS during the CRC reporting period – likely significant under-detection given detection capacity limitations
@@ -2138,7 +2138,7 @@ The scale of institutional response does not yet match the scale of risk. Maldiv
 - **Migrant context:** Children accompanying trafficked parents in situations of labour exploitation; children of undocumented migrants with no documentation face barriers to education and services
 - **Digital/online trafficking:** Grooming through social media platforms; Maldives' high internet penetration rates and mobile device ownership create accessibility for online traffickers[^655]
 
-### 4.26.2 National Referral Mechanism Limitations
+### 4.42.2 National Referral Mechanism Limitations
 
 The National Anti-Trafficking Committee oversees a National Referral Mechanism (NRM) for trafficking victims. Victim identification protocols were revised in 2022. However:
 - The NRM operates primarily in Malé; capacity to identify trafficking situations in outer islands and resort zones is limited
@@ -2146,7 +2146,7 @@ The National Anti-Trafficking Committee oversees a National Referral Mechanism (
 - Specialist trauma-informed services for child CSEC survivors are available primarily in Malé through CFPS counselling, IGMH psychiatric support, and NGO services; children in outer islands have very limited access to specialist support
 - A **National Child Sexual Abuse Response Protocol** was in development by MoSFD with UNICEF support as of 2024, intended to establish clear multi-agency procedures for identification, immediate support, criminal investigation, and longer-term survivor services[^655a]
 
-### 4.26.3 Out-of-Wedlock Children: A Trafficking-Adjacent Vulnerability
+### 4.42.3 Out-of-Wedlock Children: A Trafficking-Adjacent Vulnerability
 
 Children born through circumstances of abuse – where young mothers are unable to care for them and grandparents are unfit or unwilling – are placed in institutional care. This population of infants in institutional care represents a specific vulnerability: they have no family network, no legal guardian with capacity to advocate for them, and they exist within a system lacking resources for consistent attentive individual care. Rogers, Ali and Naeem (2025) note that babies born in these circumstances are "taken into care and initially placed in an institution, while the possibility of long-term fostering is explored" – a process that can be protracted.[^656]
 
@@ -2156,7 +2156,7 @@ Children born through circumstances of abuse – where young mothers are unable 
 ## 4.43 Cross-Cutting Vulnerability: Extremism, Gangs, and Trafficking as Child Protection Issues
 
 
-### 4.48.1 Violent Extremism: Children at Risk and Children as Victims
+### 4.43.1 Violent Extremism: Children at Risk and Children as Victims
 
 The intersection of violent extremism with child protection in the Maldives operates at three levels. First, children and young adolescents are potential targets for radicalisation, particularly those who have been expelled or dropped out of school, who are involved in gang networks, or who are incarcerated in juvenile facilities. The ICSVE prison radicalisation study found a mean age at first arrest of 21.56 years among radicalised prisoners – suggesting that the radicalisation pathway begins in adolescence.[^762]
 
@@ -2166,7 +2166,7 @@ Third, state care facilities – Imaduddin School, Fiyavathi, and the Maafushi p
 
 The NAP on P/CVE 2020-2024 identifies "state care facility staff expressed concern that staff was not equipped to deal with radicalized children and youth" as a specific implementation gap – confirming that this is a recognised but unresolved child protection challenge.[^765]
 
-### 4.48.2 Gang Violence: Children as Victims, Witnesses, and Recruits
+### 4.43.2 Gang Violence: Children as Victims, Witnesses, and Recruits
 
 Gang violence in Male' creates multiple child protection risks simultaneously:
 
@@ -2178,7 +2178,7 @@ Gang violence in Male' creates multiple child protection risks simultaneously:
 
 The NAPVAC 2024-2028 Community pillar identifies gang involvement as a specific strategic challenge, with outputs targeting safe recreation spaces, youth clubs, mentoring programmes, and diversionary activities as structural alternatives to gang recruitment. The cross-over between these preventive social activities and child protection is intentional – keeping children in structured, supervised activities reduces their exposure to gang recruitment environments.[^767]
 
-### 4.48.3 Divorce and Family Breakdown as Child Protection Context
+### 4.43.3 Divorce and Family Breakdown as Child Protection Context
 
 The Maldives' exceptional divorce rate – approximately 60% of marriages nationally, with women aged 26-40 disproportionately affected – creates a distinctive child protection context. As documented in §4.25 (Children in DV Contexts), and in Part XV (Cross-Cutting Issues §15.4), family breakdown in the Maldivian context is often violent, frequently involves custody weaponisation, and creates poverty for children in the households of divorcing mothers.
 
@@ -2195,17 +2195,17 @@ The Ahmed and Riyaz (2024) study on divorce documented that "communities with hi
 ## 4.44 Child Marriage -- Prevalence, Law, and Prevention Efforts
 
 
-### 4.13.1 Legal Framework and the Family Act Loophole
+### 4.44.1 Legal Framework and the Family Act Loophole
 
 The CRPA 2019 raised the legal age of marriage to 18. However, a critical legal inconsistency undermines this protection: **Section 4(b) of the Family Act** continues to allow the Family Court to authorise marriage for children who have "reached puberty," effectively creating a judicial loophole through which child marriage can be legally sanctioned. The persistence of this loophole despite the CRPA's clear intent to establish 18 as the minimum marriage age reflects the difficulty of harmonising secular child protection legislation with Islamic family law provisions in a context where the latter carries significant cultural and religious authority.[^66]
 
-### 4.13.2 Prevalence
+### 4.44.2 Prevalence
 
 - The **2014 Census** recorded 106 children aged 15–17 who were married, of whom **58.5% were girls** – reflecting the gendered pattern of child marriage globally and in the Maldives specifically.
 - The **ADB (2025)** documented a child marriage rate of **2.2% before age 18**. While this is lower than rates in many South Asian countries, it represents a non-trivial number of children whose right to childhood, education, and development is compromised by early marriage.
 - Most concerning is the evidence that **child marriage is reportedly increasing rather than decreasing**, contrary to the trend in most comparable countries. This increase has been attributed in part to the influence of conservative religious movements that endorse early marriage as a means of preventing *zina* (premarital sexual activity).[^67]
 
-### 4.13.3 Unregistered Marriages
+### 4.44.3 Unregistered Marriages
 
 A significant dimension of the child marriage problem involves **unregistered marriages** – marriages that are conducted by a religious authority but not registered with the Family Court. Conservative *fatwas* have endorsed unregistered marriages, and the Chief Judge of the Family Court has described unregistered marriages as a "huge challenge" for the justice system. Unregistered marriages leave children – particularly girls – without the legal protections that registration provides, including rights to maintenance, inheritance, and divorce on specified grounds. Children of unregistered marriages may themselves face legal status complications.[^68]
 
@@ -2215,7 +2215,7 @@ A significant dimension of the child marriage problem involves **unregistered ma
 ## 4.45 Child Marriage: Legal Architecture, Prevalence, and Harm
 
 
-### 4.31.1 The Legal Framework and the Section 4(b) Loophole
+### 4.45.1 The Legal Framework and the Section 4(b) Loophole
 
 The minimum age of marriage in the Maldives is 18 years for both males and females under the Family Act (Law No. 4/2000) as amended. However, Section 4(b) of the Family Act creates a significant exception: marriage below age 18 may be permitted with **court approval**. The procedure requires an application to the Family Court, which must assess whether the marriage is in the interests of the child. In practice, this judicial oversight mechanism has functioned as a rubber stamp rather than a substantive protection – approvals appear to have been granted routinely, without rigorous child welfare assessment, legal representation for the child, or systematic consideration of alternatives.[^598]
 
@@ -2223,7 +2223,7 @@ The JJ Act 2019 and CRPA 2019 reinforced the 18-year minimum as a baseline, and 
 
 The CRC Periodic Report Draft acknowledged the issue, noting that "the Maldives Government is aware of the gap created by the court approval provision and has committed to reviewing the Family Act to close the loophole." As of 2024, this review had not been completed.
 
-### 4.31.2 Prevalence Data
+### 4.45.2 Prevalence Data
 
 Available data confirms that child marriage, while not at crisis proportions by South Asian regional standards, remains a significant child rights concern:
 
@@ -2234,7 +2234,7 @@ Available data confirms that child marriage, while not at crisis proportions by 
 
 The 2022 Census showed a significant reduction from 2014 figures – the proportion of very young married persons fell – but the structural conditions enabling early marriage, including the Family Act loophole and outer atoll community norms, remain in place.[^601]
 
-### 4.31.3 Drivers and Vulnerabilities
+### 4.45.3 Drivers and Vulnerabilities
 
 Research on child marriage in the Maldives – including the Vulnerability Mapping Literature Review (2026), the Musawah research (Shafeega, 2018), and the CFW Section 2 analysis – identifies a distinctive Maldivian pattern of drivers:
 
@@ -2248,7 +2248,7 @@ Research on child marriage in the Maldives – including the Vulnerability Mappi
 
 **Limited education and aspiration.** In communities where girls' secondary and tertiary education is undervalued, there is no strong competing incentive to delay marriage. The contrast with Male', where girls consistently outperform boys at secondary level and aspire to higher education and employment, is stark – but Male' is atypical. Outer atoll communities where formal employment opportunities for women are limited provide fewer structural incentives to delay marriage.[^606]
 
-### 4.31.4 Consequences and Harm Pathways
+### 4.45.4 Consequences and Harm Pathways
 
 The documented consequences of child marriage in the Maldives align with the global evidence base:
 
@@ -2260,7 +2260,7 @@ The documented consequences of child marriage in the Maldives align with the glo
 
 **Divorce and serial vulnerability.** The Maldives' exceptionally high divorce rate (approximately 60% of marriages nationally; women aged 26-40 in Greater Malé disproportionately affected) means that many child brides will be divorced in early adulthood, entering the divorce and custody system with less education, fewer assets, and fewer resources than their peers who did not marry early.[^610]
 
-### 4.31.5 Legal and Policy Reform Pathway
+### 4.45.5 Legal and Policy Reform Pathway
 
 CEDAW, the CRC Committee, and the UN Working Group on Discrimination against Women and Girls have all called on the Maldives to remove the Family Act Section 4(b) court approval mechanism and establish an absolute minimum age of marriage at 18 with no exceptions. The ADB GESI Assessment 2025, the NAPVAC 2024-2028, and the CFW recommendations all include this reform as a priority action. The key reform elements identified are:
 
@@ -2277,13 +2277,13 @@ CEDAW, the CRC Committee, and the UN Working Group on Discrimination against Wom
 ## 4.46 Female Genital Mutilation/Cutting: A Maldives-Specific Analysis
 
 
-### 4.33.1 Overview and Cultural Context
+### 4.46.1 Overview and Cultural Context
 
 Female Genital Mutilation/Cutting (FGM/C) in the Maldives takes a distinctive form that sets it apart from the FGM/C documented in sub-Saharan Africa and some parts of the Middle East. Maldivian FGM/C practice is characterised as **Type I (clitoridectomy – specifically Type Ia, removal of the clitoral hood)** and is typically described in local discourse as *sunnath* (a religiously sanctioned practice). The practice is performed on infant and young girls, typically within the first year of life, by female practitioners – often older women with traditional knowledge of the procedure.[^620]
 
 The UNFPA/UNICEF Joint Programme on FGM/C and the WHO classification of FGM/C types both recognise that even the "milder" forms – including removal of the clitoral hood without excision of the clitoris – constitute FGM/C and are prohibited under international human rights frameworks. This classification is contested by some practitioners and religious scholars in the Maldives, who argue that the *sunnath* procedure is categorically different from "real" FGM/C and is a legitimate religious practice. This definitional dispute has impeded policy progress.[^621]
 
-### 4.33.2 Prevalence Estimates
+### 4.46.2 Prevalence Estimates
 
 Prevalence data for FGM/C in the Maldives is extremely limited and historically underestimated because the practice occurs in infancy, is predominantly conducted in family and community settings rather than health facilities, and is not captured in national health statistics. The UNFPA country brief and the ADB GESI Assessment 2025 identify Maldivian FGM/C as "prevalent" but acknowledge the absence of nationally representative prevalence surveys.[^622]
 
@@ -2293,7 +2293,7 @@ The most detailed available evidence comes from qualitative and community resear
 - Healthcare workers consulted by UNFPA reported that mothers bringing infants for vaccination at health centres sometimes disclosed that *sunnath* had been performed, but this was not systematically recorded.
 - A key finding from the Gender chapter (§5.41) is that healthcare workers themselves – nurses and midwives in particular – sometimes believe the procedure is religiously required and do not actively discourage it.[^623]
 
-### 4.33.3 Legal Status and the Policy Gap
+### 4.46.3 Legal Status and the Policy Gap
 
 FGM/C is not explicitly criminalised under Maldivian law. The CRPA 2019 provides the strongest available legal basis for characterising FGM/C as child abuse – through its definitions of harm, physical abuse, and exploitation of children – but no prosecution has been attempted under the CRPA or any other instrument.[^624]
 
@@ -2301,7 +2301,7 @@ The Ministry of Health has, on multiple occasions, issued circulars discouraging
 
 This policy gap – where FGM/C is officially discouraged but not legally prohibited, and where the religious framing of the practice creates resistance to legal reform – has resulted in a situation where the practice continues with low visibility and without accountability. The CFW recommendations and the Gender chapter (§5.113) both identify explicit legal prohibition combined with religiously-literate community engagement as the necessary path forward.[^626]
 
-### 4.33.4 Religious Debate and the Path to Policy Change
+### 4.46.4 Religious Debate and the Path to Policy Change
 
 The Maldives Islands represents an important case study in the global FGM/C policy challenge: how to address a practice that is framed as religiously sanctioned within a predominantly Muslim community without triggering backlash that drives the practice further underground. The global scholarship on FGM/C in Muslim-majority contexts – including the work of scholars such as El-Damanhoury and the UNFPA-UNICEF research programme – has consistently found that Islamic scholars and *fatwas* vary significantly on whether *sunnath* is obligatory, recommended, or merely permitted, and that many Muslim-majority countries have successfully prohibited or significantly reduced FGM/C without conflict with religious authority.[^627]
 
@@ -2321,7 +2321,7 @@ In the Maldivian context, the most promising avenue for policy change identified
 ## 4.47 Juvenile Justice: Rehabilitation vs. Retribution
 
 
-### 4.9.1 Historical Context
+### 4.47.1 Historical Context
 
 The **Juvenile Court** was established in 1997 as a specialised court for hearing cases involving children in conflict with the law. However, for more than two decades, the Juvenile Court operated without a comprehensive juvenile justice statute, relying instead on general criminal law provisions and ad hoc judicial practice. The absence of a statutory framework meant that juvenile justice practice varied substantially depending on the presiding judge, the nature of the offence, and the political dynamics of the case.[^49]
 
@@ -2329,7 +2329,7 @@ The age of criminal responsibility was set at 10 prior to the Juvenile Justice A
 
 Between **2013 and 2015, five juveniles were sentenced to death** in the Maldives, drawing international condemnation and highlighting the punitive orientation of the pre-2019 system. These death sentences – which were not carried out but remained on the books – were imposed for murder convictions, though the circumstances of the offences typically involved gang violence in which the juveniles were themselves victims of exploitation and coercion by adult gang leaders.[^50]
 
-### 4.9.2 The Juvenile Justice Act 2019
+### 4.47.2 The Juvenile Justice Act 2019
 
 The JJ Act 2019 introduced several critical reforms:
 
@@ -2341,13 +2341,13 @@ The JJ Act 2019 introduced several critical reforms:
 
 However, the Act did **not abolish judicial flogging** for juveniles, meaning that children convicted of *zina* or other offences carrying *hadd* penalties can still be sentenced to flogging. This omission was criticised by international human rights bodies and children's rights organisations.[^51]
 
-### 4.9.3 Rehabilitation Outcomes
+### 4.47.3 Rehabilitation Outcomes
 
 Data on juvenile rehabilitation outcomes is concerning. Between **2010 and 2015, 89 juveniles were enrolled in rehabilitation programmes**, but only **11.2% successfully completed** their programmes. The low completion rate reflects multiple factors: the inadequacy of rehabilitation programme design and resourcing; the absence of community-based follow-up support; the pull of gang networks that actively recruit juveniles back into criminal activity upon release; and the limited educational and employment opportunities available to young people who have been through the justice system.[^52]
 
 **Drug offences are the primary driver of juvenile contact with the justice system.** The Maldives' significant drug problem – particularly heroin and methamphetamine use among young people – means that a substantial proportion of juveniles entering the justice system do so for drug-related offences, including possession, trafficking, and offences committed under the influence of drugs. The intersection of the juvenile justice system with the drug policy framework creates a complex challenge: many juveniles in the justice system are themselves victims of exploitation by drug trafficking networks and are simultaneously in need of treatment, rehabilitation, and protection.[^53]
 
-### 4.9.4 Detention Conditions
+### 4.47.4 Detention Conditions
 
 The Maldives lacks **separate juvenile detention facilities**. Juveniles who are remanded or sentenced to custody are held in facilities that do not adequately separate them from adult offenders, exposing them to risks of violence, exploitation, and further criminalisation. The absence of purpose-built juvenile facilities reflects both fiscal constraints and a historical lack of political priority for juvenile justice infrastructure.[^54]
 
@@ -2359,13 +2359,13 @@ The **National Reintegration Centre**, established under the Anti-Terrorism Act,
 ## 4.48 Juvenile Justice: The Pre-2019 System and Its Failures
 
 
-### 4.77.1 The Pre-2019 Legal Vacuum
+### 4.48.1 The Pre-2019 Legal Vacuum
 
 Prior to the Juvenile Justice Act (2019), children in conflict with the law were processed through the adult criminal justice system with limited child-specific provisions. There was no clearly defined minimum age of criminal responsibility. Children above an undefined threshold could be tried in adult courts, detained in adult facilities, and sentenced under the general penal framework. No dedicated juvenile rehabilitation infrastructure existed – children who received custodial sentences entered the adult corrections system.
 
 The conditions experienced by children in conflict with the law in this period were extensively documented by the HRCM. Between 2013 and 2015, **five juveniles were sentenced to death** in the Maldives – sentences that were ultimately not carried out but that illustrated the severity of the human rights gap in the pre-reform system. The corporal punishment briefing (Owen, 2015) documented that corporal punishment was lawful for juveniles who had reached puberty in *hudood* cases. The cumulative picture was of a system that treated children primarily as security threats rather than as persons with developmental needs and rights.[^895]
 
-### 4.77.2 The Juvenile Court (Established 1997)
+### 4.48.2 The Juvenile Court (Established 1997)
 
 The Juvenile Court was established in 1997, predating the Juvenile Justice Act by over two decades. Aboobakuru (2017), writing from within the Juvenile Court system, documented the court's operational reality before the 2019 reforms:
 
@@ -2376,7 +2376,7 @@ The Juvenile Court was established in 1997, predating the Juvenile Justice Act b
 
 The Juvenile Court's experience illustrated a paradox that would become central to the 2019 reform debate: children were being processed through a specialised court, but the court had almost no tools beyond custody and rehabilitation that were designed for children's developmental needs. Without family support services, mental health interventions, education pathways, drug treatment, or community supervision mechanisms, the Juvenile Court was sending children through a process that produced neither rehabilitation nor accountability.[^896]
 
-### 4.77.3 The 2019 Reform: Juvenile Justice Act
+### 4.48.3 The 2019 Reform: Juvenile Justice Act
 
 The Juvenile Justice Act (Law No. 19/2019) represented a fundamental restructuring grounded in rehabilitation, reintegration, and the best interests of the child:
 
@@ -2400,7 +2400,7 @@ The Juvenile Justice Act (Law No. 19/2019) represented a fundamental restructuri
 
 **Juvenile Court protocol improvements:** Child-friendly procedures introduced – separate waiting areas, informal seating, public excluded from hearings, specialist judicial training. A pilot child-friendly justice initiative (UNICEF-supported) equipped the Juvenile Court with child-appropriate interview rooms and trained staff in child-friendly communication.[^897]
 
-### 4.77.4 Ongoing Challenges: Legal Representation, Remand, Gangs, Recidivism
+### 4.48.4 Ongoing Challenges: Legal Representation, Remand, Gangs, Recidivism
 
 Despite the structural improvements of the 2019 Act, Rogers, Ali and Naeem (2025) and the CRC Periodic Report (2026 draft) document persistent operational challenges:
 
@@ -2420,7 +2420,7 @@ Despite the structural improvements of the 2019 Act, Rogers, Ali and Naeem (2025
 ## 4.49 Juvenile Justice: The Full System Analysis
 
 
-### 4.27.1 Historical Context: Pre-2019 Failures
+### 4.49.1 Historical Context: Pre-2019 Failures
 
 **Pre-1997:** No dedicated juvenile justice institution existed. Children in conflict with the law were processed through adult systems with limited specific provisions.
 
@@ -2434,7 +2434,7 @@ Despite the structural improvements of the 2019 Act, Rogers, Ali and Naeem (2025
 - A **2014 Regulation** allowed children as young as 7 to be sentenced to death for intentional murder, with sentences executable upon turning 18
 - Drug offences as primary entry point: juvenile drug arrests rose from 16 (2001) to 79 (2006) to 164 (2007, representing **29% of all drug arrests** that year)[^657]
 
-### 4.27.2 The JJ Act 2019: Comprehensive Reform
+### 4.49.2 The JJ Act 2019: Comprehensive Reform
 
 **Minimum age of criminal responsibility:** Set at 10 years (with full criminal responsibility attaching at 15). The CRC Committee's General Comment No. 24 (2019) recommends a minimum of at least 14; the government has acknowledged this gap.
 
@@ -2450,7 +2450,7 @@ Despite the structural improvements of the 2019 Act, Rogers, Ali and Naeem (2025
 
 **NON-abolition of flogging:** The Act does NOT abolish *hadd* corporal punishment (judicial flogging) for children who have reached puberty – one of the Act's most significant remaining gaps. The CRC Committee has repeatedly recommended complete abolition; this recommendation remains unimplemented.[^658][^659][^660]
 
-### 4.27.3 Remaining Concerns
+### 4.49.3 Remaining Concerns
 
 **Legal representation:** Children are entitled to legal representation under the JJ Act but legal aid is extremely limited in practice. The public defender system is under-resourced. Many children appear in Juvenile Court without adequate counsel. A specialist juvenile legal aid programme is in development in partnership with the Attorney General's Office.
 
@@ -2460,7 +2460,7 @@ Despite the structural improvements of the 2019 Act, Rogers, Ali and Naeem (2025
 
 **Recidivism and reintegration:** Data on reoffending rates after diversion or rehabilitation facility release is limited. DJJ and CFPS evidence suggests reintegration is more successful for children who maintain family connections and access education and employment pathways post-release. Strengthening post-release support is a DJJ priority.
 
-### 4.27.4 Juvenile Drug Arrests: Rising Trends
+### 4.49.4 Juvenile Drug Arrests: Rising Trends
 
 | Year | Juvenile Drug Arrests | Context |
 |---|---|---|
@@ -2474,7 +2474,7 @@ Despite the structural improvements of the 2019 Act, Rogers, Ali and Naeem (2025
 
 The 77% year-on-year increase from 2023 to 2024 (120 to 213 cases) indicates either dramatically improved detection, a genuine surge in youth drug crime, or both. Drug offences remain the primary driver of juvenile justice contact – a pattern with roots in the 1970s drug crisis and unchanged by the 2019 legislative reforms.
 
-### 4.27.5 Rehabilitation Facilities in Detail
+### 4.49.5 Rehabilitation Facilities in Detail
 
 **Imaduddin School for Boys:** Secure rehabilitation facility for male juvenile offenders. Provides education, vocational training, sports, religious education, and psychosocial support. HRCM 2023 monitoring visit noted infrastructure improvements were needed. Operational challenge: maintaining a therapeutic and educational environment for a population that includes young people with serious drug dependencies and gang affiliations.
 
@@ -2486,7 +2486,7 @@ The 77% year-on-year increase from 2023 to 2024 (120 to 213 cases) indicates eit
 ## 4.50 The Juvenile Justice System: Architecture, Operations, and Reform
 
 
-### 4.71.1 Legislative Framework
+### 4.50.1 Legislative Framework
 
 The Juvenile Justice Act (Law No. 19/2019) established a comprehensive juvenile justice system replacing fragmented provisions in the Penal Code. Key provisions:
 
@@ -2498,13 +2498,13 @@ The Juvenile Justice Act (Law No. 19/2019) established a comprehensive juvenile 
 - **Prohibition of death penalty and life imprisonment:** For offences committed by persons below 18
 - **Department of Juvenile Justice (DJJ):** Established as the responsible authority for juvenile rehabilitation facilities
 
-### 4.71.2 The Hudood Complication
+### 4.50.2 The Hudood Complication
 
 Despite the JJ Act's protections, a significant legal complexity arises from *hudood* offences. Under the JJ Act, a child who has reached puberty can be charged with committing a *hudood* offence. The Act prohibits the death penalty but does not abolish flogging. This means that a child aged 13 or above who has reached puberty and is charged with a *hudood* offence may face corporal punishment – creating a direct conflict between the child's rights under the JJ Act and the penalties available under Sharia-based law for *hudood* crimes.
 
 El-Dakkak (2000) in *The Application of CRC in the Republic of Maldives from the Perspective of Islamic Law* advocated for the consideration of mental maturity rather than physical puberty to establish criminal responsibility – a position consistent with the evolving capacities principle in the CRC but not yet reflected in Maldivian law.
 
-### 4.71.3 The DJJ and Rehabilitation Facilities
+### 4.50.3 The DJJ and Rehabilitation Facilities
 
 The Department of Juvenile Justice (DJJ) was operationalised in 2020 with responsibility for rehabilitation facilities and juvenile justice coordination. Key DJJ facilities:
 
@@ -2515,7 +2515,7 @@ DJJ's operational budget is MVR 22 million (2024) – a relatively small budget 
 
 The JJ Act prohibits any form of physical punishment, degrading treatment, or humiliation of children in conflict with the law or in rehabilitation facilities. DJJ has developed internal monitoring protocols with regular independent inspections. However, HRCM monitoring reports have raised concerns that reflect the wider workforce and resource constraints of the child protection system: understaffed facilities run by undertrained workers, managing children with complex needs and trauma histories, without adequate therapeutic programming.[^883]
 
-### 4.71.4 The Distinction Between Child Protection and Juvenile Justice
+### 4.50.4 The Distinction Between Child Protection and Juvenile Justice
 
 A recurring theme in Maldivian child protection discourse is the blurring of the line between child welfare (children in need of protection) and juvenile justice (children in conflict with the law). Historically, the URC and CFPS were responsible for attending to children involved in the criminal justice system – a combined function that was only separated with the enactment of the JJ Act 2019. The establishment of the DJJ as a distinct institutional body represents structural recognition that these are different functions requiring different expertise.
 
@@ -2530,13 +2530,13 @@ However, in practice – particularly for children who are simultaneously victim
 ## 4.51 Alternative Care: Foster Care, Institutional Care, and Kinship Care
 
 
-### 4.10.1 Overview of the Alternative Care Population
+### 4.51.1 Overview of the Alternative Care Population
 
 As of **March 2023, 187 children were in alternative care** in the Maldives – 82 girls and 105 boys. This figure represents approximately **0.02% of all children** in the country (128,208 total), a rate that is very low by international standards. However, the low rate of formal alternative care should not be interpreted as indicating a low level of need; rather, it reflects the limited capacity of the formal care system, the preference for informal kinship arrangements (which are not captured in official data), and the high threshold for formal state intervention in family life.[^56]
 
 The distribution of children in alternative care is overwhelmingly institutional: **91% of children in alternative care (approximately 170 children) are in residential (institutional) settings**, while only **18 registered foster carers care for 16 children (approximately 9%)**. This ratio – with institutional care vastly outnumbering family-based care – is contrary to international best practice, which strongly favours family-based placements (foster care and kinship care) over institutional care on the basis of extensive evidence that institutional settings are associated with poorer developmental outcomes, attachment difficulties, and elevated risks of abuse.[^57]
 
-### 4.10.2 Institutional Care: History and Current Structure
+### 4.51.2 Institutional Care: History and Current Structure
 
 The history of institutional care for children in the Maldives reflects an evolving understanding of children's needs, though reform has been slow and incomplete:
 
@@ -2550,11 +2550,11 @@ The history of institutional care for children in the Maldives reflects an evolv
 
 - **Fiyavethi (2016):** Established with support from the Qatar Foundation for children under 13. Fiyavethi represented a more modern approach to residential care, with smaller group sizes and a more child-centred physical environment.[^58]
 
-### 4.10.3 Post-COVID Restructuring
+### 4.51.3 Post-COVID Restructuring
 
 Following the COVID-19 pandemic, which exposed the vulnerability of large institutional settings to infectious disease outbreaks, the government undertook a restructuring of the residential care system. The single large-facility model was replaced with **nine smaller residential units**, each housing **18–24 children**. This transition toward smaller, more home-like settings is consistent with international deinstitutionalisation trends and represents a positive reform, though it does not address the fundamental question of over-reliance on residential care relative to family-based alternatives.[^59]
 
-### 4.10.4 Foster Care: Critical Underdevelopment
+### 4.51.4 Foster Care: Critical Underdevelopment
 
 With only **18 registered foster carers** caring for 16 children, the formal foster care system in the Maldives is critically underdeveloped. The low number of registered foster carers reflects multiple factors:
 
@@ -2571,7 +2571,7 @@ The **Alternative Care Regulation 2020-R-69** and the **Regulation on Reintegrat
 ## 4.52 Alternative Care: Institutional and Family-Based Systems
 
 
-### 4.28.1 Current Population
+### 4.52.1 Current Population
 
 As of **March 2023**, 187 children are in formal alternative care: 82 girls, 105 boys. Approximately **0.02% of all children** – very low by international standards, reflecting limited formal system capacity rather than low need.
 
@@ -2585,7 +2585,7 @@ As of **March 2023**, 187 children are in formal alternative care: 82 girls, 105
 
 The 91% institutional vs. 9% family-based distribution is the **inverse of international best practice**. The UN Guidelines for the Alternative Care of Children (2010) strongly favour family-based placements on the basis of extensive evidence that institutional settings are associated with poorer developmental outcomes, attachment difficulties, and elevated risks of abuse within the institution.[^666]
 
-### 4.28.2 History of Institutional Care
+### 4.52.2 History of Institutional Care
 
 **Islaahiya (1979–2013):** First institutional facility. No differentiation between children needing protection and children in conflict with the law – children were placed for reasons ranging from delinquency to parental abandonment to disability. Operated for 34 years before closure.
 
@@ -2599,7 +2599,7 @@ The 91% institutional vs. 9% family-based distribution is the **inverse of inter
 
 **Post-COVID restructuring:** Following the pandemic, which exposed the vulnerability of large institutional settings to infectious disease outbreaks, the government restructured residential care into **nine smaller residential units**, each housing **18–24 children**. This transition toward smaller, more home-like settings is consistent with international deinstitutionalisation trends and represents a genuine improvement, though it does not address the fundamental over-reliance on residential relative to family-based care.[^668]
 
-### 4.28.3 Foster Care: Critical Underdevelopment
+### 4.52.3 Foster Care: Critical Underdevelopment
 
 With only 18 registered foster carers caring for 16 children, the formal foster care system is critically underdeveloped. Root causes:
 
@@ -2613,7 +2613,7 @@ With only 18 registered foster carers caring for 16 children, the formal foster 
 
 **Regulatory underdevelopment:** The Alternative Care Regulation 2020-R-69 and Regulation on Reintegration 2020/R-30 provide the framework, but operationalisation – assessment tools, placement matching, post-placement support – remains a work in progress. A Draft Foster Care Regulation (2023) is expected to be finalised and promulgated in 2025, establishing legal procedures for recruiting, assessing, and supporting foster families.[^669]
 
-### 4.28.4 Informal Kinship Care: The Invisible System
+### 4.52.4 Informal Kinship Care
 
 Census 2022 data indicates approximately **9% of children aged 0–17 live in alternative care arrangements** – far larger than the 187 in formal state care. The vast majority are in informal kinship arrangements that:
 - Receive no state financial support
@@ -2629,7 +2629,7 @@ Children in informal kinship care who experience abuse or neglect by their kinsh
 ## 4.53 Children in Institutional Care: Detailed Analysis
 
 
-### 4.54.1 The 91% Institutional Care Problem
+### 4.53.1 The 91% Institutional Care Problem
 
 The most significant failing of the Maldivian alternative care system – relative to international best practice – is the near-complete reliance on institutional care. Of 187 children in alternative care as of March 2023, 91% (approximately 170 children) are in residential institutions, and 9% (approximately 17 children) are with foster carers. International evidence consistently demonstrates that children under 3 in particular, and children more generally, experience significantly worse outcomes in institutional care than in family-based care: poorer cognitive development, poorer social and emotional development, poorer physical health, and higher rates of behavioural and mental health difficulties.[^822]
 
@@ -2641,7 +2641,7 @@ The 91% institutional figure reflects three structural realities:
 
 3. **The CRC reservation on adoption.** Article 21 of the CRC covers adoption as a permanent alternative care option. The Maldives' reservation on this Article reflects the Islamic law prohibition on adoption in its traditional form (*kafala* – a guardianship arrangement rather than legal adoption – is permitted, but full legal adoption with new parentage is prohibited). This means that a child without parents who needs permanent family membership cannot access it through the Maldivian legal system, limiting permanence options to long-term foster care or institutional care.[^823]
 
-### 4.54.2 Entry Routes into Alternative Care
+### 4.53.2 Entry Routes into Alternative Care
 
 Children enter alternative care through several pathways, each with different legal basis and different implications for case management:
 
@@ -2655,7 +2655,7 @@ Children enter alternative care through several pathways, each with different le
 
 **Juvenile justice pathway:** Children convicted of offences under the JJ Act may be sentenced to residential placement in Imaduddin School or Fiyavathi. These placements overlap with, but are legally distinct from, child protection placements – yet the two populations may share facilities or encounter each other within the system.
 
-### 4.54.3 Life in Institutional Care: Evidence from Research
+### 4.53.3 Life in Institutional Care: Evidence from Research
 
 The Rogers, Ali and Naeem (2025) chapter and the CFW Section 4 analysis provide qualitative evidence on conditions in Maldivian children's residential facilities. Key findings:
 
@@ -2675,13 +2675,13 @@ The Rogers, Ali and Naeem (2025) chapter and the CFW Section 4 analysis provide 
 ## 4.54 The Seeds of Reform: Alternative Care in the Maldives -- Full Article Analysis
 
 
-### 4.58.1 Overview and Significance
+### 4.54.1 Overview and Significance
 
 Rogers and Ali's 2023 article "The seeds of reform; the evolution of the alternative care system in the Maldives," published in *Institutionalised Children Explorations and Beyond* (Vol. 10(2), pp. 154–163, DOI: 10.1177/23493003231187974), provides the most comprehensive academic account of the Maldivian alternative care system available in the international literature. The article charts the evolution from informal kinship care as the dominant historical modality through the establishment of large residential institutions, the shift to smaller atoll-based facilities post-COVID, and the nascent development of formal foster care. It documents specific challenges and provides a reform roadmap grounded in Maldivian context.
 
 The article's title is itself diagnostic: the seeds of reform *have been sown*, but have not yet germinated into a mature, family-based system. As of March 2023, 187 children were living in alternative care – 82 girls and 105 boys – representing just 0.02% of the child population. This is an exceptionally low number by international standards, but the conditions of those 187 children, and the system that cares for them, reveal structural weaknesses that determine the quality and outcomes of state care in the Maldives.[^843]
 
-### 4.58.2 Scope and Definition of Alternative Care
+### 4.54.2 Scope and Definition of Alternative Care
 
 Alternative care in the Maldives is formally defined in Article 69(b) of the Regulation on Alternative Care Provision Guidelines (R.No.2020-R-69) (Maldives Government, 2019). The regulation characterises Alternative Care Services as "temporary sheltering arrangements by the state" for children in need of protection. Article 95 (1–8) of the Child Rights Protection Act 2019 (CRPA) grants the state powers to remove children assessed to be in unsafe home environments and to place them in alternative care. These powers are invoked in cases of abuse and neglect, domestic violence in the home, parental imprisonment, and situations where children with mental or physical disabilities are deemed unable to be cared for at home.
 
@@ -2694,7 +2694,7 @@ The alternative care system encompasses multiple modalities:
 
 As of 2023, 91% of children in alternative care in the Maldives are in residential childcare settings. Only 9% are in foster care. This ratio – overwhelmingly institutional – reflects the underdevelopment of family-based placement options and stands in stark contrast to the direction of international best practice, which has moved decisively toward family-based care since the UN Guidelines on the Alternative Care of Children (UNGA, 2009).[^844]
 
-### 4.58.3 What the Regulation Lacks
+### 4.54.3 What the Regulation Lacks
 
 The Alternative Care Regulations (R.No.2020-R-69) were drafted with reference to the UN Guidelines for Alternative Care of Children (UNGA, 2009), with Chapter 3, Article 5(e) requiring that siblings be kept together unless special circumstances prevent it, and Articles 6 and 7 emphasising promotion and monitoring of contact with parents. However, Rogers and Ali (2023) identify critical omissions from the regulatory framework that leave children in alternative care with inadequate formal protections. The regulations lack:
 
@@ -2709,7 +2709,7 @@ The Alternative Care Regulations (R.No.2020-R-69) were drafted with reference to
 
 The absence of leaving care support is particularly significant given that in Maldivian society, safety nets for young adults depend heavily on extended family networks. For children who have spent years in institutional care – with limited family contact, disrupted family relationships, and potential estrangement from their island community – exit from care without transition support means entry into a social environment for which they have been systematically underprepared.[^845]
 
-### 4.58.4 Institutional History: From Islaahiya to Nine Atoll Facilities
+### 4.54.4 Institutional History: From Islaahiya to Nine Atoll Facilities
 
 The history of residential alternative care in the Maldives is a history of large institutions gradually being replaced by smaller, more dispersed facilities – a transition that is still incomplete.
 
@@ -2727,7 +2727,7 @@ The history of residential alternative care in the Maldives is a history of larg
 
 **Post-COVID dispersal (2020):** A significant structural shift occurred during and after COVID-19: children previously in Kudakudhinge Hiya and Aman Hiya were redistributed into nine smaller institutions located across the atolls, each caring for no more than 18–24 children. This shift represented a deliberate policy decision to move away from large-scale institutional care concentrated in Male toward smaller, atoll-based facilities – consistent with both international best practice and the CRPA's orientation toward deinstitutionalisation. However, as Rogers and Ali (2023) note, this shift has been accompanied by neither a comprehensive care reform strategy nor adequate staffing or resources for the new institutions.[^846]
 
-### 4.58.5 The National Reintegration Centre: A Problematic Hybrid
+### 4.54.5 The National Reintegration Centre: A Problematic Hybrid
 
 The National Reintegration Centre (NRC) is a facility established under the Anti-Terrorism Act (Law No. 17/2019) to temporarily detain children and mothers returning from war zones where concerns about radicalisation exist. The NRC occupies an ambiguous legal position in relation to the alternative care framework:
 
@@ -2738,7 +2738,7 @@ The National Reintegration Centre (NRC) is a facility established under the Anti
 
 The practical consequences are severe: as of 2022, only three children who had been placed with their mothers in the NRC had been successfully reintegrated back to their respective islands (Abdulla, 2022). The NRC thus represents a category of highly vulnerable children – those returning from conflict zones and exposed to radical ideologies – who fall into a gap between the anti-terrorism framework and the child welfare framework, with neither system providing adequate support for their reintegration.[^847]
 
-### 4.58.6 Key Stakeholders in Alternative Care
+### 4.54.6 Key Stakeholders in Alternative Care
 
 **Ministry of Gender and Social Services (MoGSS):** The government body with statutory duties for child welfare and protection. Within MoGSS is the Unit for Child and Family Protection Services (CFPS), formerly named the Unit for the Rights of Children (URC). CFPS maintains 21 social work teams across the 1,192 islands and has responsibility for child protection assessments and case management for all children in care.
 
@@ -2752,7 +2752,7 @@ The practical consequences are severe: as of 2022, only three children who had b
 
 **Care-experienced people:** Rogers and Ali (2023) identify the **complete absence** of organisations advocating for care-experienced people as a critical gap in the Maldivian alternative care sector. In many countries worldwide, there is a growing movement of organisations led by care-experienced people who offer individual and systemic advocacy and who demand meaningful participation in the change processes that affect them. No such movement exists in the Maldives. The development of meaningful participation mechanisms for people with lived experience of Maldivian care would be of great benefit to policy and practice – but currently, care-experienced young people have no formal role in shaping the system they have lived in.[^848]
 
-### 4.58.7 Foster Care: Development and Constraints
+### 4.54.7 Foster Care: Development and Constraints
 
 Foster care in the Maldives has been formalised only recently. A foster care panel was established in 2012, but the formal regulatory framework was established by the CRPA (2019) and the Regulation on Reintegration 2020/R-30 (which came into force in May 2020). The regulation places strong emphasis on long-term planning, kinship care, and allowing children to grow up in a family setting for optimal development.
 
@@ -2770,7 +2770,7 @@ Under the CRPA (enacted 2019, operational 2020), both steps must be completed **
 
 **Sibling care:** One area of positive practice is sibling placement. Rogers and Ali (2023) document that sibling separation in alternative care is very rare in Maldivian practice, reflecting the influence of Islamic cultural values that recognise the importance of family cohesion. The UN Guidelines on Alternative Care (Chapter 3, Article 5(e)) specifically require siblings to be kept together unless special circumstances prevent it, and this principle appears to be consistently observed in Maldivian placement decisions.[^849]
 
-### 4.58.8 Specific Challenges in the Maldivian Alternative Care System
+### 4.54.8 Specific Challenges in the Maldivian Alternative Care System
 
 Beyond the quantitative workforce gap (61 child protection social workers for 128,208 children = 1:2,101 ratio), Rogers and Ali (2023) identify a set of qualitative challenges that compound the quantitative problem:
 
@@ -2794,7 +2794,7 @@ Beyond the quantitative workforce gap (61 child protection social workers for 12
 
 **Professional supervision gap:** The CRPA states that social workers must receive professional guidance in their role – but it is **not mandatory**. As a result, supervision is not conducted regularly, because managers do not have time (given high caseloads), and because there are few experienced social workers with tertiary education who are eligible to provide supervision under state licensing guidelines. Criminal record checks are required only when registering for a licence, there are limited fitness-to-practice safeguards, and there is no requirement for continuing professional development. This creates a system in which practitioners can work for years without the quality assurance mechanisms that are considered basic safeguards in child protection systems in higher-income countries.[^850]
 
-### 4.58.9 Good Practice Elements Worth Preserving and Building On
+### 4.54.9 Good Practice Elements Worth Preserving and Building On
 
 Rogers and Ali (2023) do not present only a critical picture. They identify elements of good practice that should be recognised and built upon:
 
@@ -2805,7 +2805,7 @@ Rogers and Ali (2023) do not present only a critical picture. They identify elem
 - **Family reunification work:** The ministry has embarked on processes of family reunification, establishing a reintegration committee and working to move children from institutions back to families.
 - **Draft SOPs:** UNICEF developed draft Standard Operating Procedures in 2021 for collaborative working in safeguarding children and vulnerable adults, presented to the National Council for the Protection of Children's Rights in January 2021. These SOPs included processes for child protection conferences, pre-birth and review conferences.[^851]
 
-### 4.58.10 The Reform Roadmap: Recommendations from Rogers and Ali (2023)
+### 4.54.10 The Reform Roadmap: Recommendations from Rogers and Ali (2023)
 
 Rogers and Ali (2023) offer five principal recommendations for the way forward:
 
@@ -2825,7 +2825,7 @@ Rogers and Ali (2023) offer five principal recommendations for the way forward:
 ## 4.55 The Formal Foster Care System: Operational Detail
 
 
-### 4.63.1 Legal Architecture of Foster Care
+### 4.55.1 Legal Architecture of Foster Care
 
 Foster care in the Maldives operates under the following legal architecture:
 
@@ -2839,7 +2839,7 @@ Foster care in the Maldives operates under the following legal architecture:
 
 **Strategic framework:** The Government's Strategic Action Plan (SAP) – Caring State and Dignified Families (2019) – mandates the Ministry to develop and implement country-wide awareness programmes covering parenting skills, including child maltreatment and abuse. Strategy 4, Action 4.4(f) requires the development of minimum standards for the operation of each residential institution. The plan also requires family reunification processes.
 
-### 4.63.2 The Foster Care Panel and Assessment Process
+### 4.55.2 The Foster Care Panel and Assessment Process
 
 The foster care panel – first established in 2012 and subsequently formalised under CRPA – is the gateway through which prospective foster carers are assessed, approved, and matched with children. The panel draws on assessments conducted by the two dedicated CFPS social workers.
 
@@ -2851,7 +2851,7 @@ The process involves:
 5. **Legal guardianship transfer** – the Ministry takes guardianship of the child, then the Family Court transfers legal guardianship to the foster carer (post-CRPA: both steps must occur before placement)
 6. **Placement and post-placement monitoring** – the child is placed; Section 27 requires post-placement support, though in practice this is limited
 
-### 4.63.3 The Scale Problem
+### 4.55.3 The Scale Problem
 
 The scale of the foster care system – 18 registered carers, 16 children – is vanishingly small relative to the system's needs. A sustainable family-based care system for the Maldives would require:
 - A much larger pool of assessed and approved foster carers across all atolls (not just Malé)
@@ -2868,7 +2868,7 @@ All of these requirements represent either absent or embryonic elements of the c
 ## 4.56 Kinship Care and Kafalah: Islamic Family Care in Practice
 
 
-### 4.64.1 The Kinship Care Tradition
+### 4.56.1 The Kinship Care Tradition
 
 Historically, informal kinship care – placement of children who cannot remain with their parents with grandmothers, aunts, uncles, and the wider family/kinship group – was the predominant form of alternative care in the Maldives. This tradition predates the formal child protection system by centuries. It reflects deeply held Islamic values about the responsibility of the extended family for the welfare of children within the family network, and values about community responsibility for vulnerable individuals.
 
@@ -2878,7 +2878,7 @@ In the current system, kinship care operates in two modes:
 
 The CRC Periodic Report (2026 draft) acknowledges that many children remain in informal family arrangements with extended family members without formal legal status or oversight, representing a governance gap in the alternative care framework. The Government recognises this gap but lacks the workforce capacity to systematically formalize and monitor informal kinship placements at the scale at which they occur.[^868]
 
-### 4.64.2 Kafalah: The Islamic Alternative to Adoption
+### 4.56.2 Kafalah: The Islamic Alternative to Adoption
 
 *Kafalah* is the Islamic concept of guardianship and sponsorship that serves as the primary mechanism for providing permanent family care to children who cannot be raised by their birth parents. It is described in the CRC Periodic Report as compliant with CRC Article 20 (which requires states to ensure alternative family care for children deprived of their family environment).
 
@@ -2902,7 +2902,7 @@ The CRC Periodic Report (2026 draft) acknowledges that many children remain in i
 ## 4.57 Child Participation and Care-Experienced Voices
 
 
-### 4.65.1 Child Participation in Policy
+### 4.57.1 Child Participation in Policy
 
 The Child Rights Protection Act (2019) includes provisions requiring that the views of children be considered in all decisions affecting them, commensurate with their age and maturity (Article 7). In judicial proceedings, the Juvenile Court has developed protocols for child-friendly hearings. A pilot child-friendly justice initiative supported by UNICEF equipped the Juvenile Court with child-appropriate interview rooms and trained staff in child-friendly communication.
 
@@ -2912,7 +2912,7 @@ At the policy level, child participation has been strengthened through the Natio
 
 Formal mechanisms for ongoing child participation in policy development and monitoring remain nascent. The Government acknowledges that meaningful, sustained child participation requires institutional investment beyond one-off consultation events.[^870]
 
-### 4.65.2 The Missing Care-Experienced Movement
+### 4.57.2 The Missing Care-Experienced Movement
 
 Rogers and Ali (2023) identify the complete absence of organisations advocating for care-experienced people as one of the most significant gaps in the Maldivian alternative care sector. In many countries worldwide:
 - There are growing movements of organisations led by care-experienced people who offer both individual advocacy and systemic advocacy
@@ -2923,7 +2923,7 @@ In the Maldives, no such movement or organisation exists. The 187 children curre
 
 This is not merely a participation gap – it is an accountability gap. In the absence of care-experienced voices, the harms documented within institutions (abuse, gang recruitment, drug exposure) remain known primarily through professional reports rather than through the testimony of those who experienced them. Building a care-experienced people's movement in the Maldives is identified by Rogers and Ali as a priority for the next phase of reform.[^871]
 
-### 4.65.3 Child Participation Through Naseem (2011)
+### 4.57.3 Child Participation Through Naseem (2011)
 
 The UNICEF-supported study on child participation in the Maldives (Naseem, 2011) documented the significant gap between the formal recognition of children's rights to participate and actual participation in practice. The Maldivian cultural context – in which children's deference to adult authority has historically been expected and enforced – creates social barriers to participation that formal legal provisions alone cannot overcome.
 
@@ -2935,7 +2935,7 @@ Youth pressure groups have, however, emerged as significant actors in the child 
 ## 4.58 Leaving Care and Transition to Adulthood
 
 
-### 4.85.1 Why Leaving Care Matters
+### 4.58.1 Why Leaving Care Matters
 
 The transition from alternative care to independent adulthood is one of the most vulnerable moments in a care-experienced person's life. Research across multiple contexts shows that care-leavers – people exiting alternative care on reaching adulthood (typically 18) – face dramatically elevated risks of:
 - Homelessness (within 12 months of leaving care)
@@ -2955,7 +2955,7 @@ These risks are compounded in the Maldivian context by specific structural featu
 
 **Continuity of identity:** Long periods in institutional care can create identity gaps – young people who are uncertain of their family relationships, their place in island community, their religious and cultural identity – that require therapeutic and social support to navigate. Without this support, the psychological challenges of leaving care compound the practical challenges.[^917]
 
-### 4.85.2 The Void After 18
+### 4.58.2 The Void After 18
 
 The CRPA 2019 provides care and protection for children – defined as persons below 18. There is currently no legislation or regulation specifically addressing the transition from child welfare services to adult services, or providing for any continuity of support across the 18-year threshold. On the day a care-experienced young person turns 18 in the Maldives, they exit the legal framework that has governed their care without entering any equivalent framework of support.
 
@@ -2970,7 +2970,7 @@ This is not a gap unique to the Maldives – it is a common failing across alter
 ## 4.59 Corporal Punishment -- Legal Reform and Ongoing Challenges
 
 
-### 4.12.1 Legal Status Across Settings
+### 4.59.1 Legal Status Across Settings
 
 Corporal punishment of children in the Maldives is **not explicitly prohibited by law across all settings**. The legal position, as documented by the Global Initiative to End All Corporal Punishment of Children (2015), is as follows:
 
@@ -2979,7 +2979,7 @@ Corporal punishment of children in the Maldives is **not explicitly prohibited b
 - **In alternative care settings:** No explicit prohibition exists. Children in residential care or foster care are not legally protected from corporal punishment by their carers.
 - **In penal settings:** Judicial flogging of children remains legally possible for offences carrying *hadd* penalties, particularly *zina*. The Juvenile Justice Act 2019 did not abolish this punishment.[^64]
 
-### 4.12.2 Cultural and Religious Context
+### 4.59.2 Cultural and Religious Context
 
 Corporal punishment of children is widely accepted in the Maldives as a legitimate disciplinary practice, supported by cultural norms and by interpretations of Islamic jurisprudence that permit parents to discipline children physically. Reform efforts face resistance from those who view prohibition as an infringement on parental authority and Islamic parenting practices.
 
@@ -2991,19 +2991,19 @@ The CRC Committee has repeatedly recommended that the Maldives enact comprehensi
 ## 4.60 Corporal Punishment: The Legal Gap and Practice Reality
 
 
-### 4.30.1 The Constitutional and Legislative Position
+### 4.60.1 The Constitutional and Legislative Position
 
 The corporal punishment of children in the Maldives occupies a legally ambiguous and politically contested position. The Constitution of 2008 guarantees every citizen protection from "cruel, inhumane, degrading treatment or punishment" (Article 54) and enshrines special protection for children (Article 35). The CRPA 2019, in Article 4, prohibits all forms of discrimination, harm, and violence against children. Yet no Maldivian legislation explicitly and categorically prohibits corporal punishment in all settings – creating a structural gap that the UN Committee on the Rights of the Child has identified as inconsistent with Maldives' obligations under the CRC.[^585]
 
 The CRPA 2019 represents the most recent and most comprehensive child rights framework, and its definitional provisions in Article 133 encompass a broad conception of harm and abuse that would appear to encompass physical punishment. However, the Act does not explicitly state that corporal punishment is prohibited in the home, alternative care settings, or schools. This omission is not incidental: it reflects ongoing political sensitivity around parental discipline, the widespread cultural and religious acceptance of physical correction, and the influence of interpretations of Islamic jurisprudence that permit parental physical chastisement within certain parameters.[^586]
 
-### 4.30.2 The School Setting: The Most Advanced Legal Position
+### 4.60.2 The School Setting: The Most Advanced Legal Position
 
 The clearest legal prohibition of corporal punishment applies in the school setting. The Ministry of Education's Safeguarding Policy for Children at Schools (2019) prohibits corporal punishment and provides explicit guidance to teachers. The Education Act 2020 reinforces child protection obligations for education professionals.[^587] However, the prohibition in school settings pre-dates these instruments: corporal punishment was officially removed from Maldivian school practice in the 1990s as part of education modernisation reforms.
 
 In practice, the picture is more mixed. Qualitative evidence gathered through the Vulnerability Mapping process and child consultations conducted for the UNICEF Situation Analysis (2025) found that physical discipline – particularly slapping and hitting – continues to occur in school settings, particularly in some outer island schools where monitoring is weak and where individual teachers hold traditional views about discipline. The absence of a systematic reporting pathway, complaint mechanism, and accountability system for school corporal punishment means that enforcement of the prohibition depends almost entirely on individual school management culture rather than structural oversight.[^588]
 
-### 4.30.3 The Home Setting: Parental Discipline and Islamic Law
+### 4.60.3 The Home Setting: Parental Discipline and Islamic Law
 
 In the home setting, no explicit legal prohibition of corporal punishment exists. The Penal Code (2014) and CRPA (2019) together establish that causing physical harm to a child constitutes abuse, but the practical interpretation of "reasonable parental discipline" as a defence has not been definitively settled in Maldivian law.[^589] The absence of a clear legal standard creates operational challenges for CFPS caseworkers who must distinguish between corporal punishment that is definitionally abusive and other forms.
 
@@ -3011,7 +3011,7 @@ The religious dimension is significant. Many Maldivians interpret Islamic jurisp
 
 The Rogers, Ali and Naeem (2025) chapter on child protection in the Maldives identifies this cultural-religious dimension as one of the most challenging aspects of promoting child rights: "concepts of 'honour' and respect for elders are deeply embedded in Maldivian culture, and physical discipline is often seen as an appropriate expression of parental authority." The same chapter notes that "parents who hit their children are rarely seen as abusive – rather, as responsible."[^591]
 
-### 4.30.4 Judicial Corporal Punishment and the Religious Law Intersection
+### 4.60.4 Judicial Corporal Punishment and the Religious Law Intersection
 
 A distinct dimension of corporal punishment concerns judicial punishment under Shari'ah law. The Maldives operates a dual legal system in which Shari'ah-derived criminal penalties apply alongside the secular Penal Code. Under the Penal Code (Section 411(d)), flogging is prescribed for the offence of *zina* (extramarital sexual intercourse), with a sentence of 100 lashes. The JJ Act (2019) did not explicitly abolish flogging as a permissible sentence for children aged 7-14 – the Act reforms the juvenile justice system but does not address corporal punishment under Shari'ah as a distinct legal category.[^592]
 
@@ -3019,13 +3019,13 @@ The HRCM's 2022 report on corporal punishment documented that 85% of flogging se
 
 The 2014 Regulation on Juvenile Justice explicitly permitted death penalty sentences for children aged 7 and above under Shari'ah – five children were sentenced to death between 2013 and 2015, a fact documented in the Statistics Compendium and confirmed by UNICEF and the CRC Committee. While President Ibrahim Mohamed Solih committed to abolishing the death penalty for minors in 2018, the legal framework for this abolition had not been fully consolidated as of 2024.[^594]
 
-### 4.30.5 Alternative Care Settings and Institutional Contexts
+### 4.60.5 Alternative Care Settings and Institutional Contexts
 
 Corporal punishment in alternative care settings – children's homes, Kudakudhinge Hiya shelter, Fiyavathi, and the Imaduddin rehabilitation facility – is nominally prohibited by institutional regulations. However, there is limited independent monitoring of these facilities. The Children's Ombudsperson's office has mandate over monitoring conditions in care facilities, but its capacity is limited relative to its mandate.[^595]
 
 The UNICEF 2022 report on CFPS caseload noted that children who had experienced institutional care reported occasional use of physical restraint and isolation as disciplinary measures. CFPS workers conducting monitoring visits have a dual challenge: the same workers responsible for placing children in institutional care often conduct monitoring visits, creating a potential conflict of interest that limits critical oversight.[^596]
 
-### 4.30.6 Policy Recommendations
+### 4.60.6 Policy Recommendations
 
 Both the NAPVAC 2024-2028 and the CFW vulnerability mapping recommendations identify corporal punishment as requiring legislative action. Key recommendations include:
 
@@ -3056,13 +3056,13 @@ The CRPA 2019 establishes the rights of all children regardless of the circumsta
 ## 4.62 Birth Registration and Statelessness for Out-of-Wedlock Children
 
 
-### 4.38.1 Legal Framework for Birth Registration
+### 4.62.1 Legal Framework for Birth Registration
 
 Birth registration in the Maldives is governed by the Civil Registration Act. All births must be registered within a specified period (typically 30 days) at the local island council or civil registration office. Registration is free. The Maldives has achieved near-universal birth registration for children born in formal marriages – the 2017 DHS found registration rates above 95% for children born to married couples.[^671]
 
 The critical gap concerns children born outside formal marriage. As documented in §4.11 of the original chapter, Maldivian law and social convention do not recognise children born out of wedlock in the same framework as children born within marriage. A child whose parents are not married at the time of birth, or whose father is not identified or does not acknowledge paternity, faces a more complex registration pathway.[^672]
 
-### 4.38.2 The Out-of-Wedlock Registration Pathway
+### 4.62.2 The Out-of-Wedlock Registration Pathway
 
 Under the Civil Registration Act and Family Act, a child born to an unmarried mother is registered under the mother's household. The father's name may be added to the registration if paternity is legally acknowledged or established. The practical effect:
 
@@ -3072,13 +3072,13 @@ Under the Civil Registration Act and Family Act, a child born to an unmarried mo
 
 Critically, the *wali* (legal guardian) of a child under Islamic law is always the father (or, in his absence, the paternal grandfather or other male agnatic relative). A child born out of wedlock whose father has not acknowledged paternity has no *wali* – creating significant legal complications for medical consent, school enrolment, passport applications, and other processes that require guardian authorisation.[^674]
 
-### 4.38.3 Statelessness Risk
+### 4.62.3 Statelessness Risk
 
 Children born in the Maldives to foreign nationals – including migrant workers from Bangladesh, India, Sri Lanka, and Nepal – may face statelessness risks if neither parent's nationality law grants citizenship by descent based on birth in the Maldives. The Maldives does not operate *jus soli* (citizenship by birth) – citizenship passes through the father's Maldivian citizenship under the Citizenship Act. A child born in the Maldives to foreign parents does not automatically acquire Maldivian citizenship.[^675]
 
 Migrant worker communities in Male' and resort islands include a significant population of irregular workers whose employment and residence status is precarious. Children born to irregular migrants – including children whose mothers are Maldivian and fathers are foreign nationals – may face registration difficulties and potential statelessness. UNHCR has identified this as a concern in its regional statelessness work but has not published a specific Maldives assessment.[^676]
 
-### 4.38.4 Policy and Data Gaps
+### 4.62.4 Policy and Data Gaps
 
 The CRC Periodic Report Draft acknowledged birth registration completeness challenges and committed to ensuring universal registration, including for children in difficult circumstances. Key policy gaps include:
 
@@ -3092,7 +3092,7 @@ The CRC Periodic Report Draft acknowledged birth registration completeness chall
 ## 4.63 Children Born Outside Marriage: A Specific Vulnerability
 
 
-### 4.69.1 Legal and Social Status
+### 4.63.1 Legal and Social Status
 
 Children born outside marriage face a specific cluster of legal, social, and developmental vulnerabilities in the Maldivian context. As Rogers, Ali and Naeem (2025) note, *de facto* and *de jure* discrimination is experienced throughout the lives of children born out of wedlock in Muslim states (Ali, 2013). The Maldives is no exception.
 
@@ -3102,13 +3102,13 @@ Under Islamic family law as practised in Maldives:
 - Social stigma attaches to the child as well as the mother, despite the child having no agency in the circumstances of their birth
 - The child's *wali* (marriage guardian) for any subsequent marriage may be compromised if paternal lineage is unclear
 
-### 4.69.2 The Birth Registration Gap
+### 4.63.2 The Birth Registration Gap
 
 The CRC Periodic Report (2026 draft) notes near-universal birth registration for children born in health facilities. However, challenges remain for children born outside marriage: the registration process requires documentation of parentage, and where paternal parentage is denied or unclear, birth registration may be delayed or complicated.
 
 Children born outside marriage to mothers who were victims of rape face the additional complexity noted in §4.61.4: the circumstances of their conception may have been criminalised, and documentation of those circumstances (through a rape report or prosecution) may create further legal complications for both mother and child.
 
-### 4.69.3 Entry to Alternative Care
+### 4.63.3 Entry to Alternative Care
 
 Children born outside marriage, or whose parents are unmarried, appear disproportionately in the alternative care system – not because out-of-wedlock birth is itself a ground for removal, but because of the social vulnerabilities that cluster around it: single motherhood (often young), economic vulnerability, family rejection, social isolation, and limited support networks. A mother rejected by her family due to pregnancy outside marriage may have no kinship care network to draw on if she cannot provide adequate care for her child, leading to institutional placement as the only available option.[^880]
 
@@ -3121,11 +3121,11 @@ Children born outside marriage, or whose parents are unmarried, appear dispropor
 ## 4.64 Child Labour in the Maldives
 
 
-### 4.7.1 Legal Framework
+### 4.64.1 Legal Framework
 
 The CRPA 2019 prohibits the employment of children below the age of 16, and the Education Act 2020 establishes compulsory education until age 16, creating a complementary legal framework that should, in principle, prevent child labour. Prior to the CRPA, no explicit prohibition on child labour existed in domestic law – notably, in 2009, there was no compulsory education law at all, leaving children vulnerable to exploitation without legal recourse.[^45]
 
-### 4.7.2 Patterns of Child Labour
+### 4.64.2 Patterns of Child Labour
 
 Despite the legal prohibitions, the US Department of Labor has documented persistent patterns of child labour in the Maldives through its annual assessments:
 
@@ -3147,13 +3147,13 @@ The primary forms of child labour documented in the Maldives include:
 ## 4.65 Child Labour: Intersections with Education, Fishing, and Family Enterprise
 
 
-### 4.32.1 Legal Framework
+### 4.65.1 Legal Framework
 
 The minimum working age in the Maldives is 16 years, established by the Employment Act (2008) in combination with the Education Act (2020), which establishes compulsory education through Grade 12 (approximately age 18). The CRPA 2019 prohibits child labour and economic exploitation of children under its general abuse and harm provisions. The Maldives has ratified ILO Convention 138 (Minimum Age for Admission to Employment) and Convention 182 (Worst Forms of Child Labour).[^612]
 
 Light work is permitted for children aged 16-18 with limitations on hours (maximum 6 hours per day) and prohibitions on hazardous work, night work, and work that interferes with education. Hazardous work is defined to include work in fishing vessels, construction, and resort industry roles that involve alcohol service.[^613]
 
-### 4.32.2 Patterns and Prevalence
+### 4.65.2 Patterns and Prevalence
 
 Systematic data on child labour in the Maldives is limited. The most recent comprehensive assessment derives from the UNICEF Situation Analysis (2025), which drew on DHS data, administrative records, and community consultations. Key patterns include:
 
@@ -3165,13 +3165,13 @@ Systematic data on child labour in the Maldives is limited. The most recent comp
 
 **Trafficking-related labour.** As documented in §4.26, children from economically marginalised backgrounds – including out-of-wedlock children and those from the poorest atoll communities – are vulnerable to trafficking into domestic servitude and commercial sexual exploitation. These represent the most severe forms of child labour and require the most intensive child protection responses.[^617]
 
-### 4.32.3 The Education-Labour Tension
+### 4.65.3 The Education-Labour Tension
 
 The Education Act 2020 establishes compulsory education but enforcement is limited. In outer atolls where secondary school attendance requires residential placement away from family, the combination of cost, separation anxiety, and available local work creates genuine tension between education continuation and early entry into the labour force. Boys are more likely than girls to leave school early for fisheries work; girls are more likely to leave for domestic roles or early marriage.
 
 The NAPVAC 2024-2028 identifies early school leaving as a risk factor for both child labour and exposure to gang-related activity, particularly in the context of Male' migration. Boys from outer atolls who migrate to Male' for secondary education without adequate family support networks are at elevated risk of dropping out and being absorbed into the drug economy or construction labour market on unfavourable terms.[^618]
 
-### 4.32.4 Monitoring and Enforcement
+### 4.65.4 Monitoring and Enforcement
 
 Labour inspection in the Maldives is conducted by the Ministry of Economic Development and Ministry of Labour, but inspection capacity is extremely limited in outer atolls. The fisheries sector – where the most common forms of child participation occur – is outside the main labour inspection framework. There is no dedicated child labour unit within the inspection system, and cross-referral mechanisms between labour inspectors and CFPS are underdeveloped.[^619]
 
@@ -3181,13 +3181,13 @@ Labour inspection in the Maldives is conducted by the Ministry of Economic Devel
 ## 4.66 Child Labour: Detailed Analysis
 
 
-### 4.78.1 Legal Framework
+### 4.66.1 Legal Framework
 
 The Employment Act (Law No. 2/2008) and its regulations establish the minimum working age at 16 years, with persons aged 16–18 restricted to non-hazardous work and limited hours. Below 16, all wage employment is prohibited. The Child Rights Protection Act (2019) reinforces this prohibition. Employment Act Regulations specify prohibited hazardous occupations for under-18s: fishing on the open sea, construction at height, dangerous chemicals, night work.
 
 Prior to 2009, there was no compulsory education law – a fact documented by the U.S. Department of Labor (2009) as the primary enabling condition for child labour in the Maldives. The absence of compulsory education, combined with the absence of child labour prohibitions in statute, left children without legal protection from exploitation. The Education Act 2020 and CRPA 2019 together filled this legal vacuum, but the U.S. Department of Labor's 2020 assessment upgraded the Maldives only to "moderate advancement" – recognising the legislation while noting persistent gaps in enforcement.[^899]
 
-### 4.78.2 The Worst Forms: USDOL Findings
+### 4.66.2 The Worst Forms: USDOL Findings
 
 The U.S. Department of Labor's triennial assessments of child labour in the Maldives document an evolving picture:
 
@@ -3199,7 +3199,7 @@ The U.S. Department of Labor's triennial assessments of child labour in the Mald
 
 The trajectory from "minimal" (2018) to "moderate" (2020) advancement illustrates the direct but partial impact of legislative reform on compliance – progress in law was real, but enforcement remained inadequate.[^900]
 
-### 4.78.3 Specific Child Labour Contexts
+### 4.66.3 Specific Child Labour Contexts
 
 **The fishing sector:** Children from fishing families may assist with fishing from an early age. Participation in family fishing is culturally embedded and not considered labour in the traditional sense – it is part of the intergenerational transmission of fishing knowledge and skills. However, it can interfere with schooling and expose children to hazardous maritime conditions. MPS data recorded 24 potential child labour cases in 2022 and 23 in 2021 – statistics that likely represent a small fraction of the actual situation, given the cultural normalisation of children's participation in family fishing activities.
 
@@ -3211,7 +3211,7 @@ Adam (2017) also found that the overcrowded living conditions of Malé – multi
 
 **Migrant children at risk:** Children of migrant workers may be at risk of exploitative labour situations, particularly where parents are in irregular migration situations. Their documentation status complicates access to education and social services.
 
-### 4.78.4 Enforcement Gaps
+### 4.66.4 Enforcement Gaps
 
 The Labour Relations Authority (LRA) is the primary enforcement authority for child labour provisions. Inspection coverage is low, and resource constraints limit proactive monitoring. A Joint Child Labour Monitoring and Response Protocol is under development between MoSFD and the LRA, expected in 2025.[^901]
 
@@ -3224,13 +3224,13 @@ The Labour Relations Authority (LRA) is the primary enforcement authority for ch
 ## 4.67 Children with Disabilities: Rights, Vulnerabilities, and the Protection Gap
 
 
-### 4.34.1 Scale and Demographics
+### 4.67.1 Scale and Demographics
 
 The Census 2022 identified 3,401 children aged 5-17 living with disabilities, representing approximately 14% of the total disability population of 24,401. The National Disability Registry (NDR) records 13,656 registered persons; disaggregating the 5-17 age group from registry data provides a partial picture only, as the NDR undercounts children with psychosocial and intellectual disabilities – precisely those categories where child protection risks are highest.[^629]
 
 Registry data by disability type shows that children are disproportionately represented in categories of intellectual disability, autism, and multiple disabilities – conditions that require intensive support and place greatest demands on child protection and educational systems. Autism cases in the NDR total 584 (122 women, 462 men) – a gender ratio that is consistent with global patterns but may also reflect under-identification of autism in girls. Intellectual disability cases total 1,954 and multiple disability cases total 2,961 – categories in which children constitute a substantial share.[^630]
 
-### 4.34.2 Elevated Child Protection Risk
+### 4.67.2 Elevated Child Protection Risk
 
 Children with disabilities face significantly elevated risks of abuse, neglect, and exploitation across all settings:
 
@@ -3242,17 +3242,17 @@ Children with disabilities face significantly elevated risks of abuse, neglect, 
 
 **Neglect and poverty intersection.** The HRCM CRPD Shadow Report found that 55% of disabled households are female-headed. Female-headed households with a child who has disabilities are among the most economically vulnerable households in the Maldives. The Disability Allowance (MVR 3,000-7,000 per month) is a critical support, but coverage is incomplete (only 56% of Census-identified persons with disabilities are registered), and the allowance is often insufficient when medical costs, therapy, and care needs are factored in.[^634]
 
-### 4.34.3 The Inclusive Education-Child Protection Nexus
+### 4.67.3 The Inclusive Education-Child Protection Nexus
 
 The school environment presents both a child protection risk and a protective opportunity for children with disabilities. The risk: as documented in §6.5 of the Disability chapter, children with disabilities face systematic bullying and exclusion, including from extracurricular activities. Cases of bullying going unaddressed by school management normalise maltreatment and deprive children of the school as a protective environment. Teachers with limited disability awareness may inadvertently harm children – for example, by interpreting the communication or behavioural characteristics of autism as disobedience and responding with punitive measures.[^635]
 
 The protective opportunity: schools that implement genuine inclusion – with trained SEN teachers, IEPs, peer awareness programmes, and effective anti-bullying policies – can provide disabled children with a community of relationships, regular monitoring by trained adults, and access to referral pathways. The shift from "SEN units" to pure mainstreaming without adequate support has, in practice, reduced the protective functions of specialist support for many children with disabilities.[^636]
 
-### 4.34.4 Transition to Adulthood and Trafficking Vulnerability
+### 4.67.4 Transition to Adulthood and Trafficking Vulnerability
 
 Young people with intellectual disabilities and psychosocial disabilities are particularly vulnerable during the transition from child protection services to adult social protection. The lack of a formal transition protocol – equivalent to what welfare systems in some countries call "leaving care" procedures – means that when children with disabilities age out of child protection systems at 18, they often receive no continuity of support unless they happen to be registered in the NDR and receiving disability allowance. The trafficking vulnerability mapping documented that young women with intellectual disabilities are a particularly targeted group for trafficking into domestic servitude and sexual exploitation, precisely because their communication difficulties limit help-seeking and their social networks are often narrow.[^637]
 
-### 4.34.5 Policy and Service Gaps
+### 4.67.5 Policy and Service Gaps
 
 The intersection of child protection and disability systems is one of the most significant service gaps in the Maldivian social sector:
 
@@ -3295,16 +3295,16 @@ However, the ratio of SEN specialists to children with disabilities in mainstrea
 ---
 
 
-## 4.69 Children with Disabilities: The Hidden Emergency in Child Protection
+## 4.69 Children with Disabilities in the Child Protection System
 
 
-### 4.114.1 The Convergence of Vulnerability
+### 4.69.1 The Convergence of Vulnerability
 
 Children with disabilities represent the group at highest risk of violence in the Maldivian child protection system – a finding documented across multiple source types with remarkable consistency. The UNPRPD Situational Analysis (Faisal, 2024) found a prevalence of sexual violence against children with disabilities of approximately 60%, with the majority of survivors being girls. WHO and UNICEF global data estimates that children with disabilities are four times more likely to experience violence than non-disabled children. The Maldivian census data shows that 4% of children have disabilities – meaning approximately 5,128 children are living with the intersection of disability and the elevated violence risk that accompanies it.
 
 The 60% sexual violence prevalence finding, if it approximates the Maldivian reality, means that among the approximately 5,128 children with disabilities, roughly 3,077 have experienced sexual violence. Against the 2,936 total cases received by CFPS in 2023 (of which 1,278 were VAC cases), this suggests a catastrophic level of under-reporting for this specific population – a level of hidden suffering that the formal system has almost no visibility into.[^1001]
 
-### 4.114.2 Why Children with Disabilities Are Particularly Vulnerable
+### 4.69.2 Why Children with Disabilities Are Particularly Vulnerable
 
 The mechanisms through which disability intersects with child protection vulnerability are multiple and reinforcing:
 
@@ -3316,7 +3316,7 @@ The mechanisms through which disability intersects with child protection vulnera
 
 **Credibility assumptions:** Even when children with disabilities do disclose abuse, their disclosures may be disbelieved by adults who assume that disability affects the reliability of testimony. The Section 52 evidence requirements for prosecution – requiring five specified categories of evidence – create a threshold that is even harder to meet when the primary witness is a child whose disability affects communication or memory. The criminal justice funnel, already severely restricting for non-disabled children, effectively excludes most abuse of children with disabilities from prosecution.[^1002]
 
-### 4.114.3 The Education Paradox for Children with Disabilities
+### 4.69.3 The Education Paradox for Children with Disabilities
 
 The education system is simultaneously the most important detection pathway for child protection concerns and a risk environment for children with disabilities. The documented reality of inclusive education in the Maldives reveals a system that has adopted the aspiration of inclusion without building the infrastructure it requires:
 
@@ -3328,7 +3328,7 @@ The education system is simultaneously the most important detection pathway for 
 
 This picture means that children with disabilities who are in school are often experiencing educational deprivation (not receiving meaningful instruction) and heightened peer victimisation, while the protective function of school attendance (adult observation, routine, relationship with teachers who know the child) is partially compromised by the quality of those relationships.[^1003]
 
-### 4.114.4 Child Protection Systems for Children with Disabilities – The Adaptation Gap
+### 4.69.4 Child Protection Systems for Children with Disabilities – The Adaptation Gap
 
 The child protection system – the CFPS, the 1412 helpline, the MCPD case management processes, the Family Court, the criminal justice response – has not been designed with children with disabilities in mind. The UNPRPD SitAn (2024) documented that court proceedings involving children with disabilities are conducted "without interpreters" – meaning that a deaf child in a child protection proceeding has no accessible communication channel, and that their experience, wishes, and testimony cannot be meaningfully incorporated into the process.
 
@@ -3345,7 +3345,7 @@ The reform agenda for children with disabilities in child protection needs to ad
 ## 4.70 Children, Drug Use, and the Narcotics Situation
 
 
-### 4.35.1 The Scale of Youth Drug Involvement
+### 4.70.1 The Scale of Youth Drug Involvement
 
 As documented in Part VIII of this encyclopedia, the Maldives faces one of the most severe youth drug crises in South Asia, and children and adolescents are deeply implicated – as both users and as victims of family disruption caused by parental drug use. Several statistical markers define the scale of the problem:
 
@@ -3357,7 +3357,7 @@ As documented in Part VIII of this encyclopedia, the Maldives faces one of the m
 
 The 2003 Rapid Situation Assessment found a mean age of drug initiation of 21.4 years (range 15-42), with almost half of drug users under 20. The profile shifted dramatically with heroin introduction in 1993 – the primary user cohort shifted from 25-40 year olds to 16-25 year olds. Current synthetic drug trends are driving initiation even earlier, with some community workers reporting exposure in the 12-15 age range in Male' gang contexts.[^642]
 
-### 4.35.2 Children Living in Drug-Affected Families
+### 4.70.2 Children Living in Drug-Affected Families
 
 A dimension of the drug crisis that is frequently overlooked in the focus on users is the impact on children living in families where parents or older siblings are drug-dependent. The 2010 World Bank evaluation noted that among a cohort of drug users interviewed, 32% of their siblings also used drugs – suggesting powerful family-level transmission pathways. In communities where drug networks are embedded in social life, children grow up in environments where drug use is normalised.[^643]
 
@@ -3371,13 +3371,13 @@ The child protection implications of parental drug use are significant:
 
 **Parental incarceration.** With 47% of prisoners in the Maldives serving sentences for drug offences, the incarcerated population disproportionately consists of the parents of young children. Parental incarceration is associated with psychological harm, economic hardship, and the need for alternative care arrangements – yet the child welfare implications of parental incarceration receive no systematic attention in the Maldives' criminal justice or social protection systems.[^647]
 
-### 4.35.3 Drug Rehabilitation Services for Young People
+### 4.70.3 Drug Rehabilitation Services for Young People
 
 The Drug Rehabilitation Centre (DRC) on Himafushi and the regional treatment facilities provide services to adult drug users. There are no dedicated youth drug treatment services for individuals under 18. The Drug Court can refer juvenile cases to NDA programmes, but the NDA's treatment architecture was not designed for adolescent populations and lacks the developmental, educational, and family-focused elements required for effective youth treatment.[^648]
 
 The NDA and MoSFD have identified the development of youth-specific drug treatment services – involving family therapy, school re-integration support, and peer mentoring – as a priority, but no dedicated youth treatment facility had been established as of 2024.[^649]
 
-### 4.35.4 Gang Networks and the Drug Recruitment Pipeline
+### 4.70.4 Gang Networks and the Drug Recruitment Pipeline
 
 The connection between juvenile gang involvement and drug supply networks in Male' creates a pipeline from gang membership to drug offending to incarceration. As documented in Part XV (Cross-Cutting Issues), gang violence is a significant social concern in Male', and gang networks are deeply integrated with drug distribution. Young men who join gangs for social belonging and protection often find themselves serving as drug runners and street-level distributors, bringing them into contact with the criminal justice system at an early age. The cycle of juvenile arrest, Imaduddin School placement, and post-release return to gang networks is a documented pattern in case files and practitioner evidence.[^650]
 
@@ -3389,7 +3389,7 @@ The NAPVAC 2024-2028 identifies gang involvement as a distinct strategic area wi
 ## 4.71 Drug Abuse, Children, and the Child Protection Interface
 
 
-### 4.80.1 The NDA-Child Protection Intersection
+### 4.71.1 The NDA-Child Protection Intersection
 
 The Maldives' serious drug problem has direct implications for children across multiple intersecting pathways. The CRC Periodic Report (2026 draft) identifies drug use as associated with gang involvement, school dropout, criminal activity, and family breakdown – all of which have direct adverse impacts on child welfare.
 
@@ -3400,7 +3400,7 @@ The primary substances of concern are:
 
 The NDA 2021 survey estimated over **7,000 active drug users** in the Maldives, with the **15–29 age group** representing the largest user cohort. Children are affected both as users themselves (older adolescents) and as children in families where parental drug use is a primary driver of abuse and neglect referrals to CFPS and FCSCs.[^908]
 
-### 4.80.2 Drug Use as an Entry Point to Alternative Care
+### 4.71.2 Drug Use as an Entry Point to Alternative Care
 
 Substance abuse within the family unit is a significant and documented pathway into alternative care in the Maldivian system. Rogers and Ali (2023) note that the reasons for children entering alternative care are "often due to concerns around parental drug use, maltreatment and domestic violence." The establishment of Kudakudhinge Hiya in 2004 was explicitly linked to the need to protect children whose parents were incapacitated by drug addiction.
 
@@ -3412,13 +3412,13 @@ The drug-to-care pathway creates a specific challenge for the alternative care s
 
 These children enter an alternative care system that is under-resourced in therapeutic capability, with staff who lack training in trauma-informed approaches and with no specialist drug-and-family service available. The consequence, as Rogers and Ali (2023) note, is placement breakdown and cross-atoll movement – children bouncing through a system that cannot meet their needs.[^909]
 
-### 4.80.3 Youth Drug Use and the Juvenile Justice Interface
+### 4.71.3 Youth Drug Use and the Juvenile Justice Interface
 
 The intersection of youth drug use with the juvenile justice system is the primary driver of juvenile case volume. Aboobakuru (2017) documented the dramatic rise in juvenile drug arrests from 16 in 2001 to 164 in 2007, with drug offences constituting a growing proportion of juvenile court cases. The Substance Abuse chapter (Part VIII) of this encyclopedia records that 47% of adult prisoners are drug offenders – a proportion that reflects the upstream reality of youth drug involvement.
 
 The Drug Act (Law No. 17/2011) provides for rehabilitation-oriented dispositions for first-time youth offenders. The NDA provides Youth Awareness and School-Based Prevention programmes reaching thousands of students annually. However, treatment services for young people with substance use problems are limited: the NDA's rehabilitation centre operates primarily for adults. Adolescents who develop drug dependence have very limited specialist treatment options available to them.[^910]
 
-### 4.80.4 Parental Imprisonment and Children
+### 4.71.4 Parental Imprisonment and Children
 
 A specific child protection consequence of the drug crisis is parental imprisonment. Approximately 47% of prisoners in the Maldives are drug offenders – meaning a substantial proportion of children with a parent in prison have that parent incarcerated due to drug offences. Parental imprisonment:
 - Creates an immediate single-parent or no-parent household situation
@@ -3435,7 +3435,7 @@ The CRPA 2019 explicitly includes parental imprisonment as a ground for alternat
 ## 4.72 Children and Mental Health
 
 
-### 4.36.1 The Adolescent Mental Health Data
+### 4.72.1 The Adolescent Mental Health Data
 
 As documented comprehensively in Part IX of this encyclopedia, the Maldives faces a significant youth mental health challenge. The key data points most relevant to child protection are:
 
@@ -3447,7 +3447,7 @@ As documented comprehensively in Part IX of this encyclopedia, the Maldives face
 
 These figures – particularly the 19.9% suicidal ideation rate in the GSHS and the 74% female share of self-harm cases – place children's mental health in the category of child protection emergencies rather than merely clinical services concerns. Self-harm and suicidal behaviour among children require cross-sectoral responses that span health (clinical assessment and treatment), education (school-based early identification), and child protection (assessment of underlying abuse, neglect, or family dysfunction).[^654]
 
-### 4.36.2 Mental Health as a Child Protection Risk Factor
+### 4.72.2 Mental Health as a Child Protection Risk Factor
 
 The relationship between mental health and child protection runs in both directions:
 
@@ -3455,7 +3455,7 @@ The relationship between mental health and child protection runs in both directi
 
 **Mental health as a context for child protection risk.** Conversely, children growing up in households where a parent has untreated mental illness – or where the child's own mental health condition has not been addressed – face elevated risk of neglect and maltreatment. The connection between maternal depression and child neglect is particularly well-established; in contexts where women experience the high rates of depression documented in the STEP Survey (33.5% of females aged 15-29), the implications for infant and young child care are significant.[^656]
 
-### 4.36.3 School-Based Mental Health: Counsellors and Early Identification
+### 4.72.3 School-Based Mental Health: Counsellors and Early Identification
 
 The school system provides the principal point of contact between a mental health response infrastructure and the adolescent population. The Maldives has begun deploying school counsellors – particularly in Male' and some regional schools – as a first-line response to student mental health concerns. School counsellors serve as a referral pathway to clinical services, a first point of disclosure for students experiencing abuse or family dysfunction, and a preventive resource through group-based social-emotional learning.[^657]
 
@@ -3467,7 +3467,7 @@ However, as noted in the Mental Health chapter (§9.4), school counsellor deploy
 
 The Mental Health Centre at Hulhumale' Hospital and Dr Abdul Samad Memorial Hospital (Thinadhoo) conduct **Early Intervention programmes in schools** – identifying early signs of mental health concerns and providing support. The Ungoofaaru Regional Hospital has established a dedicated "Sidhdha" wing with child-friendly areas for paediatric mental health patients. These are important advances, but they reach only a small fraction of the children in need.[^659]
 
-### 4.36.4 Suicidal Behaviour: A Gendered Emergency
+### 4.72.4 Suicidal Behaviour: A Gendered Emergency
 
 The 74% female share of MoSFD self-harm/suicidal behaviour cases in 2024, combined with the 33.5% female depression rate among 15-29 year olds, points to an acute and gendered mental health emergency among adolescent girls and young women. The vulnerability mapping research identified several structural factors driving girls' elevated distress:
 
@@ -3487,13 +3487,13 @@ The NAPVAC 2024-2028 identifies the provision of psychosocial support for childr
 ## 4.73 Online Safety and Digital Risks for Children
 
 
-### 4.37.1 The Digital Context: Penetration and Risk
+### 4.73.1 The Digital Context: Penetration and Risk
 
 The Maldives has one of the highest rates of internet penetration in South Asia, with mobile connectivity reaching most inhabited islands. Among adolescents and young people, smartphone ownership and social media use are near-universal in Male' and increasingly common in outer atolls. This digital connectivity creates significant positive potential – access to education resources, social connection for isolated island communities, economic opportunity – alongside documented child safety risks.[^662]
 
 The CRC Periodic Report Draft identified online safety as one of the key "new" child rights challenges requiring attention, noting that "the legal and institutional framework for child online protection is underdeveloped relative to the risks." The CSEC data presented in §4.26 confirms that online exploitation – including production and distribution of Child Sexual Abuse Material (CSAM) and online grooming – is a growing concern. CFPS case data shows a rising trend in online sexual exploitation referrals, though absolute numbers remain lower than reported offline cases.[^663]
 
-### 4.37.2 Online Child Sexual Exploitation and Abuse
+### 4.73.2 Online Child Sexual Exploitation and Abuse
 
 Online CSEA in the Maldives is characterised by several documented patterns:
 
@@ -3505,7 +3505,7 @@ Online CSEA in the Maldives is characterised by several documented patterns:
 
 **CSAM trafficking and international dimensions.** The NRM documentation of child CSEC cases includes evidence of Maldivian CSAM being distributed on international platforms. The MPS Cyber Crime Unit and CFPS have both received referrals from international bodies (including INTERPOL and NCMEC) regarding Maldivian-source CSAM. These cases require international cooperation frameworks that are still being developed.[^666]
 
-### 4.37.3 Legal Framework for Online Child Safety
+### 4.73.3 Legal Framework for Online Child Safety
 
 The Computer Crime Act (2015) criminalises several categories of online offending relevant to child protection, including unauthorised access, data interception, and computer-related fraud. The SOA 2014 covers offences involving digital means if they constitute sexual offences (grooming, production of CSAM).[^667]
 
@@ -3515,7 +3515,7 @@ However, the legal framework has significant gaps:
 - No mandatory reporting requirement for internet service providers or social media platforms operating in the Maldives to report CSAM to authorities
 - No child online safety legislation equivalent to the models being adopted in other countries[^668]
 
-### 4.37.4 Digital Literacy and Awareness
+### 4.73.4 Digital Literacy and Awareness
 
 The MoSFD and the ICT Authority have conducted periodic digital literacy and online safety campaigns, including school-based workshops and social media awareness campaigns. However, these have been ad hoc rather than programmatic, and they have not reached outer atoll schools consistently.[^669]
 
@@ -3547,7 +3547,7 @@ The intersection of child poverty with other vulnerability factors – including
 ## 4.75 Child Poverty and Economic Vulnerability: The Geographic Dimension
 
 
-### 4.39.1 The Scale of Child Poverty
+### 4.75.1 The Scale of Child Poverty
 
 Child poverty in the Maldives cannot be understood without understanding the geographic dimension documented in Part XII of this encyclopedia. The headline 5.4% national poverty rate conceals a profound spatial divide: atoll poverty is 9.5% compared to 0.9% in Male', and atolls contain **92% of the country's poor**. Children are disproportionately represented in poor households because poor households in the atolls tend to have more children per adult.[^678]
 
@@ -3560,7 +3560,7 @@ The 2022 Child-Equity Census and the World Bank 2022 Poverty Assessment together
 
 The connection between child poverty and child protection risk is well-established in the Maldivian evidence base: CFPS case data shows that child protection cases are disproportionately concentrated in atoll communities and in low-income households in Male'. This is not simply because poor families are more abusive – it reflects both the additional stresses that poverty creates (housing overcrowding, food insecurity, parental mental health strain) and the differential exposure of poor families to state surveillance and reporting.[^680]
 
-### 4.39.2 Children in the Atoll Economic Trap
+### 4.75.2 Children in the Atoll Economic Trap
 
 The economic vulnerability of atoll children operates through several intersecting pathways:
 
@@ -3572,7 +3572,7 @@ The economic vulnerability of atoll children operates through several intersecti
 
 **Fisheries vulnerability and climate change.** For children in fishing families – a significant proportion of atoll children – the climate-related decline in fisheries documented in Part XIV represents an existential livelihood threat. As tuna migration patterns shift, fishing effort must increase to maintain catch levels, drawing boys out of education and into work, increasing family economic precarity, and reducing household resources for children's welfare.[^684]
 
-### 4.39.3 Child Poverty and Child Protection: The Nexus
+### 4.75.3 Child Poverty and Child Protection: The Nexus
 
 The most important connection for child protection purposes is not simply that poor children are more likely to be maltreated – though the association is real and documented – but that the response capacity for child protection in poor communities is weakest precisely where protection needs are greatest:
 
@@ -3589,13 +3589,13 @@ The CFW recommendations and NAPVAC 2024-2028 both identify economic support for 
 ## 4.76 Children in Poverty and Social Protection
 
 
-### 4.96.1 The Poverty-Child Protection Nexus
+### 4.76.1 The Poverty-Child Protection Nexus
 
 The 18% child poverty estimate (HIES 2019–20) establishes poverty as the most prevalent structural risk factor for Maldivian children. Poverty-driven vulnerability intersects with child protection through multiple pathways: inadequate nutrition and healthcare, housing instability, parental stress and mental health challenges, reduced parental supervision due to long working hours, and the economic vulnerability of single-parent households following divorce.
 
 The geographic concentration of poverty – 92% of the poor live in atolls, while 92% of services are concentrated in Malé – means that poor children are also geographically disadvantaged children. The compound disadvantage of poverty and geographic remoteness creates the most vulnerable group in the Maldivian child protection system: children in poor outer island households with limited access to either prevention services or protective response.
 
-### 4.96.2 The Social Protection Response for Children
+### 4.76.2 The Social Protection Response for Children
 
 The National Social Protection Agency (NSPA) administers the key social protection instruments relevant to children:
 
@@ -3609,7 +3609,7 @@ The National Social Protection Agency (NSPA) administers the key social protecti
 
 **Zakat distribution:** The Zakat House administers the obligatory Islamic almsgiving, distributing support to the poor, orphans, and others in need. Integrated into the OneGov portal in late 2024.
 
-### 4.96.3 The Maintenance Enforcement Gap as a Child Poverty Driver
+### 4.76.3 The Maintenance Enforcement Gap as a Child Poverty Driver
 
 The Family Court is required to determine maintenance arrangements for children before a divorce is granted. The minimum child maintenance payment is MVR 2,000 per month for one child. However, enforcement is effectively absent:
 
@@ -3623,10 +3623,10 @@ Children in single-parent households whose maintenance obligations are being eva
 ---
 
 
-## 4.77 Child Protection and the Maldivian Economy: The Structural Links
+## 4.77 Child Protection and the Maldivian Economy
 
 
-### 4.121.1 Tourism Dependency and Child Vulnerability
+### 4.77.1 Tourism Dependency and Child Vulnerability
 
 The Maldives' near-total dependence on tourism as the primary driver of GDP – with tourism and its related services contributing approximately 30% of GDP and 60% of foreign exchange earnings – creates specific structural conditions for child protection that are rarely analysed in standard child protection literature.
 
@@ -3634,7 +3634,7 @@ Tourism dependency concentrates economic activity in resort islands that are leg
 
 The asymmetric employment structure also means that the economic crisis of COVID-19 – when tourism revenue collapsed entirely – hit Maldivian households with unusual severity. The 44% average income reduction documented during COVID-19 was experienced most acutely by resort workers and their families, with direct consequences for children's material welfare, family stability, and parental stress that elevated child protection risk at precisely the moment when the professional response system was also disrupted.[^1025]
 
-### 4.121.2 Housing Density and Child Protection
+### 4.77.2 Housing Density and Child Protection
 
 The housing conditions in Male' – the most overcrowded capital city in Asia by population density, with approximately 65,000 people per square kilometre – create child protection risk conditions that have not been systematically analysed in the Maldivian literature. The effects operate through multiple pathways:
 
@@ -3646,7 +3646,7 @@ The housing conditions in Male' – the most overcrowded capital city in Asia by
 
 The housing crisis also directly intersects with child protection outcomes through the Section 42 custody trap analysed in the gender chapter: a mother who needs to move islands to escape proximity to an abusive ex-partner loses custody of her children unless the father consents. In Male', where housing is both unaffordable and overcrowded, a woman who needs to move to affordable housing outside the capital faces this custody loss mechanism directly. Housing policy is child protection policy, but the two domains are never analysed together in Maldivian planning frameworks.[^1026]
 
-### 4.121.3 Fisheries Sector and Remote Island Vulnerability
+### 4.77.3 Fisheries Sector and Remote Island Vulnerability
 
 The traditional fisheries economy – characterised by male-dominated fishing crews spending extended periods at sea – creates family structures in outer atoll communities that share characteristics with the tourism economy's resort separation model. Fishing communities in which fathers are absent at sea for extended periods have similar child protection risk patterns to resort-employment families: de facto single-parent households, reduced supervision, economic volatility when catches are poor, and the emotional stress of extended partner separation.
 
@@ -3673,7 +3673,7 @@ The intersection of climate vulnerability with child protection is an emerging a
 ## 4.79 Children and Climate Change: Vulnerability, Displacement, and Adaptation
 
 
-### 4.40.1 Children as the Most Climate-Vulnerable Population
+### 4.79.1 Children as the Most Climate-Vulnerable Population
 
 Children face disproportionate vulnerability to climate change impacts in every documented dimension. In the Maldivian context, where the entire population is existentially threatened by sea-level rise and climate disruption, children's specific vulnerabilities are amplified by developmental factors, dependency, and the long time horizons over which climate impacts will accumulate:
 
@@ -3683,7 +3683,7 @@ Children face disproportionate vulnerability to climate change impacts in every 
 
 **Educational disruption.** Extreme weather events – cyclones, flooding events, swell waves – disrupt schooling on outer islands. When island infrastructure is damaged, schools may be closed for extended periods. The increasing frequency of such events, documented in §14.6, translates into chronic educational disruption for outer island children that compounds the education quality gaps already documented. Children who miss extended periods of school due to climate events are at elevated risk of not returning – particularly girls, who face greater competing demands on their time and attention.[^689]
 
-### 4.40.2 Disaster Displacement and Child Protection
+### 4.79.2 Disaster Displacement and Child Protection
 
 The 2004 Indian Ocean Tsunami was the most significant climate-related disaster in Maldivian history, killing 82 people and causing damage equivalent to 62% of GDP. Fourteen islands were evacuated entirely, and several communities were permanently relocated. As documented in §14.5, the tsunami experience revealed critical gaps in disaster response for children:
 
@@ -3695,7 +3695,7 @@ The 2004 Indian Ocean Tsunami was the most significant climate-related disaster 
 
 The NDMA's National Emergency Operations Plan and the 7th National Disaster Management Plan include child protection provisions in emergencies, including the deployment of a Protection Cluster under NDMA for emergency situations. UNICEF has worked with MoSFD to develop child protection in emergency protocols. However, the 2024 NAPVAC analysis found that these protocols remain primarily on paper – the practical capacity for child protection response during emergencies is limited by the same workforce and geographic constraints that limit everyday child protection.[^691]
 
-### 4.40.3 Forced Relocation and Psychosocial Impact
+### 4.79.3 Forced Relocation and Psychosocial Impact
 
 The government's population consolidation strategy – which envisages moving communities from the smallest and most vulnerable islands to regional hubs – has profound implications for children's wellbeing. Research on planned relocation in other Pacific Island contexts consistently finds that:
 
@@ -3705,7 +3705,7 @@ The government's population consolidation strategy – which envisages moving co
 
 The climate-mental health nexus documented in §14.4 has particular resonance for children growing up with awareness that their islands may be uninhabitable within their lifetimes. This existential climate anxiety – while less documented for children than adults – represents an emerging dimension of child mental health that is specific to SIDS contexts and requires specific acknowledgement in child mental health policy.[^693]
 
-### 4.40.4 Gender-Responsive Climate Adaptation for Children
+### 4.79.4 Gender-Responsive Climate Adaptation for Children
 
 The Gender-Responsive Climate Financing Strategy (2023), developed by the UNFCCC Gender Programme, identifies women and girls as among the highest-risk groups for climate-related disasters. For girl children specifically:
 
@@ -3721,7 +3721,7 @@ The GRFS 2023 and UNFCCC Gender Action Plan commitments documented in the Gender
 ## 4.80 Children and Climate Change: The Child Protection Dimension
 
 
-### 4.122.1 Climate Vulnerability as Child Protection Risk
+### 4.80.1 Climate Vulnerability as Child Protection Risk
 
 The Maldives' existential vulnerability to climate change – with 80% of land less than one metre above sea level and a growing risk of permanent inundation, storm surge, and freshwater contamination – has a child protection dimension that is rarely articulated explicitly in either climate policy or child protection policy.
 
@@ -3729,7 +3729,7 @@ Children are disproportionately affected by climate-related health risks. The WH
 
 Displacement from inhabited islands due to climate risk creates child protection concerns analogous to urban migration: displaced families lose their *gah'therikan* safety net, enter unfamiliar communities without established social relationships, and face the additional stresses of permanent loss of home community and identity. The planned consolidation of vulnerable populations onto climate-resilient islands – a long-standing government policy implemented through the population consolidation programme – disrupts established community protective structures and creates the conditions in which child protection vulnerabilities are elevated during transition periods.[^1028]
 
-### 4.122.2 Gender-Responsive Climate Frameworks and Children
+### 4.80.2 Gender-Responsive Climate Frameworks and Children
 
 The Gender-Responsive Fisheries Strategy (GRFS) 2023 and the UNFCCC Gender Action Plan that governs Maldives' climate response both recognise that gender shapes climate vulnerability and adaptation capacity. What is less developed in these frameworks is the child-specific dimension of climate-gender vulnerability.
 
@@ -3746,7 +3746,7 @@ Child protection planning has not systematically integrated climate change as a 
 ## 4.81 Social Worker Workforce and Capacity Challenges
 
 
-### 4.16.1 Caseload
+### 4.81.1 Caseload
 
 The most fundamental challenge facing the child protection system in the Maldives is the extreme imbalance between the number of children requiring protection and the workforce available to provide it. As of the most recent data:
 
@@ -3760,11 +3760,11 @@ The consequences of chronic overload are well documented in the child protection
 - **Burnout and turnover:** The combination of high caseloads, emotional intensity, personal safety risks (including death threats), limited supervision, and modest remuneration drives high rates of burnout and staff turnover, further depleting an already inadequate workforce.
 - **Inability to provide ongoing support:** Even when cases are identified and initial intervention occurs, the capacity to provide sustained follow-up, monitoring, and support is severely limited.[^73]
 
-### 4.16.2 Geographic Distribution
+### 4.81.2 Geographic Distribution
 
 The 61 child protection social workers are distributed across Malé and the 19 atoll-level FCSCs, with the majority concentrated in Malé and atoll capitals. The Ministry operates in only **20 of 189 inhabited islands**, meaning that children on the remaining 169 islands have no direct access to a professional child protection worker. For these communities, child protection depends entirely on informal community mechanisms, volunteer Community Social Groups (where they exist), and the willingness and ability of individuals to contact the Child Helpline 1412 or travel to the nearest FCSC.[^74]
 
-### 4.16.3 Professional Development and Supervision
+### 4.81.3 Professional Development and Supervision
 
 The professional development pathway for child protection social workers – from the initial one-year Advanced Certificate (2006) through the Advanced Diploma to the four-year BSW – has created a workforce with heterogeneous qualification levels. Some practitioners hold university-level social work qualifications; others entered the field with short-course training and have acquired expertise primarily through practice experience.
 
@@ -3776,7 +3776,7 @@ The recommendation for a **formal supervisory system**, first made following the
 ## 4.82 Workforce Capacity Gaps and Staffing Constraints
 
 
-### 4.44.1 The Scale of the Understaffing Problem
+### 4.82.1 The Scale of the Understaffing Problem
 
 The child protection workforce crisis in the Maldives is not a peripheral resource constraint – it is the defining operational reality of the system. Every other element of the child protection framework – the laws, the protocols, the databases, the referral pathways – depends for its functioning on the availability of adequate numbers of trained, supported, supervised professionals. When the workforce is insufficient, the framework operates in name only.
 
@@ -3798,7 +3798,7 @@ The core numbers, assembled from UNICEF 2022, the Statistics Compendium, and CFP
 
 These figures represent a system in structural crisis. When a social worker carries 160 active cases – each of which should receive regular contact, assessment, and documented review – the quality of every individual response is compromised. Workers must triage, choosing which children are most at immediate risk, and leaving lower-priority cases unvisited for weeks or months. In a system where child protection visits are the primary mechanism for monitoring safety, this is not a minor service quality issue: it is a direct risk factor for child harm.[^734]
 
-### 4.44.2 Historical Context of Workforce Development
+### 4.82.2 Historical Context of Workforce Development
 
 The workforce has not always been this small. The current figure of 61 social workers represents the result of decades of training, attrition, and constrained recruitment. The earliest CFPS workers, trained under the original 1997-2005 system building phase, received a one-year Advanced Certificate in Social Work – a qualification that, while limited, provided a foundation. Successive cohorts have received increasingly sophisticated training, including through the MALDIVS Social Work Certificate and Diploma programmes at the Maldives National University.
 
@@ -3809,13 +3809,13 @@ The NSAP-CP 2020-2024 set a target of increasing the social work workforce to 90
 - **Geographic deployment**: Workers assigned to outer atoll FCSCs face isolation, separation from family, and limited career development opportunities
 - **Professional burnout**: High attrition among experienced workers means that the effective institutional knowledge of the system is constantly being rebuilt[^735]
 
-### 4.44.3 Supervision and Professional Support
+### 4.82.3 Supervision and Professional Support
 
 One of the most significant structural deficiencies is the absence of an adequate professional supervision system for CFPS workers. Professional supervision in social work – a structured, regular, protected space for reflective practice, case consultation, and professional development – is a recognised prerequisite for effective and ethical practice. Without it, workers make complex judgements about child safety without appropriate collegial consultation, develop idiosyncratic practice patterns uncorrected by feedback, and carry unprocessed secondary trauma from exposure to child abuse cases.[^736]
 
 The UNICEF 2022 assessment found that professional supervision ratios in the Maldivian CFPS were inadequate – supervisors themselves carried substantial caseloads, leaving insufficient time for the intensive supervision that complex cases require. The physical remoteness of outer atoll FCSCs means that even face-to-face supervision visits from Malé headquarters are logistically challenging, reducing supervision in the geographic areas of greatest need.[^737]
 
-### 4.44.4 The NAPVAC 2024-2028 Workforce Targets
+### 4.82.4 The NAPVAC 2024-2028 Workforce Targets
 
 The NAPVAC 2024-2028 establishes revised and more ambitious workforce targets:
 
@@ -3828,7 +3828,7 @@ The NAPVAC 2024-2028 establishes revised and more ambitious workforce targets:
 
 These targets, if achieved, would represent a fundamental transformation of the system's operational capacity. However, achievement requires not only recruitment but sustained budget commitment – and the NAPVAC 2024-2028's implementation has not yet secured the multi-year budget envelope needed to guarantee workforce expansion independent of annual budget negotiations.[^739]
 
-### 4.44.5 Training and Capacity Building Architecture
+### 4.82.5 Training and Capacity Building Architecture
 
 The training infrastructure for CFPS workers has improved substantially since 2010:
 
@@ -3845,7 +3845,7 @@ However, the baseline qualification for CFPS workers – the one-year Advanced C
 ## 4.83 Service Infrastructure Directory: Child Protection Services Across the Country
 
 
-### 4.120.1 Emergency Contacts for Child Protection Referral
+### 4.83.1 Emergency Contacts for Child Protection Referral
 
 The immediate emergency contact structure for child protection in the Maldives is:
 
@@ -3861,7 +3861,7 @@ The 24/7 availability of the 1412 helpline is the most important feature of this
 
 The 1421 Family Issues Helpline, restricted to working hours, is less accessible for the households and children who most need help – those in crisis in the evening and on weekends, which is precisely when domestic violence peaks. The gap between the 24/7 1412 line (child-focused) and the working-hours 1421 line (family-focused) means that adult DV victims calling for help outside working hours have a more constrained pathway than children calling about the same crisis.[^1021]
 
-### 4.120.2 Therapeutic Services for Child Protection: Male' Concentration
+### 4.83.2 Therapeutic Services for Child Protection: Male' Concentration
 
 Child-specific therapeutic services in the Maldives are concentrated in Male' and Hulhumale'. The available services include:
 
@@ -3886,7 +3886,7 @@ The concentration of therapeutic services in Greater Male' is absolute. A child 
 
 For child protection purposes, the unavailability of trauma-specific therapeutic services outside Male' means that a child who has experienced abuse in an outer island and receives CFPS intervention cannot access the therapeutic support that effective trauma recovery requires. The CFPS case plan may identify therapeutic needs; it has no mechanism to meet them in the child's community.[^1022]
 
-### 4.120.3 Child Protection CSOs – Contact Details and Roles
+### 4.83.3 Child Protection CSOs – Contact Details and Roles
 
 The civil society organisations directly relevant to child protection:
 
@@ -3903,7 +3903,7 @@ The geographic reach of these organisations illustrates the civil society gap. A
 
 For children and families on outer islands, none of these organisations is accessible in person. FLC can provide legal advice by phone (hotline 9977771, 9am–4pm working days). The Red Crescent's atoll branches can provide emergency humanitarian support. Beyond these, the civil society infrastructure does not reach the communities where professional social work presence is also thinnest – the precise locations where civil society could most usefully supplement the state system.[^1023]
 
-### 4.120.4 Digital Services and the OneGov Platform
+### 4.83.4 Digital Services and the OneGov Platform
 
 The digital services platform is becoming an increasingly important component of social protection access, with implications for child welfare:
 
@@ -3922,13 +3922,13 @@ For child protection specifically, the digital infrastructure has not yet reache
 ## 4.84 IBAMA Programme: Community-Based Child Protection in Practice
 
 
-### 4.41.1 Origins and Development
+### 4.84.1 Origins and Development
 
 The IBAMA (Island-Based Awareness for Monitoring Abuse) programme represents the Maldives' most significant community-based child protection initiative and one of the most distinctive features of the national child protection architecture. It was designed as an adaptation of a child-protection community volunteer model – informed by international models but contextualised to the Maldivian island setting – and offers a partial solution to the otherwise intractable problem of providing child protection reach to 189 inhabited islands with 19 FCSCs (expanded to 24 by December 2024) and 61 social workers.[^695]
 
 The programme has its origins in a 1999 initiative in Addu Atoll, where community members were trained to identify and report child abuse and to provide first-line support to families. The model demonstrated promising results in a context where the FCSC system was under-resourced and geographic barriers prevented professional social workers from providing timely responses. In 2005, following evaluation of the Addu pilot, IBAMA was expanded to additional atolls. In 2019, it underwent a rebranding and conceptual strengthening, aligning its framework with the CRPA's community protection obligations and the NAPVAC's socio-ecological model.[^696]
 
-### 4.41.2 Operational Structure
+### 4.84.2 Operational Structure
 
 IBAMA operates through a network of **trained community volunteers** – one or more per inhabited island – who are:
 
@@ -3947,7 +3947,7 @@ Training is delivered through a **12-hour intensive curriculum** (typically two 
 
 The programme was inspired in part by models from India, particularly community-based child protection approaches piloted in Tamil Nadu and Maharashtra, adapted to the Maldivian island context by UNICEF and MoSFD technical teams. The India adaptation process involved careful consideration of cultural differences – particularly around the role of community volunteers relative to state authority, the position of women as reporters in conservative island communities, and the appropriate boundaries between community monitoring and professional assessment.[^699]
 
-### 4.41.3 Strengths and Documented Contributions
+### 4.84.3 Strengths and Documented Contributions
 
 IBAMA's core strength is that it exists. In a child protection system characterised by profound workforce constraints – 61 social workers for 128,208 children across 189 islands – community volunteers provide the only realistic mechanism for timely first response to child protection concerns on most inhabited islands. The programme has contributed:
 
@@ -3959,7 +3959,7 @@ IBAMA's core strength is that it exists. In a child protection system characteri
 
 The Rogers, Ali and Naeem (2025) case study of IBAMA described it as "a genuinely innovative adaptation to the geographic constraints of island child protection" and noted that in islands where IBAMA volunteers were active and well-connected to the FCSC system, referral rates and quality were significantly better than in islands where IBAMA had lapsed or was under-resourced.[^701]
 
-### 4.41.4 Limitations and Challenges
+### 4.84.4 Limitations and Challenges
 
 IBAMA's limitations are significant and must be honestly acknowledged:
 
@@ -3975,7 +3975,7 @@ IBAMA's limitations are significant and must be honestly acknowledged:
 
 **Gender dynamics.** Women are disproportionately represented among IBAMA volunteers, consistent with the gendered nature of community caregiving roles. Male volunteers are more effective in some contexts – particularly in engaging with male community members and in cases involving boys – but the recruitment of male volunteers to community child protection roles faces cultural resistance in conservative island communities.[^707]
 
-### 4.41.5 Integration with the Broader CP System
+### 4.84.5 Integration with the Broader CP System
 
 IBAMA's effectiveness depends critically on its integration with the professional FCSC system. Where FCSC workers maintain regular contact with IBAMA volunteers – providing training, follow-up on referred cases, and consultation – the community-professional linkage functions as intended. Where FCSC workers are overloaded (caseloads of 70-80 active cases) and cannot maintain regular atoll outreach, IBAMA volunteers are effectively isolated and unsupported.[^708]
 
@@ -3993,25 +3993,25 @@ The NAPVAC 2024-2028 identifies strengthening the IBAMA system as a specific out
 ## 4.85 IBAMA Community-Based Child Protection: Operational Model, Strengths, and Failures
 
 
-### 4.101.1 Origins and Conceptual Framework
+### 4.85.1 Origins and Conceptual Framework
 
 The IBAMA community group model – the acronym deriving from the Dhivehi phrase meaning "you and I together" – represents the Maldives' most ambitious attempt to embed child protection function within the community itself. Established from approximately 2010 under the Divehi Raajjeyge Gulhun (DRG) programme framework with UNICEF support, IBAMA groups are structured multi-sectoral community committees designed to operate at the island level as the first tier of the formal child protection response system.
 
 The conceptual premise is straightforward and appropriate to the Maldivian context: in a country of 189 inhabited islands spread across 800 kilometres of ocean, no central government system can respond rapidly to every child protection concern. The geographic realities – travel time, cost, and the practical limits of FCSC reach – mean that if child protection is to be effective on outer islands, communities themselves must carry part of the detection and response burden. IBAMA was designed to fill this gap by creating a structured community-level mechanism that could identify concerns, provide first-line support, and refer cases requiring professional intervention to the FCSC.[^940]
 
-### 4.101.2 The IBAMA Structure: Twelve-Category Community Architecture
+### 4.85.2 The IBAMA Structure: Twelve-Category Community Architecture
 
 IBAMA groups are organised around twelve defined community member categories, reflecting the multi-sectoral approach that characterises the model's design. The categories ensure representation from across community institutions: school counsellors and teachers, health workers, religious figures (imams), police officers, island council members, social workers, and engaged community volunteers. The intent is that through this breadth of representation, no sector of community life is unobserved – a concern originating in any setting (school, health centre, mosque, neighbourhood) will reach at least one IBAMA member who can bring it to the group's attention.
 
 The twelve-category structure also serves a coordination function. When a child protection concern is escalated to the IBAMA group, the relevant professionals (teacher, health worker, police) are already members of the same group and can share information and co-ordinate responses without the bureaucratic barriers that inter-agency referral typically involves. The group can convene rapidly, assess the situation collectively, and decide – with the relevant professionals present – whether the matter requires FCSC referral or can be addressed through community-level support.[^941]
 
-### 4.101.3 The Operational Model: From Concern to Response
+### 4.85.3 The Operational Model: From Concern to Response
 
 When functioning as designed, the IBAMA operational model moves through several stages. First, community identification: a neighbour notices signs of neglect; a teacher observes a child with unexplained bruising; a health worker encounters a parent whose behaviour suggests a family in crisis. The concerned community member brings this to any IBAMA member – or directly to an IBAMA meeting. Second, collective assessment: the group convenes, shares what each member knows about the family, and assesses the level of risk using available information. Third, response determination: the group decides either to provide community-level support (linking the family to health services, providing material assistance through the WDC's resources, connecting parents with parenting information) or to refer the case formally to the FCSC for investigation and statutory intervention.
 
 For families already under court-ordered supervision arrangements, IBAMA provides the wraparound service – monitoring through school counsellors, health workers, and community volunteers who implement a multi-sectoral support plan that the statutory system alone lacks the capacity to provide. This integration of informal and formal systems is the model's most sophisticated design feature: the statutory system provides the legal authority and professional case management, while IBAMA provides the eyes, ears, and everyday support that no small social work team can replicate across an entire island community.[^942]
 
-### 4.101.4 IBAMA in Practice: The Quality Variation Problem
+### 4.85.4 IBAMA in Practice: The Quality Variation Problem
 
 The quality and activity levels of IBAMA groups vary enormously across the country's inhabited islands, and this variation is the central challenge of the model. The Rogers, Ali and Naeem (2025) systems analysis confirms what earlier assessments had identified: whether IBAMA functions as designed depends almost entirely on local factors that the model's architects cannot control from Male'.
 
@@ -4019,19 +4019,19 @@ Islands with active, effective IBAMA groups share certain characteristics: an en
 
 Islands where IBAMA exists in name only also share characteristics: a passive or disengaged council; no permanent FCSC social worker, or one who is overworked and unable to invest time in community structures; community members who are reluctant to raise concerns against powerful or well-connected perpetrators; and local social norms that treat family matters as private, to be handled within the household and not brought to community attention. In these communities – and the literature suggests they are not few – IBAMA is a meeting that rarely convenes, a list of members who never act collectively, and an institutional form that provides administrative documentation of community engagement without its substance.[^943]
 
-### 4.101.5 The Double-Edged Nature of Small-Island Dynamics
+### 4.85.5 The Double-Edged Nature of Small-Island Dynamics
 
 The small-island community context cuts in two directions for child protection, and IBAMA sits precisely at this intersection. On the protective side: the density of social relationships on a small island means that unusual behaviour – a child who stops attending school, a family in visible distress, a pattern of adult male visitors to a house with young children – is more likely to be noticed by neighbours, teachers, and community members than in an urban context where anonymity protects both victims and perpetrators. Community solidarity – known in Dhivehi as *gah'therikan* – means that islanders collectively mobilise to help families in need, raising funds through Facebook groups and island Viber chats, pooling food, providing childcare, and creating informal safety nets that neither the government nor UNICEF can replicate.
 
 On the risk side: the very closeness that enables community protection also enables community silencing. When a perpetrator is a powerful community figure – an island council member, an *imam*, a business owner – the social cost of raising a child protection concern may be devastating for the reporting community member. Economic dependence, social reputation, family connections, and the impossibility of anonymity in a community of a few hundred people all suppress reporting. IBAMA's design assumes that multi-sectoral representation will overcome these dynamics – that the presence of a police officer, a teacher, and a health worker alongside a council member will create accountability structures that prevent abuse of power from silencing child protection concerns. In practice, where powerful perpetrators are involved, the same social hierarchies that operate in the community also operate in the IBAMA room, and professional members may be no less subject to social pressure than anyone else.[^944]
 
-### 4.101.6 Community Social Groups (CSGs) – The IBAMA Extension to Family Support
+### 4.85.6 Community Social Groups (CSGs) – The IBAMA Extension to Family Support
 
 Community Social Groups (CSGs) represent an extension of the IBAMA model specifically oriented to family support rather than child protection investigation. Where IBAMA groups function primarily as detection and referral mechanisms, CSGs are intended to provide the preventive family support layer – working with families at risk before a child protection concern reaches the threshold for formal intervention.
 
 CSGs provide: parenting support and information; assistance for elderly and disabled community members; links to NSPA social protection programmes for families eligible for allowances; and community-level solidarity for families in temporary crisis. Like IBAMA, their effectiveness varies enormously by island. The model requires community members who are willing to invest time in voluntary community roles, which in smaller islands may be the same individuals who are also serving on WDCs, island councils, and IBAMA groups – creating volunteer fatigue and role confusion. The integration between CSGs, IBAMA, and the formal FCSC system is aspirational in design but patchy in execution, with the quality of integration depending on the particular social worker and council relationships on each island at any given time.[^945]
 
-### 4.101.7 Implications for Child Protection System Design
+### 4.85.7 Implications for Child Protection System Design
 
 The IBAMA experience illustrates a broader challenge in Maldivian child protection system design: the gap between what a model requires to function effectively and the conditions that actually exist across the majority of the country's islands. A model designed for an island with an engaged council, an active social worker, and a community willing to act on concerns will function very differently from how it functions on an island where none of these conditions obtain. The central design question – how to make child protection effective in 189 communities, most of which lack the institutional resources that the model assumes – remains unresolved.
 
@@ -4046,13 +4046,13 @@ The most honest institutional assessment (Rogers, Ali & Naeem, 2025) acknowledge
 ## 4.86 Development Partners in Child Protection: Profiles and Programming
 
 
-### 4.43.1 The Architecture of International Engagement
+### 4.86.1 The Architecture of International Engagement
 
 The Maldivian child protection system would not exist in its current form without international development partners. UNICEF has been the architect of the core legal framework, the case management database, the IBAMA community model, and the Positive Parenting programme. UNFPA has generated the primary GBV evidence base and supported healthcare provider training. The World Bank has funded social protection infrastructure through which child-specific benefits are delivered. ADB has contributed the primary gender equity assessment that cross-references child protection outcomes. These are not incidental contributions – they are structural. The CRPA 2019, the MCPD database, the JJ Act's diversion provisions, and the NAPVAC 2024-2028 all carry the intellectual and financial imprints of international partners in their design.[^717]
 
 This dependency has both strengths and limitations. The strength is that Maldivian child protection frameworks draw on the best international evidence and model law. The limitation is that the implementation infrastructure required to actually operate these frameworks – the caseworkers, the court capacity, the alternative care placements, the community services – depends on domestic budget, domestic political will, and domestic workforce capacity that partners cannot substitute. The persistent gap between framework sophistication and operational reality reflects this asymmetry.[^718]
 
-### 4.43.2 UNICEF: The Foundational Partner
+### 4.86.2 UNICEF: The Foundational Partner
 
 UNICEF has maintained a continuous presence in the Maldives since the 1970s, with its engagement expanding significantly after the 2004 Indian Ocean tsunami. The current Country Programme Document (CPD) 2022-2026 has an indicative total budget of US$11.662 million (Regular Resources US$4.037 million + Other Resources US$7.625 million), structured around eight flagship programmes.[^719]
 
@@ -4075,7 +4075,7 @@ UNICEF has maintained a continuous presence in the Maldives since the 1970s, wit
 
 **Critical gap identified by UNICEF itself:** With 61 social workers serving 128,208 children across 189 inhabited islands, and average caseloads exceeding 160 cases per worker (UNICEF 2022), the sophisticated case management models UNICEF promotes require an implementation infrastructure that does not yet exist. The framework-capacity gap remains the central challenge of the UNICEF-Maldives child protection partnership.[^725]
 
-### 4.43.3 UNFPA: GBV Evidence and SRH Programming
+### 4.86.3 UNFPA: GBV Evidence and SRH Programming
 
 UNFPA has supported the Maldives since 1976 and established its Country Office in 1994. The current 7th Country Programme (2022-2026) has an indicative budget of US$3.5 million, focused on SRHR, adolescents and youth, gender equality, and GBV prevention. UNFPA's contributions most relevant to child protection include:
 
@@ -4087,7 +4087,7 @@ UNFPA has supported the Maldives since 1976 and established its Country Office i
 
 **COVID-19 GBV Analysis:** UNFPA commissioned analysis of reported GBV and child protection cases during the pandemic, providing the most detailed examination of how lockdown restrictions compounded vulnerabilities for children in abusive households.[^727]
 
-### 4.43.4 UNDP: Governance and Extremism Prevention
+### 4.86.4 UNDP: Governance and Extremism Prevention
 
 UNDP's programming most relevant to child protection operates through the governance and violent extremism prevention portfolios:
 
@@ -4097,7 +4097,7 @@ UNDP's programming most relevant to child protection operates through the govern
 
 **GCF Water Security Project:** While primarily environmental, this US$52 million project addresses climate-related freshwater insecurity in outer atolls – directly relevant to the child poverty-climate nexus documented in §4.39-4.40.[^729]
 
-### 4.43.5 ADB: Gender and Child Protection Analytics
+### 4.86.5 ADB: Gender and Child Protection Analytics
 
 The Asian Development Bank's most significant contribution to child protection in the Maldives is the AIM Project (Accountability and Integration Matters) and the GESI Assessment 2025:
 
@@ -4107,7 +4107,7 @@ The Asian Development Bank's most significant contribution to child protection i
 
 **ARISE Programme:** The ADB-funded Adolescent Resilience and Inclusion in Social Environments programme, referenced in the Gender chapter, includes adolescent girl empowerment components directly relevant to preventing child marriage and early pregnancy.
 
-### 4.43.6 World Bank: Social Protection Infrastructure
+### 4.86.6 World Bank: Social Protection Infrastructure
 
 The World Bank's primary contribution to child protection is through social protection systems infrastructure:
 
@@ -4123,13 +4123,13 @@ The World Bank's primary contribution to child protection is through social prot
 ## 4.87 UNICEF's Foundational Role in Building Maldivian Child Protection Systems
 
 
-### 4.102.1 The Scale and Nature of UNICEF Engagement
+### 4.87.1 The Scale and Nature of UNICEF Engagement
 
 UNICEF's engagement in Maldivian child protection is not the supplementary external partnership that characterises international cooperation in most jurisdictions – it is foundational. As Rogers, Ali and Naeem (2025) observe directly: "NGOs and civil society are largely absent in the provision of services; hence child protection activities are dominated by the state with a very active role from UNICEF." This framing captures the structural reality: in the absence of domestic civil society organisations with significant child protection capacity, UNICEF has for three decades served as the closest functional equivalent to the non-governmental sector that exists in most comparable systems – providing technical expertise, financing, advocacy, and institutional memory that the government system has not always been able to generate internally.
 
 The relationship pre-dates the 2004 Indian Ocean tsunami but was transformed by it. The tsunami expanded UNICEF's programme scope and created the conditions for a focused child protection programme, building on what had been a combined education and child protection programme. The post-tsunami international funding surge gave UNICEF the resources to invest intensively in system-building – drafting legislation, training social workers, establishing databases, and creating the community structures that form the infrastructure of contemporary Maldivian child protection.[^947]
 
-### 4.102.2 Specific Contributions: Legislation, Systems, and Workforce
+### 4.87.2 Specific Contributions: Legislation, Systems, and Workforce
 
 The list of specific UNICEF contributions to Maldivian child protection infrastructure is extensive. UNICEF provided financial and technical support for the development of the policies, procedures, and legislative framework that replaced the limited Law 9/91 – support that included drafting contributions to the Child Rights Protection Act 2019, the landmark legislation that gave the Maldivian child protection system its current legal foundation. The Juvenile Justice Act 2019, which for the first time established a functioning framework for child-friendly justice, was similarly supported by UNICEF technical assistance.
 
@@ -4137,13 +4137,13 @@ At the infrastructure level, UNICEF supported the establishment of the 1412 chil
 
 The social work training trajectory – from the early two-week volunteer counsellor courses, through the one-year Advanced Certificate introduced in 2006, the Advanced Diploma in 2007, and eventually the full four-year Social Work degree programme at Villa College – reflects sustained investment in workforce development that UNICEF has supported and that now, two decades on, is producing the professional social workers who occupy the most senior positions in the CFPS and FCSC system.[^948]
 
-### 4.102.3 UNICEF's Situation Analysis Function
+### 4.87.3 UNICEF's Situation Analysis Function
 
 Beyond direct system-building, UNICEF serves a critical analytical and accountability function through its periodic Situation Analysis of Children and Adolescents (SitAn). The most recent, conducted by Haarr (2025), is the most comprehensive periodic assessment of child outcomes available – a systematic synthesis covering demographics, child mortality trends, immunisation, nutrition, early childhood development, adolescent health, education access, violence against children, and institutional capacity gaps. The SitAn provides both a benchmark against which progress can be measured across successive reporting periods and a tool for advocacy: its findings on caseload ratios, geographic disparities, and system gaps carry the institutional weight of UNICEF analysis in government-to-government and donor discussions.
 
 UNICEF has also co-produced statistical analyses using Census 2014 and Census 2022 data to generate child-focused indicators that the Bureau of Statistics' standard publications do not always prioritise. The Children's Equity Analysis using Census 2022 data – which established that 128,208 children under 18 live in the Maldives, that 74% live with both parents, 22% with one parent, and 9% in alternative care arrangements – is a UNICEF-supported analysis that provides the denominators against which all child protection planning should be conducted.[^949]
 
-### 4.102.4 Structural Concerns: System Absorption and Model Mismatch
+### 4.87.4 Structural Concerns: System Absorption and Model Mismatch
 
 UNICEF's centrality to Maldivian child protection raises structural questions that deserve analytical attention rather than institutional deference. The observation by Rogers, Ali and Naeem (2025) that the Maldivian system has "absorbed the model of England's child protection framework (a needs-based system) through UNICEF-facilitated technical support, despite the UN's own rights-based approach" is a significant finding. The English child protection system – built for a country with 67 million people, extensive professional infrastructure, decades of developed social work practice, and a legal tradition with deep procedural safeguards – is a complex and resource-intensive model that does not transfer cleanly to a context of 61 social workers serving 128,208 children across an archipelago.
 
@@ -4155,13 +4155,13 @@ The mismatch manifests in specific ways. The CRPA 2019's investigation and asses
 ## 4.88 Civil Society and Non-Governmental Organisations in Child Protection
 
 
-### 4.103.1 The Structural Absence of NGOs
+### 4.88.1 The Structural Absence of NGOs
 
 The most striking institutional feature of Maldivian child protection – beyond the resource constraints and geographic challenges – is the near-absence of non-governmental organisations providing direct child protection services. In most comparable systems (both regional and global), NGOs fill multiple functions that the state cannot: running residential care homes, providing family support services, operating legal aid clinics for children, running therapeutic services for abuse survivors, and providing community-based prevention programmes. In the Maldives, none of these functions is performed at scale by civil society organisations. Child protection is, with limited exceptions, a state service – operated by MoSFD through CFPS and the FCSC network, with international technical and financial support from UNICEF.
 
 This structural characteristic has profound implications. It means there is no independent sector capable of applying critical scrutiny to state child protection practice, as exists in the UK (where organisations like the NSPCC both deliver services and hold the statutory system accountable). It means there is no civil society safety net for children whose cases fall below the threshold for statutory intervention – the preventive family support that NGOs provide in well-resourced systems. And it means that when the state system fails – when a case is missed, a child harmed, an institution abusive – there is no alternative pathway to help.[^951]
 
-### 4.103.2 Advocating for the Rights of Children (ARC)
+### 4.88.2 Advocating for the Rights of Children (ARC)
 
 ARC is the primary NGO working specifically on child protection in the Maldives. Its focus is advocacy, policy development, and training rather than direct service delivery – a focus that reflects both the organisation's limited resources and the recognition that the most scalable impact available to a small NGO in this context is influencing how the much larger government system operates.
 
@@ -4169,19 +4169,19 @@ ARC has been involved in child safeguarding policy development, producing traini
 
 ARC's capacity constraints are significant. As an advocacy organisation in a small island state with limited donor funding and a small population, it lacks the resources to run sustained service delivery programmes. Its influence depends on the goodwill of government interlocutors and its ability to position itself as a constructive partner rather than an adversarial critic – a balance that is structurally difficult to maintain while also performing the accountability function that independent civil society needs to fulfil.[^952]
 
-### 4.103.3 Family Legal Clinic – Indirect Child Protection Role
+### 4.88.3 Family Legal Clinic – Indirect Child Protection Role
 
 The Family Legal Clinic (FLC), while primarily a family law organisation rather than a child-specific body, performs an indirect but significant child protection function. Custody disputes, divorce proceedings, and domestic violence protection orders – the core of FLC's casework – directly affect children's safety and wellbeing. The FLC's free legal counsel for women in family law matters means that children whose mothers are navigating post-separation custody arrangements, or who are living in households where domestic violence is occurring, have an indirect route to legal representation of their interests through their mother's access to counsel.
 
 Given that the criminal justice funnel for child protection cases is severely under-resourced (only 3% of DV cases reaching prosecution), and that legal representation for child protection matters is effectively unavailable for most Maldivians, FLC's Male'-based service represents a critical though geographically limited resource. Its dependence on donor funding creates fragility: if FLC were to scale back, the state lacks an immediate alternative, and the children whose families it serves would lose the only substantive legal support available to them in family proceedings.[^953]
 
-### 4.103.4 The *Gah'therikan* Informal Safety Net
+### 4.88.4 The *Gah'therikan* Informal Safety Net
 
 Beyond the formal civil society sector, Maldivian communities sustain an informal child protection function through the cultural practice of *gah'therikan* – the communal solidarity that characterises island community life. When a family faces crisis – the death of a breadwinner, a serious illness, sudden destitution – the island community mobilises. Neighbours provide food, relatives take in children, island Facebook and Viber groups circulate appeals for assistance that generate rapid community fundraising. This informal safety net is not captured in any programme monitoring data and does not appear in any policy document, but it functions as a real protective mechanism that supplements and sometimes substitutes for formal state provision.
 
 The documentation of *gah'therikan* in the institutional literature (explicitly noted in Rogers, Ali & Naeem, 2025, and in the CFW vulnerability mapping research) reflects an important understanding: formal systems in the Maldives operate alongside informal community structures that have their own logic and effectiveness. Child protection policy that ignores these informal structures risks both missing an important protective resource and inadvertently undermining community capacity by replacing informal solidarity with bureaucratic processes that are less well-adapted to local realities. The most effective community-based models – well-functioning IBAMA groups, active WDCs – work *with* the *gah'therikan* instinct rather than imposing an alien institutional logic onto it.[^954]
 
-### 4.103.5 The Maldivian Red Crescent's Geographic Reach
+### 4.88.5 The Maldivian Red Crescent's Geographic Reach
 
 The Maldivian Red Crescent is the civil society organisation with the broadest geographic reach, operating nine branches across the country. Its primary functions are humanitarian and emergency response, but its social inclusion programmes – including services for foreign migrants, vulnerable community members, and youth development – create touchpoints with child protection concerns that its geographic presence makes particularly valuable.
 
@@ -4193,7 +4193,7 @@ In contexts where no other CSO has any presence outside Male', the Red Crescent'
 ## 4.89 Key Actors: Civil Society and the ARC
 
 
-### 4.75.1 The Limited NGO Sector
+### 4.89.1 The Limited NGO Sector
 
 Rogers and Ali (2023) note explicitly that there is limited NGO involvement in the alternative care space and that all alternative care provision is state-run. One of the key NGOs in the country working in child welfare is the **Advocating for the Rights of Children (ARC)**, which:
 - Works to improve the quality of care through the provision of training to care workers
@@ -4204,7 +4204,7 @@ ARC's role is important but limited in scope. It is primarily a training and edu
 
 The **HRCM and Children's Ombudsperson** provide oversight and accountability functions. Rogers, Ali and Naeem (2025) note, however, that these organisations impose ambitious objectives on CFPS workers who are already overwhelmed, and which prove challenging to fulfil given staff capacity and extensive caseloads. Accountability bodies that set expectations the system structurally cannot meet risk creating a compliance culture in which workers focus on accountability management rather than substantive child welfare improvement.
 
-### 4.75.2 International NGO Absence
+### 4.89.2 International NGO Absence
 
 The near-absence of international NGOs in the Maldivian child protection space (with UNICEF as the primary international actor) contrasts sharply with the situation in neighbouring countries where international NGOs – Save the Children, Plan International, World Vision, Terre des Hommes – play significant service delivery and advocacy roles. The Maldives' middle-income country status means it receives less international NGO attention than lower-income neighbours, even though the structural challenges of the archipelago create service delivery needs that the state cannot meet alone.[^889]
 
@@ -4311,7 +4311,7 @@ The near-absence of international NGOs in the Maldivian child protection space (
 ## 4.90 Key NGOs and Civil Society in Child Protection
 
 
-### 4.98.1 Civil Society Presence
+### 4.90.1 Civil Society Presence
 
 The civil society sector for child protection in Maldives is sparse relative to the scale of need. The CSO/NGO Directory (Part XXIb of this encyclopedia) identified 911 social-sector CSOs from 2,660 registered organisations, but the number actively engaged in child protection is much smaller.
 
@@ -4336,7 +4336,7 @@ The civil society sector for child protection in Maldives is sparse relative to 
 
 **Save the Children Maldives:** Participates in civil society consultations for CRC reporting; contributes to awareness and advocacy.
 
-### 4.98.2 The NGO Gap in Service Delivery
+### 4.90.2 The NGO Gap in Service Delivery
 
 The near-absence of substantive service delivery NGOs in child protection means that almost all direct services are state-provided. This contrasts with neighbouring South Asian countries where international and national NGOs provide a substantial proportion of child welfare services, creating:
 - Greater coverage diversity
@@ -4352,7 +4352,7 @@ The Maldives' middle-income country status reduces eligibility for many internat
 ## 4.91 Education and Child Protection: Schools as Sites of Protection and Risk
 
 
-### 4.76.1 The School as a Child Protection Institution
+### 4.91.1 The School as a Child Protection Institution
 
 Schools occupy a dual role in the Maldivian child protection system: they are simultaneously the primary setting through which children are identified as at risk, and settings in which child abuse and exploitation can occur. Understanding the education-child protection nexus requires examining both dimensions.
 
@@ -4362,7 +4362,7 @@ Schools occupy a dual role in the Maldivian child protection system: they are si
 
 **Out-of-school children as an unmonitored population:** The populations at elevated risk of being out of school – children with disabilities, children in conflict with the law, child labourers, girls who marry early, children of undocumented migrants – are also the populations with the highest child protection vulnerability. The intersection of school dropout and child protection risk means that the 13% of children who are not in secondary school are disproportionately the children the system most needs to reach.[^890]
 
-### 4.76.2 School Infrastructure and Geographic Access
+### 4.91.2 School Infrastructure and Geographic Access
 
 The Education Act (2021) mandates compulsory education from age 6 to 16. Every inhabited island above a minimum population threshold has at least one government school. For very small islands, students may need to board in atoll capitals to access higher grades of schooling.
 
@@ -4375,7 +4375,7 @@ The boarding-for-secondary-school arrangement has its own child protection impli
 
 These boarding-related risks represent an understudied child protection issue in the Maldivian context. The Ministry of Education's scholarship and boarding support programmes address the financial access barriers to secondary education but do not yet systematically address the child protection risks inherent in the boarding-for-education model.[^891]
 
-### 4.76.3 The National Child Protection Policy (Ministry of Education, 2017)
+### 4.91.3 The National Child Protection Policy (Ministry of Education, 2017)
 
 The 2017 National Child Protection Policy represented an important effort to embed child protection within the school system, establishing:
 - Types of abuse (emotional, physical, sexual, neglect) with definitions aligned with the UNCRC
@@ -4390,7 +4390,7 @@ However, operationalisation of the policy revealed critical gaps documented by R
 
 The Education Act 2020 subsequently established school-based child protection committees and reinforced requirements for reporting. However, the structural gaps identified in 2017 – absent referral pathways, no joint CFPS-school case conferencing, no police checks – have been only partially addressed in the years since. The aspiration of making schools an effective first tier of the child protection system remains incompletely realised.[^892]
 
-### 4.76.4 School Holidays as Vulnerability Periods
+### 4.91.4 School Holidays as Vulnerability Periods
 
 The CRC Periodic Report (2026 draft) notes a specific concern from MPS and FCSC case data: school holiday periods can be periods of heightened vulnerability for children, particularly in communities with limited structured activities and high rates of gang activity and drug use. During holidays:
 - Children are not in daily contact with mandatory reporters
@@ -4400,7 +4400,7 @@ The CRC Periodic Report (2026 draft) notes a specific concern from MPS and FCSC 
 
 This vulnerability pattern has been identified in other contexts as the "summer setback" or "holiday harm" phenomenon – periods when the protective scaffolding of school attendance is removed and vulnerability intensifies. In the Maldivian context, this is particularly relevant in urban Male' and in outer island communities where gang and drug networks are active.[^893]
 
-### 4.76.5 Human Rights and Child Rights Education
+### 4.91.5 Human Rights and Child Rights Education
 
 Human rights education is incorporated into the social studies curriculum. The Ministry of Education, in partnership with the HRCM, has developed child rights modules for primary and secondary levels. The CRC Periodic Report (2026 draft) notes that curriculum balance between Islamic studies and secular academic subjects has been a subject of public discourse, with the Government committed to a curriculum that prepares children for both full participation in Maldivian society (rooted in Islamic values) and engagement with a globalised world.
 
@@ -4415,7 +4415,7 @@ Within this context, the introduction of child rights content into schools serve
 ## 4.92 Action Plans: NSAP-CP 2020-2024 and NAPVAC 2024-2028
 
 
-### 4.42.1 National Strategic Action Plan for Child Protection 2020-2024
+### 4.92.1 National Strategic Action Plan for Child Protection 2020-2024
 
 The **National Strategic Action Plan for Child Protection (NSAP-CP) 2020-2024** was MoSFD's primary framework for child protection system development during the period. The plan was developed with UNICEF technical support and aimed to:
 
@@ -4430,7 +4430,7 @@ The **National Strategic Action Plan for Child Protection (NSAP-CP) 2020-2024** 
 
 The 2022 Presidential Commission on Child Rights Violations, established in February 2020, provided a parallel accountability mechanism and produced findings that identified institutional coordination failures, chronic underfunding, and workforce capacity deficits as the primary obstacles to effective implementation of the NSAP-CP. Its recommendations aligned closely with the UNICEF mid-term review findings.[^712]
 
-### 4.42.2 National Action Plan on Prevention and Response to Violence Against Children 2024-2028
+### 4.92.2 National Action Plan on Prevention and Response to Violence Against Children 2024-2028
 
 The **NAPVAC 2024-2028** (National Action Plan on Prevention and Response to Violence Against Children) is the successor framework to the NSAP-CP, adopted in 2024 with UNICEF support. It draws on the socio-ecological model to address violence against children across five strategic areas:
 
@@ -4469,7 +4469,7 @@ The **NAPVAC 2024-2028** (National Action Plan on Prevention and Response to Vio
 - Police reform (mandatory child rights training; specialised FCPW capacity building)
 - Data system strengthening (MCPD expansion; case outcome tracking)[^713]
 
-### 4.42.3 International Obligation Mapping
+### 4.92.3 International Obligation Mapping
 
 The Action Plans Analysis (Part XVI of this encyclopedia) includes a 342-row international obligation mapping table that cross-references NSAP-CP and NAPVAC 2024-2028 commitments with obligations under:
 - **CRC** and its Optional Protocols (OPSC, OPAC)
@@ -4480,7 +4480,7 @@ The Action Plans Analysis (Part XVI of this encyclopedia) includes a 342-row int
 
 The obligation mapping exercise identified several areas where Maldivian commitments appear on paper to meet CRC requirements but where the legal-operational gap – the difference between what the law says and what CFPS workers and police actually do – remains substantial. These are the priority areas for the 2024-2028 implementation period.
 
-### 4.42.4 Coordination Architecture Under the NAPVAC
+### 4.92.4 Coordination Architecture Under the NAPVAC
 
 The NAPVAC 2024-2028 establishes a coordination architecture centred on:
 
@@ -4638,7 +4638,7 @@ The fundamental challenge for coordination – as identified in the NAP-PRVAC fa
 ## 4.93 The Action Plan Architecture for Child Protection
 
 
-### 4.95.1 National Strategic Action Plan for Child Protection (NSAP-CP 2020–2024)
+### 4.93.1 National Strategic Action Plan for Child Protection (NSAP-CP 2020–2024)
 
 The NSAP-CP 2020–2024 was the primary national planning framework for child protection during the critical period following the CRPA's enactment. Its five strategic priorities:
 
@@ -4650,7 +4650,7 @@ The NSAP-CP 2020–2024 was the primary national planning framework for child pr
 
 A mid-term review in 2022 assessed progress against indicators. The successor **National Child Protection Strategy 2025–2030** is currently in development, with stronger emphasis on inter-island equity, digital safety, and mental health services for children.
 
-### 4.95.2 NAPVAC 2024–2028
+### 4.93.2 NAPVAC 2024–2028
 
 The National Action Plan on Violence Against Children (NAPVAC 2024–2028) provides a specific strategic framework for violence prevention and response. The Action Plans Analysis chapter (Part XVI of this encyclopedia) documents NAPVAC's five strategic areas:
 
@@ -4662,7 +4662,7 @@ The National Action Plan on Violence Against Children (NAPVAC 2024–2028) provi
 
 The Action Plans Analysis chapter also documents NAPVAC's evidence cross-reference framework, mapping proposed interventions against the evidence base from which they derive. This rigorous evidence grounding is a significant advance over previous action plans that were largely aspirational without explicit evidence links.
 
-### 4.95.3 The CFW 39 Recommendations: Child Protection Dimensions
+### 4.93.3 The CFW 39 Recommendations: Child Protection Dimensions
 
 The Child and Family Welfare (CFW) vulnerability mapping study produced 39 recommendations with child protection implications. These recommendations, documented in §4.47 of this chapter, cover the full range of child protection system needs, from prevention and early intervention through legal reform, judicial and police reform, service reform, perpetrator management, economic security, digital safety, and workforce. Their integration into the NAPVAC planning framework represents the closest alignment between evidence-based advocacy and national action planning that the Maldivian child protection system has yet achieved.[^934]
 
@@ -4672,13 +4672,13 @@ The Child and Family Welfare (CFW) vulnerability mapping study produced 39 recom
 ## 4.94 NAPVAC 2024-2028: Full Analysis
 
 
-### 4.104.1 Background and Origins
+### 4.94.1 Background and Origins
 
 The National Action Plan on Preventing and Responding to Violence Against Children (NAP-PRVAC) 2024–2028 is the Maldives' current governing framework for violence against children prevention and response. Prepared by Dr. Mariya Ali, Aneesa Yoosuf, and Mariyam Ishraag Waheed with MoSFD coordination, the plan was finalised as Draft II in April 2024. It replaces its predecessor plan (NAP-PRVAC 2017) and reflects the dramatically expanded legislative and institutional framework that has developed since 2019.
 
 The plan's opening sections make an unusually candid acknowledgement: the predecessor NAP-PRVAC 2017 was never effectively implemented. The documentation identifies two root causes – "lack of a systematic and holistic approach" and "difficulties in establishing collaborative efforts with stakeholders" – and acknowledges that "similar challenges were identified during the consultations conducted for the formulation of renewed NAP 2024–2028." This self-assessment, which is rare in government planning documents, represents both intellectual honesty and a warning. A plan that acknowledges the same structural barriers that defeated its predecessor, without identifying how those barriers will be overcome, raises a legitimate question about whether the 2024 plan will succeed where the 2017 plan failed.[^956]
 
-### 4.104.2 The Data Foundation: Scale of the Problem
+### 4.94.2 The Data Foundation: Scale of the Problem
 
 The NAPVAC's empirical foundation draws directly on CFPS administrative data. In 2023, CFPS received 2,936 cases. Of these, 1,278 (43.5%) were classified as violence against children cases. The breakdown of VAC case types reveals the nature of the system's current demand:
 
@@ -4689,13 +4689,13 @@ The NAPVAC's empirical foundation draws directly on CFPS administrative data. In
 
 The 2,936 case total represents reported cases that reached CFPS – an unknown fraction of actual abuse and neglect. Given the documented barriers to reporting (stigma, fear, geographic access, limited awareness of rights and reporting mechanisms), the actual prevalence of violence against children is substantially higher than administrative case counts indicate.[^957]
 
-### 4.104.3 The Socio-Ecological Framework
+### 4.94.3 The Socio-Ecological Framework
 
 The NAPVAC 2024–2028 is grounded in the socio-ecological model of child maltreatment – a framework developed by Guerrero and Rojas (2016) and widely used in international child protection planning. The model situates violence against children within four nested environmental levels: individual (child's own characteristics and vulnerability), family (parenting practices, family dynamics, intergenerational patterns), community (neighbourhood and community protective and risk factors, availability of services), and societal (cultural norms, legal frameworks, economic inequality, governance quality).
 
 This theoretical grounding represents a significant conceptual advance over earlier Maldivian planning frameworks, which tended to focus exclusively on individual and family-level factors while giving less attention to community norms and societal determinants. The inclusion of a societal-level analysis acknowledges that gender norms, religious frameworks, economic conditions, and governance quality are not merely background context but active determinants of child protection outcomes. The plan's strategic areas reflect this multi-level framing: working simultaneously at the family level (Safer Families), the institutional level (Safer Educational Settings), the community level (Safer Communities), the online environment (Safer Online Spaces), and the system level (CP System and Services).[^958]
 
-### 4.104.4 Five Strategic Areas: Detail and Analysis
+### 4.94.4 Five Strategic Areas: Detail and Analysis
 
 **Strategic Area 1 – Home: Safer Families**
 
@@ -4727,7 +4727,7 @@ This strategic area addresses the child protection system itself – its legisla
 
 The 2025 system-strengthening target is notable for its ambition and its proximity: given that the plan was finalised in April 2024, achieving integrated system strengthening within 12 months requires immediate and sustained action on legislative gaps, workforce development, and geographic expansion of services. The reference to disaster resilience reflects a hard lesson from COVID-19, when the system demonstrated both the ability to adapt (maintaining 24/7 hotlines, continuing residential care, providing emergency cash) and the fragility of services built on over-extended professional workforces with no surge capacity. The civil society engagement outcome reflects the recommendation documented in §4.103 – that the system's long-term effectiveness requires a civil society capacity to deliver the preventive family support that the state system cannot.[^963]
 
-### 4.104.5 Implementation Risk Factors
+### 4.94.5 Implementation Risk Factors
 
 The NAPVAC 2024–2028 faces the same structural implementation risk factors that defeated its predecessor. Four are particularly significant:
 
@@ -4745,7 +4745,7 @@ The NAPVAC 2024–2028 faces the same structural implementation risk factors tha
 ## 4.95 NAPVAC 2024-2028: Evidence Cross-Reference Analysis
 
 
-### 4.52.1 Strategic Area 1 (Home) – Evidence vs. Plan Goals
+### 4.95.1 Strategic Area 1 (Home) – Evidence vs. Plan Goals
 
 The NAPVAC's Home strategic area targets safer family environments through early detection, parent empowerment, and evidence-based policy strengthening. The Action Plans Analysis chapter provides a detailed evidence cross-reference that reveals both alignments and mismatches between plan goals and actual evidence:
 
@@ -4767,7 +4767,7 @@ What the evidence shows: No national prevalence study of child maltreatment has 
 
 Assessment: This goal is essential and not addressed in prior plans. But the NAPVAC itself does not commission the missing studies – it calls for evidence-based policy while deferring the evidence-generating research to future cycles.
 
-### 4.52.2 Strategic Area 2 (School) – Evidence vs. Plan Goals
+### 4.95.2 Strategic Area 2 (School) – Evidence vs. Plan Goals
 
 **Goal: Protecting children from bullying and violence in schools**
 
@@ -4775,7 +4775,7 @@ What the evidence shows: The Education Act 2020 banned corporal punishment in sc
 
 Assessment: The plan correctly identifies educator training and reporting as priorities. But it does not address the absence of police check requirements for school employment, the corporal punishment gap outside schools, or the specific vulnerability of children with disabilities.
 
-### 4.52.3 Strategic Area 3 (Community) – Evidence vs. Plan Goals
+### 4.95.3 Strategic Area 3 (Community) – Evidence vs. Plan Goals
 
 **Goal: Safe community environment through IBAMA and awareness**
 
@@ -4789,7 +4789,7 @@ What the evidence shows: The gang recruitment pipeline begins in early adolescen
 
 Assessment: The goal is appropriate and evidence-aligned. The challenge is that gang prevention requires sustained, long-term investment in alternative pathways – employment, education, mentoring, recreational space – that operates on timescales longer than any single action plan cycle.
 
-### 4.52.4 Strategic Area 5 (CP System) – Evidence vs. Plan Goals
+### 4.95.4 Strategic Area 5 (CP System) – Evidence vs. Plan Goals
 
 **Goal: Workforce expansion and MDT roll-out**
 
@@ -4809,7 +4809,7 @@ Assessment: The goal is absolutely necessary: 91% of 187 children in alternative
 ## 4.96 NAPVAC Evidence Cross-Reference: What the Research Shows vs What the Plan Addresses
 
 
-### 4.113.1 Home – The Parent Empowerment Paradox
+### 4.96.1 Home – The Parent Empowerment Paradox
 
 The NAPVAC 2024–2028's Strategic Area 1 frames the family as a site for parent empowerment – building parental capacity to create safe home environments and seek help when facing challenges. The evidence base reveals why this framing is both necessary and insufficient.
 
@@ -4819,7 +4819,7 @@ On the insufficiency: the evidence reveals that the parent empowerment frame ass
 
 The evidence demands a dual recognition: parent empowerment programming has real value for the large majority of parents whose challenges are informational or skills-based; but for the significant minority of parents (and children) for whom the home environment is dangerous because of domestic violence, substance abuse, poverty, or mental illness, empowerment programming alone is inadequate. Structural support – housing, income, legal protection, addiction treatment – is the prerequisite for parental capacity building, not its alternative.[^996]
 
-### 4.113.2 School – The Corporal Punishment Gap in Non-School Settings
+### 4.96.2 School – The Corporal Punishment Gap in Non-School Settings
 
 Strategic Area 2's focus on safer educational settings correctly identifies schools as a critical child protection environment. The Education Act 2020's prohibition on corporal punishment in schools is a genuine reform achievement. What the NAPVAC's plan does not address – and what the evidence cross-reference exposes – is that the corporal punishment prohibition stops at the school gate.
 
@@ -4827,7 +4827,7 @@ The comprehensive legislative prohibition that the CRC Committee has repeatedly 
 
 The absence of police background checks for persons working with children in schools is a further gap that the evidence cross-reference flags. Teachers, teaching assistants, boarding house staff, and school bus drivers have regular, unsupervised access to children without having undergone the criminal record screening that would identify persons with prior child abuse convictions. The international child protection standard – no person with a history of child abuse should have unsupervised access to children in professional settings – is not operationalised in the Maldivian school system.[^997]
 
-### 4.113.3 Community – Political Interference as a Systemic Barrier
+### 4.96.3 Community – Political Interference as a Systemic Barrier
 
 Strategic Area 3's community safety outcomes require IBAMA groups to effectively identify and report violence against children, and communities to maintain child-friendly norms supported by political leadership. The evidence cross-reference identifies a reality that the plan's language elides: complex politics permeates child protection activities at every level, and social workers have received death threats for pursuing cases involving powerful perpetrators.
 
@@ -4835,7 +4835,7 @@ The Action Plans Analysis documents this explicitly: the Ministry operates in on
 
 The political interference dynamic takes multiple forms. Island councils can obstruct child protection investigations involving relatives or allies. Community leaders can pressure IBAMA members not to report concerns about connected families. Police officers on small islands may decline to pursue cases against individuals they know socially. Prosecutors may be reluctant to proceed against cases where community support for the accused is strong and where conviction would permanently damage their relationship with the local power structure. Recognising this dynamic explicitly – and designing accountability and support mechanisms for workers in vulnerable positions – is a system design requirement that neither the NAPVAC nor any other planning document has yet addressed with adequate specificity.[^998]
 
-### 4.113.4 Online – An Emerging Threat Without a Legislative Foundation
+### 4.96.4 Online – An Emerging Threat Without a Legislative Foundation
 
 Strategic Area 4's online child protection priorities address an area where the evidence base is acknowledged to be thin and the legislative framework is explicitly absent. The Action Plans Analysis records that online sexual exploitation is an "emerging concern" given high internet and smartphone penetration across the country. The NAPVAC itself acknowledges that cyber-crime regulations need review and implementation.
 
@@ -4843,7 +4843,7 @@ What the evidence adds to this picture is the specific dynamic of technology-fac
 
 The specific child exploitation concerns – online grooming, child sexual abuse material production and distribution, commercial sexual exploitation facilitated through social media platforms – require legislative criminalisation that goes beyond the existing Computer Crime Act's general provisions. The NAPVAC's ambition to achieve legislative and institutional frameworks for online child protection by 2027 is achievable only if legislative drafting begins immediately and is prioritised within the Attorney General's legislative programme.[^999]
 
-### 4.113.5 CP System – Workforce Specificity Gap
+### 4.96.5 CP System – Workforce Specificity Gap
 
 Strategic Area 5's system-strengthening outcome acknowledges the need to strengthen the integrated child protection system. What the evidence cross-reference reveals is that the plan's formulation of this need lacks the specificity that effective reform requires. The evidence shows:
 
@@ -4866,7 +4866,7 @@ The evidence cross-reference concludes its analysis of this strategic area with 
 ## 4.97 CRC Reporting Cycle and Child Protection Accountability
 
 
-### 4.66.1 The CRC Reporting History
+### 4.97.1 The CRC Reporting History
 
 Maldives ratified the Convention on the Rights of the Child on 11 February 1991. The first reporting cycle to the UN Committee on the Rights of the Child occurred in 1993 (Maldives Government, 1996). Since that initial report, Maldives has submitted periodic reports to the Committee, with each cycle generating Concluding Observations that have shaped domestic child protection reform.
 
@@ -4878,7 +4878,7 @@ Key moments in the CRC cycle:
 
 The CRC reporting cycle has served as a critical external accountability mechanism for the Maldivian child protection system, creating periodic pressure for reform and providing international benchmarks against which domestic progress can be measured. The impact of this accountability is visible in the legislative output of the 2019 period, in which the CRPA and the Juvenile Justice Act were both passed – the most significant transformation in Maldives' child rights legislative history.[^873]
 
-### 4.66.2 Concluding Observations: Outstanding Implementation Gaps
+### 4.97.2 Concluding Observations: Outstanding Implementation Gaps
 
 The CRC Periodic Report (2026 draft) acknowledges the following as key remaining challenges from the Committee's Concluding Observations:
 
@@ -4892,7 +4892,7 @@ The CRC Periodic Report (2026 draft) acknowledges the following as key remaining
 
 **Outer island service gaps:** Children and families in outer islands continue to face significantly worse access to child protection services than those in Malé, constituting a de facto equity violation.[^874]
 
-### 4.66.3 Budget Allocations for Child Protection
+### 4.97.3 Budget Allocations for Child Protection
 
 The CRC Periodic Report (2026 draft) documents budget trends that contextualize the implementation gaps:
 
@@ -4910,7 +4910,7 @@ The Government acknowledges that increases have not kept pace with the expanding
 ## 4.98 The CRC Reporting Cycle as Accountability Framework
 
 
-### 4.108.1 Maldives' CRC Compliance Architecture
+### 4.98.1 Maldives' CRC Compliance Architecture
 
 The Maldives ratified the Convention on the Rights of the Child in 1991 – the same year that the CRC came into force and before most countries had ratified. This early ratification reflects the government's historic commitment to the CRC framework, but also creates a long accountability history that reveals the arc of progress and persistent gaps.
 
@@ -4918,7 +4918,7 @@ The CRC monitoring cycle requires state parties to submit periodic reports to th
 
 The CRC report drafting process documented in Part XVIII-B of this encyclopedia provides the most recent government self-assessment. Across the nine CRC reporting clusters (General Measures of Implementation; Definition of the Child; General Principles; Civil Rights and Freedoms; Violence Against Children; Family Environment and Alternative Care; Disability, Basic Health and Welfare; Education, Leisure and Cultural Activities; Special Protection Measures), the pattern is consistent: significant legislative and institutional progress since the previous report, persistent gaps in implementation capacity, geographic inequalities in service access, and data limitations that constrain the government's own ability to assess its progress.[^980]
 
-### 4.108.2 Concluding Observations Pattern: What CRC Repeatedly Flags
+### 4.98.2 Concluding Observations Pattern: What CRC Repeatedly Flags
 
 Successive CRC Concluding Observations on the Maldives have repeatedly identified the same priority concerns, which taken together constitute the long-standing structural gaps that have not been resolved across multiple reporting cycles:
 
@@ -4930,7 +4930,7 @@ Successive CRC Concluding Observations on the Maldives have repeatedly identifie
 
 **Alternative care deinstitutionalisation:** The Committee has consistently urged the Maldives to reduce its dependence on residential care and develop the family-based alternative care options (foster care, kinship care support) that the international evidence base strongly supports. The 91% institutional care rate documented in 2023 represents no progress on this recommendation since it was first made.[^981]
 
-### 4.108.3 The Presidential Commission on Child Rights Violations
+### 4.98.3 The Presidential Commission on Child Rights Violations
 
 A significant institutional development of the post-2019 period was the establishment of the Presidential Commission on Child Rights Violations in February 2020. The Commission – established by presidential mandate in the early months of the Ibrahim Mohamed Solih administration – represented an acknowledgement at the highest political level that past failures in child protection required not just administrative remediation but a formal accountability process.
 
@@ -4944,7 +4944,7 @@ The Commission's existence and mandate – a formal presidential accountability 
 ## 4.99 International Obligation Mapping: Child Protection Under CRC and Optional Protocols
 
 
-### 4.116.1 CRC Articles Directly Governing Child Protection
+### 4.99.1 CRC Articles Directly Governing Child Protection
 
 The Convention on the Rights of the Child provides the international legal framework within which Maldivian child protection law must be situated. The following CRC articles carry direct operational relevance:
 
@@ -4958,13 +4958,13 @@ The Convention on the Rights of the Child provides the international legal frame
 
 **Articles 37 and 39 – Treatment and Recovery:** Children deprived of liberty must be treated with humanity and respect, and children who have experienced violence, exploitation, or neglect are entitled to physical and psychological recovery and social reintegration. These articles provide the legal basis for the trauma-informed care mandate in the CRPA 2019 and for the therapeutic and reintegration services that the system must provide to survivors of abuse.[^1006]
 
-### 4.116.2 CRC Optional Protocols
+### 4.99.2 CRC Optional Protocols
 
 The Maldives has not ratified the Optional Protocol on the Sale of Children, Child Prostitution and Child Pornography (OPSC) or the Optional Protocol on a Communications Procedure (OPIC) – two of the three CRC Optional Protocols. The OPSC specifically requires states parties to criminalise the sale of children, child prostitution, and child pornography with appropriate criminal penalties. While Maldivian law addresses some of these through the SOA 2014 and the Anti-Trafficking Act, the specific comprehensive obligations of the OPSC have not been formally taken on. The NAPVAC 2024–2028 references the CRC Optional Protocols as relevant frameworks but the Maldives' non-ratification means these are voluntary aspirations rather than binding obligations.
 
 Ratification of the OPSC would be particularly relevant given the growing concern about online child sexual exploitation and child sexual abuse material – the precise domain that the NAPVAC's Strategic Area 4 is attempting to address. The specific obligations the OPSC would impose (criminalisation, extraterritorial jurisdiction, extradition, international cooperation) would strengthen the legislative framework that the NAPVAC envisions and provide an international accountability mechanism for progress.[^1007]
 
-### 4.116.3 The Action Plan → International Obligation Alignment
+### 4.99.3 The Action Plan → International Obligation Alignment
 
 The Action Plans Analysis mapping of NAPVAC against international obligations reveals a specific gap: the NAPVAC directly addresses CRC Articles 19 (protection from violence), 34 (sexual exploitation), 37 (treatment), and 39 (rehabilitation). It does not explicitly address Article 20 (alternative care) – the section of the CRC most directly concerned with the 91% institutional care rate that successive CRC Concluding Observations have flagged. The NAPVAC is primarily a violence prevention and response plan; the deinstitutionalisation agenda it implicitly supports (through the system-strengthening strategic area) is not operationalised within the plan's framework.
 
@@ -4976,7 +4976,7 @@ The obligation-plan mapping also reveals that no current active plan explicitly 
 ## 4.100 International Comparative Framework: Maldives in Regional and Global Context
 
 
-### 4.72.1 The UN Guidelines on Alternative Care
+### 4.100.1 The UN Guidelines on Alternative Care
 
 The UN Guidelines on the Alternative Care of Children (UNGA Resolution A/RES/64/142, adopted 2009) provide the international normative framework for alternative care systems. The Guidelines:
 - Establish the primacy of family-based care over institutional care
@@ -4987,7 +4987,7 @@ The UN Guidelines on the Alternative Care of Children (UNGA Resolution A/RES/64/
 
 Rogers and Ali (2023) use these Guidelines as the benchmark against which Maldivian alternative care is assessed. The current Maldivian system fails against most of the Guidelines' requirements: 91% of children in institutional care; no leaving care policy; no systematic post-care support; no care-experienced people movement. The seeds of reform have been sown – the CRPA, the Regulation on Reintegration 2020/R-30, the shift to smaller institutions – but the system is far from the Guidelines' vision of a family-first alternative care model.
 
-### 4.72.2 Learning from Country Comparisons
+### 4.100.2 Learning from Country Comparisons
 
 Rogers and Ali (2023) note that there is value in drawing on lessons from countries that have transitioned their systems from institutional to family-based care, while ensuring that reform plans are country-specific and reflect Maldivian culture and context. Countries that have achieved significant deinstitutionalisation – including various European countries following EU Structural Funds incentives for care reform – offer models of how the transition can be managed, including: the development of foster and adoptive carer recruitment campaigns; kinship carer assessment and support systems; family support services that prevent entry to care; and leaving care programmes.
 
@@ -4999,7 +4999,7 @@ However, the Maldivian context presents specific challenges not faced by those c
 
 These contextual factors require that international models be adapted rather than replicated – and that adaptation be led by people who understand the Maldivian context deeply, including those with lived experience of Maldivian care.[^885]
 
-### 4.72.3 SAARC Regional Context
+### 4.100.3 SAARC Regional Context
 
 Within the South Asian Association for Regional Cooperation (SAARC) context, the Maldives' alternative care challenges are not unique but are particularly acute due to the archipelago geography. Neighbouring South Asian countries share: limited foster care development; over-reliance on institutional care; workforce shortages; and the interaction of Islamic or Hindu legal frameworks with international child rights standards. The SAARC Social Charter includes child welfare provisions, and SAARC cooperation mechanisms offer potential for regional learning and technical exchange – an opportunity that has been only partially exploited by the Maldivian child protection system to date.[^886]
 
@@ -5009,7 +5009,7 @@ Within the South Asian Association for Regional Cooperation (SAARC) context, the
 ## 4.101 International Comparative Framework: Maldives in Regional and Global Context
 
 
-### 4.109.1 South Asian Comparisons
+### 4.101.1 South Asian Comparisons
 
 Placing the Maldives' child protection system in South Asian context reveals a system that is significantly ahead of regional peers in legislative framework and institutional architecture, while sharing many of the same implementation challenges.
 
@@ -5017,7 +5017,7 @@ The CRPA 2019 is more comprehensive than comparable legislation in several large
 
 At the same time, the implementation gaps that characterise the Maldivian system – workforce shortfalls, geographic access inequality, data system fragmentation, maintenance enforcement failure – are structural problems shared across the region. South Asian child protection systems universally struggle with the gap between ambitious legislation and limited implementation capacity, with urban-rural inequality in service access, and with the persistence of cultural norms (corporal punishment, child marriage, gender-based violence as private family matter) that undermine statutory frameworks.[^983]
 
-### 4.109.2 Small Island State Comparisons
+### 4.101.2 Small Island State Comparisons
 
 The small island state context provides a more precise comparative framework for the Maldives than regional comparisons with large continental states. The Pacific Island States (Samoa, Vanuatu, Fiji), the Caribbean (Barbados, Trinidad and Tobago, Jamaica), and other small island developing states face variations of the same structural challenges: geographic dispersal making service delivery costly and complex; small populations insufficient to support the institutional complexity that modern child protection requires; limited domestic civil society capacity; high dependence on international technical assistance; and the vulnerability of professional workforces where a small number of individuals carry disproportionate responsibility.
 
@@ -5025,7 +5025,7 @@ The Maldives' 61 social workers serving 128,208 children across 189 islands is c
 
 The most significant contextual difference is the Islamic law dimension – the interaction between the CRPA 2019's rights-based framework and Shari'ah provisions on family law, corporal punishment, and sexual offences that creates legal complexity not present in non-Muslim small island states. This dimension makes the Maldivian case distinctive within the small island state comparison group and requires analysis in its own terms rather than simple mapping from models developed in other contexts.[^984]
 
-### 4.109.3 English Child Protection Framework – The Model and the Mismatch
+### 4.101.3 English Child Protection Framework – The Model and the Mismatch
 
 As documented in §4.102.4, the Maldivian child protection system has substantially absorbed the English child protection model – a needs-based, process-intensive, multi-agency framework developed over decades in a country of 67 million people with an extensive social work profession and significant institutional infrastructure. The mismatch between model and operating context is a structural feature of the system that deserves explicit analytical attention.
 
@@ -5039,11 +5039,11 @@ The appropriate model for the Maldives is not the English framework – a point 
 ## 4.102 The National Reintegration Centre and Children Returning from Conflict Zones
 
 
-### 4.62.1 The Radicalisation Context
+### 4.102.1 The Radicalisation Context
 
 Maldives has the highest per-capita rate of fighters departing for foreign conflict zones (specifically Syria and Iraq) of any country in the world by some estimates. The phenomenon of Maldivians departing for conflict zones – particularly during the period of Islamic State activity 2013–2018 – created a specific category of child welfare need: children born in conflict zones to Maldivian mothers, or children accompanying parents who departed and then sought to return, carrying complex trauma from their experience in war-affected environments and potential exposure to radical ideological indoctrination.
 
-### 4.62.2 The NRC Framework and Its Flaws
+### 4.102.2 The NRC Framework and Its Flaws
 
 The National Reintegration Centre (NRC) was established under the Anti-Terrorism Act (Law No. 17/2019) to temporarily detain children and mothers returning from war zones where concerns about radicalisation exist. The NRC is housed as a facility that operates under anti-terrorism rather than child welfare legislation – a categorisation that creates fundamental problems for child-centred practice.
 
@@ -5061,7 +5061,7 @@ The NRC thus represents a case in which the child welfare framework and the anti
 ## 4.103 The Child Protection System and Violent Extremism
 
 
-### 4.97.1 The Radicalisation-Child Protection Interface
+### 4.103.1 The Radicalisation-Child Protection Interface
 
 The Maldives has the highest per-capita rate of foreign terrorist fighters of any country in the world by some estimates. The phenomenon of Maldivians departing to conflict zones, particularly during the Islamic State period (2013–2018), created specific child welfare and child protection challenges:
 
@@ -5071,7 +5071,7 @@ The Maldives has the highest per-capita rate of foreign terrorist fighters of an
 
 **Adolescents at risk of radicalisation:** The ICSVE (International Centre for the Study of Violent Extremism) 2022 research on prison radicalisation documented how young men and adolescents in Maldivian prisons were recruited into extremist networks. The intersection of juvenile justice and violent extremism creates a child protection challenge: adolescents in juvenile facilities are exposed to radicalisation risks, and the DJJ's response capacity for counter-extremism programming is limited.
 
-### 4.97.2 The "Prevent" Function and Children
+### 4.103.2 The "Prevent" Function and Children
 
 The Ministry of Home Affairs' Preventing Violent Extremism National Action Plan (2022) addresses radicalisation risk in educational and community settings. The P/CVE (Preventing/Countering Violent Extremism) dimension of child protection involves:
 - School-based awareness programmes identifying at-risk youth
@@ -5087,10 +5087,10 @@ The intersection of P/CVE work and child protection highlights the complexity of
 # Part 22: Cross-Cutting Issues: Gender, Demographics, and Religion
 
 
-## 4.104 Gender and Child Protection: The Missing Analysis
+## 4.104 Gender and Child Protection
 
 
-### 4.89.1 The Gender Dimension of Child Protection
+### 4.104.1 The Gender Dimension of Child Protection
 
 Child protection in the Maldives has a significant gender dimension that is underanalysed in most child protection discussions:
 
@@ -5102,7 +5102,7 @@ Child protection in the Maldives has a significant gender dimension that is unde
 
 **Girls' vulnerability in boarding settings:** As noted above, girls who leave home islands to board for secondary education face specific exploitation and sexual abuse risks in atoll capital settings.
 
-### 4.89.2 The FPA-CFPS Operational Gap
+### 4.104.2 The FPA-CFPS Operational Gap
 
 The Family Protection Authority (FPA) and the Child and Family Protection Service (CFPS) share a critical operational zone: families where domestic violence is occurring are also families where children are at risk. A woman experiencing domestic violence is likely to have children who witness that violence – and witnessing domestic violence is itself a form of harm under the CRPA 2019.
 
@@ -5114,7 +5114,7 @@ Despite this overlap, the FPA and CFPS operate largely in parallel rather than i
 ## 4.105 Demographic Trends and Child Protection: The Implications of Demographic Transition
 
 
-### 4.107.1 Population Dynamics and the Child Cohort
+### 4.105.1 Population Dynamics and the Child Cohort
 
 The Maldives' demographic transition has profound implications for child protection system planning. The total fertility rate has fallen from 6.40 in 1990 to 1.58 in 2022 – a decline of extraordinary speed that has fundamentally reshaped the age structure of the population. The absolute number of children aged 0–4 actually fell between 2014 and 2022 (from 31,834 to 30,621), while the number aged 5–9 increased significantly (from 28,903 to 33,115) and older age groups expanded substantially. The dependency ratio fell marginally, from 48 to 46 dependents per 100 working-age persons.
 
@@ -5122,13 +5122,13 @@ These demographic shifts have ambiguous implications for child protection. On th
 
 The rural-to-urban migration pattern – families moving from outer atolls to Male', Hulhumale', and Addu City in search of employment, education, and services – generates specific child protection risks. Children who move with migrating families lose the *gah'therikan* informal safety net of their island of origin, enter an urban environment where anonymity reduces community-level monitoring, and often find themselves in overcrowded housing where domestic privacy is limited but professional support is also more accessible than in remote islands.[^977]
 
-### 4.107.2 The Marriage and Divorce Ecosystem and Child Risk
+### 4.105.2 The Marriage and Divorce Ecosystem and Child Risk
 
 The marriage and divorce statistics provide essential context for understanding the child protection system's demand. The Maldives' high divorce rate – approximately 62% of marriages ending in divorce in 2016, with a divorce-to-marriage ratio consistently above 50% throughout the 2010s – means that a substantial proportion of Maldivian children experience family dissolution. The 22% of children living with one parent in the 2022 Census reflects this reality.
 
 The impact on children's welfare is not simply the disruption of the divorce itself but the financial, social, and protective consequences that follow. The Family Act's maintenance enforcement failures – approximately MVR 2 million in accumulated unpaid maintenance at the Family Court – mean that many children in single-parent households are being raised in poverty not because poverty is inevitable but because the maintenance system has failed. The Section 42 custody provisions – which penalise mothers for remarrying – mean that some children are growing up in technically parent-headed households where the de facto daily carer is a grandparent, aunt, or neighbour, with the social worker and the system entirely unaware of the practical care arrangements.[^978]
 
-### 4.107.3 Migration, Foreign Workers, and Children's Intersecting Vulnerabilities
+### 4.105.3 Migration, Foreign Workers, and Children's Intersecting Vulnerabilities
 
 The presence of 132,493 foreign residents (Census 2022) – predominantly Bangladeshi and Indian male workers in construction, hospitality, and domestic service – creates child protection vulnerabilities that the Maldivian system has not systematically addressed. Foreign domestic workers working in Maldivian households have direct, unsupervised access to children – creating a risk vector for abuse that the standard child protection monitoring mechanisms (teacher observation, health worker contact, IBAMA community monitoring) are unlikely to detect.
 
@@ -5142,7 +5142,7 @@ The statistical invisibility of these children – they do not appear in the Cen
 ## 4.106 Census Data and Child Welfare: The Equity Lens
 
 
-### 4.81.1 Children in Maldives – Leave No One Behind (Census 2022)
+### 4.106.1 Children in Maldives – Leave No One Behind (Census 2022)
 
 The Leave No One Behind analysis (Maldives Bureau of Statistics / UNICEF, 2022) using Census 2022 microdata provides the most current equity-focused picture of child welfare in the Maldives:
 
@@ -5164,7 +5164,7 @@ The Leave No One Behind analysis (Maldives Bureau of Statistics / UNICEF, 2022) 
 
 **Deprivation concentration:** The education-poverty gradient – where having a household head without primary education is associated with a 39.9% deprivation rate in Malé – illustrates how child welfare outcomes are determined not primarily by the child's own characteristics but by the household's structural position. Children in low-education, low-income households face compounding disadvantages in health, education, and safety that are invisible in aggregate national statistics.[^912]
 
-### 4.81.2 Child Poverty as a Child Protection Risk Factor
+### 4.106.2 Child Poverty as a Child Protection Risk Factor
 
 The 18% child poverty estimate (HIES 2019–20) – compared to the 5.4% national poverty figure – suggests that poverty is disproportionately concentrated among children, reflecting:
 - Higher fertility in lower-income households
@@ -5185,7 +5185,7 @@ The CFPS and FCSCs operate without systematic anti-poverty case management tools
 ## 4.107 Prevention and Family Support: The Underdeveloped Infrastructure
 
 
-### 4.94.1 The Prevention Investment Gap
+### 4.107.1 The Prevention Investment Gap
 
 Rogers and Ali (2023) and Rogers, Ali and Naeem (2025) both identify the Maldivian child protection system's orientation toward severe cases at the expense of prevention and family support as a fundamental structural weakness. The UK-derived case management model that was imported into the Maldivian system from 2006 prioritises identification and response to cases of significant harm – leaving preventive services in the background.
 
@@ -5199,7 +5199,7 @@ This model creates several problems in the Maldivian context:
 
 **No specialist family support NGO:** Rogers, Ali and Naeem (2025) recommend the introduction of a family support mechanism, whether integrated within CFPS or through a partnership with an NGO such as ARC. Effective family support could be critical during a family crisis, potentially preventing abuse and family breakdown, and aiding reintegration social workers while a child is in foster or institutional care.
 
-### 4.94.2 Parenting Programme Provision
+### 4.107.2 Parenting Programme Provision
 
 Government parenting support programmes are provided through FCSCs, including family counselling, parenting skills training, and home visiting programmes. The SAP (Caring State and Dignified Families, 2019) mandates country-wide parenting skills awareness.
 
@@ -5209,7 +5209,7 @@ The IBAMA community mechanism provides a community-level family support function
 
 However, the scale and consistency of prevention investment remains limited relative to the reactive, investigative side of the system. The NSAP-CP 2020–2024 and NAPVAC 2024–2028 both include Prevention and Behaviour Change as strategic priorities – but the resourcing of prevention activities compared to response activities remains skewed toward the latter.[^932]
 
-### 4.94.3 Family Reunification as Prevention of Unnecessary Care
+### 4.107.3 Family Reunification as Prevention of Unnecessary Care
 
 Family reunification – returning children from alternative care to their birth families – serves a prevention function as well as a welfare function: children who return successfully to families do not require ongoing costly institutional care, and families that are successfully supported to resume care avoid the long-term damage that institutional care can cause to family relationships and children's development.
 
@@ -5228,7 +5228,7 @@ Without these accompanying supports, reunification can fail – children return 
 ## 4.108 Data Systems and Evidence Gaps
 
 
-### 4.45.1 The Maldives Child Protection Database (MCPD)
+### 4.108.1 The Maldives Child Protection Database (MCPD)
 
 The **Maldives Child Protection Database (MCPD)**, launched in 2016 with UNICEF support, represents the primary data system for child protection in the Maldives. The MCPD connects all 19 FCSCs (and now all 20) to a centralised digital case management platform that records referrals, assessments, plans, and outcomes at the national level.
 
@@ -5247,7 +5247,7 @@ Prior to the MCPD, case recording was entirely paper-based, held in individual o
 - **Outcome tracking**: The MCPD captures case open and closure data but does not systematically track child safety outcomes after case closure, limiting the system's ability to measure whether interventions actually improved children's safety
 - **Inter-agency data linkage**: MCPD is not technically integrated with MPS FCPW case records, DJJ records, Family Court records, or hospital admission data – limiting the ability to track cases across the full child protection and justice system[^743]
 
-### 4.45.2 The 1412 Helpline Data System
+### 4.108.2 The 1412 Helpline Data System
 
 The 1412 helpline generates its own data, separately from MCPD. In 2024, 2,855 calls to 1412 were recorded. The call data captures:
 - Call volume by month and atoll
@@ -5257,7 +5257,7 @@ The 1412 helpline generates its own data, separately from MCPD. In 2024, 2,855 c
 
 The helpline data provides a partial indicator of community awareness and reporting patterns but is not automatically linked to MCPD case records, meaning that a call to 1412 and the subsequent FCSC case may not be systematically connected in the data system.[^744]
 
-### 4.45.3 Police FCPW Data
+### 4.108.3 Police FCPW Data
 
 The Maldives Police Service Family and Child Protection Wing maintains its own database of child protection cases received by police. In 2024, the MPS data showed:
 - 120 juvenile cases received (2023)
@@ -5268,11 +5268,11 @@ The Maldives Police Service Family and Child Protection Wing maintains its own d
 
 MPS FCPW data is the primary source for information on the criminal dimensions of child protection – CSA cases with criminal referrals, juvenile offences, and child trafficking. However, this data is not routinely shared with CFPS in a systematic format, and cases that are managed by police without CFPS involvement may never appear in the MCPD.[^745]
 
-### 4.45.4 DJJ and Family Court Data
+### 4.108.4 DJJ and Family Court Data
 
 The Department of Juvenile Justice (DJJ) maintains records of young people passing through the juvenile justice system – including those diverted to community programmes and those sentenced to the Imaduddin School or Fiyavathi Rehabilitation Centre. The Family Court records child custody cases, maintenance applications, and protection orders. Neither DJJ nor Family Court data is systematically linked to CFPS or MCPD, meaning that children known to the child protection system and the justice system simultaneously may not be systematically identified as requiring integrated case management.[^746]
 
-### 4.45.5 Critical Evidence Gaps
+### 4.108.5 Critical Evidence Gaps
 
 Despite progress in data systems, critical evidence gaps remain that limit the Maldives' ability to plan, evaluate, and improve child protection outcomes:
 
@@ -5286,7 +5286,7 @@ Despite progress in data systems, critical evidence gaps remain that limit the M
 
 **Absent FGM/C surveillance.** Despite FGM/C being a widespread practice with child protection implications, no health information system captures FGM/C prevalence or incidence. The practice occurs in family and community settings without health facility contact, and healthcare workers who encounter FGM/C (e.g., when examining girls) are not required to record it systematically.[^751]
 
-### 4.45.6 The Research Agenda
+### 4.108.6 The Research Agenda
 
 The CFW vulnerability mapping recommendations and NAPVAC 2024-2028 both identify a priority research agenda for child protection:
 
@@ -5302,13 +5302,13 @@ The CFW vulnerability mapping recommendations and NAPVAC 2024-2028 both identify
 ## 4.109 The Child Protection Database and Data Architecture
 
 
-### 4.70.1 The National Child Protection Database
+### 4.109.1 The National Child Protection Database
 
 The National Child Protection Database (NCPD), mandated under the Child Rights Protection Act 2019, is in active development as of 2024. A pilot digital case management system was deployed in selected FCSCs in 2023, with planned national rollout by 2026. Currently, case data is collected through a combination of paper-based and digital systems, with CFPS maintaining centralised records from FCSC reports.
 
 This means that for much of the decade since CRPA's enactment, the primary evidence base for child protection decision-making has been paper records held at individual FCSCs, with limited centralised analysis capacity. National trends are difficult to track; case outcomes are rarely systematically recorded; and the identification of systemic patterns across cases requires manual aggregation that in practice does not occur.
 
-### 4.70.2 Key Data Sources and Their Limitations
+### 4.109.2 Key Data Sources and Their Limitations
 
 The CRC Periodic Report (2026 draft) identifies the following key data sources for child rights monitoring:
 - Maldives Bureau of Statistics Population Census (most recent: 2022)
@@ -5328,7 +5328,7 @@ Significant data gaps persist:
 - Limited data on child marriage rates by atoll
 - No data on violence rates for children in alternative care versus in family settings[^881]
 
-### 4.70.3 The 1412 Childline as a Data Source
+### 4.109.3 The 1412 Childline as a Data Source
 
 Childline 1412 receives thousands of contacts annually, with a significant proportion resulting in formal referrals to CFPS or FCSCs. The helpline data constitutes one of the most sensitive real-time indicators of child protection need, but its use as a systematic data source for trend analysis and resource allocation planning remains limited. The CRC Periodic Report notes that FCSCs collectively manage several thousand active cases at any given time, with physical abuse, emotional abuse, neglect, and sexual abuse all featuring significantly in the case mix – but precise case numbers are not publicly reported in the draft periodic report, reflecting the ongoing data infrastructure limitations.[^882]
 
@@ -5338,7 +5338,7 @@ Childline 1412 receives thousands of contacts annually, with a significant propo
 ## 4.110 Comprehensive Child Protection Statistics
 
 
-### 4.49.1 Child Population and Demographics
+### 4.110.1 Child Population and Demographics
 
 | Indicator | Figure | Source |
 |---|---|---|
@@ -5351,7 +5351,7 @@ Childline 1412 receives thousands of contacts annually, with a significant propo
 | Children with disabilities (5-17) | 3,401 | Census 2022 |
 | Children experiencing multidimensional poverty | 33% nationally; 40% atolls; 10% Male' | UNICEF analysis |
 
-### 4.49.2 Case Volume and Types
+### 4.110.2 Case Volume and Types
 
 | Indicator | Figure | Source |
 |---|---|---|
@@ -5365,7 +5365,7 @@ Childline 1412 receives thousands of contacts annually, with a significant propo
 | Self-harm/suicide cases (children, 2024) | 211 (74% female) | MSFD data |
 | Attempted suicide (child victims, MPS, 2021-24) | 37 | MPS data |
 
-### 4.49.3 Child Sexual Abuse
+### 4.110.3 Child Sexual Abuse
 
 | Indicator | Figure | Source |
 |---|---|---|
@@ -5376,7 +5376,7 @@ Childline 1412 receives thousands of contacts annually, with a significant propo
 | CSA as share of all CP cases | 30% | CFPS data |
 | Sexual violence against children with disabilities | 60% prevalence | HRCM CRPD 2023 |
 
-### 4.49.4 Child Marriage and Family Structure
+### 4.110.4 Child Marriage and Family Structure
 
 | Indicator | Figure | Source |
 |---|---|---|
@@ -5389,7 +5389,7 @@ Childline 1412 receives thousands of contacts annually, with a significant propo
 | Annual divorces (women 26-40, Greater Malé) | 874 (2021), 927 (2022), 931 (2023), 779 (2024) | DJA |
 | Prenuptial agreements annually | ~8 | DJA |
 
-### 4.49.5 Alternative Care
+### 4.110.5 Alternative Care
 
 | Indicator | Figure | Source |
 |---|---|---|
@@ -5401,7 +5401,7 @@ Childline 1412 receives thousands of contacts annually, with a significant propo
 | Children receiving institutional care: Kudakudhinge Hiya capacity | ~30 | CFW Section 4 |
 | Children at Fiyavathi Rehabilitation Centre | ~30-50 | CFW Section 4 |
 
-### 4.49.6 Juvenile Justice
+### 4.110.6 Juvenile Justice
 
 | Indicator | Figure | Source |
 |---|---|---|
@@ -5414,7 +5414,7 @@ Childline 1412 receives thousands of contacts annually, with a significant propo
 | Age of criminal responsibility (full) | 15 | JJ Act 2019 |
 | Age of criminal responsibility (limited) | 10 | JJ Act 2019 |
 
-### 4.49.7 Workforce and System Capacity
+### 4.110.7 Workforce and System Capacity
 
 | Indicator | Figure | Source |
 |---|---|---|
@@ -5431,7 +5431,7 @@ Childline 1412 receives thousands of contacts annually, with a significant propo
 | FCSC budget component | MVR 38 million | MoSFD |
 | DJJ budget component | MVR 22 million | MoSFD |
 
-### 4.49.8 Legal and Justice System
+### 4.110.8 Legal and Justice System
 
 | Indicator | Figure | Source |
 |---|---|---|
@@ -5595,7 +5595,7 @@ This section consolidates key statistical indicators for the Maldivian child pro
 ## 4.112 Comprehensive Quantitative Data: Child Protection Statistics from the Statistics Compendium
 
 
-### 4.106.1 Child Abuse Cases: Administrative Data Time Series
+### 4.112.1 Child Abuse Cases: Administrative Data Time Series
 
 The most reliable indicator of child protection system activity is CFPS case data, which has become progressively more systematic as the MCPD database has developed. The available time series shows:
 
@@ -5606,7 +5606,7 @@ The 1412 helpline provides a parallel data stream: 2,855 calls were made to the 
 
 The 2023 administrative data – 2,936 cases, 1,278 VAC – translates to a reporting rate of approximately 23 per 1,000 children (based on the 2022 Census child population of 128,208). For reference, England's equivalent reporting rate (children who are subjects of statutory assessment) is significantly higher, reflecting both higher actual rates of formal engagement and more systematic referral pathways from schools, health services, and police. The Maldivian rate almost certainly reflects severe under-reporting rather than a genuinely low prevalence of abuse and neglect.[^970]
 
-### 4.106.2 Child Sexual Abuse: Prevalence Data
+### 4.112.2 Child Sexual Abuse: Prevalence Data
 
 The prevalence data on child sexual abuse reveals the gap between administrative case counts and actual experience:
 
@@ -5624,13 +5624,13 @@ The GSHS 2014 finding – one in three secondary school girls reporting sexual a
 
 The UNPRPD (2024) finding that 60% of children with disabilities experience sexual violence, with the majority being girls, adds a further dimension. The convergence of disability and gender creates the highest-risk group in the Maldivian child protection context – a group that is simultaneously least likely to be able to report, least likely to be believed, and least well-served by protection systems that have not been designed with their particular vulnerabilities in mind.[^971]
 
-### 4.106.3 Child Marriage: Declining but Not Eliminated
+### 4.112.3 Child Marriage: Declining but Not Eliminated
 
 The child marriage data from Census 2014 – 106 children aged 15–17 in marriages, 62 of them girls – represents a significant reduction from the historical pattern (the Maldives once held the world's highest divorce rate and had normalised very young marriage, particularly for girls). The ADB (2025) estimate of a 2.2% child marriage rate before age 18 places the Maldives toward the lower end of the South Asian range.
 
 However, the Census 2014 data represents formal marriages only. The Family Act's wali system – which requires a male guardian's consent for marriage – means that some informal unions may not be registered, and that arrangements between families that effectively amount to child marriages may not appear in civil registration data. The Supreme Court's 2014 regulation on minors' marriages, which tightened (but did not eliminate) the conditions under which girls under 18 could marry, created a formal barrier without eliminating the practice. Annual data from the DJA on marriages involving minors would be the most useful monitoring tool, but this data has not been consistently published.[^972]
 
-### 4.106.4 Alternative Care: The Institutional Dominance
+### 4.112.4 Alternative Care: The Institutional Dominance
 
 The alternative care statistics from March 2023 reveal a system heavily reliant on institutional care:
 
@@ -5647,7 +5647,7 @@ The 91% institutional care rate – meaning that nine out of ten children outsid
 
 The data on the 16 children in foster care (representing 9% of the alternative care population) against 18 registered foster carers suggests that the foster care system is operating at near-maximum capacity with the carers it has. Expanding foster care – the stated policy direction – requires not just carer recruitment but the training, supervision, support, and financial allowances for carers that make fostering sustainable over time. The international experience is that recruitment without adequate support leads to high placement breakdown rates, which are harmful to children and demoralising to carers.[^973]
 
-### 4.106.5 Child Protection Workforce: Caseload Data
+### 4.112.5 Child Protection Workforce: Caseload Data
 
 The workforce data is the most consequential set of statistics for understanding why the Maldivian child protection system performs as it does:
 
@@ -5665,7 +5665,7 @@ The 5.3×–6.4× ratio of actual to recommended caseload is not a measure of sy
 
 The DV/GBV caseworker data – 3 workers in Male' carrying 70–80 cases each – illustrates the same problem in a concentrated form. Domestic violence response requires intensive engagement: safety planning, court attendance, service navigation, regular welfare checks. At 70–80 cases per worker, meaningful response is arithmetically impossible, and workers inevitably prioritise the cases with the most obvious acute risk.[^974]
 
-### 4.106.6 Juvenile Justice: The Reform Impact in Numbers
+### 4.112.6 Juvenile Justice: The Reform Impact in Numbers
 
 The juvenile justice data illustrates a system in genuine transition, with the 2019 Act producing measurable shifts in practice:
 
@@ -5683,7 +5683,7 @@ The 89% failure rate in the 2010–2015 rehabilitation programme – only 10 of 
 
 The increase in MPS juvenile investigations from 120 (2023) to 213 (2024) reflects either increased offending, increased reporting and detection, or both – and requires further analysis to interpret. If it reflects increased reporting by a more confident community and better-equipped police, it may be a positive indicator of system improvement. If it reflects a genuine increase in juvenile offending – particularly drug-related offending, which has historically been the primary driver of juvenile criminal justice contact – it signals an escalating challenge for the DJJ and the prevention system.[^975]
 
-### 4.106.7 Children's Household Composition and Family Structure
+### 4.112.7 Children's Household Composition and Family Structure
 
 The Census 2022 children's equity data provides the demographic foundation for child protection planning:
 
@@ -5706,7 +5706,7 @@ The 9% of children in "alternative care arrangements" is the most complex figure
 ## 4.113 Key Source Analysis: What the Literature Actually Found
 
 
-### 4.79.1 The 28-Year Gap: Law 9/91 and Its Legacy
+### 4.113.1 The 28-Year Gap: Law 9/91 and Its Legacy
 
 Law 9/91 – the Law on the Protection of the Rights of Children enacted in the same year as UNCRC ratification – was the Maldives' first legislative acknowledgment of children's rights. The Appendix A bibliography describes it as "largely declaratory in nature": it set out broad principles covering child health, maternal care, education, treatment of children with disabilities, and rehabilitation of juvenile delinquents, but contained:
 - No definitions of child abuse or maltreatment
@@ -5715,7 +5715,7 @@ Law 9/91 – the Law on the Protection of the Rights of Children enacted in the 
 
 Law 9/91 served primarily as a symbolic gesture of CRC compliance rather than a functional child protection statute. It remained the sole child protection statute for **28 years** until being superseded by the CRPA 2019. The contrast between Law 9/91's declaratory provisions and the CRPA's operational framework illustrates the depth of the 28-year implementation gap – a gap in which the Maldives had the formal appearance of a child protection system without its functional reality.[^902]
 
-### 4.79.2 Special Measures Act 12/2009: Innovations and Limitations
+### 4.113.2 Special Measures Act 12/2009: Innovations and Limitations
 
 The Special Provisions Act to Deal with Child Sex Abuse Offenders (Act No. 12/2009) represented a significant legal innovation:
 - Defined specific sexual offences against children with imprisonment terms of **7–14 years** [Note: The original Act 12/2009 provided 7–14 year sentences; subsequent amendments strengthened this to 10–25 years without parole.]
@@ -5736,7 +5736,7 @@ Despite its strengthened provisions, the Act's implementation was hampered by:
 
 The Act's requirement for public disclosure of offender identities – unusual by international standards – reflected the cultural weight of reputational sanction in Maldivian society, but has also been criticised for potentially deterring victims from reporting (if the conviction pathway is uncertain, the high visibility of accusation increases the cost of a false outcome).[^903]
 
-### 4.79.3 Ministry of Gender Statistical Data: 2,936 Cases Annually
+### 4.113.3 Ministry of Gender Statistical Data: 2,936 Cases Annually
 
 The Ministry of Gender (Table 8.60, National Bureau of Classification Statistical Yearbook) provides the most systematic administrative data on reported child abuse cases:
 
@@ -5749,7 +5749,7 @@ The Ministry of Gender (Table 8.60, National Bureau of Classification Statistica
 
 These statistics represent cases entering the formal system – actual prevalence is substantially higher given under-reporting driven by community surveillance norms, fear of retaliation, and the social costs of disclosure in small island communities.[^904]
 
-### 4.79.4 The UNICEF SitAn 2025: Key Quantitative Findings
+### 4.113.4 The UNICEF SitAn 2025: Key Quantitative Findings
 
 The Situation Analysis of Children and Adolescents in the Republic of Maldives (Haarr, 2025) is described in the Appendix A bibliography as "the most methodologically sophisticated child-focused assessment available," employing equity, trend, causal, PESTEL, and capacity gap analyses. Key quantitative findings:
 
@@ -5761,7 +5761,7 @@ The Situation Analysis of Children and Adolescents in the Republic of Maldives (
 
 The suicide and self-harm data are particularly concerning in a child protection context: suicidal ideation and self-harm in children are closely associated with experiences of abuse, neglect, family breakdown, and exposure to violence. The high rates identified in the GSHS (2009) data – 19.9% – suggest that the burden of unresolved trauma among Maldivian children is substantial.[^905]
 
-### 4.79.5 The Rogers, Ali & Naeem (2025) Systems Analysis: Operational Detail
+### 4.113.5 The Rogers, Ali & Naeem (2025) Systems Analysis: Operational Detail
 
 The Appendix A bibliography describes the Rogers, Ali and Naeem (2025) chapter as the definitive operationally detailed source on how child protection actually functions at the frontline level. It documented four primary case management pathways:
 1. Children witnessing domestic violence
@@ -5779,7 +5779,7 @@ The analysis documented systemic failures across all four pathways:
 
 The Appendix A entry summarises the fundamental insight: the gap between the CRPA 2019's provisions and frontline reality is not primarily a gap in legislation but a gap in operational capacity, political will, and institutional culture.[^906]
 
-### 4.79.6 The NGO Shadow Report Tradition: "Moving from Aspirations to Impact"
+### 4.113.6 The NGO Shadow Report Tradition: "Moving from Aspirations to Impact"
 
 The 2006 NGO shadow report by Hama Jamiyya and Care Society – titled "Moving from Aspirations to Impact" – captured in its title what has been the defining theme of Maldivian child protection for two decades. The report documented significant gaps between government CRC reporting and children's lived realities. Produced at a time when the URC operated with minimal staff, no formal case management procedures, limited geographic reach beyond Malé, and no legal mandate to investigate child protection cases, the shadow report established the precedent of civil society accountability that has continued through subsequent reporting cycles.
 
@@ -5795,7 +5795,7 @@ The tradition of independent shadow reporting has been an important accountabili
 
 The following provides a guide to the primary sources used in this chapter, with sufficient annotation to orient the reader to each source's scope, methodology, and key contributions to child protection knowledge.
 
-### 4.55.1 Rogers, Ali and Naeem (2025) – The Definitive System Analysis
+### 4.114.1 Rogers, Ali and Naeem (2025) – The Definitive System Analysis
 
 **Full citation:** Rogers, J., Ali, M., & Naeem, M. (2025). "The development of child protection systems and practice in the Republic of Maldives." In Burns, K. and colleagues (eds.), *Child Protection in the Global South*. Policy Press, Bristol.
 
@@ -5811,7 +5811,7 @@ The following provides a guide to the primary sources used in this chapter, with
 - Introduces the concept of "adultification" in Maldivian cultural understandings of childhood
 - Provides the most detailed analysis available of how the English child protection model was imported and adapted[^827]
 
-### 4.55.2 UNICEF Situation Analysis 2025 (Building Futures)
+### 4.114.2 UNICEF Situation Analysis 2025 (Building Futures)
 
 **Full citation:** UNICEF Maldives (2025). *Building Futures: Securing Child Rights and Responding to the Adolescent Challenge in the Maldives.* Malé: UNICEF Maldives.
 
@@ -5826,7 +5826,7 @@ The following provides a guide to the primary sources used in this chapter, with
 - Self-harm cases: 211 in 2024, 74% female
 - Mental health data integration with child protection analysis[^828]
 
-### 4.55.3 Fulu et al. (2007) – Women's Health and Life Experiences Study
+### 4.114.3 Fulu et al. (2007) – Women's Health and Life Experiences Study
 
 **Full citation:** Fulu, E. (2007). *Women's Health and Life Experiences in the Maldives: A National Study on Domestic Violence.* Malé: UNFPA Maldives.
 
@@ -5840,7 +5840,7 @@ The following provides a guide to the primary sources used in this chapter, with
 - First rigorous documentation of the cultural and social norms that inhibit DV/abuse reporting in the Maldivian context
 - Evidence of the honour ideology that frames women's and children's vulnerability[^829]
 
-### 4.55.4 UNICEF (2022) – CFPS Assessment
+### 4.114.4 UNICEF (2022) – CFPS Assessment
 
 **Full citation:** UNICEF Maldives (2022). *Assessment of Child and Family Protection Services Capacity and Caseload.* Malé: UNICEF Maldives.
 
@@ -5853,7 +5853,7 @@ The following provides a guide to the primary sources used in this chapter, with
 - Documented the absence of foster care as an alternative care option
 - Led to revised targets in the NAPVAC 2024-2028[^830]
 
-### 4.55.5 Global School-Based Student Health Survey (GSHS) 2014
+### 4.114.5 Global School-Based Student Health Survey (GSHS) 2014
 
 **Full citation:** Ministry of Health and WHO (2014). *Global School-Based Student Health Survey, Maldives 2014 Fact Sheet.* Malé: Ministry of Health.
 
@@ -5863,7 +5863,7 @@ The following provides a guide to the primary sources used in this chapter, with
 - Suicidal ideation: 19.9% of students (GSHS 2009, referenced as baseline)
 - Tobacco use among 13-15 year olds: 45.7%[^831]
 
-### 4.55.6 Presidential Commission on Child Rights Violations (2020)
+### 4.114.6 Presidential Commission on Child Rights Violations (2020)
 
 **Full citation:** Government of Maldives (2020). *Report of the Presidential Commission on Child Rights Violations.* Malé: Government of Maldives.
 
@@ -5876,7 +5876,7 @@ The following provides a guide to the primary sources used in this chapter, with
 - Recommendations aligned with the subsequent NAPVAC 2024-2028
 - Provided political legitimacy for the reform agenda[^832]
 
-### 4.55.7 ICSVE Prison Radicalisation Study (2022)
+### 4.114.7 ICSVE Prison Radicalisation Study (2022)
 
 **Full citation:** Speckhard, A. (2022). *Prison Radicalisation in the Maldives: A Study of Extremist Recruitment in Maafushi High-Security Prison.* International Center for the Study of Violent Extremism and Transparency Maldives.
 
@@ -5886,7 +5886,7 @@ The following provides a guide to the primary sources used in this chapter, with
 - Found that state care facility staff were not equipped to deal with radicalized children
 - Documented material inducements (money, mobile phones) used to recruit young inmates[^833]
 
-### 4.55.8 HRCM CRPD Shadow Report (2023)
+### 4.114.8 HRCM CRPD Shadow Report (2023)
 
 **Full citation:** Human Rights Commission of the Maldives (2023). *Shadow Report to the UN Committee on the Rights of Persons with Disabilities.* Malé: HRCM.
 
@@ -5995,7 +5995,7 @@ This section provides a systematic reference to the key sources informing child 
 ## 4.116 Annotated Key Sources: Child Protection Evidence Base (Supplementary)
 
 
-### 4.111.1 Statistical Compendium Child Data
+### 4.116.1 Statistical Compendium Child Data
 
 The Part XVII Statistics Compendium consolidates quantitative indicators across all social policy domains. For child protection, the most analytically significant data points from the Compendium not covered elsewhere in this chapter are:
 
@@ -6003,7 +6003,7 @@ The Part XVII Statistics Compendium consolidates quantitative indicators across 
 
 **Disability and children:** The intersection of childhood and disability represents the highest-risk group. The UNPRPD SitAn (2024) finding that 60% of children with disabilities experience sexual violence – with girls disproportionately affected – establishes that the disability-child protection intersection is not a secondary concern but one of the highest-priority areas for system development. The 87% of government schools with SEN units (but many lacking effective inclusive practice) means that children with disabilities in school settings are not necessarily receiving the support, protection, or specialist assessment that their vulnerability requires.[^990]
 
-### 4.111.2 Action Plans Analysis – Child Protection Planning Architecture
+### 4.116.2 Action Plans Analysis – Child Protection Planning Architecture
 
 The Action Plans Analysis (Part XVI) provides the most systematic assessment of the planning framework within which child protection operates. Key findings for child protection:
 
@@ -6013,7 +6013,7 @@ The Action Plans Analysis (Part XVI) provides the most systematic assessment of 
 
 **International obligation mapping:** The Action Plans Analysis maps 342 rows of international obligations across CEDAW, CRPD, CRC, and CRC Optional Protocols. The CRC obligations that directly relate to child protection – Articles 19 (violence protection), 20 (alternative care), 21 (adoption), 22 (refugee children), 25 (periodic review for children in alternative care), 34 (sexual exploitation), 37 (torture, cruel treatment), 39 (recovery), 40 (juvenile justice) – provide the authoritative international framework within which all domestic child protection planning should be situated.[^991]
 
-### 4.111.3 CRC Periodic Report Draft – Self-Assessment Findings
+### 4.116.3 CRC Periodic Report Draft – Self-Assessment Findings
 
 The Part XVIII-B CRC Periodic Report Draft, prepared as a contribution to the 2021 State Party Report process, provides the most recent government self-assessment of child protection system performance. Key child protection findings from the self-assessment that are most significant for this chapter's analysis:
 
@@ -6142,13 +6142,13 @@ The Part XVIII-B CRC Periodic Report Draft, prepared as a contribution to the 20
 ## 4.117 Research Gaps and Recommendations
 
 
-### 4.18.1 Female Genital Mutilation/Cutting
+### 4.117.1 Female Genital Mutilation/Cutting
 
 While FGM/C is discussed in greater detail in Part V (Gender, GBV, and Women's Empowerment), its relevance to child protection warrants attention here. The **Demographic and Health Survey 2016–17** found that **13% of women aged 15–49** had been subjected to FGM/C. Critically, prevalence data disaggregated by age reveals a declining trend: from **38% among women aged 45–49** to just **1% among women aged 15–19**. This steep decline indicates that the practice has been substantially reduced in recent decades, though it has not been eliminated.
 
 FGM/C in the Maldives is practised primarily as a form of *sunnah* cutting (a less severe form, typically involving the nicking or cutting of the clitoral prepuce), and is endorsed by some religious leaders as a recommended (*sunnah*) practice. There is **no legal prohibition or criminalisation of FGM/C** in Maldivian law, meaning that the practice, where it continues, is not subject to criminal sanction. The absence of legal protection is a significant child protection gap, as FGM/C constitutes a harmful traditional practice affecting girls' physical integrity and rights.[^79]
 
-### 4.18.2 Identified Research Gaps
+### 4.117.2 Identified Research Gaps
 
 Multiple evidence reviews have identified the following research gaps in the child protection field in the Maldives:
 
@@ -6164,7 +6164,7 @@ Multiple evidence reviews have identified the following research gaps in the chi
 
 6. **Intersection of child protection and extremism:** The pathways through which children are recruited into extremist activities, the impact of parental extremism on children's wellbeing, and the effectiveness of deradicalisation programmes for children are areas requiring urgent research attention.[^80]
 
-### 4.18.3 Policy Recommendations
+### 4.117.3 Policy Recommendations
 
 The evidence reviewed in this chapter points to the following priority recommendations:
 
@@ -6192,13 +6192,13 @@ The evidence reviewed in this chapter points to the following priority recommend
 ## 4.118 Research Gaps, Future Directions, and Conclusion
 
 
-### 4.50.1 The State of Child Protection Knowledge
+### 4.118.1 The State of Child Protection Knowledge
 
 The Maldives child protection system is better documented in 2026 than at any previous point in its history. The combination of the CRPA 2019's legislative framework, the MCPD database, the UNICEF Situation Analysis series, the Census 2022 child-equity analysis, the CRC Periodic Report Draft, the NAPVAC 2024-2028, and the CFW vulnerability mapping process has created a body of evidence on Maldivian child protection that is sophisticated relative to the country's size and income level.
 
 Yet this documentation should not be mistaken for adequacy. The evidence base is patchy, contested in places, and built on foundations that are older than they should be. The most recent national child abuse prevalence data uses instruments from 2014 (GSHS) and 2007 (Fulu). The alternative care system's outcomes have never been systematically evaluated. The juvenile justice system's effectiveness in reducing reoffending is unknown. The IBAMA programme's reach and impact have not been rigorously mapped. FGM/C prevalence is not measured. The 61 social workers who make up the operational core of the system carry caseloads that prohibit reflective, evidence-based practice. These are not minor gaps – they are fundamental limitations on the system's capacity to learn and improve.[^770]
 
-### 4.50.2 Critical Research Gaps
+### 4.118.2 Critical Research Gaps
 
 **Gap 1: National Child Maltreatment Prevalence Survey.** The Maldives has never conducted a nationally representative survey of child maltreatment using validated instruments. Without baseline prevalence data, the system cannot know whether it is improving children's safety over time, cannot allocate resources proportionate to actual prevalence, and cannot justify investment in prevention relative to response. A national child maltreatment survey using the ISPCAN Child Abuse Screening Tool (ICAST), or equivalent, is the most important research investment the child protection system could make.[^771]
 
@@ -6210,7 +6210,7 @@ Yet this documentation should not be mistaken for adequacy. The evidence base is
 
 **Gap 5: IBAMA Reach and Quality Assessment.** A systematic mapping of IBAMA volunteer coverage across all 189 inhabited islands, combined with quality assessment of volunteer practice, would identify gaps and provide the evidence base for targeted strengthening.
 
-### 4.50.3 Future Directions: The System the Maldives Needs
+### 4.118.3 Future Directions: The System the Maldives Needs
 
 The Rogers, Ali and Naeem (2025) chapter on child protection in the Maldives identifies a key tension in the future direction of the system: **the risk of over-cautious removal** versus the risk of insufficient protection. The Maldivian system has historically erred on the side of family preservation and non-intervention – a position shaped by cultural values around family privacy, community norms about state non-interference, and the practical impossibility of placing removed children in adequate alternative care. Yet the scale of abuse documented in the case data and prevalence surveys suggests that this conservatism has left many children in dangerous situations.[^772]
 
@@ -6226,7 +6226,7 @@ The shift the system needs is not simply toward more removal – the alternative
 
 **5. An accountable system.** A Children's Ombudsperson with the resources and independence to inspect care facilities, review serious case outcomes, and report publicly on system performance. A professional registration system that holds social workers to standards and provides them with the professional identity and protections they need to do difficult work. A data system that tracks child safety outcomes rather than just case inputs.[^773]
 
-### 4.50.4 The Child Protection System in Historical Perspective
+### 4.118.4 The Child Protection System in Historical Perspective
 
 The Rogers, Ali and Naeem (2025) history of child protection system development in the Maldives traces a trajectory from the pre-1997 period – when there was no formal child protection system and children's welfare was entirely a family and community matter – through the 1997-2005 system building phase (NCW/MCPF establishment; English model import; first case management procedures), the 2009-2019 institutionalisation phase (FCSCs; 1412 helpline; CRPA drafting), and the 2019-present maturation phase (CRPA enactment; JJ Act; MCPD expansion; Children's Ombudsperson; NAPVAC 2024-2028).
 
@@ -6305,7 +6305,7 @@ The child of the Maldives who is in danger today cannot wait for the system to m
 ## 4.119 Evidence Gaps: What We Do Not Know About Child Protection in the Maldives
 
 
-### 4.117.1 The Fundamental Data Absence
+### 4.119.1 Data Gaps in Child Protection
 
 The most important single finding about the Maldivian child protection evidence base is its core absence: **no national prevalence study of child maltreatment has ever been conducted.** This means that the system does not know the actual prevalence of physical abuse, sexual abuse, neglect, or emotional abuse among children in the Maldives. All available data is either administrative (what the system has processed) or proxy (adult women's retrospective reports of childhood experiences, or adolescent self-reports in school surveys). Neither type of data is adequate as a basis for national child protection planning.
 
@@ -6313,7 +6313,7 @@ The 2007 Women's Health and Life Experiences Study (Fulu) provides the best retr
 
 The Action Plans Analysis evidence cross-reference identifies this explicitly: "The entire evidence base for VAC prevalence in the Maldives is outdated or absent." The recommendation that follows from this is straightforward: commissioning a National Study on Violence Against Children – using the UNICEF-WHO standardised methodology for VAC prevalence research – is a prerequisite for effective system planning. Without it, all prioritisation decisions are made in the dark.[^1009]
 
-### 4.117.2 Specific Evidence Gaps by Domain
+### 4.119.2 Specific Evidence Gaps by Domain
 
 **Child protection system performance:** No data exists on time between first identified concern and first intervention – a fundamental system performance indicator. No mapping of informal identification pathways across different community types has been conducted. No evaluation of IBAMA group effectiveness has been published. No assessment of foster placement breakdown rates exists.
 
@@ -6327,7 +6327,7 @@ The Action Plans Analysis evidence cross-reference identifies this explicitly: "
 
 **Online child protection:** No prevalence data on online grooming, CSAM, or cyberbullying among Maldivian children. No assessment of existing digital literacy programmes or their effectiveness. No mapping of the platforms through which exploitation is occurring.[^1010]
 
-### 4.117.3 The Research Infrastructure Gap
+### 4.119.3 The Research Infrastructure Gap
 
 The evidence gaps documented above are not primarily a failure of research capacity – they reflect the absence of a sustained research infrastructure for child protection in the Maldives. No dedicated research unit within MoSFD or any partner agency produces regular child welfare research. The UNICEF SitAn is produced periodically (typically every 5–7 years) rather than continuously. The GSHS has not been conducted since 2014 – over a decade of adolescent health data that does not exist.
 
@@ -6341,7 +6341,7 @@ The cost of this research infrastructure is modest relative to the cost of plann
 ## 4.120 Future Priorities and the Reform Agenda: Toward a Fit-for-Purpose Child Protection System
 
 
-### 4.110.1 The Priority Reform Agenda – Six Critical Needs
+### 4.120.1 The Priority Reform Agenda – Six Critical Needs
 
 Analysis of the full evidence base – the Rogers, Ali and Naeem (2025) systems analysis, the Seeds of Reform (Rogers & Ali, 2023) institutional care review, the CFW vulnerability mapping, the UNICEF SitAn, the CRC State Party Report and Concluding Observations, the NAPVAC 2024–2028, and the data in the Statistics Compendium – converges on six priority reform needs that constitute the essential agenda for making the Maldivian child protection system fit for purpose.
 
@@ -6357,7 +6357,7 @@ Analysis of the full evidence base – the Rogers, Ali and Naeem (2025) systems 
 
 **Priority 6: Civil society development.** The near-absence of domestic civil society in child protection service delivery is a structural gap that creates risk – there is no independent sector capable of filling gaps, providing accountability, or delivering preventive services at the community level. Building civil society capacity in child protection requires: government grant funding for evidence-based family support programmes operated by NGOs such as ARC; regulatory frameworks for NGO service delivery that create accountability without bureaucratic barriers; and an explicit policy commitment to the complementary role of civil society in the national child protection architecture.[^986]
 
-### 4.110.2 The Resource Question: What Adequate Child Protection Actually Costs
+### 4.120.2 The Resource Question: What Adequate Child Protection Actually Costs
 
 Child protection reform in the Maldives has consistently been constrained by the absence of costed implementation plans. The NAPVAC 2024–2028, like its predecessors, sets ambitious targets without budget allocations. The CFW recommendations acknowledge workforce shortfalls without identifying the budget needed to address them. This pattern reflects a broader challenge: governments commit to child protection reform aspirationally, but the fiscal framework required to deliver on those commitments is rarely made explicit.
 
@@ -6365,7 +6365,7 @@ A rough indicative costing illustrates the scale of investment required. Doublin
 
 None of these investments is beyond the Maldivian government's fiscal capacity – particularly given the social protection budget's substantial scale and the government's demonstrated willingness to invest in welfare programmes (Aasandha, single parent allowance, disability allowance). The barrier is not fiscal capacity but fiscal prioritisation. Child protection competes with healthcare, education, and social protection programmes that have more politically visible beneficiaries and more organised constituency advocacy. The analytical case for treating child protection investment as foundational to all other social policy outcomes – health, education, economic participation, crime prevention – is strong but has not been made in the budget process with the rigour it requires.[^987]
 
-### 4.110.3 The Political Economy of Child Protection Reform
+### 4.120.3 The Political Economy of Child Protection Reform
 
 The pattern of the past decade in Maldivian child protection – ambitious legislation, institutional architecture, and action plans contrasting with persistent implementation gaps – reflects not merely administrative failure but political economy. Child protection reform requires sustained multi-year commitment, cross-agency coordination, and resource allocation that is difficult to maintain across political transitions. The Maldives has had significant political changes between 2012 and 2024, with each administration bringing different priorities and relationships to the social sector.
 
@@ -6373,7 +6373,7 @@ The ministerial portfolio has shifted repeatedly – from MoGFSS to MoSFD to var
 
 The Presidential Commission on Child Rights Violations – a rare formal accountability mechanism for past failures – represents a political economy moment of particular significance. When the highest political level formally acknowledges that child protection failures require accountability, it creates conditions for sustained reform that individual ministerial commitment cannot generate on its own. Sustaining this accountability dimension in the governance architecture – through the Children's Ombudsperson, the HRCM's monitoring function, and the CRC reporting cycle – is as important as any specific policy or programme reform.[^988]
 
-### 4.110.4 The Child's Voice: Participation as a Reform Principle
+### 4.120.4 The Child's Voice: Participation as a Reform Principle
 
 Throughout the reforms of the post-2019 period, one dimension of the CRPA's framework has received less attention than others: Article 12 of the CRC, enshrined in the CRPA's participation provisions – the right of children to have their views taken into account in all matters affecting them. The current child protection system processes cases *about* children but does not systematically include children's voices in case planning, system design, or policy development.
 
@@ -6387,19 +6387,19 @@ Developing authentic child participation mechanisms is both a CRC obligation and
 ## 4.121 Conclusion: The Gap Between Promise and Reality in Maldivian Child Protection
 
 
-### 4.118.1 The Structural Achievement
+### 4.121.1 The Structural Achievement
 
 The transformation of Maldivian child protection over the three decades since CRC ratification in 1991 is genuine and significant. From a system with no child protection legislation, no specialist workforce, no institutional architecture, and no community protection mechanisms, the Maldives has built: a comprehensive rights-based legal framework (CRPA 2019, Juvenile Justice Act 2019, SOA 2014, DVPA 2012); an institutional network (CFPS, 19 FCSCs, DJJ, Children's Ombudsperson, Children's Rights Protection Council, Children's Court); a professional social work workforce with degree-level training; a national child helpline (1412); a community protection model (IBAMA, CSGs); and a planning framework (NAPVAC 2024–2028, NSAP-CP) grounded in international standards. This is a genuine achievement that deserves recognition – it represents decades of sustained institutional building against significant resource and geographic constraints.
 
 The legislative framework is, by regional standards, genuinely advanced. The CRPA 2019 is more comprehensive than comparable legislation in several larger South Asian states. The Juvenile Justice Act 2019 replaced a framework that was sentencing children to death. The mandatory reporting obligation creates a legal duty where none previously existed. These are not cosmetic reforms – they are structural changes to the legal architecture within which children's rights are exercised.[^1012]
 
-### 4.118.2 The Implementation Reality
+### 4.121.2 The Implementation Reality
 
 Against this legislative achievement, the implementation reality is sobering. Sixty-one social workers serve 128,208 children at a ratio five to six times above international standards. The child protection system operates in 20 of 189 inhabited islands. Ninety-one per cent of children in alternative care live in institutions rather than family-based settings, despite more than a decade of deinstitutionalisation commitments. Approximately three per cent of domestic violence cases reported to police result in prosecution. Three per cent of CEDAW's 55 recommendations have been fully implemented. Maintenance enforcement remains practically non-existent, with MVR 2 million in uncollected payments sitting at the Family Court. The criminal justice funnel for child sexual abuse – already restrictive for non-disabled children – is effectively inaccessible for children with disabilities.
 
 These gaps are not peripheral quality improvement issues – they are fundamental mismatches between what the law promises and what the system delivers. For a child experiencing abuse in a remote island community, the existence of the CRPA 2019 provides no protection if there is no social worker within reach, no police officer trained in child protection interviewing, no court with relevant expertise, and no evidence of sufficient quality to meet the prosecution threshold. The law on paper is not the law in experience.[^1013]
 
-### 4.118.3 The Path Forward: Three Foundational Prerequisites
+### 4.121.3 The Path Forward: Three Foundational Prerequisites
 
 The analysis in this chapter converges on three foundational prerequisites for sustainable child protection system improvement – prerequisites that must precede, not follow, the more specific reforms described in §4.110.
 
@@ -6409,7 +6409,7 @@ The analysis in this chapter converges on three foundational prerequisites for s
 
 **Third: the evidence foundation.** A national prevalence study of violence against children, a systematic evaluation of IBAMA's effectiveness, an outcomes study for children leaving the care system, and a research infrastructure for ongoing monitoring are not luxuries – they are the evidence base on which sustainable system improvement must be built. Continuing to plan without them is continuing to navigate without a map.[^1014]
 
-### 4.118.4 The Children's Perspective: What the System Owes
+### 4.121.4 The Children's Perspective: What the System Owes
 
 This chapter has documented the Maldivian child protection system from the outside – through legislation, institutions, data, and policy frameworks. The final word belongs to what the system is for: the individual child experiencing abuse, neglect, or exploitation whose safety, dignity, and future depend on what the system does.
 
@@ -6472,7 +6472,7 @@ The Maldivian state has made that promise through three decades of CRC ratificat
 ## 4.122 Toward a Maldives-Specific Child Protection Framework: Principles and Architecture
 
 
-### 4.123.1 Beyond Imported Models
+### 4.122.1 Developing a Maldives-Specific Model
 
 The preceding analysis has established that the Maldivian child protection system – while legally sophisticated and institutionally comprehensive in design – operates in conditions that differ fundamentally from the English child protection model that has most significantly influenced it. A system designed for a densely populated, institutionally rich, professional-workforce-abundant context does not operate effectively when transposed onto a context of geographical dispersal, limited professional workforce, strong community social structures, and Islamic family law.
 
@@ -6485,7 +6485,7 @@ A Maldives-specific framework would be built on five design principles:
 4. **Family-centred rather than case-centred:** The primary unit of analysis and intervention should be the family, not the individual presenting concern. A family with domestic violence, substance misuse, poverty, and child neglect needs a single integrated response, not four parallel referrals to four different systems.
 5. **Evidence-grounded:** Policy must be based on evidence of what works in the Maldivian context, not on imported assumptions from contexts that share neither the geography, the culture, nor the resource profile of the Maldives.[^1030]
 
-### 4.123.2 The Regional Hub Architecture
+### 4.122.2 The Regional Hub Architecture
 
 The most practically achievable structural reform for geographic equity is the development of four to six regional child protection hubs – concentrations of specialist professional capacity that can serve as the anchor for regional service delivery without requiring the infrastructure investment of full CFSC presence on every island.
 
@@ -6497,7 +6497,7 @@ A regional hub model in the Maldivian context would:
 
 This model does not solve the distance problem – a child on a remote island still does not have a social worker in their community. But it substantially reduces the binary of Male' (full services) versus outer islands (minimal services), creating an intermediate tier of accessible specialist support that can respond to complex cases more rapidly than the current system allows.[^1031]
 
-### 4.123.3 The Civil Society Development Agenda
+### 4.122.3 The Civil Society Development Agenda
 
 As documented in §4.103, the near-absence of child protection NGOs is a structural gap that creates risk and limits resilience. Building domestic civil society capacity in child protection is a medium-to-long-term project that requires deliberate investment rather than the organic growth of civil society that occurred in more institutionally rich environments.
 
@@ -6508,7 +6508,7 @@ The three most achievable initial steps are:
 
 None of these requires large capital investment. The annual cost of funding a family support programme is modest compared to the cost of child protection investigations and residential care placements that effective prevention might avert.[^1032]
 
-### 4.123.4 The Islamic Framework as Resource
+### 4.122.4 The Islamic Framework as Resource
 
 The analysis of Islamic law dimensions in §4.61 and throughout this chapter has primarily focused on the tensions between Shari'ah provisions and CRC standards. The final analytical observation is that the Islamic framework is also a resource for child protection – a set of obligations, values, and institutions that can support, rather than only complicate, the child protection mission.
 
