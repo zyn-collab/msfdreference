@@ -258,7 +258,7 @@ This project is relevant to social policy because: (i) wage bill control directl
 
 ---
 
-### 1.6 Maldives Competitiveness and Growth Project (P179286)
+### 1.7 Maldives Competitiveness and Growth Project (P179286)
 
 **Donor:** World Bank / IDA
 **Project ID:** P179286
@@ -823,7 +823,7 @@ The Government of Maldives, particularly the Ministry of Finance (for developmen
 
 Despite extensive searching across ADB, World Bank, UNDP, and other development partner databases, no project specifically identified as "AIM" or "AIMS" was found in the Maldives social sector portfolio. This gap should be addressed in a future revision when the exact project name and sponsoring organisation can be confirmed.
 
-### 8.3 Thematic Coverage Gaps in the Portfolio
+### 8.4 Thematic Coverage Gaps in the Portfolio
 
 A systematic review of the project portfolio reveals several social policy domains that receive minimal or no dedicated development partner project funding:
 
@@ -837,17 +837,17 @@ A systematic review of the project portfolio reveals several social policy domai
 
 **Substance abuse treatment.** While UNICEF's Kihineh flagship includes mental health and substance abuse, no development partner has a dedicated project for substance abuse treatment infrastructure, residential rehabilitation, or harm reduction services -- despite substance abuse being identified as a critical social challenge across the atolls, particularly among young men in the outer islands.
 
-### 8.4 Legislative Dependencies as Implementation Risk
+### 8.5 Legislative Dependencies as Implementation Risk
 
 The SAILS project experience highlights a structural risk in development partner project design: where project components depend on legislative action (in this case, the Unemployment Insurance Bill), implementation can stall indefinitely if parliament does not act within the project timeline. This risk applies to multiple social policy reforms documented elsewhere in this encyclopedia, including amendments to the Child Rights Act, the Disability Act, and the Social Protection Act. Project designers at the World Bank and ADB must weigh whether to include legislative reform as a precondition (risking delay) or to proceed without it (risking that project investments lack the legal framework needed for sustainability). Neither approach has produced consistently satisfactory results in the Maldivian context.
 
-### 8.5 Data Gaps in Impact Assessment
+### 8.6 Data Gaps in Impact Assessment
 
 A striking finding from this review is the limited availability of Implementation Completion Reports (ICRs) and rigorous impact evaluations for completed projects. The COVID-19 Emergency Income Support Project (P174014) -- one of the largest emergency interventions in Maldivian social policy -- does not have a publicly accessible ICR. The UNFPA Country Programme Evaluation noted that the organisation "does not have clear data" on how national frameworks have been implemented at the service delivery level. This pattern of weak impact documentation makes it difficult to assess what development partner engagement has actually achieved, as distinct from what it has funded.
 
 The contrast with the WHO Faafu Atoll demonstration is instructive. WHO was able to document specific, measurable outcomes (screening coverage rates, treatment uptake percentages, treatment rate improvements over time) because the intervention was bounded, had a clear baseline, and used health system data that was already being collected. Most social sector projects in the Maldives lack these conditions. The social protection system does not generate the administrative data needed for rigorous impact evaluation. Child protection case management data is fragmented and unreliable. GBV reporting rates are known to vastly underrepresent actual prevalence. Without investment in the data infrastructure itself -- which only the ADB Gender Inclusive Initiatives project explicitly addresses through its GESI statistics component -- evaluating what development partner projects achieve will remain an exercise in documenting outputs (training sessions held, documents produced, systems designed) rather than outcomes (lives improved, vulnerability reduced, rights fulfilled).
 
-### 8.6 Sustainability and Government Ownership
+### 8.7 Sustainability and Government Ownership
 
 A recurring concern across the portfolio is the sustainability of development partner interventions after project closure. Several patterns merit attention:
 
@@ -859,7 +859,7 @@ A recurring concern across the portfolio is the sustainability of development pa
 
 ---
 
-### 8.7 The Scale Question
+### 8.8 The Scale Question
 
 The total identified development partner commitment to social sector-relevant projects in the Maldives stands at approximately US$212 million. To put this in perspective, the Maldivian government's annual recurrent expenditure on the social sector (including health, education, social protection transfers, and social services) exceeds US$500 million per year. Development partner project financing thus represents a meaningful but not dominant share of total social sector resources. The real value of development partner engagement lies less in the absolute quantum of funding and more in the technical assistance, institutional design, and policy innovation that accompanies it. The unemployment insurance scheme being designed under SAILS, the PHC transformation model being piloted by WHO, the GESI data infrastructure being built by ADB, and the INFF financing architecture being operationalised by UNDP all have the potential to reshape how the Maldivian government allocates and manages its own much larger domestic social expenditure. Whether that potential is realised depends on the sustainability and government ownership factors discussed above -- and ultimately, on political will at the highest levels of government.
 

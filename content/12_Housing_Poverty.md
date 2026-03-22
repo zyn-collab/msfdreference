@@ -27,7 +27,7 @@ The poverty rate in atolls is thus approximately **ten times** that of Male'. Th
 
 At the international UMIC poverty line (US$5.5 PPP per day), national poverty stands at 1.7 percent, driven entirely by poverty in atolls at 3.2 percent; there are no poor individuals in Male' by this benchmark. Under the High Relative Poverty Line, the national rate rises sharply to 43.9 percent, with 67.3 percent in atolls and 18.1 percent in Male' -- illustrating how a substantial share of the population lives well below the median standard of living even if technically above the absolute poverty threshold.[^6]
 
-### Inequality: The Gini Coefficient and Expenditure Distribution
+### Inequality: Gini Coefficient and Expenditure Distribution
 
 Despite relatively low poverty, Maldives exhibits significant inequality. The national Gini coefficient stands at **29.3**, which compares favorably with South Asian peers but conceals the nature of inequality between Male' and the atolls. When populations are measured separately, Male' and atolls show similar internal inequality (Gini of 25.2 and 24.2 respectively). The national figure rises to 29.3 only when the two populations are pooled -- signalling that **inequality between Male' and atolls is greater than inequality within either region**. Per capita median expenditure in the top quintile is four times that of the bottom quintile nationally.[^7]
 

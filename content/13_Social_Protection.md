@@ -614,7 +614,7 @@ The fundamental challenge for the Maldives is sustaining a generous social prote
 
 ---
 
-## 13.17 System-Wide Assessment: The 2025 Auditor General Audit
+## 13.17 System-Wide Assessment: 2025 Auditor General Audit
 
 The Auditor General's Office published a Performance Audit on the Effectiveness of Government Initiatives to Alleviate Poverty in September 2025 (Report PER-2025-115(E)), conducted under the INTOSAI Development Initiative's Equal Futures Audit framework. Its findings provide the most recent independent assessment of the social protection system's capacity to reach the populations it is designed for.
 

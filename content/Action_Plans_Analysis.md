@@ -846,7 +846,7 @@ A recurring weakness across the Maldives' major action plans is the gap between 
 
 **Critical gap:** No updated population-based drug prevalence survey has been conducted since 2011-12. Fourteen years without updated prevalence data means that all drug policy planning is based on guesswork or extrapolation from outdated figures.[^13]
 
-### 5.8 Summary: The Monitoring Readiness Matrix
+### 5.8 Monitoring Readiness Matrix
 
 | Plan | Indicator specificity | Baseline data | Monitoring system | Data integration | Overall readiness |
 |---|---|---|---|---|---|

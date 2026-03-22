@@ -6,7 +6,7 @@ Substance abuse constitutes one of the most entrenched social policy challenges 
 
 ## 8.1 Historical Evolution of Drug Use in the Maldives
 
-### 8.1.1 Pre-1970s: A Society Without a Drug Problem
+### 8.1.1 Pre-1970s
 
 Drug abuse was not a recognised phenomenon in Maldivian society before the mid-1970s. Although anecdotal accounts reference limited opium use in the early twentieth century, these cases were confined to small numbers of individuals and did not constitute a public health concern.[^1] The Maldives remained geographically isolated, economically simple, and socially cohesive; the conditions that typically enable the emergence of drug markets -- urbanisation, cash economies, exposure to international trafficking networks -- were largely absent.
 
@@ -26,7 +26,7 @@ The first major seizure of cocaine occurred in September 1993 at Male Internatio
 
 The government responded to the escalating crisis by establishing the **Narcotics Control Board (NCB)** in 1997, alongside the **Drug Rehabilitation Centre (DRC)** on the island of Himafushi.[^8] The NCB was tasked with coordinating supply reduction, demand reduction, and prevention activities. However, as subsequent evaluations would reveal, the institutional response was fundamentally under-resourced relative to the scale of the problem.
 
-### 8.1.5 The 2000s: From Crisis to Epidemic
+### 8.1.5 The 2000s
 
 By the early 2000s, the Maldivian authorities reported that "the problem of drug-related offences [had] become the most frequent one faced by the Maldivian criminal courts, showing a 200% increase in recent years."[^9] The majority of drug abusers were young people aged 16 to 30. For a country where more than 50% of the population was below 16 years of age, this represented an alarming demographic trajectory.
 
@@ -395,7 +395,7 @@ Although the HIV epidemic in the Maldives remained in its early stages, the pote
 
 A persistent tension pervades Maldivian drug policy between abstinence-based approaches (rooted in both the TC model and Islamic principles) and harm reduction approaches (rooted in public health pragmatism). The 2010 evaluation noted that urine testing was used as a punitive/control mechanism rather than a clinical tool -- positive tests resulted in removal from rehabilitation and return to prison, rather than triggering additional support. The evaluation urged that counsellors should have more flexibility to make case-by-case decisions, and that relapse during DRC and Community Service should be treated as an expected part of recovery rather than a reason for expulsion.[^72]
 
-### 8.9.4 Alcohol: The Absent Dimension
+### 8.9.4 Alcohol
 
 The 2010 evaluation noted the complete absence of an alcohol awareness, harm reduction, treatment, and recovery programme in the Maldives. Despite alcohol prohibition under Islamic law, alcohol use was documented among drug users (12% reported alcohol as an initiation substance in the 2003 RSA). The absence of any programmatic response to alcohol use represents a significant gap in the substance abuse service continuum.[^73]
 
